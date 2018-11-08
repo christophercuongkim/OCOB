@@ -1,0 +1,40 @@
+For the theme to be localized into your language you need a .mo-file. If there is no such file (to find out if there is, see step 4) in the /languages folder then you need to create one yourself. Just follow these steps:
+
+Step 1
+******
+Download and install the free program Poedit from http://www.poedit.net/
+
+Step 2
+******
+Open the file translate_this.po in the /languages folder with Poedit.
+
+Step 3
+******
+At the bottom of the program you will have two boxes. The upper is the original text in English, and the lower is where you should enter your translation to your language.
+
+Note that the "%" symbol will be turned into the number of comments, do not remove it.
+
+Step 4
+******
+When you are done click File > Save As.
+
+When you name your file you MUST write it like this: "xx_YY". The "xx" is a languge code, and the "YY" is a country code. This is important so that the right language will be used.
+
+Here is the list of language codes:
+	-> http://www.gnu.org/software/autoconf/manual/gettext/Usual-Language-Codes.html
+And here is the list of country codes: 
+	-> http://www.gnu.org/software/autoconf/manual/gettext/Country-Codes.html
+
+For example the Swedish version that is in the folder is named "sv_SE".
+
+Find the correct language and country codes for your translation and press save.
+
+Step 5
+******
+Upon saving you will get two files: xx_YY.po, and xx_YY.mo. The .po file is where you can make any changes to your translation in Poedit, and the .mo file is the actual translation file that will be used.
+
+Place the xx_YY.mo file in your /languages folder. Done!
+
+---
+
+If you mail me (mail@frostpress.com) the .po and .mo files I will include it in the theme!

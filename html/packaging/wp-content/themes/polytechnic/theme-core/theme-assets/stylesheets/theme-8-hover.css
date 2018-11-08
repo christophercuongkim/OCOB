@@ -1,0 +1,271 @@
+
+/* ======================== #PORTFOLIO =====================    */
+
+#skeleton-filter {
+  float: none !important;
+  text-align: center !important;
+}
+#skeleton-wrap {
+  margin-top: -35px;
+}
+
+/* ISOTOPE */
+
+#skeleton-filter, #skeleton-filter .button {
+    color: #FFFFFF;
+    font-size: 1.3rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    z-index: 3 !important;
+    border: 0 solid transparent;
+	margin-left: 2px;
+	margin-right: 2px;
+	z-index: 1 !important;
+	}
+	#skeleton-filter{margin: 2rem 1rem 1rem;}
+
+/*.module{overflow:hidden;}*/
+.module{border: 0px solid red; margin-bottom:0; padding:0; background:transparent;}
+.module>:first-child{margin-top:0}
+.module>:last-child{margin-bottom:0}
+/*  -  -  */
+.module.columns, .module.column{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+	}
+
+.module.one-third.column {margin: 1%; width: 31.333%;}
+  .module.one.columns{width: 4.25%; margin:1%;}
+  .module.two.columns{width: 10.5%; margin:1%;}
+  .module.four.columns{width: 23%; margin:1%;}
+  .module.eight.columns {width: 48%; margin: 1%;}
+
+/* Quick Colors */
+.module-title, .module-category, .module-excerpt{color: white;}
+#page .module-content p, #page .module-content .icon-content {
+    font-size: 1.3rem;
+}
+  
+/* Module Markup Structure */
+.module.hover-text {overflow: hidden !important;} /* Sould also have the module-style such as .hover-text */
+	.module-inner{}
+		.module-image{}
+			.module-image a img{}
+		.module-content{}
+			.module-content-inner{}
+				.module-title{}
+				.module-category{}
+				.module-excerpt{}
+		.module-background{}
+		.module-links{}
+
+.module-inner{overflow: hidden;}
+.module-category{border-bottom: 0px solid #111; margin-top: 20px; margin-bottom: 3%; padding-bottom: 0.5rem;text-align: left;}	
+	.module.hover-text .module-content-inner {
+	  background: #2e2f34; 
+	  background: rgba(106, 201, 245, 0.0);
+	  height: 0%;
+	  max-height: 77%;
+	  overflow-x: visible;
+	  overflow-y: visible;
+	  padding-bottom: 2rem;
+	  padding-left: 2rem;
+	  padding-right: 2rem;
+	  padding-top: 2rem;
+	  position: relative;
+	  text-align: left;
+	  width: 102%;
+	}
+	.module-category a, .module-category a:hover, .module-category a:visited {
+			    color: #FFF;
+			    font-size: 1.1rem;
+			    font-weight: 600;
+			    letter-spacing: 0.1rem;
+			    text-transform: uppercase;
+				}
+		.module-title {
+		    font-size: 1.4rem;
+		    font-weight: 600;
+		    letter-spacing: 0;
+		    margin: 0 0 1rem;
+		    text-transform: uppercase;
+			}
+			.module-title a, .module-title a:hover, .module-title a:visited, .thumbLink, .thumbLink:hover, .thumbLink:visited, .popLink, .popLink:hover, .popLink:visited {
+			  color: #FFFFFF !important;
+			}
+		.module-text{font-weight: 100;}
+		.module-excerpt > p {margin: .5rem 0rem !important; font-size: 1.4rem;}
+		.module-excerpt {font-size: 1.4rem;}
+		
+		.module-links {
+		  text-align: right;
+		}
+		.module-link{ 
+			position:absolute; 
+			width:100%;
+			height:100%;
+			top:0;
+			left: 0;
+			z-index: 3;
+			background-image: url('../images/empty.gif');
+			}
+		.lightboxLink {
+		  border-radius: 2px;
+		  display: inline-block;
+		  font-size: 1.5rem;
+		  padding-right: .8rem;
+		  padding-bottom: .4rem;
+		}
+		.thumbLink {
+		  border-radius: 2px;
+		  display: inline-block;
+		  font-size: 1.5rem;
+		  padding-right: .8rem;
+		  padding-bottom: .4rem;
+		}
+		.lightboxLink a, .thumbLink a {
+			  color: #FFFFFF !important;
+			}
+	
+
+/*=============================== Module Content ==================================*/
+/*   SET TRANSITIONS DEFAULTS */
+.module.hover-text .module-content {
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.module.hover-text .module-content {
+	  backface-visibility: hidden;
+	  height: 0%;
+	  left: 0;
+	  opacity: 1;
+	  overflow-x: hidden;
+	  overflow-y: hidden;
+	  position: absolute;
+	  width: 100%;
+	  bottom: -1px;
+	  z-index: 999 !important;
+}
+
+/*   SET TRANSITION TYPE */
+/*  - Hover Transition 1: Slide Up -  */
+.module.hover-text:hover .module-content {
+	opacity: 1;
+	height: 101%;
+}
+
+/*=============================== Module Links ==================================*/
+/*   SET TRANSITIONS DEFAULTS */
+.module.hover-text .module-links {
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.module.hover-text .module-links {
+	  backface-visibility: hidden;
+	  /*height: 0%;*/
+	  margin-left: 60px;
+	  left: 0;
+	  opacity: 1;
+	  overflow-x: hidden;
+	  overflow-y: hidden;
+	  position: absolute;
+	  width: 100%;
+	  bottom: -1px;
+	  z-index: 999;
+}
+
+/*   SET TRANSITION TYPE */
+/*  - Hover Transition 1: Slide Up -  */
+.module.hover-text:hover .module-links {
+	opacity: 1;
+	/*height: 30px;*/
+	margin-left: 0px;
+}
+
+/*=================================================================*/
+
+/*=============================== Module Background ==================================*/
+/*   SET TRANSITIONS DEFAULTS */
+.module.hover-text .module-background {
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.module.hover-text .module-background {
+	  backface-visibility: hidden;
+	  height: 0%;
+	  margin-left: 0px;
+	  left: 0;
+	  opacity: .9;
+	  overflow-x: hidden;
+	  overflow-y: hidden;
+	  position: absolute;
+	  width: 102%;
+	  bottom: -1px;
+	  z-index: 1;
+}
+
+/*   SET TRANSITION TYPE */
+/*  - Hover Transition 1: Slide Up -  */
+.module.hover-text:hover .module-background {
+	opacity: .9;
+	height: 101%;
+}
+
+/*=================================================================*/
+
+
+/* =========== #/END PORTFOLIO HOVER START  */
+			
+	/**** Isotope Transitions ****/
+	.isotope-item {
+	  z-index: 2;
+		}
+		.isotope-hidden.isotope-item {
+		  pointer-events: none;
+		  z-index: 1;
+			}
+
+	/**** Isotope CSS3 transitions ****/
+	.isotope,
+	.isotope .isotope-item {
+	  -webkit-transition-duration: 0.8s;
+	     -moz-transition-duration: 0.8s;
+	      -ms-transition-duration: 0.8s;
+	       -o-transition-duration: 0.8s;
+	          transition-duration: 0.8s;
+	}
+
+	.isotope {
+	  -webkit-transition-property: height, width;
+	     -moz-transition-property: height, width;
+	      -ms-transition-property: height, width;
+	       -o-transition-property: height, width;
+	          transition-property: height, width;
+	}
+
+	.isotope .isotope-item {
+	  -webkit-transition-property: -webkit-transform, opacity;
+	     -moz-transition-property:    -moz-transform, opacity;
+	      -ms-transition-property:     -ms-transform, opacity;
+	       -o-transition-property:      -o-transform, opacity;
+	          transition-property:         transform, opacity;
+	}
+
+	/**** disabling Isotope CSS3 transitions ****/
+
+	.isotope.no-transition,
+	.isotope.no-transition .isotope-item,
+	.isotope .isotope-item.no-transition {
+	  -webkit-transition-duration: 0s;
+	     -moz-transition-duration: 0s;
+	      -ms-transition-duration: 0s;
+	       -o-transition-duration: 0s;
+	          transition-duration: 0s;
+	}
+
+	

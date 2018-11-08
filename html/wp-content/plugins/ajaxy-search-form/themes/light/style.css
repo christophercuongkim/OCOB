@@ -1,0 +1,96 @@
+#sf_results {
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .25), 0 0 1px rgba(0, 0, 0, .35);
+    border-width: 0;
+}
+#sf_val ul li.sf_header {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 24px;
+    border-bottom: 1px solid #eee;
+    padding: 0;
+    margin: 15px 15px 5px 15px;
+}
+#sf_val ul ul li {
+    border-width: 0;
+}
+#sf_val li.sf_item img {
+    position: static;
+    width: auto;
+    height: auto;
+    float: left;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+#sf_val ul li.sf_item {
+    padding: 5px 0px;
+    position: relative;
+    line-height: 12px;
+    min-height: 50px;
+}
+#sf_sb ::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.14);
+    background-clip: padding-box;
+    border: solid rgb(255, 255, 255);
+    border-width: 1px;
+    min-height: 28px;
+    padding: 0;
+    border-radius: 5px;
+}
+.sf_result_container {
+    max-height: 200px;
+    overflow: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 10px 15px;
+}
+.sf_more {
+    border-top: 1px solid #eee;
+}
+#sf_val ul li a {
+    color: #333;
+}
+#sf_val li a span.sf_small {
+    font-family: serif;
+    font-style: italic;
+}
+.sf_sb_top {
+    border-width: 0px 10px 10px 10px;
+    display: block;
+    border-style: solid;
+    border-color: #e0e0e0 transparent;
+    height: 0;
+    width: 0;
+    left: 50%;
+    position: relative;
+    margin-left: -10px;
+}
+.sf_sb_top:after {
+    border-width: 0px 9px 9px 9px;
+    display: block;
+    border-style: solid;
+    border-color: #ffffff transparent;
+    height: 0;
+    width: 0;
+    left: -9px;
+    position: relative;
+    margin-left: 0;
+    content: "";
+    z-index: 1;
+    top: 1px;
+}#sf_val li a:hover span.sf_text{
+    text-decoration: underline;
+}.sf_small.sf_price{
+    color: #c7677b;
+    font-style: normal;
+    font-family: inherit;
+}.sf_small.sf_price .amount{
+    font-weight: bold;
+}
+.sf_sb_snap_right .sf_sb_top{
+    left: 90%;
+}

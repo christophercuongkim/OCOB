@@ -1,0 +1,52 @@
+/*
+Theme Name: Cal Poly OCOB 2012
+Theme URI: http://www.cob.calpoly.edu/
+Description: The 2012 Cal Poly Web Template.
+Author: Orfalea College of Business
+Author URI: http://www.cob.calpoly.edu/
+Version: 1.0
+Tags: cal, poly, 2012, ocob
+*/
+
+/** WORDPRESS CSS */
+
+.aligncenter,
+div.aligncenter {
+display: block;
+margin: 0 auto;
+}
+
+.aligncenter {
+margin-bottom: 20px!important;
+}
+
+.alignleft {
+float: left;
+margin: 0 20px 20px 0;
+}
+
+.alignright {
+float: right;
+margin: 0 0 20px 20px;
+
+}
+
+.wp-caption {
+margin-bottom: 20px;
+padding-top: 4px;
+border: 1px solid #c5c5c5;/*#3a3a3a;*/
+text-align: center;
+background-color: #d5d5d5;/*#2a2a2a;*/
+}
+
+.wp-caption img {
+float: none;
+margin: 0px;
+padding: 0px;
+border: none;
+}
+
+.wp-caption p.wp-caption-text {
+padding: 0px;
+margin: 0px;
+}

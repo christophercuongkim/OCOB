@@ -1,0 +1,5760 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Polytechnic\n"
+"POT-Creation-Date: 2015-10-27 10:23-0700\n"
+"PO-Revision-Date: 2015-10-27 10:23-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive-search.php:17 search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: archive-search.php:28 author.php:206 search.php:32
+#: template-course-catalog.php:180 theme-core/ot-meta-boxes.php:545
+#: theme-core/theme-elements/content-course.php:114
+msgid "Course ID"
+msgstr ""
+
+#: archive-search.php:31 author.php:209 search.php:35
+#: template-course-catalog.php:183 theme-core/ot-meta-boxes.php:550
+#: theme-core/theme-elements/content-course.php:74
+msgid "Course Number"
+msgstr ""
+
+#: archive-search.php:34 author.php:212 search.php:38
+#: template-course-catalog.php:186 theme-core/ot-meta-boxes.php:555
+msgid "Course Name"
+msgstr ""
+
+#: archive-search.php:37 author.php:215 search.php:41
+#: template-course-catalog.php:189
+msgid "Instructor"
+msgstr ""
+
+#: archive-search.php:40 author.php:218 search.php:44
+#: template-course-catalog.php:192
+#: theme-core/theme-elements/content-course.php:124
+msgid "Room Number"
+msgstr ""
+
+#: archive-search.php:43 author.php:221 search.php:47
+#: template-course-catalog.php:195
+msgid "Days"
+msgstr ""
+
+#: archive-search.php:46 author.php:224 search.php:50
+#: template-course-catalog.php:198
+msgid "Time"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: archive.php:51
+msgid "Images"
+msgstr ""
+
+#: archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:60
+msgid "Links"
+msgstr ""
+
+#: archive.php:63 sidebar.php:50
+msgid "Archives"
+msgstr ""
+
+#: author.php:104
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3387
+#: theme-core/theme-elements/content-course.php:64
+msgid "Name"
+msgstr ""
+
+#: author.php:113
+msgid "Title/Position"
+msgstr ""
+
+#: author.php:122
+msgid "Department"
+msgstr ""
+
+#: author.php:131
+msgid "Specialties"
+msgstr ""
+
+#: author.php:140 template-faculty-grid.php:163
+#: theme-core/theme-elements/element-author-sidebar.php:77
+msgid "Contact Email"
+msgstr ""
+
+#: author.php:149 template-faculty-grid.php:170
+#: theme-core/theme-elements/element-author-sidebar.php:84
+msgid "Contact Phone"
+msgstr ""
+
+#: author.php:160
+msgid "Faculty Bio"
+msgstr ""
+
+#: author.php:166 theme-core/theme-elements/element-author-sidebar.php:91
+msgid "Courses"
+msgstr ""
+
+#: author.php:191 template-course-catalog.php:164
+msgid "Touch to Scroll Content Below"
+msgstr ""
+
+#: author.php:259
+msgid "Send a Message to "
+msgstr ""
+
+#: comments.php:46
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:54 comments.php:74
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:55 comments.php:75
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#: mythology-core/mythology-comments.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: mythology-core/mythology-comments.php:21
+#: mythology-core/mythology-comments.php:40
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4026
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4094
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4095
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4257
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4258
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4323
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4324
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4451
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4452
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4604
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4605
+#: theme-core/theme-elements/content-authorgrid.php:98
+#: theme-core/theme-elements/content-course.php:201
+#: theme-core/theme-elements/content-excerpt.php:88
+#: theme-core/theme-elements/content-fullimage.php:182
+#: theme-core/theme-elements/content-page.php:121
+#: theme-core/theme-elements/content-single.php:213
+#: theme-core/theme-elements/content.php:205
+msgid "Edit"
+msgstr ""
+
+#: mythology-core/mythology-comments.php:31
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: mythology-core/mythology-comments.php:37
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: mythology-core/mythology-comments.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:79
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:103
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:171
+#: mythology-core/mythology-core-functions.php:224
+msgid "Post navigation"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:175
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:176
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:181
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:185
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:228
+msgctxt "Previous course link"
+msgid "&larr;"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:229
+msgctxt "Next course link"
+msgid "&rarr;"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:234
+msgid "<span class=\"meta-nav\">&larr;</span> More Related Courses"
+msgstr ""
+
+#: mythology-core/mythology-core-functions.php:238
+msgid "More Related Courses <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:84
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:226
+#: mythology-core/tgm-plugin-activation/example.php:86
+#: theme-core/theme-plugin-loader.php:173
+msgid "Install Required Plugins"
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:85
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:227
+#: mythology-core/tgm-plugin-activation/example.php:87
+#: theme-core/theme-plugin-loader.php:174
+msgid "Install Plugins"
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:86
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:228
+#: mythology-core/tgm-plugin-activation/example.php:88
+#: theme-core/theme-plugin-loader.php:175
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:87
+#: mythology-core/tgm-plugin-activation/example.php:89
+#: theme-core/theme-plugin-loader.php:176
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:88
+#: theme-core/theme-plugin-loader.php:178
+#, php-format
+msgid ""
+"IMPORTANT! This theme REQUIRES the following plugin:<br /> %1$s. Do not "
+"proceed without installing and activating it!"
+msgid_plural ""
+"IMPORTANT! This theme REQUIRES the following plugins: %1$s. Do not proceed "
+"without installing and activating them!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:89
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:231
+#: mythology-core/tgm-plugin-activation/example.php:91
+#: theme-core/theme-plugin-loader.php:179
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:90
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:232
+#: mythology-core/tgm-plugin-activation/example.php:92
+#: theme-core/theme-plugin-loader.php:180
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:91
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:233
+#: mythology-core/tgm-plugin-activation/example.php:93
+#: theme-core/theme-plugin-loader.php:181
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:92
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:234
+#: mythology-core/tgm-plugin-activation/example.php:94
+#: theme-core/theme-plugin-loader.php:182
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:93
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:235
+#: mythology-core/tgm-plugin-activation/example.php:95
+#: theme-core/theme-plugin-loader.php:183
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:94
+#, php-format
+msgid ""
+"The following plugin have new versions available: %1$s. <br /> To do this, "
+"open the \"Resources/Plugins\" folder in your download package, then upload "
+"them to your WordPress Dashboard in the <strong>Plugins > Add New > Upload</"
+"strong> panel."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s. <br />To upgrade them "
+"automatically, use the link below to visit the theme-plugin panel and update "
+"them ONE AT A TIME (not all at once!) If this auto-updater fails to work, "
+"you will need to install the updates manually. To do this, open the "
+"\"Resources/Plugins\" folder in your download package, then upload them to "
+"your WordPress Dashboard in the <strong>Plugins > Add New > Upload</strong> "
+"panel."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:95
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:237
+#: mythology-core/tgm-plugin-activation/example.php:97
+#: theme-core/theme-plugin-loader.php:185
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:96
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:238
+#: mythology-core/tgm-plugin-activation/example.php:98
+#: theme-core/theme-plugin-loader.php:186
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:97
+#: mythology-core/tgm-plugin-activation/example.php:99
+#: theme-core/theme-plugin-loader.php:187
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/mythology-plugin-loader.php:98
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:240
+#: mythology-core/tgm-plugin-activation/example.php:100
+#: theme-core/theme-plugin-loader.php:188
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:99
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:242
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2184
+#: mythology-core/tgm-plugin-activation/example.php:101
+#: theme-core/theme-plugin-loader.php:189
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: mythology-core/mythology-plugin-loader.php:100
+#: mythology-core/tgm-plugin-activation/example.php:102
+#: theme-core/theme-plugin-loader.php:190
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:46
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:754
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2459
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:377
+msgid "Typography"
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:52
+msgid "Expert"
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:64
+msgid "Google Font API Key"
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:65
+msgid ""
+"Enter your Google Font API Key to ensure updates of the google font library."
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:74
+msgid "Body font-style"
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:75
+msgid ""
+"Your main body font-style. If you don't want to use this font-style anymore, "
+"reset the styles to the default values. The styles from the main style.css "
+"file are used then."
+msgstr ""
+
+#: mythology-core/option-tree-google-fonts/theme-options.php:88
+msgid ""
+"Add dynamic CSS code with values from the theme options. <strong>Only edit "
+"if you know what to do!</strong> If you edit this without any knowledge on "
+"Option Tree dynamic css including it might break the theme!"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:23
+msgid "Demo Meta Box"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:30
+msgid "Conditions"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:35
+msgid "Show Gallery"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:38
+#, php-format
+msgid "Shows the Gallery when set to %s."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:45
+msgid "Congratulations, you created a gallery!"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:50
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:273
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2430
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5465
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:168
+msgid "Gallery"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:53
+#, php-format
+msgid "This is a Gallery option type. It displays when %s."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:57
+msgid "More Options"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:62
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:679
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2454
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:293
+msgid "Text"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:65
+msgid "This is a demo Text field."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:68
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:694
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2455
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:296
+msgid "Textarea"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-meta-boxes.php:71
+msgid "This is a demo Textarea field."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:33
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:42
+#: mythology-core/option-tree/includes/ot-functions-admin.php:231
+msgid "Option Types"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:34
+msgid "Help content goes here!"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:37
+msgid "Sidebar content goes here!"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:48
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2416
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:49
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:49
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:755
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4220
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:111
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:378
+msgid "and"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:63
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2417
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:113
+msgid "Border"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:64
+msgid ""
+"The Border option type is used to set width, unit, style, and color values."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:78
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2418
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:116
+msgid "Box Shadow"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:79
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:117
+#, php-format
+msgid ""
+"The Box Shadow option type is used to set %s, %s, %s, %s, %s, and %s values."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:93
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2419
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:119
+msgid "Category Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:94
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:108
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2420
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:122
+msgid "Category Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:109
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:123
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2421
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:125
+msgid "Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:124
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:126
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:138
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:510
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:562
+msgid "No"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:143
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:505
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:557
+msgid "Yes"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:150
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2422
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:128
+msgid "Colorpicker"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:151
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:129
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:165
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:166
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2423
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:131
+msgid "Colorpicker Opacity"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:167
+#, php-format
+msgid ""
+"The Colorpicker Opacity option type saves an rgba color value for use in "
+"CSS. To add opacity to other colorpickers add the %s class to the %s array."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:181
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2424
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:134
+msgid "CSS"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:182
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:135
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:182
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:137
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:198
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2425
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:153
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:199
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:154
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:213
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2426
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:156
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:214
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:157
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:228
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2427
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:159
+msgid "Date Picker"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:229
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:160
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:243
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2428
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:162
+msgid "Date Time Picker"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:244
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:163
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:258
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2429
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:165
+msgid "Dimension"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:259
+msgid "The Dimension option type is used to set width and height values."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:274
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:169
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:288
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:289
+#, php-format
+msgid ""
+"The Gallery option type can also be saved as a shortcode by adding %s to the "
+"class attribute. Using the Gallery option type in this manner will result in "
+"a better user experience as you're able to save the link, column, and order "
+"settings."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:303
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2431
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:171
+msgid "Google Fonts"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:304
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:172
+#, php-format
+msgid ""
+"The Google Fonts option type will dynamically enqueue any number of Google "
+"Web Fonts into the document %1$s. As well, once the option has been saved "
+"each font family will automatically be inserted into the %2$s array for the "
+"Typography option type. You can further modify the font stack by using the "
+"%3$s filter, which is passed the %4$s, %5$s, and %6$s parameters. The %6$s "
+"parameter is being passed from %7$s, so it will be the ID of a Typography "
+"option type. This will allow you to add additional web safe fonts to "
+"individual font families on an as-need basis."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:324
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2432
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:174
+msgid "JavaScript"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:325
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:175
+#, php-format
+msgid ""
+"The JavaScript option type is a textarea that uses the %s code editor to "
+"highlight your JavaScript and display errors as you type."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:339
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2433
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:177
+msgid "Link Color"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:340
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:178
+msgid "The Link Color option type is used to set all link color states."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:354
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2434
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:180
+msgid "List Item"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:355
+msgid ""
+"The List Item option type allows for a great deal of customization. You can "
+"add settings to the List Item and those settings will be displayed to the "
+"user when they add a new List Item. Typical use is for creating sliding "
+"content or blocks of code for custom layouts."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:369
+#: vc_extend/vc_extend.php:172
+msgid "Content"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:385
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2435
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:183
+msgid "Measurement"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:386
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:184
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:400
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2436
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:214
+msgid "Numeric Slider"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:401
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:215
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:415
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2437
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:217
+msgid "On/Off"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:416
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:218
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:430
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2438
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:220
+msgid "Page Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:431
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:221
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:445
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2439
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:223
+msgid "Page Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:446
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:224
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:460
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2440
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:226
+msgid "Post Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:461
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:227
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:475
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2441
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:229
+msgid "Post Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:476
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:230
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:490
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2442
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:232
+msgid "Radio"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:491
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:233
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:515
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:567
+msgid "Maybe"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:522
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2443
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:235
+msgid "Radio Image"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:523
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:236
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:537
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2444
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:262
+msgid "Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:538
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:263
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:552
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1234
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1277
+msgid "-- Choose One --"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:574
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2445
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:265
+msgid "Sidebar Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:575
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:266
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:575
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:267
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:589
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2447
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:272
+msgid "Social Links"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:590
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:273
+#, php-format
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this "
+"option type easy. You can set the %s filter to %s and turn off loading "
+"default values. Use the %s filter to change the default values that are "
+"loaded. To filter the settings array use the %s filter."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:604
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2448
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:275
+msgid "Spacing"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:605
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:619
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2450
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:281
+msgid "Tag Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:620
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:282
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:634
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2451
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:284
+msgid "Tag Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:635
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:285
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:649
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2452
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:287
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:650
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:288
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:664
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2453
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:290
+msgid "Taxonomy Select"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:665
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:291
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:680
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:294
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:695
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:297
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:709
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2456
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:355
+msgid "Textarea Simple"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:710
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:724
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2457
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:371
+msgid "Textblock"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:725
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:372
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:739
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2458
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:374
+msgid "Textblock Titled"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:740
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:375
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:755
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:378
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:769
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2460
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:397
+msgid "Upload"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:770
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:398
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:770
+#: mythology-core/option-tree/includes/ot-functions-admin.php:846
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:398
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:170
+#: mythology-core/option-tree/ot-loader.php:787
+msgid "Send to OptionTree"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:784
+msgid "Upload Attachment ID"
+msgstr ""
+
+#: mythology-core/option-tree/assets/theme-mode/demo-theme-options.php:785
+#, php-format
+msgid ""
+"The Upload option type can also be saved as an attachment ID by adding %s to "
+"the class attribute."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:84
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:101
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:130
+msgid "OptionTree Cleanup"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:101
+#, php-format
+msgid ""
+"OptionTree has outdated data that should be removed. Please go to %s for "
+"more information."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:136
+msgid "Multiple Media Posts"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:138
+#, php-format
+msgid ""
+"There are currently %s OptionTree media posts in your database. At some "
+"point in the past, a version of OptionTree added multiple %s media post "
+"objects cluttering up your %s table. There is no associated risk or harm "
+"that these posts have caused other than to add size to your overall "
+"database. Thankfully, there is a way to remove all these orphaned media "
+"posts and get your database cleaned up."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:140
+#, php-format
+msgid ""
+"By clicking the button below, OptionTree will delete %s records and "
+"consolidate them into one single OptionTree media post for uploading "
+"attachments to. Additionally, the attachments will have their parent ID "
+"updated to the correct media post."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:142
+msgid ""
+"This could take a while to fully process depending on how many records you "
+"have in your database, so please be patient and wait for the script to "
+"finish."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:144
+#, php-format
+msgid ""
+"%s Your server is running in safe mode. Which means this page will "
+"automatically reload after deleting %s posts, you can filter this number "
+"using %s if your server is having trouble processing that many at one time."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:146
+msgid "Consolidate Posts"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:174
+msgid "Reloading..."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:210
+msgid "Clean up script has completed, the page will now reload..."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:230
+msgid "Outdated Table"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:232
+#, php-format
+msgid ""
+"If you have upgraded from an old 1.x version of OptionTree at some point, "
+"you have an extra %s table in your database that can be removed. It's not "
+"hurting anything, but does not need to be there. If you want to remove it. "
+"Click the button below."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:234
+msgid "Drop Table"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:238
+#, php-format
+msgid "Deleting the outdated and unused %s table..."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:244
+#, php-format
+msgid "The %s table has been successfully deleted. The page will now reload..."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-cleanup-api.php:256
+#, php-format
+msgid "Something went wrong. The %s table was not deleted."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:50
+#: mythology-core/option-tree/includes/ot-functions-admin.php:51
+#: mythology-core/option-tree/includes/ot-functions-admin.php:169
+#: mythology-core/option-tree/includes/ot-functions-admin.php:193
+#: mythology-core/option-tree/includes/ot-functions.php:388
+msgid "Theme Options"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:56
+#: mythology-core/option-tree/includes/ot-functions-admin.php:126
+#: mythology-core/option-tree/includes/ot-functions-admin.php:220
+msgid "Theme Options updated."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:57
+#: mythology-core/option-tree/includes/ot-functions-admin.php:127
+#: mythology-core/option-tree/includes/ot-functions-admin.php:221
+msgid "Theme Options reset."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:58
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:94
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:97
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:109
+#: mythology-core/option-tree/includes/ot-functions-admin.php:110
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:821
+msgid "OptionTree"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:120
+#: mythology-core/option-tree/includes/ot-functions-admin.php:121
+#: mythology-core/option-tree/includes/ot-functions-admin.php:163
+#: mythology-core/option-tree/includes/ot-functions-admin.php:187
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:128
+#: mythology-core/option-tree/includes/ot-functions-admin.php:222
+msgid "Save Settings"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:133
+msgid "Theme Options UI"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:141
+msgid "Export"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:145
+#: mythology-core/option-tree/includes/ot-functions-admin.php:175
+#: mythology-core/option-tree/includes/ot-functions-admin.php:199
+msgid "Layouts"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:151
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:157
+msgid "Settings XML"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:181
+msgid "Settings PHP File"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:205
+msgid "Layout Management"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:214
+#: mythology-core/option-tree/includes/ot-functions-admin.php:215
+#: theme-core/ot-theme-options.php:77
+msgid "Documentation"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:227
+msgid "Creating Options"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:235
+msgid "Function References"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:239
+#: mythology-core/option-tree/includes/ot-functions-admin.php:281
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:243
+#: mythology-core/option-tree/includes/ot-functions-admin.php:287
+msgid "Meta Boxes"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:247
+msgid "Code Examples"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:251
+msgid "Layouts Overview"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:257
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:263
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:269
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:275
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:293
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:299
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:502
+#: mythology-core/option-tree/includes/ot-functions-admin.php:604
+#: mythology-core/option-tree/includes/ot-functions-admin.php:673
+#, php-format
+msgid "The %s input field for %s only allows numeric values."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:563
+#, php-format
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:847
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:257
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:3218
+msgid "Remove Media"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:848
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:849
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:850
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:851
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:852
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:853
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1159
+msgid "Delete Gallery"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:854
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1160
+msgid "Edit Gallery"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:855
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1167
+msgid "Create Gallery"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:856
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:857
+msgid "Today"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:858
+msgid "Now"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:859
+msgid "Close"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:860
+msgid "Featured Image"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:861
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3250
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3311
+#: vc_extend/vc_extend.php:185
+msgid "Image"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:929
+msgid "Option Tree"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:1067
+msgid "General"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:1073
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:1074
+msgid "Description for the sample text field."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2316
+msgid "Settings updated."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2320
+msgid "Settings could not be saved."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2328
+msgid "Settings Imported."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2332
+msgid "Settings could not be imported."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2339
+msgid "Data Imported."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2343
+msgid "Data could not be imported."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2351
+msgid "Layouts Imported."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2355
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2363
+msgid "Layouts Updated."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2367
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2371
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2377
+msgid "Layout activated."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2446
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:269
+msgid "Slider"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:2449
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:278
+msgid "Tab"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3195
+#: theme-core/theme-layout-variables.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3200
+#: theme-core/theme-layout-variables.php:34
+msgid "Right Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3205
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3210
+msgid "Dual Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3215
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3220
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3261
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3317
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5505
+msgid "Link"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3272
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3323
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:43
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:428
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:478
+msgid "Description"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3388
+msgid "Enter the name of the social website."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3396
+msgid "Enter the text shown in the title attribute of the link."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3402
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:3755
+#, php-format
+msgid "Unable to write to file %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4025
+msgid "edit"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4028
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4029
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4097
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4098
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4260
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4261
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4326
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4327
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4385
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4386
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4454
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4455
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4607
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4608
+msgid "Delete"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4035
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4043
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4104
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4112
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4341
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4120
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4131
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4139
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4144
+msgid "Add Choice"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4150
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4155
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4161
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4169
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4177
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4185
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4193
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4201
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4209
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4217
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4221
+msgid "or"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4267
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4277
+msgid "Value"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4287
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4333
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4349
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4380
+msgid "Layout"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4382
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4383
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1588
+msgid "Activate"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4419
+#: mythology-core/option-tree/includes/ot-meta-box-api.php:231
+#: mythology-core/option-tree/includes/ot-settings-api.php:610
+#: theme-core/theme-register-users.php:104
+msgid "Title"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:4759
+msgid "New Layout"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5514
+msgid "Link URL"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5521
+msgid "Link Title"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5551
+msgid "Quote"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5560
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5567
+msgid "Source URL"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5574
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5581
+msgid "Source Date"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5611
+msgid "Video"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5620
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5620
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5659
+msgid "Wordpress Codex"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5650
+msgid "Audio"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-admin.php:5659
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:32
+msgid "ID"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:35
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1568
+msgid "Type"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:114
+#, php-format
+msgid ""
+"The Border option type is used to set width, unit, style, and color values. "
+"The text input excepts a numerical value and the unit select lets you choose "
+"the unit of measurement to add to that value. Currently the default units "
+"are %s, %s, %s, and %s. However, you can change them with the %s filter. The "
+"style select lets you choose the border style. The default styles are %s, "
+"%s, %s, %s, %s, %s, %s, and %s. However, you can change them with the %s "
+"filter. The colorpicker saves a hexadecimal color code."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:132
+#, php-format
+msgid ""
+"The Colorpicker Opacity option type saves a hexadecimal color code with an "
+"opacity value from %s to %s in increments of %s. Though the value is saved "
+"as hexadecimal, if used within the CSS option type the color and opacity "
+"values will be converted into a valid RGBA CSS value."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:139
+msgid "Input"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:145
+msgid "Output"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:166
+#, php-format
+msgid ""
+"The Dimension option type is used to set width and height values. The text "
+"inputs except numerical values and the select lets you choose the unit of "
+"measurement to add to that value. Currently the default units are %s, %s, "
+"%s, and %s. However, you can change them with the %s filter."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:181
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:186
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:199
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:238
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:270
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:276
+#, php-format
+msgid ""
+"The Spacing option type is used to set spacing values such as padding or "
+"margin in the form of top, right, bottom, and left. The text inputs except "
+"numerical values and the select lets you choose the unit of measurement to "
+"add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:279
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:299
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:301
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:314
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:327
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:340
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:358
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:380
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:430
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:432
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:482
+msgid "Usage"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:436
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:486
+msgid "Parameters"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:440
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:444
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:490
+msgid "string"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:440
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:490
+msgid "required"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:440
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:440
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:490
+msgid "Default:"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:440
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:444
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:490
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:494
+msgid "None"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:444
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:494
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:498
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:502
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:506
+msgid "optional"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:444
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:444
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:494
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:498
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:502
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:506
+msgid "Default"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:474
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:476
+msgid "Use"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:476
+msgid "instead"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:480
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:490
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:494
+msgid "array"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:494
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:498
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:502
+msgid "boolean"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:498
+msgid "Echo the output."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:502
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:506
+msgid "integer"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:506
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:534
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:536
+msgid "String Examples"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:538
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:544
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:550
+msgid "Array Examples"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:552
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:572
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:598
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:643
+msgid "It's Super Simple"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:645
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:647
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:649
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:651
+msgid "For Developers"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:653
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:682
+msgid "Creating a Layout"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:655
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:662
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:668
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:656
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:657
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:686
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:660
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:689
+msgid "Activating a Layout"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:663
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:666
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:695
+msgid "Deleting a Layout"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:669
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:672
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:700
+msgid "Edit Layout Data"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:674
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:684
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:691
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:675
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:703
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:676
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:704
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:677
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:680
+msgid "End-Users Mode"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:685
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:692
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:697
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:702
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:733
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:815
+msgid "How-to-guide"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:735
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:737
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:739
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:741
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:743
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:744
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:745
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:845
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:755
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:817
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:819
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:821
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:822
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:823
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:837
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:839
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:841
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:843
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:844
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:855
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-docs-page.php:858
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:134
+msgid "background-repeat"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:152
+msgid "background-attachment"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:171
+msgid "background-position"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:224
+msgid "background-size"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:238
+msgid "background-image"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:241
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:3202
+msgid "Add Media"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:316
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1045
+msgid "width"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:327
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1065
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1550
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2506
+msgid "unit"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:346
+msgid "style"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:439
+msgid "offset-x"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:448
+msgid "offset-y"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:457
+msgid "blur-radius"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:466
+msgid "spread-radius"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:538
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:592
+msgid "No Categories Found"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:587
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:870
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1819
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1930
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2646
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2761
+msgid "Choose One"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:818
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:876
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1881
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1936
+msgid "No Posts Found"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1054
+msgid "height"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1232
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1275
+msgid "Remove Google Font"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1298
+msgid "Add Google Font"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1384
+msgctxt "color picker"
+msgid "Standard"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1385
+msgctxt "color picker"
+msgid "Hover"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1386
+msgctxt "color picker"
+msgid "Active"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1387
+msgctxt "color picker"
+msgid "Visited"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1388
+msgctxt "color picker"
+msgid "Focus"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1497
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2246
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2411
+msgid "Add New"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1500
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2249
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2414
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1670
+msgid "On"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1692
+msgid "Off"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1770
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:1825
+msgid "No Pages Found"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2169
+msgid "Choose Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2174
+msgid "No Sidebars"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2282
+msgid "Facebook"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2287
+msgid "Twitter"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2292
+msgid "Google+"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2297
+msgid "LinkedIn"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2302
+msgid "Pinterest"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2307
+msgid "Youtube"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2312
+msgid "Dribbble"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2317
+msgid "Github"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2322
+msgid "Forrst"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2327
+msgid "Digg"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2332
+msgid "Delicious"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2337
+msgid "Tumblr"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2342
+msgid "Skype"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2347
+msgid "SoundCloud"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2352
+msgid "Vimeo"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2357
+msgid "Flickr"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2362
+msgid "VK.com"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2468
+msgid "top"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2477
+msgid "right"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2486
+msgid "bottom"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2495
+msgid "left"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2597
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2651
+msgid "No Tags Found"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2709
+#: mythology-core/option-tree/includes/ot-functions-option-types.php:2766
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr ""
+
+#: mythology-core/option-tree/includes/ot-settings-api.php:364
+msgid "Reset Options"
+msgstr ""
+
+#: mythology-core/option-tree/ot-loader.php:21
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:230
+#: mythology-core/tgm-plugin-activation/example.php:90
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:236
+#: mythology-core/tgm-plugin-activation/example.php:96
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:239
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:243
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1842
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:597
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:690
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:690
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:694
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:694
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1352
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1525
+msgid "Private Repository"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1356
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1529
+msgid "Pre-Packaged"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1361
+msgid "WordPress Repository"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1364
+msgid "Required"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1364
+msgid "Recommended"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1367
+msgid "Not Installed"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1370
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1476
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1498
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1550
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1566
+msgid "Plugin"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1567
+msgid "Source"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1569
+msgid "Status"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1587
+msgid "Install"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1699
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:1819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2167
+msgid "Install package not available."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2168
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2169
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2170
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2171
+msgid "Plugin install failed."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2172
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2183
+msgid "Plugin activation failed."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2306
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2307
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2311
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2312
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2312
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Show Details"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2312
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Hide Details"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2313
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2314
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2318
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2320
+msgid "All installations have been completed."
+msgstr ""
+
+#: mythology-core/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:58
+msgid "Meta"
+msgstr ""
+
+#: template-course-catalog.php:141
+msgid "Search Courses"
+msgstr ""
+
+#: template-post-grid.php:533
+#: theme-core/theme-elements/content-authorgrid.php:71
+#: theme-core/theme-elements/content-excerpt.php:60
+#: theme-core/theme-elements/content-excerpt.php:72
+#: theme-core/theme-elements/content-fullimage.php:73
+#: theme-core/theme-elements/content-fullimage.php:118
+#: theme-core/theme-elements/content-page.php:63
+#: theme-core/theme-elements/content-single.php:72
+#: theme-core/theme-elements/content-single.php:117
+#: theme-core/theme-elements/content.php:76
+#: theme-core/theme-elements/content.php:121
+msgid ", "
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:12
+msgid "Theme: Page Layout Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:13
+msgid "The following options will allow you to customize the page layout."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:20
+msgid "Page Layout"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:23 theme-core/ot-meta-boxes.php:223
+#: theme-core/ot-meta-boxes.php:266
+msgid "Select your page layout."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:28
+msgid "Show Page Header?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:29
+msgid ""
+"Select \"NO\" to hide these items (Title, Likes, Views, Sharing, "
+"Breadcrumbs) and their options."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:35 theme-core/ot-theme-options.php:591
+msgid "Show the Title?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:36
+msgid "Select \"NO\" to hide the page title."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:43
+msgid "Align the Title"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:44
+msgid "Select how you would like to align the title."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:52 theme-core/ot-theme-options.php:1726
+#: theme-core/ot-theme-options.php:1784
+msgid "Left"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:56 theme-core/ot-theme-options.php:1734
+#: theme-core/ot-theme-options.php:1788
+msgid "Right"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:60 theme-core/ot-theme-options.php:1730
+msgid "Center"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:66
+msgid "Breadcrumbs?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:67
+msgid ""
+"This will display the breadcrumb trail (ie: Page > SubPage > Sub-SubPage)."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:75 theme-core/ot-theme-options.php:607
+msgid "**Show the Post Meta?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:76 theme-core/ot-meta-boxes.php:115
+#: theme-core/ot-theme-options.php:608 theme-core/ot-theme-options.php:652
+msgid ""
+"Select \"No\" to remove the entire post meta (which may include some of "
+"these other options)."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:82 theme-core/ot-theme-options.php:615
+msgid "Show the Author in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:83 theme-core/ot-theme-options.php:616
+msgid ""
+"Select \"No\" to remove the Author (Note: this is note the Author Box - see "
+"below)."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:90 theme-core/ot-theme-options.php:624
+msgid "Show the Date?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:91 theme-core/ot-theme-options.php:625
+msgid "Select \"No\" to remove the date."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:98 theme-core/ot-theme-options.php:633
+msgid "Show the Categories?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:99 theme-core/ot-theme-options.php:634
+msgid "Select \"No\" to remove the category links."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:106 theme-core/ot-theme-options.php:642
+msgid "Show the Comments Count?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:107 theme-core/ot-theme-options.php:643
+msgid "Select \"No\" to remove the comments count."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:114
+msgid "**Show the Page Footer?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:121 theme-core/ot-theme-options.php:668
+msgid "Show the Author Box?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:122 theme-core/ot-theme-options.php:669
+msgid "Select \"No\" to remove the Author Box from the bottom of the posts."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:129 theme-core/ot-theme-options.php:659
+msgid "Show the Tags?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:130 theme-core/ot-theme-options.php:660
+msgid "Select \"No\" to remove the tag links."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:141
+msgid "Theme: Options for Visual Composer Hover Image"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:142
+msgid ""
+"OPTIONAL! Use the provided options to override the default hover effect for "
+"this page for all \"Theme: Single Image with Hover\" modules."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:149
+msgid "Theme: Single Image With Hover - Custom Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:150 theme-core/ot-meta-boxes.php:178
+#: theme-core/ot-meta-boxes.php:450
+msgid ""
+"Select \"YES\" to reveal the options provided. These options will change the "
+"defaults for all \"Theme: Single Image With Hover\" for this page and give "
+"the capability to change the image hover start/end height."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:157
+msgid "Hover: Start Position"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:158
+msgid ""
+"Enter a value (px or %) to change the default hover start height for all "
+"\"Single Image With Hover\" modules for this page. Default is 0."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:167
+msgid "Hover: End Position"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:168
+msgid ""
+"Enter a value (px or %) to change the default hover end height for all "
+"Theme: Single Image With Hover modules for this page. Defualt is 101%."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:177
+msgid "Mobile Hover Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:185
+msgid "Mobile: Hover Start Position"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:186 theme-core/ot-meta-boxes.php:196
+msgid ""
+"For all mobile viewports smaller than 540px. Enter a value (px or %) to "
+"change the default hover end height for all Theme: Single Image With Hover "
+"modules for this page. Defualt is 101%."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:195
+msgid "Mobile: Hover End Position"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:212
+msgid "Theme: Post Layout Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:213
+msgid "These options are provided to customize post details"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:220
+msgid "Post Layout"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:228
+msgid "Skeleton-Grid : Link"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:229
+msgid ""
+"If this item shows up in a post grid, should it link to a full post when you "
+"click it?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:235
+msgid "Skeleton Grid : Custom Destination URL (Optional)"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:236
+msgid ""
+"If this item shows up in a post-grid, you can enter a custom URL here to "
+"have it direct to another location than this post. If your post-grid is set "
+"to open a lightbox, this can be a video or an image URL."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:244
+msgid "Custom Post Color"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:245
+msgid ""
+"Select a color if you'd like to use something other than the theme default "
+"on hover."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:255
+msgid "Theme: Courses Layout Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:256
+msgid "These options are provided to customize course details"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:263
+msgid "Course Layout"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:279
+msgid "Skeleton Post-Grid Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:280
+msgid "These options are provided to customize the post-grid template"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:287
+msgid "Post Categories to Show"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:288 theme-core/ot-meta-boxes.php:500
+#: theme-core/ot-meta-boxes.php:525 theme-core/ot-meta-boxes.php:616
+msgid "Select which categories you would like included in this page."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:293
+msgid "Filter Buttons"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:294
+msgid ""
+"Do you want to display the category buttons at the top for quick sorting?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:300
+msgid "How many columns?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:301
+msgid "Select how many columns you'd like to have."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:308
+msgid "Auto"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:312
+msgid "8 Columns"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:316 theme-core/ot-theme-options.php:222
+#: theme-core/ot-theme-options.php:1231
+msgid "4 Columns"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:320 theme-core/ot-theme-options.php:218
+#: theme-core/ot-theme-options.php:1226
+msgid "3 Columns"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:324 theme-core/ot-theme-options.php:214
+#: theme-core/ot-theme-options.php:1221
+msgid "2 Columns"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:330
+msgid "Grid Mode"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:331
+msgid "This determines how the modules are arranged on the grid."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:338
+msgid "Masonry"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:343
+msgid "fitRows"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:350
+msgid "Original Image Aspect Ratio"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:351
+msgid ""
+"Setting this to \"On\" will maintain the original aspect ratio (tall images "
+"will be tall, short images will be short). You can enter size limits below "
+"to prevent any extra-large images from breaking your layout. <br /><br />If "
+"you set this to \"Off\", the theme will crop your images to the exact width "
+"and height that you enter below."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:358
+msgid "Maximum Thumbnail Width"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:359
+msgid ""
+"Set a limit to how wide images can possibly be. Images thinner than this "
+"will ignore this."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:368
+msgid "Maximum Thumbnail Height"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:369
+msgid ""
+"Set a limit to how tall images can possibly be. Images shorter than this "
+"will ignore this."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:378
+msgid "Cropped Thumbnail Width"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:379
+msgid ""
+"Enter a numeric pixel value (ie: \"300\"). <br /><br />This will be the "
+"largest width allowed when cropping your images to create thumbnails. Images "
+"thinner than this will ignore this."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:388
+msgid "Cropped Thumbnail Height"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:389
+msgid ""
+"Enter a numeric pixel value (ie: \"300\"). <br /><br />This will be the "
+"largest height allowed when cropping your images to create thumbnails. "
+"Images shorter than this will ignore this."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:398
+msgid "Open images in a lightbox?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:399
+msgid ""
+"Selecting \"Yes\" will make the post-thumbnails on this page open the full "
+"featured-image inside a lightbox."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:405
+msgid "Display Post Information?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:406
+msgid ""
+"Toggle the display of the post content, such as the title, category, and "
+"excerpt."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:413
+msgid "Post Title"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:414
+msgid "Toggle the display of the post title."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:422
+msgid "Post Excerpt"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:423
+msgid "Toggle the display of the post excerpt."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:431
+msgid "Post Category"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:432
+msgid "Toggle the display of the post category."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:440
+msgid "Post Links"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:441
+msgid "Toggle the display of the post links."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:449
+msgid "Portfoio Image Hover - Custom Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:457
+msgid "Portfolio Image - Hover Start"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:458
+msgid ""
+"Enter a value (px or %) to change the default hover start height (for the "
+"portfolio items). Default is 0."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:467
+msgid "Portfolio Image - Hover End"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:468
+msgid ""
+"Enter a value (px or %) to change the default hover end height (for the "
+"portfolio items). Defualt is 101%."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:477 theme-core/ot-meta-boxes.php:505
+msgid "Number of posts per page"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:478 theme-core/ot-meta-boxes.php:506
+#: theme-core/ot-meta-boxes.php:532 theme-core/ot-meta-boxes.php:623
+msgid ""
+"Leave blank to display everything (recommended!). Set a number for how many "
+"posts you want to show up per page. "
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:490
+msgid "Blog Template Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:491
+msgid "These options are provided to customize blog-template"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:499 theme-core/ot-meta-boxes.php:524
+#: theme-core/ot-meta-boxes.php:615
+msgid "Display which categories?"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:515
+msgid "Course Template Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:516
+msgid "These options are provided to customize course catalog template"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:531 theme-core/ot-meta-boxes.php:622
+msgid "Number of courses per page"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:537
+msgid "Order By"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:538
+msgid ""
+"This sets the order by parameter for the query. Note for devs, this actually "
+"sets the WP Query \"meta_key\" and auto sets the \"orderby\" for strings v. "
+"numerical values."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:560
+msgid "Course Author"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:565
+msgid "Course Room Number"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:570
+msgid "Course Day(s)"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:575
+msgid "Course Time(s)"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:583
+msgid "Order"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:584
+msgid ""
+"This designates the ascending or descending order of the \"orderby\" "
+"parameter."
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:591
+msgid "ASC"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:596
+msgid "DESC"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:606
+msgid "Faculty Template Options"
+msgstr ""
+
+#: theme-core/ot-meta-boxes.php:607
+msgid "These options are provided to customize faculty grid template"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:29
+msgid "Theme Basics"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:33 theme-core/ot-theme-options.php:128
+msgid "Top Hat Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:37 theme-core/ot-theme-options.php:233
+msgid "Sticky Header Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:41
+msgid "Layout Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:45
+msgid "Skin Builder"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:49 theme-core/ot-theme-options.php:584
+msgid "Post Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:53 theme-core/ot-theme-options.php:700
+msgid "Course Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:57 theme-core/ot-theme-options.php:921
+msgid "Faculty Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:61
+msgid "Footer Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:65
+msgid "Social Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:69 theme-core/ot-theme-options.php:1482
+msgid "Custom CSS"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:73 theme-core/ot-theme-options.php:1510
+msgid "Custom Scripts"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:81
+msgid "Custom Login"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:93 theme-core/ot-theme-options.php:314
+msgid "Welcome to the Theme Options Page!"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:94
+msgid ""
+"This panel sets up the basic theme options, like general layout rules, post "
+"behavior, and social media. To change other visual style elements, visit the "
+"optional <a href=\"customize.php\">Appearances > Customize</a> panel. <br /"
+"><br />"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:100
+msgid "Upload Your Logo"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:101 theme-core/ot-theme-options.php:250
+msgid ""
+"Upload your logo image (JPG, GIF, PNG). If you upload an image that is too "
+"large for the space allotted to it by the theme, it will scale down."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:107
+msgid "Upload Your Browser Icon"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:108
+msgid ""
+"Upload the 16x16px image (GIF or ICO) that you'd like to show up in the "
+"browser address bar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:114
+msgid "Responsive Mode?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:115
+msgid "Select Off to turn off responsive mode. Default is On."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:129
+msgid ""
+"This is where you can set some basic options for the header section. The Top "
+"Hat is an optional page section that shows up at the top of your header. It "
+"usually contains some text and a set of social icons (set this up in the "
+"Social Icons tab)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:135
+msgid "Show the Top Hat?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:136
+msgid ""
+"The Top Hat is the row at the top of the site that displays a search bar and "
+"social-media links (setup later in this panel)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:143
+msgid "Show the Login Links?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:144
+msgid ""
+"Toggle this option to manage login/register/cart links in the tophat. This "
+"is an advanced option for users who want to use WooCommerce, but don't want "
+"the links in the tophat. Users who don't want to use WooCommerce can simply "
+"deactive the plugin to remove these links."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:152
+msgid "Custom Tophat Text/HTML"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:153
+msgid ""
+"Enter some text that you'd like used for the top-hat's right-side blurb. "
+"This could be your motto, a telephone number, or anything else. Note: this "
+"will be displayed between Login Links and the Social Icons in the tophat. "
+"Most users will want to turn the Login Links option off and use this to "
+"replace that content."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:162 theme-core/ot-theme-options.php:1284
+msgid "Show the Social Icons?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:163 theme-core/ot-theme-options.php:1285
+msgid ""
+"Fill out the social icons later on in this panel. This just hides or reveals "
+"them."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:171
+msgid "Show the Search Bar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:172
+msgid ""
+"This hides or reveals the search bar in the top hat. *Requires the AJAXY "
+"plugin."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:180
+msgid "TopHat Dropdown Area"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:181
+msgid ""
+"The top-hat has an optional \"dropdown\" area that can hold custom widget "
+"content. Turning this ON will enable it. Turning this OFF will hide it."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:189
+msgid "Dropdown Button Label"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:190
+msgid ""
+"Enter some text that you'd like used for the top-hat's left-side blurb. This "
+"could be your motto, a telephone number, or anything else."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:191
+msgid "University News Panel"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:199
+msgid "Dropdown Area Columns"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:200
+msgid ""
+"Manage the content of each column in Appearance > Widgets > Tophat Dropdown "
+"Column 1, 2, 3, & 4. \n"
+"                          <br /><br />For example, if you want 3 columns "
+"each with only one widget, add one widget to each of the first three Tophat "
+"Dropdown Columns in Appearance > Widgets.\n"
+"                          <br /><br />In the demo, we are using a JetPack "
+"Email Subscription Form with ONE column."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:210 theme-core/ot-theme-options.php:1216
+msgid "1 Column"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:234
+msgid ""
+"This is where you can set some basic options for the header section. The Top "
+"Hat is an optional page section that shows up at the top of your header. It "
+"usually contains some text and a set of social icons (set this up in the "
+"Social Icons tab).\n"
+"    </br></br><strong>To assign a MENU to your Sticky Header</strong>: "
+"Navigate to Appearance > Menus > Menu Locations and assign a menu to the "
+"Sticky Header menu location. You can use the same menu that your Primary "
+"Menu location is using, or build/assign a new custom menu for your users."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:241
+msgid "Show the Sticky Header?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:242
+msgid ""
+"The Sticky Header is the row at the top of the page that drops down and "
+"displays the logo and navigation is the user scrolls down past the Header "
+"Section"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:249
+msgid "Upload Your Logo For This Section"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:256
+msgid "Logo Top Margin (Sticky Header Mode)"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:258
+msgid ""
+"Default: \"0.1\". Set the margin (in REMs) that drops the menu down from the "
+"top of the page. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:266
+msgid "Logo Bottom Margin (Sticky Header Mode)"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:268
+msgid ""
+"Default: \"0.1\". Set the margin (in REMs) that drops the content area down "
+"from the menu. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:276
+msgid "Menu Top Margin (Sticky Header Mode)"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:278
+msgid ""
+"Default: \"0.4\". Set the margin (in REMs) that drops the menu down from the "
+"top of the page. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:286
+msgid "Menu Bottom Margin (Sticky Header Mode)"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:288
+msgid ""
+"Default: \"0.4\". Set the margin (in REMs) that drops the content area down "
+"from the menu. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:296
+msgid "Sticky Header Height"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:298
+msgid ""
+"Default: \"4\". Set the height (in REMs) that drops the content area down "
+"from the menu. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:315
+msgid "This panel sets up the basic theme layout rules."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:320
+msgid "Header Layout"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:323
+msgid "Select the theme header layout. This theme comes with one."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:328
+msgid "Default Page Layout"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:331
+msgid ""
+"Select the default page layout. You can override this on invididual pages "
+"and posts."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:336
+msgid "Logo Top Margin"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:338
+msgid ""
+"Based on the height of your logo, you may want to tinker with the vertical "
+"spacing. Default is \"2.6\". Set the margin (in REMs) that drops the menu "
+"down from the top of the page. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:345
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:347
+msgid ""
+"Based on the height of your logo, you may want to tinker with the vertical "
+"spacing. Default is \"2.6\". Set the margin (in REMs) that drops the content "
+"area down from the menu. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:354
+msgid "Menu Top Margin"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:356
+msgid ""
+"Default: \"4.5\". Set the margin (in REMs) that drops the menu down from the "
+"top of the page. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:363
+msgid "Menu Bottom Margin"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:365
+msgid ""
+"Default: \"4.5\". Set the margin (in REMs) that drops the content area down "
+"from the menu. 1REM = @ 10PX."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:372
+msgid "Nice Scroll"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:375
+msgid ""
+"This toggle manages the custom scrolling \"Nice Scroll\" included with this "
+"theme. We understand that you may or may not want to use this, so feel free "
+"to use this option to turn this fuctionality On or Off."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:387
+msgid "Skin Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:388
+msgid "This section will allow you to set basic layout options for the theme."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:395
+msgid "Theme Primary Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:396
+msgid ""
+"To help you out a bit, we included this starting color option. To control "
+"all of your Colors & Fonts, navigate to Appearance > Customize. Note: Each "
+"theme uses this differently, but this will be normally used for primary "
+"elements like links and key highlight spots."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:402
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:403
+msgid ""
+"To help you out a bit, we included this starting color option. To control "
+"all of your Colors & Fonts, navigate to Appearance > Customize. Note: Each "
+"theme uses this differently, but this will be normally used for secondary "
+"elements like basic hover link colors."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:409
+msgid "Top Hat Dropdown BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:410 theme-core/ot-theme-options.php:417
+msgid ""
+"The top hat dropdown space a custom feature included with this theme and is "
+"revealed when the dropdown trigger (in the tophat) is clicked. This space is "
+"above the tophat and holds the Tophat Dropdown Widgets which can managed via "
+"the Appearance > Widgets panel. Additional controls can be found in "
+"Appearance > Theme Options > Tophat Options."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:416
+msgid "Top Hat Dropdown BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:423
+msgid "Top Hat BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:424 theme-core/ot-theme-options.php:431
+msgid ""
+"The top hat space is usually the dark black bar at the top of the theme that "
+"holds a small piece of text and social icons."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:430
+msgid "Top Hat BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:438
+msgid "Header BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:439 theme-core/ot-theme-options.php:455
+msgid ""
+"Depending on the theme, the header space usually includes the logo, "
+"navigation, etc."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:445
+msgid "Header BG Grayscale"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:447
+msgid ""
+"This toggle manages the grayscale styling for the Header Background Image. "
+"The default is On. If you would like to remove the grayscaling of the Header "
+"BG Image, toggle this option to Off."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:454
+msgid "Header BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:461
+msgid "Header Overlay Opacity"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:462
+msgid "The transparency of the background image overlay for the header."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:471
+msgid "Sticky Header BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:472 theme-core/ot-theme-options.php:479
+msgid "The background for the header after the user scrolls down the page."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:478
+msgid "Sticky Header BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:493
+msgid "Menu Hover Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:494
+msgid "This is the small line below the menu item when hovered"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:500
+msgid "Sub Menu Highlight Border"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:501
+msgid "This is the small line above the sub menu (when visible)"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:507
+msgid "Sub Menu BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:508 theme-core/ot-theme-options.php:515
+msgid "The background color for the sub menu."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:514
+msgid "Sub Menu BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:522
+msgid "Body BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:523 theme-core/ot-theme-options.php:530
+#: theme-core/ot-theme-options.php:537 theme-core/ot-theme-options.php:544
+msgid "The main background area."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:529
+msgid "Body BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:536
+msgid "Content Box BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:543
+msgid "Content Block BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:550
+msgid "Footer BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:551 theme-core/ot-theme-options.php:558
+msgid ""
+"The footer area usually is the dark area below the main content that holds a "
+"series of widgets."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:557
+msgid "Footer BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:564
+msgid "Sub-Footer BG Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:565 theme-core/ot-theme-options.php:572
+msgid ""
+"The sub-footer area is below the footer (usually a dark stripe below the "
+"main theme area)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:571
+msgid "Sub-Footer BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:585
+msgid ""
+"This section will allow you to set default post-options for the theme's main "
+"blog templates."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:592
+msgid "Select \"No\" to remove the post title."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:599 theme-core/ot-theme-options.php:822
+msgid "Show the Edit Button?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:600 theme-core/ot-theme-options.php:823
+msgid ""
+"Select \"No\" to remove the Edit button from the bottom of the post when "
+"logged in."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:651
+msgid "**Show the Post Footer?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:677
+msgid "Show Cross-Post Navigation?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:678
+msgid ""
+"Select \"No\" to remove the navigation links in the single-post template "
+"that allow users to move forward and backward one post."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:686
+msgid "Show the Comments?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:687
+msgid "Select \"No\" to remove the comments from bottom of posts."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:701
+msgid ""
+"This section will allow you to set default course-options for the theme's "
+"main course templates."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:707
+msgid "Show Course Title?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:708
+msgid "Select \"No\" to remove the course title."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:715
+msgid "**Show the Course Meta?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:716
+msgid ""
+"Select \"No\" to remove the entire course meta (which may include some of "
+"these other options)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:723 theme-core/ot-theme-options.php:980
+msgid "Show the Name in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:724
+msgid "Select \"No\" to remove the course name."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:732
+msgid "Show the Numbers in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:733
+msgid "Select \"No\" to remove the course number(s) from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:741
+msgid "Show the Times in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:742
+msgid "Select \"No\" to remove the course time from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:750
+msgid "Show the Prerequisites in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:751
+msgid "Select \"No\" to remove the course prerequisits from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:759
+msgid "Show the Credits in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:760
+msgid "Select \"No\" to remove the course credit(s) from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:768
+msgid "Show the ID in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:769
+msgid "Select \"No\" to remove the course ID from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:777
+msgid "Show the Room in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:778
+msgid "Select \"No\" to remove the course room from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:786
+msgid "Show the Days in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:787
+msgid "Select \"No\" to remove the course day(s) from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:795
+msgid "Show the Components in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:796
+msgid "Select \"No\" to remove the course component(s) from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:804
+msgid "Show the Location in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:805
+msgid "Select \"No\" to remove the course location from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:813
+msgid "Show the Notes in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:814
+msgid "Select \"No\" to remove the course notes from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:831
+msgid "Course Listing Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:832
+msgid ""
+"This section will allow you to set default course-options when courses are "
+"displayed in a list. For example, the theme's course listing templates like "
+"course catalog(s), course searches, and the course listings that show up on "
+"faculty pages."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:845
+msgid "Show the Course Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:846
+msgid "Select \"No\" to remove the course listings from the theme.."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:853
+msgid "Show the ID in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:854
+msgid "Select \"No\" to remove the course ID from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:862
+msgid "Show the Number in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:863
+msgid "Select \"No\" to remove the course number from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:871
+msgid "Show the Name in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:872
+msgid "Select \"No\" to remove the course name from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:880
+msgid "Show the Instructor in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:881
+msgid "Select \"No\" to remove the course instructor from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:889
+msgid "Show the Room in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:890
+msgid "Select \"No\" to remove the course room from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:898
+msgid "Show the Days in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:899
+msgid "Select \"No\" to remove the course days from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:907
+msgid "Show the Time in Listings?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:908
+msgid "Select \"No\" to remove the course time from the listings."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:922
+msgid ""
+"This section will allow you to set default faculty-options for the theme's "
+"main faculty template (ie. the faculty page)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:928
+msgid "**Show Faculty Header?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:929
+msgid ""
+"Select \"No\" to remove the faculty header (which may include some of these "
+"other options)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:936
+msgid "Show Faculty Name in Header?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:937 theme-core/ot-theme-options.php:964
+#: theme-core/ot-theme-options.php:981
+msgid "Select \"No\" to remove the faculty name."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:945
+msgid "Show Faculty Title in Header?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:946
+msgid "Select \"No\" to remove the faculty title."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:954
+msgid "Show Faculty Department in Header?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:955
+msgid "Select \"No\" to remove the faculty department."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:963
+msgid "Show Faculty Avatar in Header?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:972
+msgid "**Show the Faculty Meta?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:973
+msgid ""
+"Select \"No\" to remove the entire faculty meta section (which may include "
+"some of these other options)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:989
+msgid "Show the Title/Position in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:990
+msgid ""
+"Select \"No\" to remove the faculty title/position(s) from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:998
+msgid "Show the Department in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:999
+msgid "Select \"No\" to remove the faculty department from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1007
+msgid "Show the Specialties in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1008
+msgid "Select \"No\" to remove the faculty specialties from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1016
+msgid "Show the Email in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1017
+msgid "Select \"No\" to remove the faculty email from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1025
+msgid "Show the Phone in Meta Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1026
+msgid "Select \"No\" to remove the faculty phone from the meta section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1034
+msgid "Show the Faculty Bio?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1035
+msgid "Select \"No\" to remove the faculty bio section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1042
+msgid "Show the Faculty Course List?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1043
+msgid "Select \"No\" to remove the faculty course list."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1050
+msgid "Show the Faculty Contact Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1051
+msgid "Select \"no\" to remove the faculty contact section."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1058
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1059
+msgid ""
+"Optional: Enter a contact form 7 shortcode here.<br /><br /> <strong>Not "
+"sure what that is?</strong> Build your contact form at the Contact admin "
+"panel in the left sidebar. Once it's built, copy and paste the shortcode "
+"that the plugin gives you here in this text field. The contact form "
+"represented by the shortcode will then show up at the bottom of the author "
+"page. It'll look something like this: <br /><br /><code>[contact-form-7 id="
+"\"7393\" title=\"Message Faculty Member\"]</code>"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1068
+msgid "Faculty Sidebar Options"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1069
+msgid ""
+"This section will allow you to set default faculty-options when faculty "
+"members are displayed in the course sidebar. For example, when you navigate "
+"to a course, the faculty member assigned to that class is displayed in the "
+"sidebar with additional information."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1082
+msgid "Show the Faculty in Course Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1083
+msgid ""
+"Select \"No\" to remove faculty members from showing up in sidebar of "
+"courses."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1090
+msgid "Show the Name in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1091
+msgid "Select \"No\" to remove the faculty name from the course sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1099
+msgid "Show the Position/Title in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1100
+msgid ""
+"Select \"No\" to remove the faculty position/title from the course sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1108
+msgid "Show the Department in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1109
+msgid "Select \"No\" to remove the faculty department from the course sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1117
+msgid "Show the Avatar in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1118
+msgid "Select \"No\" to remove the faculty avatar from the course sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1126
+msgid "Show the About Me in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1127
+msgid ""
+"Select \"No\" to remove the faculty \"About Me\" section from the course "
+"sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1135
+msgid "Show the Email in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1136
+msgid "Select \"No\" to remove the faculty email from the course sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1144
+msgid "Show the Phone in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1145
+msgid "Select \"No\" to remove the faculty phone from the course sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1153
+msgid "Show the \"Back to Courses\" in Sidebar?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1154
+msgid ""
+"Select \"No\" to remove the faculty \"Back to Courses\" from the course "
+"sidebar."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1168
+msgid "Footer Option Notes"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1169
+msgid "The footer space shows up below the main content area."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1180
+msgid "Display Footer Widget Space?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1181
+msgid ""
+"Choose whether or not you'd like the footer widget space to be visible. "
+"These 3 widget spaces (sidebars) are controlled from the Appearance &gt; "
+"Widgets panel."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1188
+msgid "Upload Your Pre-Footer-Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1189
+msgid ""
+"Upload your pre-footer-image image (JPG, GIF, PNG). If you upload an image "
+"that is too large for the space allotted to it by the theme, it will scale "
+"down."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1196
+msgid "Pre Footer Blurb"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1197
+msgid ""
+"The text that you'd like to display at the left side of the bottom footer "
+"row. IE: Discover Polytechnic."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1207
+msgid "How Many Columns In Footer Section?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1208
+msgid ""
+"The Top Hat is the black row at the top of the site that displays a search "
+"bar and social-media links (setup later in this panel)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1236
+msgid "5 Columns"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1241
+msgid "6 Columns"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1248
+msgid "Upload Your Post-Footer-Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1249
+msgid ""
+"Upload your post-footer-image image (JPG, GIF, PNG). If you upload an image "
+"that is too large for the space allotted to it by the theme, it will scale "
+"down."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1256
+msgid "Display Sub Footer Space?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1257
+msgid "Choose whether or not you'd like the sub-footer space to be visible."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1264
+msgid "Left-side Sub-Footer Text"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1265
+msgid ""
+"The text that you'd like to display at the left side of the bottom footer "
+"row. IE: Copyright 2014, Your Company."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1266
+msgid "Left Side Footer Text"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1274
+msgid "Right-side Sub-Footer Text"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1275
+msgid "The text that shows up on the right side of your footer."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1276
+msgid "Right Side Footer Text."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1300
+msgid "Social Option Notes"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1301
+msgid ""
+"The following settings control the icons that show up in the tophat, header, "
+"&/or footer of this theme. You can choose to leave all of them blank if you "
+"wish, or add your own custom buttons (they don't have to be social networks "
+"of course!) to create a unique set of clickable buttons in this space."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1312
+msgid "Twitter Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1313
+msgid ""
+"Enter your Twitter URL that you'd like to use for all theme-specific social "
+"links."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1324
+msgid "Facebook Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1325
+msgid ""
+"Enter your Facebook URL that you'd like to use for all theme-specific social "
+"links."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1336
+msgid "Google+ Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1337
+msgid ""
+"Enter your Google+ URL that you'd like to use for all theme-specific social "
+"links."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1348
+msgid "YouTube Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1349
+msgid ""
+"Insert the full URL you'd like used for your YouTube link. Leave empty and "
+"the icon won't show up at all."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1360
+msgid "Vimeo Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1361
+msgid ""
+"Enter your Vimeo URL that you'd like to use for all theme-specific social "
+"links."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1372
+msgid "Linked-In Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1373
+msgid ""
+"Enter your LinkedIn URL that you'd like to use for all theme-specific social "
+"links."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1384
+msgid "Pinterest Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1385
+msgid "Your Pinterest URL."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1396
+msgid "Skype Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1397
+msgid "Your Skype URL"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1408
+msgid "Email Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1409
+msgid "Your Email URL"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1420
+msgid "Dribbble Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1421
+msgid "Your Dribbble URL"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1432
+msgid "FourSquare Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1433
+msgid "Your FourSquare URL"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1444
+msgid "Instagram Link"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1445
+msgid "Your Instagram URL"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1456
+msgid "Add Your Own Social Icons:"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1457
+msgid ""
+"Add a new item for each custom icon that you want to add. An uploaded image "
+"and a link are required. The image should be a PNG, sized to about 32x32, "
+"but the theme will likely scale these down if you upload anything bigger. "
+"Here's a good place to start looking for <a href=\"http://www.komodomedia."
+"com/blog/2009/06/social-network-icon-pack/\">additional icons</a>. Don't "
+"forget to add \"http://\" before your URL!"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1468
+msgid "Add your blog's RSS link?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1469
+msgid "Want to display your blog's RSS feed link?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1483
+msgid ""
+"You can enter custom style rules into this box if you'd like. IE: "
+"<i>a{color: red !important;}</i><br />\n"
+"      This is an advanced option! This is not recommended for users not "
+"fluent in CSS... but if you do know CSS, anything you add here will override "
+"the default styles."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1495
+msgid "Options Panel Skin"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1496
+msgid ""
+"If you encounter styling or layout issues with the options-panel, you can "
+"turn this off to use default styling."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1511
+msgid ""
+"You can enter any custom scripts you need inserted into the header here. For "
+"example: <br/>\n"
+"    <i>\n"
+"    <code>jQuery(document).ready(function($) {</code><br/>\n"
+"    &nbsp;&nbsp;&nbsp;&nbsp;<code>$('a').css({\"color\":\"green\"});</"
+"code><br/>\n"
+"    <code>});</code>\n"
+"    </i>"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1530
+msgid "Theme Documentation"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1701
+msgid "Custom Login Options! Beta!"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1702
+msgid ""
+"This panel is where you can set some basic options for the login page. The "
+"login page is handled by WordPress, but we've included some options so that "
+"you can customize this. This option is still considered beta, but it's here "
+"if you would like to try it out. <br /><br />"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1709
+msgid "Show the Custom Login?"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1710
+msgid ""
+"The login is the page that users see when trying to login to WordPress (ie. "
+"domain.com/wp-admin). Turning the Custom Login \"On\" will use these options "
+"to override the default styling for your WordPress Login."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1717
+msgid "Position of Login"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1718
+msgid "Choose the position of the login form."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1740
+msgid "Upload Your Login Background Image"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1741
+msgid ""
+"Upload your login background image (JPG, GIF, PNG). If you upload an image "
+"that is too large for the space allotted to it by the theme, it will scale "
+"down. Just make sure to upload an image large enough for large size screens."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1748
+msgid "Upload Your Login Logo"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1749
+msgid ""
+"Upload your login logo image (JPG, GIF, PNG). If you upload an image that is "
+"too large for the space allotted to it by the theme, it will scale down."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1756
+msgid "Login Fallback BG Color"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1757
+msgid ""
+"The main background color fallback (if no bg image is loaded or something "
+"happens to the bg image)."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1765
+msgid "Footer Text"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1766
+msgid ""
+"The text that you'd like to display at the bottom footer row. IE: Copyright "
+"2014, Your Company."
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1775
+msgid "Position of Footer Text"
+msgstr ""
+
+#: theme-core/ot-theme-options.php:1776
+msgid "Choose the position of the Footer Text."
+msgstr ""
+
+#: theme-core/theme-elements/content-authorgrid.php:75
+#: theme-core/theme-elements/content-fullimage.php:79
+#: theme-core/theme-elements/content-fullimage.php:124
+#: theme-core/theme-elements/content-page.php:69
+#: theme-core/theme-elements/content-single.php:78
+#: theme-core/theme-elements/content-single.php:123
+#: theme-core/theme-elements/content.php:82
+#: theme-core/theme-elements/content.php:127
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: theme-core/theme-elements/content-authorgrid.php:85
+#: theme-core/theme-elements/content-excerpt.php:83
+#: theme-core/theme-elements/content-fullimage.php:89
+#: theme-core/theme-elements/content-fullimage.php:134
+#: theme-core/theme-elements/content-page.php:79
+#: theme-core/theme-elements/content-single.php:88
+#: theme-core/theme-elements/content-single.php:133
+#: theme-core/theme-elements/content.php:92
+#: theme-core/theme-elements/content.php:137
+msgid "Leave a comment"
+msgstr ""
+
+#: theme-core/theme-elements/content-authorgrid.php:85
+#: theme-core/theme-elements/content-excerpt.php:83
+#: theme-core/theme-elements/content-fullimage.php:89
+#: theme-core/theme-elements/content-fullimage.php:134
+#: theme-core/theme-elements/content-page.php:79
+#: theme-core/theme-elements/content-single.php:88
+#: theme-core/theme-elements/content-single.php:133
+#: theme-core/theme-elements/content.php:92
+#: theme-core/theme-elements/content.php:137
+msgid "1 Comment"
+msgstr ""
+
+#: theme-core/theme-elements/content-authorgrid.php:85
+#: theme-core/theme-elements/content-excerpt.php:83
+#: theme-core/theme-elements/content-fullimage.php:89
+#: theme-core/theme-elements/content-fullimage.php:134
+#: theme-core/theme-elements/content-page.php:79
+#: theme-core/theme-elements/content-single.php:88
+#: theme-core/theme-elements/content-single.php:133
+#: theme-core/theme-elements/content.php:92
+#: theme-core/theme-elements/content.php:137
+msgid "% Comments"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:84
+msgid "Course Time"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:94
+msgid "Prerequisite(s)"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:104
+msgid "Credit(s)"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:134
+msgid "Course Days"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:144
+msgid "Component(s)"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:154
+msgid "Location"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:156
+msgid "Map"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:168
+msgid "Notes"
+msgstr ""
+
+#: theme-core/theme-elements/content-course.php:186
+#: theme-core/theme-elements/content-excerpt.php:49
+#: theme-core/theme-elements/content-fullimage.php:175
+#: theme-core/theme-elements/content-page.php:92
+#: theme-core/theme-elements/content-single.php:165
+#: theme-core/theme-elements/content.php:184
+msgid "Pages:"
+msgstr ""
+
+#: theme-core/theme-elements/content-excerpt.php:42
+#: theme-core/theme-elements/content-fullimage.php:168
+#: theme-core/theme-elements/content.php:176
+msgid "Read more..."
+msgstr ""
+
+#: theme-core/theme-elements/content-excerpt.php:64
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: theme-core/theme-elements/content-excerpt.php:76
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: theme-core/theme-elements/content-none.php:20
+msgid "Nothing Found"
+msgstr ""
+
+#: theme-core/theme-elements/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: theme-core/theme-elements/content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: theme-core/theme-elements/content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: theme-core/theme-elements/element-author-sidebar.php:65
+msgid "About Me"
+msgstr ""
+
+#: theme-core/theme-elements/element-author-sidebar.php:91
+msgid "Back to"
+msgstr ""
+
+#: theme-core/theme-elements/element-tophat.php:58
+msgid "Login / Register"
+msgstr ""
+
+#: theme-core/theme-functions/custom-user-profile-photo/3five_cupp.php:81
+msgid "Custom User Profile Photo"
+msgstr ""
+
+#: theme-core/theme-functions/custom-user-profile-photo/3five_cupp.php:86
+msgid "Profile Photo"
+msgstr ""
+
+#: theme-core/theme-functions/custom-user-profile-photo/3five_cupp.php:126
+msgid ""
+"Upload a custom photo for your user profile or use a URL to a pre-existing "
+"photo."
+msgstr ""
+
+#: theme-core/theme-functions/custom-user-profile-photo/3five_cupp.php:127
+msgid "Update Profile to save your changes."
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:24
+#: theme-core/theme-layout-variables.php:64
+msgid "Theme Default"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:39
+msgid "No Sidebar"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:44
+msgid "2 Right Sidebars"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:49
+msgid "2 Left Sidebars"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:54
+msgid "2 Outside Sidebars"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:69
+msgid "Logo Left, Ad Right"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:74
+msgid "Logo Center, Ad Center"
+msgstr ""
+
+#: theme-core/theme-layout-variables.php:79
+msgid "Logo Right, Ad Left"
+msgstr ""
+
+#: theme-core/theme-plugin-loader.php:184
+#, php-format
+msgid ""
+"The following plugin have new versions available: %1$s. <br />To upgrade "
+"them, open the \"Resources/Plugins\" folder in your download package, then "
+"upload them to your WordPress Dashboard in the <strong>Plugins > Add New > "
+"Upload</strong> panel."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s. <br />To upgrade them, open the "
+"\"Resources/Plugins\" folder in your download package, then upload them to "
+"your WordPress Dashboard in the <strong>Plugins > Add New > Upload</strong> "
+"panel."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-core/theme-register-menus.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: theme-core/theme-register-menus.php:7
+msgid "Secondary (Tophat) Menu"
+msgstr ""
+
+#: theme-core/theme-register-menus.php:8
+msgid "Sticky Header Menu"
+msgstr ""
+
+#: theme-core/theme-register-menus.php:9
+msgid "Mobile Menu"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:8
+msgid "Primary Theme Sidebar"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:10
+msgid "Default widget area for posts/pages. "
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:17
+msgid "Secondary Theme Sidebar"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:19
+msgid "Default widget area for the \"dual\" sidebar. "
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:26
+msgid "Tophat Dropdown Column 1"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:28
+msgid "The first column in the tophat dropdown widget area. "
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:35
+msgid "Tophat Dropdown Column 2"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:37
+msgid "The second column in the tophat dropdown widget area. "
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:44
+msgid "Tophat Dropdown Column 3"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:46
+msgid "The third column in the tophat dropdown widget area. "
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:53
+msgid "Tophat Dropdown Column 4"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:55
+msgid "The fourth column in the tophat dropdown widget area. "
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:63
+msgid "Footer Column 1"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:65
+msgid "The first column in the footer widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:72
+msgid "Footer Column 2"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:74
+msgid "The second column in the footer widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:81
+msgid "Footer Column 3"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:83
+msgid "The third column in the footer widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:90
+msgid "Footer Column 4"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:92
+#: theme-core/theme-register-sidebars.php:101
+#: theme-core/theme-register-sidebars.php:110
+msgid "The fourth column in the footer widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:99
+msgid "Footer Column 5"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:108
+msgid "Footer Column 6"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:118
+msgid "Bonus Sidebar 1"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:120
+msgid "The first bonus widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:127
+msgid "Bonus Sidebar 2"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:129
+msgid "The second bonus widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:136
+msgid "Bonus Sidebar 3"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:138
+msgid "The third bonus widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:145
+msgid "Bonus Sidebar 4"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:147
+msgid "The fourth bonus widget area."
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:154
+msgid "Bonus Sidebar 5"
+msgstr ""
+
+#: theme-core/theme-register-sidebars.php:156
+msgid "The fifth bonus widget area."
+msgstr ""
+
+#: theme-core/theme-register-users.php:10
+msgid "Faculty"
+msgstr ""
+
+#: theme-core/theme-register-users.php:90
+msgid "Faculty Information"
+msgstr ""
+
+#: theme-core/theme-register-users.php:95
+msgid "College or Department"
+msgstr ""
+
+#: theme-core/theme-register-users.php:113
+msgid "Specialty"
+msgstr ""
+
+#: theme-core/theme-register-users.php:122
+msgid "Department Phone"
+msgstr ""
+
+#: vc_extend/vc_extend.php:166
+msgid "Hover Image"
+msgstr ""
+
+#: vc_extend/vc_extend.php:178
+msgid "Widet Title"
+msgstr ""
+
+#: vc_extend/vc_extend.php:181
+msgid "Optional. Add a Title for this Pixel Box."
+msgstr ""
+
+#: vc_extend/vc_extend.php:188
+msgid "Select image from media library."
+msgstr ""
+
+#: vc_extend/vc_extend.php:219
+msgid "Hover Background Color"
+msgstr ""
+
+#: vc_extend/vc_extend.php:222
+msgid "Choose hover content background color"
+msgstr ""
+
+#: vc_extend/vc_extend.php:235
+msgid "Image Size"
+msgstr ""
+
+#: vc_extend/vc_extend.php:238
+msgid "Select your image size."
+msgstr ""
+
+#: vc_extend/vc_extend.php:261
+msgid "Start Height"
+msgstr ""
+
+#: vc_extend/vc_extend.php:264
+msgid "Select hover content start height (default = -1%)."
+msgstr ""
+
+#: vc_extend/vc_extend.php:269
+msgid "End Height"
+msgstr ""
+
+#: vc_extend/vc_extend.php:272
+msgid "Select hover content end height (default = 101%)."
+msgstr ""
+
+#: vc_extend/vc_extend.php:280
+msgid "Hover Content Field"
+msgstr ""
+
+#: vc_extend/vc_extend.php:282
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: vc_extend/vc_extend.php:283
+msgid "Enter your content."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Polytechnic"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeisland.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ultimate Education WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Charles Jones (ThemeIsland)"
+msgstr ""

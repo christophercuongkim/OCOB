@@ -1,0 +1,14 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+                <div id="search">
+                	<form method = "get" title = "Search Form" action="http://search.calstate.edu/search">
+                    <div>
+                    	<input type="hidden" name="site" value="slo-CalPoly" />
+                    	<input type="hidden" name="output" value="xml_no_dtd" />
+                    	<input type="hidden" name="client" value="slo-CalPoly" />
+                    	<input type="hidden" name="proxystylesheet" value="slo-CalPoly" />
+                    	<input type="hidden" name="sitesearch" value="departmentURL.calpoly.edu" />   
+                        <input type="text" id="q" name="q" value="Search" title="Search this site" alt="Search Text" maxlength="256"/>                      <input type="image" id="searchSubmit" name="submit" src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/header/search-arrow.png" alt="Go" title="Submit Search Query" />
+                    </div>
+                    </form>
+                </div>      

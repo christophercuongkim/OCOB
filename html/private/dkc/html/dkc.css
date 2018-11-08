@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.Content {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+.Content #faculty p {
+	font-size: 10px;
+}
+.Content #faculty p {
+	font-size: 12px;
+}
+.Content #faculty p {
+	font-size: 14px;
+}
+.Content ul {
+	font-size: 14px;
+}

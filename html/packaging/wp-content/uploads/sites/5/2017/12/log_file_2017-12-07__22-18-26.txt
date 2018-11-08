@@ -1,0 +1,121 @@
+
+---Downloaded files---
+The import files for: Integral Demo Content were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://packaging.calpoly.edu/center
+Data file = /var/www/www.cob.calpoly.edu/html/packaging/wp-content/themes/integral/inc/demo/integral-demo-content.xml
+Widget file = /var/www/www.cob.calpoly.edu/html/packaging/wp-content/themes/integral/inc/demo/integral-demo-widgets.wie
+Customizer file = /var/www/www.cob.calpoly.edu/html/packaging/wp-content/themes/integral/inc/demo/integral-demo-customizer.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+---Importing content---
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Homepage Features Section : 
+
+Integral - Feature Widget - Launch Your Business - Imported
+Integral - Feature Widget - Optimized For Speed - Imported
+Integral - Feature Widget - Loved By Many - Imported
+Integral - Feature Widget - Smooth Parallax Effect - Imported
+Integral - Feature Widget - Theme Options Panel - Imported
+Integral - Feature Widget - Woocommerce Compatible - Imported
+
+Homepage Single Projects Section : 
+
+Integral - Single Project Widget - No Title - Imported
+
+Homepage Clients Section : 
+
+Integral - Clients Widget - No Title - Imported
+Integral - Clients Widget - No Title - Imported
+Integral - Clients Widget - No Title - Imported
+Integral - Clients Widget - No Title - Imported
+Integral - Clients Widget - No Title - Imported
+Integral - Clients Widget - No Title - Imported
+
+Homepage Testimonials Section : 
+
+Integral - Testimonial Widget - Priscilla Nunn, CEO - Your Training Partners - Imported
+Integral - Testimonial Widget - Malcolm Reynolds, Captain - The Serenity - Imported
+Integral - Testimonial Widget - River Tam, Sister - The Serenity - Imported
+
+Homepage Services Section : 
+
+Integral - Service Widget - Design - Imported
+Integral - Service Widget - DEVELOPMENT - Imported
+Integral - Service Widget - MARKETING - Imported
+
+Homepage Team Section : 
+
+Integral - Team Member Widget - Hans Desjarlais - Imported
+Integral - Team Member Widget - Janelle Brandon - Imported
+Integral - Team Member Widget - Eric Kelly - Imported
+
+brands-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+integral_brands - No Title - Site does not support widget
+integral_brands - No Title - Site does not support widget
+integral_brands - No Title - Site does not support widget
+integral_brands - No Title - Site does not support widget
+integral_brands - No Title - Site does not support widget
+integral_brands - No Title - Site does not support widget
+
+projects-grid-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+integral_projects_grid - Presentation - Site does not support widget
+integral_projects_grid - Logo - Site does not support widget
+integral_projects_grid - CD Cover - Site does not support widget
+integral_projects_grid - PSD Mockup - Site does not support widget
+integral_projects_grid - Paper Cup - Site does not support widget
+integral_projects_grid - T-Shirt - Site does not support widget
+
+stats-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+integral_stat - No Title - Site does not support widget
+integral_stat - No Title - Site does not support widget
+integral_stat - No Title - Site does not support widget
+integral_stat - No Title - Site does not support widget
+
+pricing-widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+integral_pricing_table - INTEGRAL LITE - Site does not support widget
+integral_pricing_table - INTEGRAL PRO - Site does not support widget
+integral_pricing_table - MEMBERSHIP - Site does not support widget
+
+tweetscroll-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+pi_tweet_scroll - Twitter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---theme-demo-import/after_import---
+

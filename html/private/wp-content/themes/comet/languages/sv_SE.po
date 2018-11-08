@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matt <mail@frostpress.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: comet/index.php:33
+#: comet/attachment.php:62
+#: comet/page.php:19
+#: comet/comments.php:17
+#: comet/wide.php:25
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#. Text in function
+#: comet/index.php:33
+#: comet/attachment.php:62
+#: comet/page.php:19
+#: comet/comments.php:17
+#: comet/wide.php:25
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#. Text in echo
+#: comet/header.php:132
+msgid "All posts for the day"
+msgstr "Alla poster för dagen"
+
+#. Text in echo
+#: comet/header.php:136
+msgid "All posts for the month"
+msgstr "Alla poster för månaden"
+
+#. Text in echo
+#: comet/header.php:140
+msgid "All posts for the year"
+msgstr "Alla poster för året"
+
+#. Text in echo
+#: comet/header.php:144
+msgid "All posts found when searching for"
+msgstr "Alla funna poster för sökning"
+
+#. Text in echo
+#: comet/header.php:128
+msgid "All posts in category"
+msgstr "Alla poster i kategorin"
+
+#. Text in echo
+#: comet/header.php:123
+msgid "All posts tagged"
+msgstr "Alla poster taggade"
+
+#. Text in echo
+#: comet/sidebar-right.php:17
+msgid "Archives"
+msgstr "Arkiv"
+
+#. Text in echo
+#: comet/sidebar-left.php:13
+msgid "Bookmarks"
+msgstr "Bokmärken"
+
+#. Text in echo
+#: comet/sidebar-right.php:10
+msgid "Categories"
+msgstr "Kategorier"
+
+#. Text in echo
+#: comet/comments.php:39
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#. Text in function
+#: comet/functions.php:248
+msgid "Edit"
+msgstr "Redigera"
+
+#. Text in function
+#: comet/index.php:37
+#: comet/attachment.php:66
+#: comet/page.php:21
+#: comet/wide.php:27
+msgid "Edit Post"
+msgstr "Redigera post"
+
+#. Text in echo
+#: comet/comments.php:16
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#. Text in function
+#: comet/index.php:60
+#: comet/attachment.php:80
+msgid "Newer Posts"
+msgstr "Nyare poster"
+
+#. Text in function
+#: comet/index.php:48
+msgid "Next Post"
+msgstr "Nästa post"
+
+#. Text in function
+#: comet/index.php:33
+#: comet/attachment.php:62
+#: comet/page.php:19
+#: comet/comments.php:17
+#: comet/wide.php:25
+msgid "No Comments"
+msgstr "Inga kommentarer"
+
+#. Text in function
+#: comet/index.php:59
+#: comet/attachment.php:79
+msgid "Older Posts"
+msgstr "Äldre poster"
+
+#. Text in echo
+#: comet/404.php:4
+#: comet/page.php:36
+#: comet/wide.php:42
+msgid "Page not found"
+msgstr "Sidan hittades inte"
+
+#. Text in function
+#: comet/index.php:15
+#: comet/page.php:11
+#: comet/wide.php:17
+msgid "Pages"
+msgstr "Sidor"
+
+#. Text in echo
+#: comet/index.php:66
+#: comet/attachment.php:86
+msgid "Post not found"
+msgstr "Posten hittades inte"
+
+#. Text in echo
+#: comet/index.php:39
+msgid "Posted in"
+msgstr "Postad i"
+
+#. Text in function
+#: comet/index.php:47
+msgid "Previous Post"
+msgstr "Föregående post"
+
+#. Text in function
+#: comet/index.php:15
+#: comet/page.php:11
+#: comet/wide.php:17
+msgid "Read the full post"
+msgstr "Läs hela posten"
+
+#. Text in echo
+#: comet/sidebar-left.php:6
+msgid "Recent Posts"
+msgstr "Senaste posterna"
+
+#. Text in function
+#: comet/index.php:40
+msgid "Tagged "
+msgstr "Taggad "
+
+#. Text in echo
+#: comet/page.php:38
+#: comet/wide.php:44
+msgid "The page you were looking for could not be found."
+msgstr "Sidan du letade efter kunde inte hittas."
+
+#. Text in echo
+#: comet/404.php:6
+msgid "The page you were looking for could not be found. If you followed a link on this site to get here, please contact the administrator so it can be corrected."
+msgstr "Sidan du letade efter kunde inte hittas. Om du följde en länk på den här siten för att komma hit ber vi dig kontakta administratören så att det kan åtgärdas."
+
+#. Text in echo
+#: comet/index.php:68
+#: comet/attachment.php:88
+msgid "The post you were looking for could not be found."
+msgstr "Posten du letade efter kunde inte hittas."
+
+#. Text in echo
+#: comet/attachment.php:18
+msgid "This is an attachment for the post"
+msgstr "Det här är en bilaga till posten"
+
+#. Text in echo
+#: comet/comments.php:39
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Den här posten skyddas av ett lösenord. Ange lösenordet för att visa kommentarer."
+
+#. Text in echo
+#: comet/functions.php:252
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar väntar på att godkännas."
+

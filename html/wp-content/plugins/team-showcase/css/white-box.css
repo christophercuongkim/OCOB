@@ -1,0 +1,83 @@
+/*
+Retro looking box theme
+Feel free to edit
+*/
+
+.ts-white-box-style .tshowcase-inner-box {
+	display:inline-block;
+	margin:0 auto;
+	/*width:90%;*/ /*Uncomment if you want the boxes to have a fixed with. Works better when image is on the left and content on the right */
+	background: #FFFFFF; 
+	border:1px solid #CCC;
+	-webkit-box-shadow: 3px 3px 1px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 3px 3px 1px 0px rgba(0,0,0,0.2);
+	box-shadow: 3px 3px 1px 0px rgba(0,0,0,0.2);
+	padding:5px 5px 2px 5px;
+	 transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    -ms-transition: 0.6s;	
+	}
+
+
+	
+.ts-white-box-style  .tshowcase-inner-box:hover {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	position: relative;
+	z-index: 5;
+	 transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    -ms-transition: 0.6s;	
+	}
+
+.ts-white-box-style .tshowcase-box-photo {	
+	padding:0;
+	margin:0;
+}
+
+.ts-white-box-style .ts-img-left img {
+	padding:0 10px 0 0;
+	}
+
+.ts-white-box-style .ts-img-above img {
+	padding:0;
+	}
+
+.ts-white-box-style .tshowcase-box-photo img:hover {
+	
+}
+
+.ts-white-box-style .tshowcase-box-info {
+	padding:2px 2px 10px 2px;	
+}
+
+.ts-white-box-style .tshowcase-box-title {
+	font-weight:bold;
+	font-size:1.1em;
+	padding:3px;
+	
+	
+	}
+#tshowcase-hover-wrap .ts-white-box-style .tshowcase-box-title a:link {
+	color:#FFF;
+	text-decoration:none;
+}
+
+#tshowcase-hover-wrap .ts-white-box-style .tshowcase-box-title a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+.ts-white-box-style .tshowcase-box-social {}
+.ts-white-box-style .tshowcase-box-details { }
+.ts-white-box-style .tshowcase-single-position {}
+.ts-white-box-style .tshowcase-single-email{}
+.ts-white-box-style .tshowcase-single-telephone{}
+.ts-white-box-style .tshowcase-single-location{}
+.ts-white-box-style .tshowcase-single-shortbio{}
+.ts-white-box-style .tshowcase-single-website{}

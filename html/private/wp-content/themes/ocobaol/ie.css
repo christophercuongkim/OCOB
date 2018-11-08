@@ -1,0 +1,13 @@
+/* get a proper browser you damn dirty heathens */
+
+.menu li, .menu li a {
+	display: inline;
+}
+
+.widget ul, .widget ol { 
+	border-top: solid 1px #DFDFDF;
+	border-bottom: solid 1px #FFFFFF;
+}
+.widget li:first-child { 
+	border-top: solid 1px #FFFFFF;
+}

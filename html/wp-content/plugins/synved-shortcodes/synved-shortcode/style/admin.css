@@ -1,0 +1,93 @@
+#TB_ajaxContent {
+max-width:100%;
+}
+
+.synved-shortcode-edit-popup {
+clear:both;
+}
+#TB_ajaxContent .synved-shortcode-edit-popup h3.popup-title {
+font-size:120%;
+margin-bottom:10px;
+}
+.synved-shortcode-edit-ui-selector {
+background:#f4f4f4;
+font-size:110%;
+color:#555;
+padding:10px 10px 8px 10px;
+border-radius:8px;
+}
+.synved-shortcode-edit-ui-selector select {
+height:25px;
+line-height:25px;
+padding:0;
+margin:0;
+width:280px;
+}
+.synved-shortcode-edit-ui-selector .chzn-container-single .chzn-single span {
+line-height:22px;
+}
+.synved-shortcode-edit-ui-selector .chzn-search input {
+padding-left:0;
+padding-right:0;
+}
+.synved-shortcode-edit-ui-selector .ui-message {
+font-style:italic;
+}
+.synved-shortcode-edit-ui-viewer {
+clear:both;
+}
+.synved-shortcode-edit-ui-viewer .ui-wrap {
+margin:0 10px;
+}
+.synved-shortcode-edit-ui-viewer .ui-wrap-left {
+margin-left:0;
+}
+.synved-shortcode-edit-ui-viewer .ui-wrap-right {
+margin-right:0;
+}
+.synved-shortcode-edit-ui-viewer .ui-title {
+margin-bottom:8px;
+}
+.synved-shortcode-edit-ui-viewer .ui-code-wrap {
+float:left;
+width:45%;
+}
+.synved-shortcode-edit-ui-viewer .ui-code-wrap textarea {
+width:100%;
+height:200px;
+}
+.synved-shortcode-edit-ui-viewer .ui-preview-wrap {
+float:right;
+width:55%;
+}
+.synved-shortcode-edit-ui-help {
+margin:15px 0;
+}
+.synved-shortcode-edit-ui-help .help-tip {
+background:#f4f4f4;
+font-size:110%;
+font-style:italic;
+color:#333;
+padding:7px;
+border-radius:8px;
+}
+.synved-shortcode-edit-ui-help .presets-tip {
+color:#333;
+padding:3px;
+}
+.synved-shortcode-edit-ui-help .synved-shortcode-help-item {
+margin-bottom:10px;
+}
+.synved-shortcode-edit-ui-help .help-parameter-list-wrap {
+margin:0 8px;
+}
+.synved-shortcode-edit-ui-help .help-parameter-list {
+margin:0 5px;
+}
+.synved-shortcode-edit-ui-help .ui-title {
+margin:5px 0;
+}
+.synved-shortcode-edit-actions {
+clear:both;
+margin-top:10px;
+}

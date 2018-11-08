@@ -1,0 +1,300 @@
+
+/* THEME STRUCTURE MODS */
+
+/* #Additional - Large Screens beyond 1280px
+================================================== */
+    /* Note: Design for a width of 1280px */
+
+@media only screen and (min-width: 1190px) {
+
+    #page .tp-leftarrow.tparrows, #page .tp-leftarrow.tparrows:hover, #page .tp-leftarrow.tparrows:active {
+    margin-left: -130px !important;
+	}
+	#page .tp-rightarrow.tparrows, #page .tp-rightarrow.tparrows:hover, #page .tp-rightarrow.tparrows:active {
+    margin-right: -130px !important;
+	}
+
+}
+@media only screen and (min-width: 1190px) and (max-width: 1280px) {
+
+   /*  - Single Image Hover -  */
+   #page .module-content p {
+	  font-size: 1rem !important;
+	  line-height: 1.2;
+	  font-weight: 500;
+	}
+	.course-container article.course.has-post-thumbnail .entry {
+      width: 74%;
+    }
+
+}
+
+
+@media only screen and (min-width: 960px) and (max-width: 1190px) {
+   #page div.sharedaddy .sd-content li {width: 25% !important;}
+
+   /*  - Single Image Hover -  */
+   #page .module-content p {
+	  font-size: 1rem !important;
+	  line-height: 1.2;
+	  font-weight: 500;
+	}
+	.course-container article.course.has-post-thumbnail .entry {
+      width: 71%;
+    }
+
+}
+
+
+/* #Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+	.one-fifth.column {width: 17.6%;}
+	.one-sixth.column {width: 14.5%;}
+
+	/*  - ShareDaddy -  */
+	#page div.sharedaddy .sd-content li {width: 33% !important;}
+	
+	/*  - Sticky Header - */
+	#page #section-sticky-header nav ul.mega-menu > li {
+	  margin-left: 15px !important;
+	  margin-right: 15px !important;
+	}
+	#page .sticky ul.social li {width: 1.4rem;}
+
+	/*  - Single Image Hover -  */
+   #page .module-content p {
+	  font-size: 1rem !important;
+	  line-height: 1.2;
+	  font-weight: 500;
+	}
+	.course-container article.course.has-post-thumbnail .entry {
+      width: 64%;
+    }
+
+}
+
+
+/*  #Mobile (Portrait) */
+@media only screen and (max-width: 767px) {
+
+	.one-fifth.column {width: 100%;}
+	.one-sixth.column {width: 100%;}
+	#section-footer .widget {text-align: center;}
+
+	#page .header-ad-space.right, #page .header-ad-space.right * {
+    float: none !important;
+    text-align: center !important;
+	}
+	#page .header-ad-space.center, #page .header-ad-space.center * {
+    float: none !important;
+    text-align: center !important;
+	}
+	#page .header-ad-space.left, #page .header-ad-space.left * {
+    float: none !important;
+    text-align: center !important;
+	}
+
+	/* TOPHAT & SUBFOOTER FLOAT REVERSALS */
+	#section-tophat .left, #section-tophat .right{clear: both; float: left !important; margin-bottom: 10px; text-align: left;}
+	#section-sub-footer .left{clear: both; float: left !important; text-align: left;}
+	#section-tophat .sf_container{display: none;}
+	#section-tophat .left{padding-left: 1.5rem; padding-right: 1.5rem; margin-left: 0.4rem;}
+	#section-tophat .social{display: none;}
+	#section-sub-footer .right{display: none;}
+
+	/* NAV TOGGLE */
+	#superfish-menu { position: absolute; left: -9999px;} 	
+	#responsive-nav { display: inline-block; } 
+
+	#site-heading{text-align: center !important; width: 100%;}
+
+	#section-tophat .left {
+	      float: none !important;
+		  clear: both;
+		  width: 100%;
+	}
+	#section-tophat .left .th_banner {
+	  padding-left: 35% !important;
+	}
+	.styles #site-heading h1 {
+	  font-size: 50px !important;
+	}
+	#page .header-ad-space {
+		  display: inline;
+		  float: right;
+		  padding-top: 6px;
+		  width: 100%;
+		}
+	.header-ad-space .rev_slider_wrapper {
+	  float: none !important;
+	  text-align: center;
+	}
+	  #page ul.social li {width: 1.4rem;}
+	  #page div.sharedaddy .sd-content li {width: 33% !important;}
+	  
+	 
+	 /*  - Sticky Header - */
+	#page #section-super-header #section-sticky-header-background,
+	#page #section-super-header #section-sticky-header {
+	  display: none !important;
+	}
+	#page .sticky ul.social li {width: 1.4rem;}
+
+	#dynamic-to-top {
+	  background-color: rgba(155, 155, 155, 0.3) !important;
+	  border: 0 solid transparent !important;
+	  border-radius: 2px !important;
+	  bottom: auto !important;
+	  box-shadow: none !important;
+	  padding: 11px 10px !important;
+	  right: 1rem !important;
+	  top: 1rem !important;
+	  transition: all 0.5s ease 0s !important;
+	}
+
+	/*  - Single Image Hover - */
+	.module-image {
+	  max-height: 325px;
+	  overflow: hidden;
+	}
+	.image-inner {
+	  width: 100%;
+	}
+	.course-container article.course.has-post-thumbnail .entry {
+      width: 100%;
+      text-align: left;
+    }
+
+    /* - FACULTY DIRECTORY - */
+    #page .faculty-section .faculty-module.widget.alpha.omega.theme_hook {
+	  text-align: center;
+	}
+
+	/* - EVENTS - */
+	.hentry.vevent.type-tribe_events {
+	  width: 95%;
+	}
+
+	/* Responsive Course Table for Mobile */
+	#page input.course-search-button {
+	  margin-bottom: 2rem;
+	}
+    
+    div.table-wrapper .scrollable {
+    	border-left: 1px solid #ebebeb;
+    	border-right: 2px solid #ebebeb;
+    	border-radius: 6px;
+    }
+    table.responsive {
+    	margin-bottom: 0; 
+    	border-left: 0px solid transparent;
+    	border-right: 0px solid transparent;
+    }
+    
+    .pinned {
+	  background: none repeat scroll 0 0 #fff;
+	  border-left: 2px solid #ebebeb;
+	  border-radius: 6px;
+	  border-right: 1px solid #ebebeb;
+	  left: 0;
+	  overflow-x: scroll;
+	  overflow-y: hidden;
+	  position: absolute;
+	  top: 0;
+	  width: 40%;
+	}
+	.pinned table { border-right: none; border-left: none; width: 100%; }
+    .pinned table th, .pinned table td { white-space: nowrap; }
+    .pinned td:last-child { border-bottom: 0; }
+    
+    div.table-wrapper {
+	  border-right: 2px solid transparent;
+	  margin-bottom: 20px;
+	  overflow: hidden;
+	  position: relative;
+	}
+	div.table-wrapper table { margin-bottom: 0; }
+    div.table-wrapper div.scrollable { margin-left: 40%; }
+    div.table-wrapper div.scrollable { 
+    	overflow: scroll; 
+    	overflow-y: hidden; 
+    	-webkit-overflow-scrolling: touch !important;
+    }
+    .search table#course-list, table#course-list {
+	  margin-bottom: 0rem !important;
+	}
+	.is-handheld p {margin-bottom: 0; text-align: center;}
+	.is-handheld .arrow {text-align: center;}
+    
+    table.responsive td, table.responsive th { position: relative; white-space: nowrap; overflow: hidden; }
+    table.responsive th:nth-child(2), table.responsive td:nth-child(2), table.responsive td:nth-child(2), table.responsive.pinned td { display: none; }
+
+}
+/* /End #Mobile (Portrait) */
+
+
+/* #Mobile (Landscape) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.site-title > img {float: none !important; margin-top: -3px !important;}
+	.vc_responsive .wpb_row .vc_span3 {width: 100% !important;}
+	#page div.sharedaddy .sd-content li {width: 50% !important;}
+	
+	/*  - STICKY HEADER -  */
+	#page .sticky {display: none !important;}
+
+	/*  - Single Image Hover - */
+	.module-image {
+	  max-height: 325px;
+	  overflow: hidden;
+	}
+	.image-inner {
+	  width: 100%;
+	}
+
+}
+
+
+/* ADDED/AUDIT MEDIA QUERIES */
+/*  #Mobile (Landscape) */
+@media only screen and (max-width: 767px) {
+
+	#section-tophat .sixteen.columns, #section-tophat .container, #section-tophat .left .th_banner, .th_show_hide.th_flag_toggle {float: right !important; padding: 0 !important;}
+	#section-tophat .right {display: none;}
+	#site-logo {float: none !important;}
+	#page .vc_separator > h4 {font-size: 100%;}
+	#page .wpb_single_image, #page .wpb_text_column h2 {text-align: center;}
+
+	#page .module.hover-text {
+	  margin: 1%;
+	  width: 48%;
+	}
+
+	#section-tophat, #section-sub-footer {height: auto;}
+	#section-sub-footer .left {text-align: center;width: 100%;}
+	#section-sub-footer .right {display: block;margin: 10px;text-align: center;width: 100%;}
+
+	body.login{height: 120% !important;}
+
+	/* VISUAL COMPOSER - SEPARATORS */
+	.vc_separator .vc_sep_holder {
+	  width: 10% !important;
+	}
+	.vc_separator h4 {
+	  text-align: center !important;
+	  white-space: pre-wrap !important;
+	  width: 80% !important;
+	}
+
+}
+
+/*  #Mobile (Portrait) */
+@media only screen and (max-width: 480px) {
+	#secondary.right, #tertiary.right {
+	  padding: 0rem;
+	}
+	#page .module.hover-text {
+	  margin: 1%;
+	  width: 98%;
+	}
+}

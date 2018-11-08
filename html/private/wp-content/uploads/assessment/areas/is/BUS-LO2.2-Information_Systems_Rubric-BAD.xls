@@ -1,0 +1,309 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+
+<title>SurveyMonkey - Question Builder</title>
+<link href="BUS-LO2.2-Information_Systems_Rubric_files/CSS.css" rel="stylesheet" type="text/css" id="CSSThemeLink">
+
+
+<meta name="keywords" content="SurveyMonkey,online surveys,online survey,web surveys, web survey,market research,free,research,stats,statistics,polls,voting,analyze,tool,decisions,planning,strategy,Community,forms,formsite,workgroups,cgi,database">
+<meta name="description" content="SurveyMonkey.com is a revolutionary tool to create and publish custom surveys in minutes, and then view results graphically and in real time.">
+<link rel="shortcut icon" href="http://www.surveymonkey.com/favicon.ico"><link rel="stylesheet" type="text/css" href="BUS-LO2.2-Information_Systems_Rubric_files/SurveyMonkeyV3.css" media="all"><script language="javascript" type="text/javascript" src="BUS-LO2.2-Information_Systems_Rubric_files/jquery-1.js"></script><script language="javascript" type="text/javascript" src="BUS-LO2.2-Information_Systems_Rubric_files/SurveyMonkeyV3.js"></script><script language="javascript" type="text/javascript" src="BUS-LO2.2-Information_Systems_Rubric_files/omniture_mboxV38.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script language="javascript" type="text/javascript" src="BUS-LO2.2-Information_Systems_Rubric_files/omniture_s_code_v1.js"></script><script language="javascript" type="text/javascript"><!--
+s.eVar5=s.prop5="Logged In";s.pageName='MySurvey_EditorPage';s.channel='MySurvey';s.linkInternalFilters='javascript:,surveymonkey.com,surveymk.com';var s_code=s.t();if(s_code)document.write(s_code);//--></script>
+<noscript>
+<style type="text/css" media="all">form {display:none;}</style>
+<div style="padding: 50px 25%;">
+<div class="ErrorMessage">Javascript is required for this site to function, please enable.</div>
+</div>
+</noscript>
+
+<link id="SurveyTheme" type="text/css" rel="stylesheet" href="BUS-LO2.2-Information_Systems_Rubric_files/Survey_Editor.css">
+<style media="all" type="text/css">
+#PageContentDiv {margin-left:170px;}
+#PageContentDiv table{width:100%;}
+label {padding:0;}
+</style>
+<script language="javascript" type="text/javascript" src="BUS-LO2.2-Information_Systems_Rubric_files/SurveyV12.js"></script>
+<script language="javascript" type="text/javascript" src="BUS-LO2.2-Information_Systems_Rubric_files/SurveyEditorV6.js"></script>
+<script type="text/javascript">
+var sectionNumbering = 0;
+var questionNumbering = 0;
+var startingQPos = 1;
+</script>
+
+<script language="javascript" type="text/javascript">
+pageID='Ldwun_2f_2fRm4NeyOGK9Z9oqlr4wHO_2br2GZVUD0aXJNtJKJw0h61A9ivcmGWzVJKba7';
+var singlePageView = true;
+var pwin;
+function preview(element){var name="PreviewWindow";if(element)element.target=name;if(pwin)pwin.close();pwin=window.open('',name,'resizable=1,scrollbars=1,status=1,menubar=1');}
+</script>
+<style type="text/css">
+a.TextBtn, a.TextBtnOrange, a.TextBtn_disabled {padding-left:6px;padding-right:6px;}
+</style>
+</head><body onload="setup();changeTheme(document.getElementById('ThemeList'));">
+<form name="frmMySurvey_EditorFull" method="post" action="MySurvey_EditorPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKJw0h61A9ivcmGWzVJKba7" id="frmMySurvey_EditorFull">
+<div>
+<input name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGgKInI62BALq6Mf/CgKk1J3/DQLCkuGwDwLt4qW3DwKf7sjgAgKRoKmQDALRybT/DQLtpfDkBAL+z++lCwKZ+522AgKM6b/ZDwL2+L/VBwLd3PCaAQLT5M3ZDALb8K3bCwL1gcfyDgK40YKHCgLg99nuCgKHg8rnDQK3pqCXDQKf/tyYCwKO1sC7BQKRjMSQCgK48Ym7BAK1srrGCFJBOs06HqLR2QNlCCEDpAUYo3h5" type="hidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI3NTU0MTYyNWRkey0ZqcGcvGuZZxZTESlSEwAb1DQ=" type="hidden">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+
+
+<input name="__LASTFOCUS" id="__LASTFOCUS" value="" type="hidden">
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['frmMySurvey_EditorFull'];
+if (!theForm) {
+    theForm = document.frmMySurvey_EditorFull;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+<div id="LogoBar" style="padding-bottom: 5px;">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td style="width: 25%;" nowrap="nowrap"><a id="Wc_Site_Topbar1_hlMain" title="SurveyMonkey Homepage" href="http://www.surveymonkey.com/Default.aspx"><img src="BUS-LO2.2-Information_Systems_Rubric_files/logo_mk.gif" title="The best thing since the opposable thumb!" alt="" height="57" width="65"><img src="BUS-LO2.2-Information_Systems_Rubric_files/logo_txt.gif" title="The best thing since the opposable thumb!" alt="SurveyMonkey.com - because knowledge is everything" height="57" width="196"></a></td>
+<td style="width: 75%; padding-top: 5px;" align="right" valign="top">
+<b>Logged in as "shughes@calpoly.edu"</b>&nbsp; <a href="http://www.surveymonkey.com/MyAccount_Logout.aspx?TB_iframe=true&amp;height=100&amp;width=300" id="Wc_Site_Topbar1_lbLogOff" class="thickbox TextBtn" title="Log out of your Account">Log&nbsp;Off</a>&nbsp;
+</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<!--Navbar-->
+<div id="SiteNavBar">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td style="width: 75%;">
+<a id="Wc_Site_Navbar1_hlHome" class="SiteNavBtn" title="SurveyMonkey Homepage" href="http://www.surveymonkey.com/Default.aspx">Home</a><a id="Wc_Site_Navbar1_hlSurveyWizard" class="SiteNavBtn" title="Create a survey" href="http://www.surveymonkey.com/MySurvey_Wizard.aspx">Create&nbsp;Survey</a><a id="Wc_Site_Navbar1_hlMySurveys" class="SiteNavBtn_on" title="Manage your surveys" href="http://www.surveymonkey.com/MySurveys.aspx">My&nbsp;Surveys</a><a id="Wc_Site_Navbar1_hlAddressBook" class="SiteNavBtn" title="Manage your address book" href="http://www.surveymonkey.com/AddressBook_ListSummary.aspx">Address&nbsp;Book</a><a id="Wc_Site_Navbar1_hlMyAccount" class="SiteNavBtn" title="View your account details" href="https://www.surveymonkey.com/MyAccount.aspx">My&nbsp;Account</a>
+</td>
+<td style="width: 25%;" align="right">
+<a id="Wc_Site_Navbar1_hlHelp" class="SiteNavBtn_R" title="Online Help Center" onclick="helpcenter(this);" href="http://www.surveymonkey.com/HelpCenter/">Need Help?</a></td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+<div style="font-size: 10px; line-height: 10px;">&nbsp;</div>
+
+
+<div id="ContentArea">
+<div id="SurveyBar">
+<table style="width: 100%;" class="SurveyHdr" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+<span class="sm_hdr">survey&nbsp;title:</span><br>
+<div class="SurveyTitle">
+<span id="Wc_Site_SurveyBar1_lblSurveyTitle">OCOB Assessment Results Data Entry</span>&nbsp;
+<a id="Wc_Site_SurveyBar1_EditTitleLink" class="sm_hdr_link thickbox" title="Edit Survey Title" href="http://www.surveymonkey.com/MySurvey_SettingsTitle.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d&amp;TB_iframe=true&amp;height=200&amp;width=400">Edit Title</a></div>
+</td>
+<td style="white-space: nowrap; width: 450px;" valign="bottom">
+<div id="NavTabs">
+<ul>
+<li><a id="Wc_Site_SurveyBar1_hlDesign" class="nTab_on" href="http://www.surveymonkey.com/MySurvey_EditorPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d"><div class="nTab"><b class="ttop"><b class="p3_B1"></b><b class="p3_B2"></b><b class="p3_B3"></b></b><div class="nTabTitle">design survey</div></div><b class="tbtm"></b></a></li>
+<li><a id="Wc_Site_SurveyBar1_hlCollection" class="nTab" href="http://www.surveymonkey.com/MySurvey_CollectorList.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d"><div class="nTab"><b class="ttop"><b class="p3_B1"></b><b class="p3_B2"></b><b class="p3_B3"></b></b><div class="nTabTitle">collect responses</div></div><b class="tbtm"></b></a></li>
+<li><a id="Wc_Site_SurveyBar1_hlResponses" class="nTab" href="http://www.surveymonkey.com/MySurvey_Responses.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d"><div class="nTab"><b class="ttop"><b class="p3_B1"></b><b class="p3_B2"></b><b class="p3_B3"></b></b><div class="nTabTitle">analyze results</div></div><b class="tbtm"></b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+
+<!-- Content well-->
+<div id="TabContent">
+<div id="EditSidebar">
+<table cellpadding="0" cellspacing="0">
+<tbody><tr>
+
+<td class="LeftMenuBar" style="background-image: none;" valign="top">
+<div class="InfoBarLeft" id="LeftNav">
+<div class="LNav_on"><b class="LN_t"><b class="LNB1"></b><b class="LNB2"></b><b class="LNB3"></b></b><div class="LN_data"><div class="LN_title"><a href="http://www.surveymonkey.com/MySurvey_EditorPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d" title="Edit the pages and questions of your survey"><img src="BUS-LO2.2-Information_Systems_Rubric_files/edit_small.gif" alt="" height="16" width="16">&nbsp;&nbsp;Edit Survey</a></div></div><b class="LN_b"><b class="LNB3"></b><b class="LNB2"></b><b class="LNB1"></b></b></div><div class="LNav"><b class="LN_t"><b class="LNB1"></b><b class="LNB2"></b><b class="LNB3"></b></b><div class="LN_data"><div class="LN_title"><a href="http://www.surveymonkey.com/MySurvey_Settings.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d" title="Change options such as numbering, adding a custom logo or progress bar, and other advanced options."><img src="BUS-LO2.2-Information_Systems_Rubric_files/prefs_16.gif" alt="" height="16" width="16">&nbsp;&nbsp;Survey Options</a></div></div><b class="LN_b"><b class="LNB3"></b><b class="LNB2"></b><b class="LNB1"></b></b></div><div class="LNav"><b class="LN_t"><b class="LNB1"></b><b class="LNB2"></b><b class="LNB3"></b></b><div class="LN_data"><div class="LN_title"><a href="http://www.surveymonkey.com/MySurvey_Print.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d" title="Create a printed copy of your survey"><img src="BUS-LO2.2-Information_Systems_Rubric_files/print_16.gif" alt="" height="16" width="16">&nbsp;&nbsp;Print Survey</a></div></div><b class="LN_b"><b class="LNB3"></b><b class="LNB2"></b><b class="LNB1"></b></b></div><div class="LNav"><b class="LN_t"><b class="LNB1"></b><b class="LNB2"></b><b class="LNB3"></b></b><div class="LN_data"><div class="LN_title"><a href="http://www.surveymonkey.com/MySurvey_Restore_PageQuestion.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqtc4mqD9mhovxAH6TYRnFs8%3d" title="View and/or restore deleted questions"><img src="BUS-LO2.2-Information_Systems_Rubric_files/wiz_16.gif" alt="" height="16" width="16">&nbsp;&nbsp;Restore Questions</a></div></div><b class="LN_b"><b class="LNB3"></b><b class="LNB2"></b><b class="LNB1"></b></b></div>
+<img src="BUS-LO2.2-Information_Systems_Rubric_files/t.gif" alt="" border="0" height="1" width="160"><br>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+var menu = document.getElementById("LeftNav");
+var items = menu.getElementsByTagName("div");
+for(var i = 0; i < items.length; i++)
+{
+if(items[i].className == "LNav")
+{
+items[i].onmouseover = function() { this.className += " hover"; }
+items[i].onmouseout = function() { this.className = this.className.replace(" hover", ""); }
+}
+}
+</script>
+<![endif]-->
+</div>
+</td>
+
+</tr>
+</tbody></table>
+</div>
+<div class="xEditInfoContent">
+<div id="EditContainer">
+<table style="width: 100%;" cellpadding="3" cellspacing="0">
+<tbody><tr>
+<td style="white-space: nowrap;" width="1%">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td valign="top"><img src="BUS-LO2.2-Information_Systems_Rubric_files/edit.gif" alt="" height="32" width="32"></td>
+<td class="PageTitle" style="padding-left: 6px; white-space: nowrap;" width="99%">&nbsp;Edit Survey&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+<td style="white-space: nowrap;" align="right" valign="top" width="99%">
+<a href="http://www.surveymonkey.com/s.aspx?PREVIEW_MODE=DO_NOT_USE_THIS_LINK_FOR_COLLECTION&amp;sm=lXmV8omSUEa3RbGK13H2Lh4TxB9AAw0cjAszN1au5rs%3d" id="PreviewButton" class="MainBtn" onclick="preview(this);">Preview Survey</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<table style="width: 100%;" border="0" cellpadding="0">
+<tbody><tr>
+<td style="padding-bottom: 2px; white-space: nowrap;">To change the <b>look</b> of your survey, select a theme below.<br></td>
+</tr>
+<tr>
+<td style="width: 100%;">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td style="" width="5%"><select id="ThemeList" onchange="changeTheme(this);"><option value="X1gpODv/rgHrvMtcei2sTw==">Print Theme</option><option value="/YuO3oRiVigm5Ls7Ddv5dw==">Blue Ice</option><option value="3vT3GsjzX4U4txQgXlNSrg==">Slate</option><option value="2/Ja6RFaEkEK980pXmSjXQ==">Blue Meanie</option><option value="iVuIWUvEMZf6CSwNbEI9tg==">Orange Zest</option><option value="KzRcRtfLDp6XUdG5N6eO7A==">Spring Day</option><option value="4BtZpimkMFaOAyHtEj19GQ==">Blue Metal</option><option value="+t1e1+FcVBZP25NQTrStrw==">Purple Passion</option><option value="07XP/Uhv9DoCzQMszA7NKg==">Peach Sherbet</option><option value="bz1OG6of6cB1DlfoMzv8Fw==">Dewy Meadow</option><option value="pOpQvm65kM9l/pEBVW/qRg==">Light Olive</option><option value="Ai9SG5TpWrDyDSYpuzBklg==">Desert Dunes</option><option value="767lpUcHcnZx8JUYoXPUIg==">Cloudy Day</option><option value="xOlEiKIohGHqLKQ2OZB0Sw==">Sea Green</option><option value="re6skWGuXhcQ9K3av2d26g==">Yellow Metal</option><optgroup label="Custom Themes"><option value="pb2L/BhiC/gSEHwAge2ebQ==" selected="selected">Cal Poly Bb</option></optgroup></select></td>
+<td style="" width="95%"><a style="margin-left: 10px;" onfocus="blur();" id="ThemeEditButton" class="TextBtn" title="Edit this theme" href="http://www.surveymonkey.com/MySurvey_ThemeEditor.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJoz%2bn3Q7Jr2W86xYw58HDmn1572wmuxZ2oBY2B1LKM0A%3d%3d">Edit Theme</a><a style="margin-left: 10px;" onfocus="blur();" id="ThemeAddButton" class="TextBtn" title="Create a new theme" href="http://www.surveymonkey.com/MySurvey_ThemeEditor.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJoz%2bn3Q7Jr2W86xYw58HDmgt5DI6Pl7NFz4Cp7rpH%2bUw%3d%3d">New Theme</a>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<br>
+<div id="EditContent">
+<div id="PageContentDiv"><div id="qBody_5e29406f-17b5-4244-92d4-edd6f4b0df7b">
+<div class="ed_SectBtnBar" style="color: rgb(0, 0, 0);"><a btntype="CancelCopyPageBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Page Copy" onclick="cancelPageCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddPageBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Page Before" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJ2I0hQGUEiH8DBBfH8jL9rsIETdt1CSwxmGwt%2f4qYKF6w9isCYdSJYWuIbtzBeBvfQtUDH04RLcKeO2TlCZI7a8xpnN6hrwqeiPbJXKoJXKA%3d%3d&amp;TB_iframe=true&amp;height=450&amp;width=650">Add Page Before</a></div><br>
+</div>
+<table class="EdPgHdr" style="width: 100%; margin-bottom: 2px;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td style="padding-bottom: 0px; width: 60%; white-space: nowrap;" valign="bottom">
+<span style="font-family: Arial; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: 2em; font-size-adjust: none; font-stretch: normal; -x-system-font: none;"><b>Page #8&nbsp;&nbsp;</b></span><a class="TextBtn thickbox" title="Edit page title and body" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKJw0h61A9ivcmGWzVJKba7&amp;TB_iframe=true&amp;height=450&amp;width=650">Edit Page</a><a class="TextBtn" title="Move this page to a different location in the survey" onclick="initPageMove('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','nBx%2fwwRBgBAaBsFcG84buw%3d%3d');" href="javascript:void(null);">Move</a><a class="TextBtn" title="Copy this page to a different location in the survey" onclick="initPageCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','nBx%2fwwRBgBAaBsFcG84buw%3d%3d');" href="javascript:void(null);">Copy</a><a class="TextBtn thickbox" title="Delete Page Confirmation" href="http://www.surveymonkey.com/MySurvey_DeleteSection_pop.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKJw0h61A9ivcmGWzVJKba7&amp;TB_iframe=true&amp;height=400&amp;width=600">Delete</a><a logicid="SLogic_nBx/wwRBgBAaBsFcG84buw==" class="TextBtn thickbox" title="Edit skip logic for this page" href="http://www.surveymonkey.com/MySurvey_PageLogicFrame.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKJw0h61A9ivcmGWzVJKba7&amp;TB_iframe=true&amp;height=400&amp;width=600">Add Logic</a>
+</td>
+<td id="PageListTD" style="white-space: nowrap; text-align: right;">
+<div style="padding-bottom: 2px;"><b>Select a page to view below or <a id="linkViewAllPages" href="http://www.surveymonkey.com/MySurvey_EditorFull.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oql5qhxXjZ%2fDtH%2b5S0VDNCJY%3d">view all pages</a>:</b></div>
+<div>
+<a id="PreviousButton" class="TextBtnOrange" href="http://www.surveymonkey.com/MySurvey_EditorPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJ8rOMD3CfBtkMnYReaMFIg">&lt;&lt;</a>&nbsp;
+<select name="ddlPageList" onchange="javascript:setTimeout('__doPostBack(\'ddlPageList\',\'\')', 0)" id="ddlPageList" style="margin-right: 0px; margin-left: 0px; vertical-align: middle;">
+	<option value="khUxii4nhhpd5c1qplMFCA==">#1. Faculty/Course/LO Informa...</option>
+	<option value="NXQR1XubrYU2sq4IIsl8qQ==">#2. LO2 Concentrations</option>
+	<option value="sDG6d4dPkVeocpz2arLXEQ==">#3. LO 2 - Management - Cours...</option>
+	<option value="Ich6WxlKIvzsaNB6RUNG0Q==">#4. LO 2 - Information System...</option>
+	<option value="CDY+HXO6usG2nB0ibGkIhw==">#5. LO 2 - Accounting</option>
+	<option value="UOpSNgzBe4I1snm0EZ4QKw==">#6. LO 2 - Finance</option>
+	<option value="A0BS/ryMP04ggBurk/4IFQ==">#7. Information Systems LO 2....</option>
+	<option selected="selected" value="nBx/wwRBgBAaBsFcG84buw==">#Information Systems LO 2.2</option>
+	<option value="qvPht2sBc437pXl1Vi2gfA==">#9. LO 2 - Information System...</option>
+	<option value="5FJ4Oa1mgvUuLYcWVV0qog==">#10. LO 2 - International Busi...</option>
+	<option value="9/jc9rdzi87ih6bdKjXRWQ==">#11. LO 2 - Management - BUS 3...</option>
+	<option value="WDaeZsTEXNSWqc+Q3Aujjg==">#12. LO 2 - Management - BUS 3...</option>
+	<option value="WUKzueFPLK4IgCZsG4YZIg==">#13. LO 2 - Management - BUS 4...</option>
+	<option value="JPYlikMGfCGFMnzPsRtk0A==">#14. LO 2 - Marketing</option>
+	<option value="tWb+sgPIm8zKcQl42s4P/g==">#15. LO 3.1 Ethics</option>
+	<option value="7eK+PJLHv+5bz05T9yS5cw==">#16. LO 3.2 Social Responsibil...</option>
+	<option value="rIhtEZBU8FEU9xT/gc2EBQ==">#17. LO 4 - Data Analysis</option>
+	<option value="RQ1OPEyhJ+f5v5tc4z4PyA==">#18. LO 5 - Diversity </option>
+	<option value="iyGvdFHL2pcYFDN/dxjqKw==">#19. LO 6.1- Writing</option>
+	<option value="J9XX8j8AzEIxTZlXIfSY+w==">#20. LO 6.2 - Oral Communicati...</option>
+	<option value="AAgxUNROdYgVtm+0KAUT7Q==">#21. LO 6.3 - Leadership</option>
+	<option value="xJY5GBMhPC9gnOaIv8muGg==">#22. LO 6.4 - Teamwork</option>
+	<option value="uKVLR2AnmGbo9WKgd039QA==">#23. Additional Questions</option>
+	<option value="OdXHLrdvIoCzxmRHSv8R7g==">#24. Done.</option>
+
+</select>
+<a id="NextButton" class="TextBtnOrange" href="http://www.surveymonkey.com/MySurvey_EditorPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlmGhSEAKxy%2bgwEGFHJdBMVandWBwMXjtFFPfIA8dGrZ">&gt;&gt;</a>
+</div>
+</td>
+
+</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td style="width: 100%;">
+<div class="Editor_PgContainer">
+<div class="ed_Title"><div class="pTitle" sectionid="nBx/wwRBgBAaBsFcG84buw=="><h2>Information Systems LO 2.2</h2><br class="clear"></div>
+<div id="qBody_bf8892a4-a0b6-4c35-9e31-54244f520d92">
+<div class="ed_BtnBar"><a btntype="CancelCopyBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Question Copy" onclick="cancelQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddQuestionBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Question Here" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zll7xo59cfE688ANVV2hCCDp1bwCnAlyctSYF8NRGa7ejDStCe8QYxZ425jgcxNY195hT05M3OX%2fezYq2NR4gLJh5TqPOd47OvW0xZMPR9fU%2ffodL8EySaQyuommsuVGq&amp;TB_iframe=true&amp;height=*&amp;width=700">Add Question Here</a><a btntype="SplitPageBtn" class="TextBtn thickbox" style="margin: 0px 3px; display: none;" title="Split Page Here" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKBdJ9ap43TGtuZyPntE0N85o%2fHVyK9pT5rkzENasHWk7nEfGlibH7%2bw5UZO%2fsX9N4%3d&amp;TB_iframe=true&amp;height=475&amp;width=650">Split Page Here</a></div>
+</div><div class="ed_QstHdr"><div style="white-space: nowrap;"><a class="TextBtn thickbox" title="Edit this question" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zAnsCIZze267URIVr7WeLYfu4v5SScCWZbtpznQuDEMY%3d&amp;TB_iframe=true&amp;height=*&amp;width=725">Edit Question</a><a class="TextBtn" title="Move this question to a different location in the survey" onclick="initQuestionMove('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','XXSTymF8WAgyM0gDp8sN9A%3d%3d');" href="javascript:void(null);">Move</a><a class="TextBtn" title="Copy this question to a different location in the survey" onclick="initQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','XXSTymF8WAgyM0gDp8sN9A%3d%3d');" href="javascript:void(null);">Copy</a><a class="TextBtn thickbox" title="Delete Question Confirmation" href="http://www.surveymonkey.com/MySurvey_DeleteQuestion_pop.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zAnsCIZze267URIVr7WeLYfu4v5SScCWZbtpznQuDEMY%3d&amp;TB_iframe=true&amp;height=400&amp;width=500">Delete</a></div><div class="ed_PageHdr"><div id="qBody_XXSTymF8WAgyM0gDp8sN9A=="><div id="q1" class="question" style="margin: 0pt;"><div class="qContent"><div class="qBody" style="width: 100%;">Please refer to the <a href="http://ocob-faculty.calpoly.edu/assessment/areas/is/BUS-LO2.2-Information_Systems_Rubric.xls">Information Systems LO 2.2 Rubric</a> for more details of the following assessment traits and criteria.</div></div></div></div></div></div><div id="qBody_58bb7ee0-4fa9-4a92-90fb-08847a3fb8cb">
+<div class="ed_BtnBar"><a btntype="CancelCopyBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Question Copy" onclick="cancelQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddQuestionBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Question Here" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zCpzjkymsesiFCc2CPEHCOLTMXZuMiAFzxPpG0%2bF%2fPdPP%2fJtH4N7od%2fK1Cq%2feEeIlwu3gd1T%2f0fccRnYNnFTirK3aFv4cXLC7XSs%2f3U74wHn%2fSY9P5HsVD1HApRpJeSqZ&amp;TB_iframe=true&amp;height=*&amp;width=700">Add Question Here</a><a btntype="SplitPageBtn" class="TextBtn thickbox" style="margin: 0px 3px;" title="Split Page Here" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKBdJ9ap43TGtuZyPntE0N8Hyu9w%2f7AhEFnF8ftVkpDH0mghJU3ii%2bldzWqOjFJ1h4%3d&amp;TB_iframe=true&amp;height=475&amp;width=650">Split Page Here</a></div>
+</div><div class="ed_QstHdr"><div style="white-space: nowrap;"><a class="TextBtn thickbox" title="Edit this question" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zTolFhQUNOdTqBVmkePL%2bsb1Eu2Nr9vxME5A%2bgHU7Yxg%3d&amp;TB_iframe=true&amp;height=*&amp;width=725">Edit Question</a><a class="TextBtn" title="Move this question to a different location in the survey" onclick="initQuestionMove('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','7q3jL4NaQHBGlivHZIGDWw%3d%3d');" href="javascript:void(null);">Move</a><a class="TextBtn" title="Copy this question to a different location in the survey" onclick="initQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','7q3jL4NaQHBGlivHZIGDWw%3d%3d');" href="javascript:void(null);">Copy</a><a class="TextBtn thickbox" title="Delete Question Confirmation" href="http://www.surveymonkey.com/MySurvey_DeleteQuestion_pop.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zTolFhQUNOdTqBVmkePL%2bsb1Eu2Nr9vxME5A%2bgHU7Yxg%3d&amp;TB_iframe=true&amp;height=400&amp;width=500">Delete</a></div><div class="ed_PageHdr"><div id="qBody_7q3jL4NaQHBGlivHZIGDWw=="><div id="q2" class="question" style="margin: 0pt;"><div class="RequiredMarker">*</div><div class="qContent"><h3 class="qHeader">Able to create a data model using an Entity Relationship Diagram (ERD).<br><br>Please enter your assessment totals (total # of students) in the corresponding fields:</h3><div class="qBody" style="width: 100%;"><table style="width: 100%;" border="0" cellpadding="3" cellspacing="0"><tbody><tr><td style="width: 20%;"><label for="text_146484708_1761052678">Does not Meet Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484708_1761052678" name="text_146484708_1761052678" class="open" size="5" type="text"></td></tr><tr><td style="width: 20%;"><label for="text_146484708_1761052679">Meets Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484708_1761052679" name="text_146484708_1761052679" class="open" size="5" type="text"></td></tr><tr><td style="width: 20%;"><label for="text_146484708_1761052680">Exceeds Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484708_1761052680" name="text_146484708_1761052680" class="open" size="5" type="text"></td></tr></tbody></table></div></div></div></div></div></div><div id="qBody_a1537bf7-4749-4b2d-9b98-7bcd485b6f9b">
+<div class="ed_BtnBar"><a btntype="CancelCopyBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Question Copy" onclick="cancelQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddQuestionBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Question Here" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zKPsRI0Ej9bBF5VyVNYCyrNyKrRwJvCWMld5wqUNEmv0Kp0Zqne5dvj32A%2firiIsFo95UjROmxJL5mX5AY80oUsqSs%2bdyo9q4RHm9mKajPY0sTrVqVhKArsbesJWlK7yj&amp;TB_iframe=true&amp;height=*&amp;width=700">Add Question Here</a><a btntype="SplitPageBtn" class="TextBtn thickbox" style="margin: 0px 3px;" title="Split Page Here" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKBdJ9ap43TGtuZyPntE0N8GVSmNaD0xmHaCtjW0MIYxfiz6HTe85yfZ94GGNdauLQ%3d&amp;TB_iframe=true&amp;height=475&amp;width=650">Split Page Here</a></div>
+</div><div class="ed_QstHdr"><div style="white-space: nowrap;"><a class="TextBtn thickbox" title="Edit this question" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zLrJJlrn4ta1XNmJmUUL39bJ0ZSg68uvM0CUId%2fsT1TU%3d&amp;TB_iframe=true&amp;height=*&amp;width=725">Edit Question</a><a class="TextBtn" title="Move this question to a different location in the survey" onclick="initQuestionMove('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','%2b%2b%2bd%2bc2Wb29%2bE0DfVf24ng%3d%3d');" href="javascript:void(null);">Move</a><a class="TextBtn" title="Copy this question to a different location in the survey" onclick="initQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','%2b%2b%2bd%2bc2Wb29%2bE0DfVf24ng%3d%3d');" href="javascript:void(null);">Copy</a><a class="TextBtn thickbox" title="Delete Question Confirmation" href="http://www.surveymonkey.com/MySurvey_DeleteQuestion_pop.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zLrJJlrn4ta1XNmJmUUL39bJ0ZSg68uvM0CUId%2fsT1TU%3d&amp;TB_iframe=true&amp;height=400&amp;width=500">Delete</a></div><div class="ed_PageHdr"><div id="qBody_+++d+c2Wb29+E0DfVf24ng=="><div id="q3" class="question" style="margin: 0pt;"><div class="RequiredMarker">*</div><div class="qContent"><h3 class="qHeader">Able to translate an ERD into a set of normalized tables.<br><br>Please enter your assessment totals (total # of students) in the corresponding fields:</h3><div class="qBody" style="width: 100%;"><table style="width: 100%;" border="0" cellpadding="3" cellspacing="0"><tbody><tr><td style="width: 20%;"><label for="text_146484709_1761053211">Does not Meet Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484709_1761053211" name="text_146484709_1761053211" class="open" size="5" type="text"></td></tr><tr><td style="width: 20%;"><label for="text_146484709_1761053212">Meets Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484709_1761053212" name="text_146484709_1761053212" class="open" size="5" type="text"></td></tr><tr><td style="width: 20%;"><label for="text_146484709_1761053213">Exceeds Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484709_1761053213" name="text_146484709_1761053213" class="open" size="5" type="text"></td></tr></tbody></table></div></div></div></div></div></div><div id="qBody_13f9f4c1-8bb8-4580-9f9d-bee61eabfeb5">
+<div class="ed_BtnBar"><a btntype="CancelCopyBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Question Copy" onclick="cancelQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddQuestionBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Question Here" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zWf9UkIB5dZIpEl3kVSRFizvPB%2fQp1S6cdZJHzTdaCzxlXRGJ0hAfLHEt01J8zs313I8jre8PTT8sUTAqyZhf5KXLIFdY1m1WuR7shYdUslnYXLPdMzi2VE2nMdNvuX0r&amp;TB_iframe=true&amp;height=*&amp;width=700">Add Question Here</a><a btntype="SplitPageBtn" class="TextBtn thickbox" style="margin: 0px 3px;" title="Split Page Here" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKBdJ9ap43TGtuZyPntE0N8zYk3brRLJFXYhR7EJRScARw%2bjObTR7zKmyX9z5PX5oc%3d&amp;TB_iframe=true&amp;height=475&amp;width=650">Split Page Here</a></div>
+</div><div class="ed_QstHdr"><div style="white-space: nowrap;"><a class="TextBtn thickbox" title="Edit this question" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88z78N9z9VJpLiCwu8Y8PHJ%2fc%2f1s%2fSsARBdzspZmrSc%2bvc%3d&amp;TB_iframe=true&amp;height=*&amp;width=725">Edit Question</a><a class="TextBtn" title="Move this question to a different location in the survey" onclick="initQuestionMove('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','sg3qObhjNVHLSziUO9jjIQ%3d%3d');" href="javascript:void(null);">Move</a><a class="TextBtn" title="Copy this question to a different location in the survey" onclick="initQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d','sg3qObhjNVHLSziUO9jjIQ%3d%3d');" href="javascript:void(null);">Copy</a><a class="TextBtn thickbox" title="Delete Question Confirmation" href="http://www.surveymonkey.com/MySurvey_DeleteQuestion_pop.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88z78N9z9VJpLiCwu8Y8PHJ%2fc%2f1s%2fSsARBdzspZmrSc%2bvc%3d&amp;TB_iframe=true&amp;height=400&amp;width=500">Delete</a></div><div class="ed_PageHdr"><div id="qBody_sg3qObhjNVHLSziUO9jjIQ=="><div id="q4" class="question" style="margin: 0pt;"><div class="RequiredMarker">*</div><div class="qContent"><h3 class="qHeader">Able to create tables and queries using the Structured Query Language (SQL).<br><br>Please enter your assessment totals (total # of students) in the corresponding fields:</h3><div class="qBody" style="width: 100%;"><table style="width: 100%;" border="0" cellpadding="3" cellspacing="0"><tbody><tr><td style="width: 20%;"><label for="text_146484710_1761053924">Does not Meet Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484710_1761053924" name="text_146484710_1761053924" class="open" size="5" type="text"></td></tr><tr><td style="width: 20%;"><label for="text_146484710_1761053925">Meets Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484710_1761053925" name="text_146484710_1761053925" class="open" size="5" type="text"></td></tr><tr><td style="width: 20%;"><label for="text_146484710_1761053926">Exceeds Expectations</label></td><td style="width: 80%; padding-top: 3px;" valign="top"><input id="text_146484710_1761053926" name="text_146484710_1761053926" class="open" size="5" type="text"></td></tr></tbody></table></div></div></div></div></div></div><div id="qBody_3f5b221e-637e-4956-b5dd-34af52b7a0d7">
+<div class="ed_BtnBar"><a btntype="CancelCopyBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Question Copy" onclick="cancelQuestionCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddQuestionBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Question Here" href="http://www.surveymonkey.com/QuestionBuilder.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJJpKy1klPYBv2L1WlZzD88zldcfG6%2b%2bdsD%2b3y9Zz5%2bBVqdZuXY3rFxLYwnKvMjELucQBS2EXnwKg5Po%2bEPlcj%2bsfAmsKFD742kguTicAxdetWPtSBTj1R7W9Vu5UjdWjyo%3d&amp;TB_iframe=true&amp;height=*&amp;width=700">Add Question Here</a><a btntype="SplitPageBtn" class="TextBtn thickbox" style="margin: 0px 3px; display: none;" title="" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJKBdJ9ap43TGtuZyPntE0N8hBIhwczyfivE%2b9yLrmfPbxLAOM6b1zwyvILl6F0g9Os%3d&amp;TB_iframe=true&amp;height=475&amp;width=650"></a></div>
+</div></div>
+
+</div>
+</td>
+</tr>
+</tbody></table>
+<div id="qBody_398c00e8-61a2-41b2-ba90-035fc43e4153">
+<div class="ed_SectBtnBar" style="color: rgb(0, 0, 0);"><a btntype="CancelCopyPageBtn" class="TextBtn" style="margin: 0px 3px; display: none;" title="Cancel Page Copy" onclick="cancelPageCopy('Gy8d6QtWYMDCRkpz3YIyog%3d%3d');" href="javascript:void(null);">Cancel Copy</a><a btntype="AddPageBtn" encsid="Gy8d6QtWYMDCRkpz3YIyog%3d%3d" class="TextBtn thickbox" style="margin: 0px 3px;" title="Add Page After" href="http://www.surveymonkey.com/MySurvey_EditPage.aspx?sm=Ldwun%2f%2fRm4NeyOGK9Z9oqlr4wHO%2br2GZVUD0aXJNtJItSZTEV8Kt%2fRTilg2xCbICxHS7KzU2Gczmtad7sgLdTsmSyeskjPSavtV5jxJSFTt36RcaSdkLEdPQzffv7Aqqrqu1v7zAZ8L2AeCYW%2bL6PQ%3d%3d&amp;TB_iframe=true&amp;height=450&amp;width=650">Add Page After</a></div><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--bottom bar-->
+
+<div id="bottombar">
+<div>
+<a id="Wc_Site_BottomBar1_hlSpam" title="Anti-Spam Policy" class="thickbox" href="http://www.surveymonkey.com/Monkey_NoSpam.aspx?TB_iframe=true&amp;height=500&amp;width=700">Anti-Spam Policy</a>
+<a id="Wc_Site_BottomBar1_hlTerm" title="Terms of Use" class="thickbox" href="http://www.surveymonkey.com/Monkey_Terms.aspx?TB_iframe=true&amp;height=500&amp;width=700">Terms of Use</a>
+<a id="Wc_Site_BottomBar1_hlPriv" title="Privacy Policy" href="http://www.surveymonkey.com/Monkey_Privacy.aspx" target="_blank">Privacy Statement</a>
+<a id="Wc_Site_BottomBar1_hlOpt" title="Opt Out Preferences" href="http://www.surveymonkey.com/OptOut.aspx" target="_blank">Opt Out/Opt In</a>
+<a id="Wc_Site_BottomBar1_hlAsk" title="Contact Us" onclick="helpcenter(this);" href="http://www.surveymonkey.com/HelpCenter/AskQuestion.aspx">Contact Us</a>
+<a target="_blank" href="javascript:void(null);" onclick="pageTracker._trackPageview('ext_Jobvite'); window.open ('http://www.surveymonkey.com/jobs/Home_Jobs.htm','jobswindow','menubar=0,resizable=1,scrollbars=1,status=1,width=900,height=700'); return false;" class="LinkSmall">We're Hiring!</a>
+</div>
+<div>Copyright ©1999-2009 SurveyMonkey.com.&nbsp;&nbsp;All Rights
+Reserved.&nbsp;&nbsp;No portion of this site may be copied without the
+express written consent of SurveyMonkey.com.&nbsp;
+<span style="color: rgb(211, 226, 248); font-size: 10px;">35</span></div>
+</div>
+<img src="BUS-LO2.2-Information_Systems_Rubric_files/t.gif" alt="spacer" height="20" width="780">
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="BUS-LO2.2-Information_Systems_Rubric_files/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-56526-1");
+		pageTracker._trackPageview("/MySurvey_EditorPage.aspx?uid=Wp2LYc%2b0W%2fJl2E6VHayI5A%3d%3d&uat=Professional");
+		
+	} catch (err) { }</script>
+
+
+<div>
+
+	
+</div></form>
+</body></html>

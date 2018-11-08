@@ -1,0 +1,22 @@
+ECON 201 (Villegas #1).pdf
+ECON 201 (Villegas #2).pdf
+ECON 221 (Lindahl MW 4-6).pdf
+ECON 221 (Lindahl TR 12-2).pdf
+ECON 221 (Lindahl TR 4-6).pdf
+ECON 221 (Shafran).pdf
+ECON 222 (Jones).pdf
+ECON 222 (Marshall).pdf
+ECON 222 (Shiers).pdf
+ECON 303 (Battista).pdf
+ECON 304 (Jones).pdf
+ECON 311 (Hamilton).pdf
+ECON 311 (Lepore).pdf
+ECON 330 (Fisher).pdf
+ECON 337 (Battista).pdf
+ECON 339 (Jaggia).pdf
+ECON 408 (Lepore).pdf
+ECON 431 (Hamilton).pdf
+ECON 434 (Shafran).pdf
+ECON 464 (Marlow).pdf
+GSB 512 (Jaggia).pdf
+list.txt

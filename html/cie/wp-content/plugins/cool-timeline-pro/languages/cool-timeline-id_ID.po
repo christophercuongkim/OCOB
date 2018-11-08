@@ -1,0 +1,1409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cool Timeline\n"
+"POT-Creation-Date: 2017-11-07 08:55+0000\n"
+"PO-Revision-Date: 2017-11-07 11:18+0000\n"
+"Last-Translator: admin <preetkiran.kpk@gmail.com>\n"
+"Language-Team: Indonesian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cooltimeline.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: id-ID\n"
+"Plural-Forms: nplurals=1; plural=0"
+
+#: cool-timeline-pro.php:465
+msgid ""
+"<img src=\"https://res.cloudinary."
+"com/cooltimeline/image/upload/v1505132504/cool-timeline-"
+"pro/timeline_shortcode.png\" style=\"width:100%\">"
+msgstr ""
+
+#: cool-timeline-pro.php:466
+msgid ""
+"<img style=\"width:100%\" src=\"https://res.cloudinary."
+"com/cooltimeline/image/upload/v1505132504/cool-timeline-pro/category-"
+"based_timeline.png\">"
+msgstr ""
+
+#: includes/ctl-meta-fields.php:46
+msgid " "
+msgstr ""
+
+#: admin-page-class/admin-page-class.php:1277
+msgid "Use this File"
+msgstr "Gunakan File ini"
+
+#: admin-page-class/admin-page-class.php:1281
+msgid "Use this Image"
+msgstr "Gunakan Gambar ini"
+
+#: admin-page-class/admin-page-class.php:1347
+#: admin-page-class/admin-page-class.php:1549
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: admin-page-class/admin-page-class.php:1373
+msgid "Settings saved."
+msgstr "Pengaturan disimpan."
+
+#: admin-page-class/admin-page-class.php:2334
+msgid "Delete this image"
+msgstr "Hapus gambar ini"
+
+#: admin-page-class/admin-page-class.php:2334
+#: admin-page-class/admin-page-class.php:3732
+msgid "Delete"
+msgstr "Menghapus"
+
+#: admin-page-class/admin-page-class.php:2524
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+"Tidak dapat menghapus file Ada yang salah.\n"
+
+#: admin-page-class/admin-page-class.php:2934
+#: admin-page-class/admin-page-class.php:2934
+#: admin-page-class/admin-page-class.php:3024
+#: admin-page-class/admin-page-class.php:3024
+msgid "Remove"
+msgstr "Menghapus"
+
+#: admin-page-class/admin-page-class.php:2958
+#: admin-page-class/admin-page-class.php:2958
+msgid "Add"
+msgstr "Menambahkan"
+
+#: admin-page-class/admin-page-class.php:3306
+msgid "Select Files"
+msgstr "Pilih File"
+
+#: admin-page-class/admin-page-class.php:3724
+msgid "Uploaded files"
+msgstr "File yang diunggah"
+
+#: admin-page-class/admin-page-class.php:3746
+msgid "Upload new files"
+msgstr "Upload file baru"
+
+#: admin-page-class/admin-page-class.php:3758
+msgid "Add more files"
+msgstr "Tambahkan lebih banyak file"
+
+#: admin-page-class/admin-page-class.php:3798
+#: admin-page-class/admin-page-class.php:3864
+msgid "Delete Image"
+msgstr "Hapus gambar"
+
+#: admin-page-class/admin-page-class.php:3808
+#: admin-page-class/admin-page-class.php:3874
+msgid "Upload Image"
+msgstr "Upload gambar"
+
+#: admin-page-class/admin-page-class.php:4176
+#: meta-box-class/my-meta-box-class.php:817
+msgid "Select a color"
+msgstr "Pilih warna"
+
+#: admin-page-class/admin-page-class.php:6706
+msgid "Export Code"
+msgstr "Kode ekspor"
+
+#: admin-page-class/admin-page-class.php:6710
+msgid "Get Export"
+msgstr "Dapatkan Ekspor"
+
+#: admin-page-class/admin-page-class.php:6720
+#: admin-page-class/admin-page-class.php:6730
+msgid "Import"
+msgstr "Impor"
+
+#: admin-page-class/admin-page-class.php:6722
+msgid ""
+"To Import saved settings paste the Export output in to the Import Code box "
+"bellow and click Import."
+msgstr ""
+"Untuk Mengimpor pengaturan tersimpan, tempel output Ekspor ke dalam kotak "
+"Import Code di bawah dan klik Import."
+
+#: admin-page-class/admin-page-class.php:6726
+msgid "Import Code"
+msgstr "Kode impor"
+
+#: admin-page-class/admin-page-class.php:6762
+msgid "Migrate Stories From Free To Pro Version"
+msgstr "Bermigrasi Cerita Dari Versi Gratis Untuk Versi"
+
+#: admin-page-class/admin-page-class.php:6762
+msgid "Migrate content"
+msgstr "Migrasikan konten"
+
+#: admin-page-class/admin-page-class.php:6764
+msgid "No Stories is Available For Migration"
+msgstr "Tidak Ada Cerita Tersedia untuk Migrasi"
+
+#: admin-page-class/admin-page-class.php:6887
+msgid "Setting imported, make sure you "
+msgstr "Setting yang diimpor, pastikan Anda"
+
+#: admin-page-class/admin-page-class.php:6887
+msgid "Refresh this page"
+msgstr "Segarkan halaman ini"
+
+#: admin-page-class/admin-page-class.php:6891
+msgid "Could not import settings! (4)"
+msgstr ""
+"Tidak dapat mengimpor setelan! (4)\n"
+
+#: admin-page-class/admin-page-class.php:6935
+msgid "You have successfully migrated content"
+msgstr "Anda telah berhasil memigrasikan konten"
+
+#: admin-page-class/admin-page-class.php:6941
+msgid "You cannot migrate any story"
+msgstr "Anda tidak dapat memigrasikan cerita apa pun"
+
+#: admin-page-class/admin-page-class.php:6976
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr ""
+"Anda tidak memiliki cukup izin untuk mengedit template untuk situs ini."
+
+#: admin-page-class/admin-page-class.php:7026
+msgid "Download Export"
+msgstr "Download Ekspor"
+
+#: admin-page-class/admin-page-class.php:7165
+msgid "Not Valid "
+msgstr "Tidak valid"
+
+#: admin-page-class/admin-page-class.php:7201
+msgid "Errors in saving changes"
+msgstr ""
+"Kesalahan dalam menyimpan perubahan\n"
+
+#: admin-page-class/admin-page-class.php:7251
+msgid "Unkown Error"
+msgstr "Kesalahan yang tidak diketahui"
+
+#: fa-icons/fa-icons-class.php:82
+msgid "Select Font Awesome Icon"
+msgstr "Pilih Font Awesome Ikon"
+
+#: fa-icons/fa-icons-class.php:136
+msgid "Select Story Icon"
+msgstr "Pilih Ikon Cerita"
+
+#: fa-icons/fa-icons-class.php:159
+msgid "Add Icon"
+msgstr "Tambahkan Ikon"
+
+#: cool-timeline-pro.php:237 cool-timeline-pro.php:264
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: cool-timeline-pro.php:238 cool-timeline-pro.php:304
+msgid "Style Settings"
+msgstr "Pengaturan Gaya"
+
+#: cool-timeline-pro.php:239 cool-timeline-pro.php:345
+msgid "Typography Settings"
+msgstr "Pengaturan Tipografi"
+
+#: cool-timeline-pro.php:240 cool-timeline-pro.php:367
+msgid "Stories Settings"
+msgstr "Cerita Pengaturan"
+
+#: cool-timeline-pro.php:241
+msgid "Date Settings"
+msgstr "Pengaturan tanggal"
+
+#: cool-timeline-pro.php:242
+msgid "Navigation Settings"
+msgstr "Pengaturan Navigasi"
+
+#: cool-timeline-pro.php:243
+msgid "Timeline Display"
+msgstr "Tampilan Garis Waktu"
+
+#: cool-timeline-pro.php:244
+msgid "Content Timeline Settings"
+msgstr "Pengaturan Garis Waktu Konten"
+
+#: cool-timeline-pro.php:245
+msgid "Extra Settings"
+msgstr "Pengaturan Ekstra"
+
+#: cool-timeline-pro.php:246
+msgid "Migrations"
+msgstr "Migrasi"
+
+#: cool-timeline-pro.php:265
+msgid "Timeline Title (Default) "
+msgstr "Judul Garis Waktu (Default)"
+
+#: cool-timeline-pro.php:273
+msgid "Title Heading Tag "
+msgstr "Tag Judul Judul"
+
+#: cool-timeline-pro.php:275
+msgid "Title Alignment ?"
+msgstr "Judul Alignment?"
+
+#: cool-timeline-pro.php:277
+msgid "Display Title ?"
+msgstr "Judul Tampilan?"
+
+#: cool-timeline-pro.php:279
+msgid "Number of stories to display ?"
+msgstr "Jumlah cerita yang akan ditampilkan?"
+
+#: cool-timeline-pro.php:279
+msgid ""
+"This option is overridden by shortcode. Please check shortcode generator."
+msgstr ""
+"Pilihan ini diganti dengan shortcode. Silahkan cek generator shortcode.\n"
+
+#: cool-timeline-pro.php:281
+msgid "Content Length ? "
+msgstr "Panjang Konten?"
+
+#: cool-timeline-pro.php:281
+msgid "Please enter no of words"
+msgstr "Jangan masukkan kata-kata"
+
+#: cool-timeline-pro.php:284
+msgid "Timeline default Image"
+msgstr "Gambar default Timeline"
+
+#: cool-timeline-pro.php:287
+msgid "Stories Description?"
+msgstr "Cerita Deskripsi?"
+
+#: cool-timeline-pro.php:287
+msgid ""
+"This option is overridden by shortcode in V2.1. Please check shortcode "
+"generator."
+msgstr ""
+"Pilihan ini diganti dengan kode pendek di V2.1. Silahkan cek generator "
+"shortcode.\n"
+
+#: cool-timeline-pro.php:290
+msgid "Display read more ?"
+msgstr "Tampilan baca lebih banyak?"
+
+#: cool-timeline-pro.php:292
+msgid "Stories Read more Text"
+msgstr "Cerita Baca lebih banyak Teks"
+
+#: cool-timeline-pro.php:296
+msgid "Stories Order ?"
+msgstr "Cerita Order?"
+
+#: cool-timeline-pro.php:296
+msgid ""
+"This option is overridden by shortcode. Please check your shortcode "
+"generator."
+msgstr ""
+"Pilihan ini diganti dengan shortcode. Silahkan cek generator shortcode anda."
+"\n"
+
+#: cool-timeline-pro.php:309
+msgid "Background Color"
+msgstr "Warna latar belakang"
+
+#: cool-timeline-pro.php:316
+msgid "Container Background "
+msgstr ""
+"Latar Belakang Kontainer\n"
+
+#: cool-timeline-pro.php:323
+msgid "Story Background Color"
+msgstr "Latar Belakang Cerita Warna"
+
+#: cool-timeline-pro.php:325
+msgid "Content Font Color"
+msgstr "Warna Font Isi"
+
+#: cool-timeline-pro.php:326
+msgid "Story Title Color"
+msgstr "Judul Cerita Warna"
+
+#: cool-timeline-pro.php:328
+msgid "Circle Color"
+msgstr "Lingkari Warna"
+
+#: cool-timeline-pro.php:330
+msgid "Line Color"
+msgstr "Warna garis"
+
+#: cool-timeline-pro.php:332
+msgid "First Color"
+msgstr "Warna pertama"
+
+#: cool-timeline-pro.php:333
+msgid "Second Color"
+msgstr "Warna kedua"
+
+#: cool-timeline-pro.php:346
+msgid "Main Title"
+msgstr "Judul utama"
+
+#: cool-timeline-pro.php:348
+msgid "Story Title"
+msgstr "Judul cerita"
+
+#: cool-timeline-pro.php:353
+msgid "Story Title Style ?"
+msgstr "Gaya Judul Cerita?"
+
+#: cool-timeline-pro.php:355 includes/cool_vc_addon.php:225
+#: includes/cool_vc_addon.php:478
+msgid "Story Content"
+msgstr "Konten Cerita"
+
+#: cool-timeline-pro.php:368
+msgid "Custom slug of timeline stories"
+msgstr "Custom siput cerita timeline"
+
+#: cool-timeline-pro.php:368
+msgid "Remember to save the permalink again in settings -> Permalinks."
+msgstr "Ingatlah untuk menyimpan permalink lagi di setting -> Permalinks."
+
+#: cool-timeline-pro.php:371
+msgid ""
+"Animation Effects option is added in shortcode generator in Version 1.9 or "
+"Later"
+msgstr ""
+"Pilihan Animation Effects ditambahkan pada generator shortcode pada Versi 1."
+"9 atau Later"
+
+#: cool-timeline-pro.php:374
+msgid "Stories Images?"
+msgstr "Cerita gambar"
+
+#: cool-timeline-pro.php:377
+msgid "Stories Slideshow ?"
+msgstr ""
+"Cerita Slideshow?\n"
+
+#: cool-timeline-pro.php:380
+msgid "Show go to back link ?"
+msgstr "Tunjukkan link ke belakang?"
+
+#: cool-timeline-pro.php:380
+msgid "Show go back to timeline link on single story(detail) page."
+msgstr "Tunjukkan kembali ke link timeline di halaman single story (detail)."
+
+#: cool-timeline-pro.php:382
+msgid "Go Back Link Text"
+msgstr "Kembali Link Teks"
+
+#: cool-timeline-pro.php:382
+msgid "Add change Go to back link text"
+msgstr "Tambahkan perubahan Kembali ke teks tautan"
+
+#: cool-timeline-pro.php:385
+msgid "Slider animation ?"
+msgstr "Animasi slider"
+
+#: cool-timeline-pro.php:387
+msgid "Slide Show Speed ?"
+msgstr "Slide Show Kecepatan?"
+
+#: cool-timeline-pro.php:387
+msgid "Enter the speed in milliseconds 1000 = 1 second"
+msgstr "Masukkan kecepatan dalam milidetik 1000 = 1 detik"
+
+#: cool-timeline-pro.php:389
+msgid "Stories Default Icon"
+msgstr "Cerita Ikon Default"
+
+#: cool-timeline-pro.php:389
+msgid ""
+"Please add stories default  icon class from here <a target=\"_blank\" "
+"href=\"http://fontawesome.io/icons\">Font Awesome</a>"
+msgstr ""
+"Tolong tambahkan cerita kelas ikon default dari sini <a target=\"_blank\" "
+"href=\"http://fontawesome.io/icons\"> Font Awesome </a>"
+
+#: cool-timeline-pro.php:399
+msgid "Stories Date Settings"
+msgstr "Cerita Pengaturan Tanggal"
+
+#: cool-timeline-pro.php:401
+msgid "Disable Stories Dates ?"
+msgstr "Nonaktifkan Cerita Tanggal?"
+
+#: cool-timeline-pro.php:406
+msgid "Stories Date Formats ?"
+msgstr "Cerita Format Tanggal?"
+
+#: cool-timeline-pro.php:408
+msgid "Custom date formats"
+msgstr "Format tanggal khusus"
+
+#: cool-timeline-pro.php:408
+msgid ""
+"Stories date formats   e.g  D,M,Y <a  target=\"_blank\" href=\"http://php."
+"net/manual/en/function.date.php\">Click here to view more</a>"
+msgstr ""
+"Format tanggal cerita misalnya D, M, Y <a target=\"_blank\" href=\"http:"
+"//php.net/manual/en/function.date.php\"> Klik di sini untuk melihat lebih "
+"banyak </a>"
+
+#: cool-timeline-pro.php:411
+msgid "Enable custom date styles"
+msgstr "Aktifkan gaya tanggal kustom"
+
+#: cool-timeline-pro.php:413
+msgid "Stories date Font style"
+msgstr "Cerita tanggal Gaya huruf"
+
+#: cool-timeline-pro.php:416
+msgid "Enable custom date Color"
+msgstr "Aktifkan Warna tanggal kustom"
+
+#: cool-timeline-pro.php:417
+msgid "Stories date color"
+msgstr "Cerita tanggal warna"
+
+#: cool-timeline-pro.php:427
+msgid "Timeline Scrolling Navigation settings"
+msgstr ""
+"Pengaturan Navigasi Timeline Scrolling\n"
+
+#: cool-timeline-pro.php:429
+msgid "Enable Scrolling  Navigation ?"
+msgstr "Aktifkan Navigasi Bergulir?"
+
+#: cool-timeline-pro.php:433
+msgid "Scrolling Navigation Position ?"
+msgstr "Bergulir Navigasi Posisi?"
+
+#: cool-timeline-pro.php:436
+msgid "Enable Pagination ?"
+msgstr "Aktifkan Pagination?"
+
+#: cool-timeline-pro.php:436
+msgid "Pagination settings added in shortcode Generator in version 2.4"
+msgstr ""
+"Pengaturan paginasi ditambahkan pada generator shortcode pada versi 2.4"
+
+#: cool-timeline-pro.php:451
+msgid "Custom Styles"
+msgstr "Gaya Kustom"
+
+#: cool-timeline-pro.php:467
+msgid ""
+"Please use below added shortcode for default timeline. <br><br>\n"
+"\t\t<code><strong>[cool-timeline layout=\"default\" skin=\"default\" show-"
+"posts=\"20\" order=\"DESC\" icons=\"NO\"] </strong> </code>"
+msgstr ""
+"Harap gunakan kode singkat yang ditambahkan di bawah untuk garis waktu "
+"default. <br> <br>\n"
+"<code><strong>[cool-timeline layout=\"default\" skin=\"default\" show-"
+"posts=\"20\" order=\"DESC\" icons=\"NO\"] </strong> </code>"
+
+#: cool-timeline-pro.php:470
+msgid ""
+"Please use below added shortcode for multiple timeline (category based "
+"timeline). <br> <br> <code><strong>[cool-timeline  layout=\"default\"  "
+"skin=\"default\"  order=\"DESC\" icons=\"NO\" category=\"{add here story "
+"category id}\" show-posts=\"20\"] </strong></code>"
+msgstr ""
+"Harap gunakan kode singkat berikut untuk beberapa garis waktu (garis waktu "
+"berbasis kategori). <br> <br> <code><strong>[cool-timeline  "
+"layout=\"default\"  skin=\"default\"  order=\"DESC\" icons=\"NO\" "
+"category=\"{add here story category id}\" show-posts=\"20\"] </strong></code>"
+
+#: cool-timeline-pro.php:472
+msgid ""
+"Horizontal Timeline. <br><br>\n"
+"\t\t<code><strong>[cool-timeline type=\"horizontal\" category=\"{add here "
+"story category id}\" skin=\"default\" show-posts=\"20\" order=\"DESC\" "
+"icons=\"NO\"]</strong> </code>"
+msgstr ""
+"Garis Waktu Horizontal. <br> <br>\n"
+"                <code><strong>[cool-timeline type=\"horizontal\" "
+"category=\"{add here story category id}\" skin=\"default\" show-posts=\"20\" "
+"order=\"DESC\" icons=\"NO\"]</strong> </code>"
+
+#: cool-timeline-pro.php:475
+msgid ""
+"Content Timeline(any post type). <br><br>\n"
+"\t\t<code><strong>[cool-content-timeline post-type=\"post\" "
+"layout=\"default\" skin=\"default\" show-posts=\"20\" order=\"DESC\" "
+"icons=\"NO\"]</strong> </code>"
+msgstr ""
+"Content Timeline (semua jenis posting).  <br><br>\n"
+"\t\t<code><strong>[cool-content-timeline post-type=\"post\" "
+"layout=\"default\" skin=\"default\" show-posts=\"20\" order=\"DESC\" "
+"icons=\"NO\"]</strong> </code>"
+
+#: cool-timeline-pro.php:485
+msgid "Display Post Meta (Categries,Tags) ?"
+msgstr "Tampilan Post Meta (Kategori, Tag)?"
+
+#: cool-timeline-pro.php:492
+msgid "Story Migrations"
+msgstr "Migrasi Cerita"
+
+#: includes/common-query.php:32 includes/cool_vc_addon.php:36
+msgid "d/m/Y"
+msgstr "d / m / Y"
+
+#: includes/cool_timeline_posttype.php:39
+msgctxt "Post Type General Name"
+msgid "Timeline Stories"
+msgstr "Cerita Timeline"
+
+#: includes/cool_timeline_posttype.php:40
+msgctxt "Post Type Singular Name"
+msgid "Timeline Stories"
+msgstr "Cerita Timeline"
+
+#: includes/cool_timeline_posttype.php:41
+#: includes/cool_timeline_posttype.php:42
+msgid "Timeline Stories"
+msgstr "Cerita Timeline"
+
+#: includes/cool_timeline_posttype.php:43
+#: includes/cool_timeline_posttype.php:96
+msgid "Parent Item:"
+msgstr "Induk Item:"
+
+#: includes/cool_timeline_posttype.php:44
+msgid "All Stories"
+msgstr "semua Cerita"
+
+#: includes/cool_timeline_posttype.php:45
+msgid "Add New Story"
+msgstr "Tambahkan Cerita Baru"
+
+#: includes/cool_timeline_posttype.php:46
+msgid "Add New"
+msgstr "Tambah baru"
+
+#: includes/cool_timeline_posttype.php:47
+msgid "New Story"
+msgstr "Cerita baru"
+
+#: includes/cool_timeline_posttype.php:48
+msgid "Edit Story"
+msgstr "mengedit Cerita"
+
+#: includes/cool_timeline_posttype.php:49
+msgid "Update Story"
+msgstr "Update Cerita"
+
+#: includes/cool_timeline_posttype.php:50
+msgid "View Story"
+msgstr "Update Cerita"
+
+#: includes/cool_timeline_posttype.php:51
+msgid "Search Story"
+msgstr "Cari Cerita"
+
+#: includes/cool_timeline_posttype.php:52
+msgid "Not found"
+msgstr "Tidak ditemukan"
+
+#: includes/cool_timeline_posttype.php:53
+msgid "Not found in Trash"
+msgstr "Tidak ditemukan di Sampah"
+
+#: includes/cool_timeline_posttype.php:65
+msgid "cool-timeline"
+msgstr "cool-timeline"
+
+#: includes/cool_timeline_posttype.php:66
+msgid "Timeline Post Type Description"
+msgstr "Timeline Pos Jenis Deskripsi"
+
+#: includes/cool_timeline_posttype.php:91
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr "kategori"
+
+#: includes/cool_timeline_posttype.php:92
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/cool_timeline_posttype.php:93
+msgid "Categories"
+msgstr "Kategori"
+
+#: includes/cool_timeline_posttype.php:94
+msgid "All Items"
+msgstr "Semua barang"
+
+#: includes/cool_timeline_posttype.php:95
+msgid "Parent Item"
+msgstr "induk Barang"
+
+#: includes/cool_timeline_posttype.php:97
+msgid "New Item Name"
+msgstr "Barang baru Nama"
+
+#: includes/cool_timeline_posttype.php:98
+msgid "Add New Item"
+msgstr "Tambahkan Item Baru"
+
+#: includes/cool_timeline_posttype.php:99
+msgid "Edit Item"
+msgstr "mengedit Barang"
+
+#: includes/cool_timeline_posttype.php:100
+msgid "Update Item"
+msgstr "Update Barang"
+
+#: includes/cool_timeline_posttype.php:101
+msgid "View Item"
+msgstr "Lihat Barang"
+
+#: includes/cool_timeline_posttype.php:102
+msgid "Separate items with commas"
+msgstr "item dengan koma"
+
+#: includes/cool_timeline_posttype.php:103
+msgid "Add or remove items"
+msgstr "Tambahkan atau hapus item"
+
+#: includes/cool_timeline_posttype.php:104
+msgid "Choose from the most used"
+msgstr "Pilih dari yang paling sering digunakan"
+
+#: includes/cool_timeline_posttype.php:105
+msgid "Popular Items"
+msgstr "Produk populer"
+
+#: includes/cool_timeline_posttype.php:106
+msgid "Search Items"
+msgstr "Cari Produk"
+
+#: includes/cool_timeline_posttype.php:107
+msgid "Not Found"
+msgstr "Tidak ditemukan"
+
+#: includes/cool_timeline_posttype.php:108
+msgid "No items"
+msgstr "Tidak ada barang"
+
+#: includes/cool_timeline_posttype.php:109
+msgid "Items list"
+msgstr "daftar item"
+
+#: includes/cool_timeline_posttype.php:110
+msgid "Items list navigation"
+msgstr "daftar item navigasi"
+
+#: includes/cool_timeline_posttype.php:161
+msgctxt "column name"
+msgid "Story Title"
+msgstr "Judul cerita"
+
+#: includes/cool_timeline_posttype.php:162
+msgctxt "column name"
+msgid "Story Category"
+msgstr "cerita Kategori"
+
+#: includes/cool_timeline_posttype.php:163
+msgid "Story Year"
+msgstr "Cerita tahun"
+
+#: includes/cool_timeline_posttype.php:164
+msgid "Story Date"
+msgstr "Cerita Tanggal"
+
+#: includes/cool_timeline_posttype.php:167
+msgid "Story Custom Label"
+msgstr "Label Khusus Cerita"
+
+#: includes/cool_timeline_posttype.php:168
+msgid "Story Custom Order"
+msgstr "Cerita Kustom Order"
+
+#: includes/cool_timeline_shortcode.php:205 includes/ct-shortcode-new.php:222
+msgid " Loading"
+msgstr "Pemuatan"
+
+#: includes/cool_timeline_shortcode.php:206 includes/ct-shortcode-new.php:222
+msgid "Load More"
+msgstr "Muat lebih"
+
+#: includes/cool_timeline_shortcode.php:243
+#: includes/views/content-timeline.php:121
+msgid "Read More"
+msgstr "Baca lebih banyak"
+
+#: includes/cool_vc_addon.php:31 includes/cool_vc_addon.php:115
+#: includes/cool_vc_addon.php:172 includes/cool_vc_addon.php:266
+#: includes/cool_vc_addon.php:381 includes/cool_vc_addon.php:437
+#: includes/cool_vc_addon.php:494
+msgid "Default"
+msgstr "kegagalan"
+
+#: includes/cool_vc_addon.php:32
+msgid "F j"
+msgstr "F j"
+
+#: includes/cool_vc_addon.php:33
+msgid "F j Y"
+msgstr "F j Y"
+
+#: includes/cool_vc_addon.php:34
+msgid "Y-m-d"
+msgstr "Y-m-d"
+
+#: includes/cool_vc_addon.php:35
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+#: includes/cool_vc_addon.php:37
+msgid "F j Y g:i A"
+msgstr "F j Y g:i A"
+
+#: includes/cool_vc_addon.php:38
+msgid "Y"
+msgstr "Y"
+
+#: includes/cool_vc_addon.php:39
+msgid "Custom"
+msgstr "Adat"
+
+#: includes/cool_vc_addon.php:42
+msgid "bounceInUp"
+msgstr "bounceInUp"
+
+#: includes/cool_vc_addon.php:43
+msgid "bounceInDown"
+msgstr "bounceInDown"
+
+#: includes/cool_vc_addon.php:44
+msgid "bounceInLeft"
+msgstr "bounceInLeft"
+
+#: includes/cool_vc_addon.php:45
+msgid "bounceInRight"
+msgstr "bounceInRight"
+
+#: includes/cool_vc_addon.php:46
+msgid "slideInDown"
+msgstr "slideInDown"
+
+#: includes/cool_vc_addon.php:47
+msgid "slideInUp"
+msgstr "slideInUp"
+
+#: includes/cool_vc_addon.php:48
+msgid "slideInLeft"
+msgstr "slideInLeft"
+
+#: includes/cool_vc_addon.php:49
+msgid "slideInRight"
+msgstr "slideInRight"
+
+#: includes/cool_vc_addon.php:50
+msgid "shake"
+msgstr "menggoyang"
+
+#: includes/cool_vc_addon.php:51
+msgid "wobble"
+msgstr "goyangan"
+
+#: includes/cool_vc_addon.php:52
+msgid "swing"
+msgstr "ayunan"
+
+#: includes/cool_vc_addon.php:53
+msgid "jello"
+msgstr "jello"
+
+#: includes/cool_vc_addon.php:54
+msgid "flip"
+msgstr "membalik"
+
+#: includes/cool_vc_addon.php:55
+msgid "fadein"
+msgstr "fadein"
+
+#: includes/cool_vc_addon.php:56
+msgid "rotatein"
+msgstr "rotatein"
+
+#: includes/cool_vc_addon.php:57
+msgid "None"
+msgstr "tak satupun"
+
+#: includes/cool_vc_addon.php:60
+msgid "Cool Timeline Default"
+msgstr "Keren Timeline default"
+
+#: includes/cool_vc_addon.php:61
+msgid "Create Stories Timeline"
+msgstr "Buat Cerita Timeline"
+
+#. Plugin Name of the plugin/theme
+#: includes/cool_vc_addon.php:66
+msgid "Cool Timeline"
+msgstr "keren Timeline"
+
+#: includes/cool_vc_addon.php:73
+msgid "Select Stories Category"
+msgstr "Pilih Stories Kategori"
+
+#: includes/cool_vc_addon.php:76
+msgid "Create Category Specific Timeline (By Default - All Categories)"
+msgstr "Create Category Specific Timeline (By Default - All Categories)"
+
+#: includes/cool_vc_addon.php:83
+msgid "Timeline Type"
+msgstr "Jenis Timeline"
+
+#: includes/cool_vc_addon.php:86
+msgid "Vertical Timeline (Default)"
+msgstr "Vertikal Timeline (Default)"
+
+#: includes/cool_vc_addon.php:87
+msgid "Horizontal Timeline"
+msgstr "Timeline horisontal"
+
+#: includes/cool_vc_addon.php:97
+msgid "Vertical Timeline Layout"
+msgstr "Vertikal Timeline Tata Letak"
+
+#: includes/cool_vc_addon.php:100
+msgid "Vertical Both side"
+msgstr "Vertikal Kedua sisi"
+
+#: includes/cool_vc_addon.php:101
+msgid "Vertical one sided"
+msgstr "vertikal sisi"
+
+#: includes/cool_vc_addon.php:102 includes/cool_vc_addon.php:367
+msgid "Compact Layout"
+msgstr "Kompak Layout"
+
+#: includes/cool_vc_addon.php:105 includes/cool_vc_addon.php:371
+msgid "Select your timeline layout "
+msgstr "Pilih tata letak garis waktu Anda"
+
+#: includes/cool_vc_addon.php:112 includes/cool_vc_addon.php:378
+msgid "Timeline Designs"
+msgstr "Desain Timeline"
+
+#: includes/cool_vc_addon.php:116 includes/cool_vc_addon.php:382
+msgid "Flat Design"
+msgstr "Desain datar"
+
+#: includes/cool_vc_addon.php:117 includes/cool_vc_addon.php:383
+msgid "Classic Design"
+msgstr "Desain klasik"
+
+#: includes/cool_vc_addon.php:118 includes/cool_vc_addon.php:384
+msgid "Elegant Design"
+msgstr "Desain elegan"
+
+#: includes/cool_vc_addon.php:121 includes/cool_vc_addon.php:387
+msgid ""
+"Choose Timeline Designs (Check Vertical Designs & Horizontal Designs )\n"
+"                       <br><a target=\"_blank\" href=\"http://www."
+"cooltimeline.com/cool-timeline-pro-vertical-designs\">Vertical Timeline "
+"demos</a>\n"
+"                          |   <a target=\"_blank\" href=\"http://www."
+"cooltimeline.com/horizontal-timeline-designs-demos\">Horizontal Timeline "
+"demos</a>"
+msgstr ""
+"Pilih Timeline Desain (Periksa Vertical Desain & Desain Horizontal)\n"
+"               <br><a target=\"_blank\" href=\"http://www.cooltimeline."
+"com/cool-timeline-pro-vertical-designs\">Vertical Timeline demos</a>\n"
+"                          |   <a target=\"_blank\" href=\"http://www."
+"cooltimeline.com/horizontal-timeline-designs-demos\">Horizontal Timeline "
+"demos</a>"
+
+#: includes/cool_vc_addon.php:128 includes/cool_vc_addon.php:394
+msgid "Display Stories Blocks/Columns"
+msgstr "Tampilan Cerita Blok / Kolom"
+
+#: includes/cool_vc_addon.php:131
+msgid "Select number of items"
+msgstr "Pilih jumlah item"
+
+#: includes/cool_vc_addon.php:137
+msgid ""
+"*This Options Is Not For Default Design. (<a href=\"http://www.cooltimeline."
+"com/horizontal-timeline-flat-design\">Horizontal Timeline</a>"
+msgstr ""
+"* Pilihan ini Bukan Untuk Desain Default. (<a href=\"http://www.cooltimeline."
+"com/horizontal-timeline-flat-design\"> Garis Waktu Horisontal </a>\n"
+
+#: includes/cool_vc_addon.php:139
+msgid "This options is not for default desgin."
+msgstr "Pilihan ini bukan untuk desgin default."
+
+#: includes/cool_vc_addon.php:145 includes/cool_vc_addon.php:411
+msgid "Autoplay Stories settings ?"
+msgstr "Pengaturan Cerita Autoplay"
+
+#: includes/cool_vc_addon.php:148 includes/cool_vc_addon.php:414
+msgid "False"
+msgstr "Salah"
+
+#: includes/cool_vc_addon.php:149 includes/cool_vc_addon.php:415
+msgid "True"
+msgstr "Benar"
+
+#: includes/cool_vc_addon.php:157
+msgid "Timeline Starting from Story e.g(2)"
+msgstr "Garis Waktu Mulai dari Cerita misalnya (2)"
+
+#: includes/cool_vc_addon.php:169 includes/cool_vc_addon.php:434
+msgid "Timeline skin"
+msgstr "kulit Timeline"
+
+#: includes/cool_vc_addon.php:173 includes/cool_vc_addon.php:438
+msgid "Light"
+msgstr "Cahaya"
+
+#: includes/cool_vc_addon.php:174 includes/cool_vc_addon.php:439
+msgid "dark"
+msgstr "gelap"
+
+#: includes/cool_vc_addon.php:176
+msgid "Create Light, Dark or Colorful Timeline"
+msgstr "Buat Cahaya, Dark atau Timeline Colorful"
+
+#: includes/cool_vc_addon.php:182
+msgid "Timeline Based On"
+msgstr "Timeline Berdasarkan"
+
+#: includes/cool_vc_addon.php:185
+msgid "Default (Date Based)"
+msgstr "Default (berdasarkan tanggal)"
+
+#: includes/cool_vc_addon.php:186
+msgid "Custom Order Number"
+msgstr "Nomor Pesanan Kustom"
+
+#: includes/cool_vc_addon.php:188
+msgid "Show either date or custom label/text along with timeline stories."
+msgstr "Tampilkan tanggal atau label / teks khusus beserta cerita waktu."
+
+#: includes/cool_vc_addon.php:194 includes/cool_vc_addon.php:447
+msgid "Order"
+msgstr "Memesan"
+
+#: includes/cool_vc_addon.php:197 includes/cool_vc_addon.php:450
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/cool_vc_addon.php:198 includes/cool_vc_addon.php:451
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/cool_vc_addon.php:200 includes/cool_vc_addon.php:453
+msgid "Timeline Stories order like:- DESC(2017-1900) , ASC(1900-2017)"
+msgstr "Cerita Timeline memesan seperti: - DESC (2017-1900), ASC (1900-2017)"
+
+#: includes/cool_vc_addon.php:206 includes/cool_vc_addon.php:459
+msgid "Date Formats"
+msgstr "Tanggal Format"
+
+#: includes/cool_vc_addon.php:209 includes/cool_vc_addon.php:462
+msgid "Timeline Stories dates custom formats"
+msgstr "Cerita Timeline tanggal format kustom"
+
+#: includes/cool_vc_addon.php:215
+msgid "Show number of Stories"
+msgstr "Tampilkan jumlah Cerita"
+
+#: includes/cool_vc_addon.php:219 includes/cool_vc_addon.php:472
+msgid "You Can Show Pagination After These Posts In Vertical Timeline."
+msgstr ""
+"Anda Bisa Tampilkan Pagination Setelah Tulisan ini Dalam Vertical Timeline."
+
+#: includes/cool_vc_addon.php:228 includes/cool_vc_addon.php:481
+msgid "Summary"
+msgstr "Ringkasan"
+
+#: includes/cool_vc_addon.php:229 includes/cool_vc_addon.php:482
+msgid "Full Text"
+msgstr "Teks lengkap"
+
+#: includes/cool_vc_addon.php:238 includes/cool_vc_addon.php:522
+msgid "Icons"
+msgstr "ikon"
+
+#: includes/cool_vc_addon.php:241 includes/cool_vc_addon.php:525
+msgid "YES"
+msgstr "IYA NIH"
+
+#: includes/cool_vc_addon.php:242 includes/cool_vc_addon.php:526
+msgid "NO"
+msgstr "TIDAK"
+
+#: includes/cool_vc_addon.php:244 includes/cool_vc_addon.php:528
+msgid "Display Icons In Timeline Stories. By default Is Dot."
+msgstr "Ikon layar Dalam Cerita Timeline. Secara default Apakah Dot."
+
+#: includes/cool_vc_addon.php:251
+msgid "Compact Layout Date&Title positon"
+msgstr "Tanggal & Judul Posisi Kompak"
+
+#: includes/cool_vc_addon.php:254
+msgid "On top date/label below title"
+msgstr "Di atas tanggal / label di bawah judul"
+
+#: includes/cool_vc_addon.php:255
+msgid "On top title below date/label"
+msgstr "Di atas judul di bawah tanggal / label"
+
+#: includes/cool_vc_addon.php:263 includes/cool_vc_addon.php:491
+msgid "Pagination ?"
+msgstr "Pagination?"
+
+#: includes/cool_vc_addon.php:267 includes/cool_vc_addon.php:495
+msgid "Ajax Load More"
+msgstr "Beban Ajax Lebih"
+
+#: includes/cool_vc_addon.php:277 includes/cool_vc_addon.php:506
+msgid "Enable category filters ?"
+msgstr "Aktifkan filter kategori"
+
+#: includes/cool_vc_addon.php:280 includes/cool_vc_addon.php:509
+msgid "No"
+msgstr "Tidak"
+
+#: includes/cool_vc_addon.php:281 includes/cool_vc_addon.php:510
+msgid "Yes"
+msgstr "iya nih"
+
+#: includes/cool_vc_addon.php:292 includes/cool_vc_addon.php:534
+msgid "Animations Effect"
+msgstr "animasi Effect"
+
+#: includes/cool_vc_addon.php:295 includes/cool_vc_addon.php:537
+msgid ""
+"Add Animations Effect Inside Timeline. You Can Check Effects Demo From <a  "
+"target='_blank' href='https://daneden.github.io/animate.css/'>Animate.css</a>"
+"."
+msgstr ""
+"Tambahkan Animasi Efek Di dalam Timeline. Anda Bisa Memeriksa Efek Demo Dari "
+"<a target='_blank' href='https://daneden.github.io/animate.css/'> Animate."
+"css </a>."
+
+#: includes/cool_vc_addon.php:308
+msgid "Cool Content Timeline"
+msgstr "Keren Konten Timeline"
+
+#: includes/cool_vc_addon.php:309
+msgid "Create Blog Posts Timeline"
+msgstr "Buat Blog Posts Timeline"
+
+#: includes/cool_vc_addon.php:322
+msgid "Content Post type"
+msgstr "Jenis konten Pos"
+
+#: includes/cool_vc_addon.php:324
+msgid "post"
+msgstr "pos"
+
+#: includes/cool_vc_addon.php:325
+msgid ""
+"Don't Change This If You Are Creating Blog Posts Timeline or Define Content "
+"Type Of Your Timeline Like:- Posts"
+msgstr ""
+"Jangan Ubah ini Jika Anda Apakah Membuat Blog Posts Timeline atau Tentukan "
+"Konten Jenis Anda Timeline Seperti: - Tulisan"
+
+#: includes/cool_vc_addon.php:332
+msgid "Taxonomy Name "
+msgstr "taksonomi Nama"
+
+#: includes/cool_vc_addon.php:334
+msgid "category"
+msgstr "kategori"
+
+#: includes/cool_vc_addon.php:335
+msgid ""
+"Don't Change This If You Are Creating Blog Posts Timeline or Define Content "
+"Type Taxonomy."
+msgstr ""
+"Jangan Ubah ini Jika Anda Apakah Membuat Blog Posts Timeline atau Tentukan "
+"Jenis Konten Taksonomi."
+
+#: includes/cool_vc_addon.php:342
+msgid "Category Specific Timeline (Add category(s) slug - comma separated)"
+msgstr "Kategori Garis Waktu Spesifik (Tambah kategori slug - comma separated)"
+
+#: includes/cool_vc_addon.php:346
+msgid ""
+"Show Category Specific Blog Posts. Like For cooltimeline.com/category/fb-"
+"history/ it will be <b>fb-history</b>"
+msgstr ""
+"Tampilkan Kategori Specific Blog Posts. Seperti untuk cooltimeline."
+"com/category/fb-history/ itu akan menjadi <b> fb-history </ b>"
+
+#: includes/cool_vc_addon.php:352
+msgid "Tag Specific Timeline (Add Category Slug)"
+msgstr "Tag khusus Timeline (Tambah Kategori Slug)"
+
+#: includes/cool_vc_addon.php:356
+msgid ""
+"Show Tag Specific Blog Posts. Like For cooltimeline.com/tag/fb-history/ it "
+"will be <b>fb-history</b>."
+msgstr ""
+"Tampilkan Tag Blog Tertentu Posts. Seperti Untuk cooltimeline.com/tag/fb-"
+"history/~~V akan <b> fb-sejarah </ b>."
+
+#: includes/cool_vc_addon.php:362
+msgid "Timeline Layout"
+msgstr "Timeline Tata Letak"
+
+#: includes/cool_vc_addon.php:365
+msgid "Default Layout (Vertical Both side)"
+msgstr "Bawaan Tata Letak (Vertical Kedua sisi)"
+
+#: includes/cool_vc_addon.php:366
+msgid "One Side Layout (Vertical one sided)"
+msgstr "Satu Side Tata Letak (satu vertikal sisi)"
+
+#: includes/cool_vc_addon.php:368
+msgid "Horizontal Layout"
+msgstr "Tata Letak horisontal"
+
+#: includes/cool_vc_addon.php:397
+msgid "Select no of items"
+msgstr "Pilih tidak ada item"
+
+#: includes/cool_vc_addon.php:403
+msgid "Horizontal Layout (This option only for content timeline)"
+msgstr "Tata Letak horisontal (Opsi ini hanya untuk waktu konten)"
+
+#: includes/cool_vc_addon.php:405
+msgid "*This Options Is Not For Default Design. (Check Demo Here)"
+msgstr ""
+"* Pilihan ini Bukan Untuk Desain Default. (Cek Demo disini)\n"
+"ini\n"
+"See also\n"
+"hari ini, selama ini, malam ini, akhir-akhir ini, belakangan ini, bersama "
+"ini, sekarang ini, sejauh ini, baru-baru ini, dewasa ini\n"
+"Translations of ini\n"
+"pronoun\n"
+"this\n"
+"ini, yang ini, anu\n"
+"these\n"
+"ini, yang ini, anu\n"
+"it\n"
+"itu, ini, ia, dia, -nya\n"
+"adverb\n"
+"here\n"
+"sini, di sini, ke sini, ini, begini, ke mari\n"
+
+#: includes/cool_vc_addon.php:423
+msgid "Timeline Starting From Story e.g(2)"
+msgstr "Garis Waktu Mulai Dari Cerita misalnya (2)"
+
+#: includes/cool_vc_addon.php:441
+msgid "Create Light, Dark or Colorful Timeline."
+msgstr "Buat Cahaya, Dark atau Timeline Colorful."
+
+#: includes/cool_vc_addon.php:468
+msgid "Show number of posts"
+msgstr "Tampilkan jumlah posting"
+
+#: includes/cool_vc_addon.php:498
+msgid "Note:-Ajax Load More Is Not Available For Horizontal layout."
+msgstr "Catatan: -Ajax Load More Tidak Tersedia Untuk Tata letak Horizontal."
+
+#: includes/cool_vc_addon.php:513
+msgid "Note:-Please add value in Taxonomy field before using it."
+msgstr ""
+"Catatan: -Harap tambahkan nilai di kolom taksonomi sebelum menggunakannya.\n"
+
+#: includes/ctl-helpers.php:51
+msgid "All"
+msgstr "Semua"
+
+#: includes/ctl-helpers.php:275
+msgid " of "
+msgstr " of"
+
+#: includes/ctl-helpers.php:276
+msgid " Page "
+msgstr " Page "
+
+#: includes/ctl-helpers.php:321 includes/ctl-helpers.php:334
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ","
+
+#: includes/ctl-helpers.php:325
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: includes/ctl-helpers.php:337
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tag"
+
+#: includes/ctl-helpers.php:518
+#, php-format
+msgid "<%s class=\"timeline-main-title center-block\">%s</%s>"
+msgstr "<% s class = \"timeline-main-title center-block\">% s </% s>"
+
+#: includes/ctl-meta-fields.php:13
+msgid "Timeline story settings"
+msgstr "Pengaturan cerita garis waktu"
+
+#: includes/ctl-meta-fields.php:30
+msgid "Date Based"
+msgstr "Tanggal Berdasarkan"
+
+#: includes/ctl-meta-fields.php:31
+msgid "Custom Order Based"
+msgstr "Berbasis Pesanan kustom"
+
+#: includes/ctl-meta-fields.php:31
+msgid "Story Based On"
+msgstr "Cerita berdasarkan"
+
+#: includes/ctl-meta-fields.php:39
+msgid "Story Date / Year <span class=\"ctl_required\">*</span>"
+msgstr "Story Date / Year <span class = \"ctl_required\"> * </ span>"
+
+#: includes/ctl-meta-fields.php:39
+msgid ""
+"<p class=\"ctl_required\">Please select story Story Date / Year / Time. "
+"<strong>Date Format( mm/dd/yy hh:mm )</strong></p><h4 style=\"color:red;\" >"
+"Note:- Disabled Story Year field Since Version 2.5.Representing Story Year "
+"from story datepicker year dropdown.</h4>"
+msgstr ""
+"<p class = \"ctl_required\"> Silahkan pilih Story Story Date / Year / Time. "
+"<strong>Date Format( mm/dd/yy hh:mm )</strong></p><h4 style=\"color:red;\" > "
+"Catatan: - Bidang Cerita Nonaktif Tahun Sejak Versi 2.5.Representasi Story "
+"Year dari dropdown tahun judul datepicker. </h4>"
+
+#: includes/ctl-meta-fields.php:41
+msgid "d MM yy"
+msgstr "d MM yy"
+
+#: includes/ctl-meta-fields.php:45
+msgid "Add custom label"
+msgstr "Tambahkan label khusus"
+
+#: includes/ctl-meta-fields.php:49
+msgid "Add second custom label"
+msgstr "Tambahkan label khusus kedua"
+
+#: includes/ctl-meta-fields.php:53
+msgid "Order<span class=\"ctl_required\">*</span>"
+msgstr "Pesanan <span class = \"ctl_required\"> * </ span>"
+
+#: includes/ctl-meta-fields.php:54
+msgid "<p class=\"ctl_required\">Please enter story Order.</p>"
+msgstr "<p class = \"ctl_required\"> Silahkan masukkan story Order. </ p>"
+
+#: includes/ctl-meta-fields.php:59
+msgid "Default(Image)"
+msgstr "Default (gambar)"
+
+#: includes/ctl-meta-fields.php:59
+msgid "Video"
+msgstr "Video"
+
+#: includes/ctl-meta-fields.php:59
+msgid "Slideshow"
+msgstr "Slide"
+
+#: includes/ctl-meta-fields.php:59
+msgid "Story Format"
+msgstr "Format Cerita"
+
+#: includes/ctl-meta-fields.php:68
+msgid "Slide"
+msgstr "Meluncur"
+
+#: includes/ctl-meta-fields.php:74
+msgid "Add slideshow slides"
+msgstr "Tambahkan slide slideshow"
+
+#: includes/ctl-meta-fields.php:81
+msgid ""
+"Add Youtube video url e.g <small>https://www.youtube.com/watch?"
+"v=PLHo6uyICVk</small>"
+msgstr ""
+"Tambahkan url video Youtube misalnya <small> https://www.youtube.com/watch?"
+"v=PLHo6uyICVk </ small>"
+
+#: includes/ctl-meta-fields.php:83
+msgid "Full"
+msgstr "Penuh"
+
+#: includes/ctl-meta-fields.php:83
+msgid "Small"
+msgstr "Kecil"
+
+#: includes/ctl-meta-fields.php:83
+msgid "Story image size"
+msgstr "Ukuran gambar cerita"
+
+#: includes/ctl-meta-fields.php:87
+msgid "Story custom link"
+msgstr "Tautan khusus cerita"
+
+#: includes/ctl-meta-fields.php:90
+msgid "Story Color"
+msgstr "Warna Cerita"
+
+#: includes/settings-vars.php:28
+msgid "d/M/Y"
+msgstr "d / M / Y"
+
+#: includes/views/content-timeline.php:105
+msgid "D/M/Y"
+msgstr "D/M/Y"
+
+#: includes/views/content-timeline.php:106
+msgid "d/m/Y,H:i"
+msgstr "d / m / Y, H: i"
+
+#: includes/views/content-timeline.php:329 includes/views/default.php:228
+msgid "Sorry,You have not added any story yet"
+msgstr "Maaf, Anda belum menambahkan cerita apapun"
+
+#. Plugin Name of the plugin/theme
+msgid "Cool Timeline Pro"
+msgstr "Keren Timeline Pro"
+
+#. Description of the plugin/theme
+msgid ""
+"Use Cool Timeline pro wordpress plugin to showcase your life or your company "
+"story in a vertical timeline format. Cool Timeline Pro is an advanced "
+"timeline plugin that creates responsive vertical storyline automatically in "
+"chronological order based on the year and date of your posts."
+msgstr ""
+"Gunakan plugin Cool wordpress pro wordpress untuk menampilkan kisah hidup "
+"atau perusahaan Anda dalam format garis waktu vertikal. Cool Timeline Pro "
+"adalah plugin timeline tingkat lanjut yang menciptakan alur cerita vertikal "
+"responsif secara otomatis dalam urutan kronologis berdasarkan tahun dan "
+"tanggal posting Anda."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.cooltimeline.com"
+msgstr "http://www.cooltimeline.com"
+
+#. Author of the plugin
+msgid "Cool Timeline Team"
+msgstr "Tim Timeline yang Keren"

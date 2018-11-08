@@ -1,0 +1,32 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0BE-76DD
+
+ Directory of C:\Users\shughes\Desktop\Clint\1_28_2013 More syllabi\Accounting
+
+01/29/2013  02:09 PM    <DIR>          .
+01/29/2013  02:09 PM    <DIR>          ..
+01/29/2013  02:09 PM                 0 accountingNames.txt
+01/11/2013  10:39 AM           182,095 BUS 207 (CARR).pdf
+01/28/2013  12:55 PM            25,867 BUS 207 (EPPRIGHT).pdf
+01/22/2013  12:22 PM            30,732 BUS 214 (LYONS).pdf
+01/03/2013  02:35 PM           122,770 BUS 214 (MCPEAK).pdf
+01/09/2013  09:06 AM           333,062 BUS 214 (SOARES).pdf
+01/28/2013  12:56 PM            29,183 BUS 215 (BISHOP).pdf
+01/28/2013  12:56 PM            68,574 BUS 215 (CASHIER).pdf
+01/09/2013  10:06 AM            40,734 BUS 215 (DOBSON).pdf
+01/11/2013  01:21 PM           818,149 BUS 304 (CARR).pdf
+01/09/2013  09:08 AM           125,416 BUS 319 (KANEY).pdf
+01/11/2013  11:46 AM           202,987 BUS 320 (MOCK).pdf
+01/28/2013  12:57 PM            48,722 BUS 321 (BISSONNETTE).pdf
+01/04/2013  03:35 PM            55,458 BUS 321 (KELLER).pdf
+01/28/2013  12:57 PM            62,844 BUS 322 (CERF).pdf
+01/28/2013  12:57 PM            38,669 BUS 404 (BURGUNDER 1).pdf
+01/28/2013  12:58 PM            38,720 BUS 404 (BURGUNDER 2).pdf
+01/28/2013  12:57 PM            26,200 BUS 404 (SPEROW).pdf
+01/28/2013  12:58 PM            43,195 BUS 410 (TOLIN 1).pdf
+01/28/2013  12:58 PM            43,148 BUS 410 (TOLIN 2).pdf
+01/28/2013  12:58 PM            78,962 BUS 416 (ROBISON).pdf
+01/04/2013  03:36 PM            54,698 BUS 422 (KELLER).pdf
+01/28/2013  12:59 PM            51,647 BUS 424 (MINTZ).pdf
+              23 File(s)      2,521,832 bytes
+               2 Dir(s)  19,305,283,584 bytes free

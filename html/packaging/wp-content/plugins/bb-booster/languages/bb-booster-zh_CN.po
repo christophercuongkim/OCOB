@@ -1,0 +1,1158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Beaver Builder Booster\n"
+"POT-Creation-Date: 2016-09-06 14:53-0500\n"
+"PO-Revision-Date: 2016-09-06 14:53-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bb-booster.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bb-booster.php:92
+msgid "The Beaver Builder Booster plugin is not compatible with your host."
+msgstr "Beaver Builder Booster 插件与您的主机不兼容。"
+
+#: classes/class-fl-builder-booster-customizer.php:56
+msgid "Use an easy drag-and-drop builder to edit content on this page."
+msgstr "使用易于拖放的网页达人编辑此网页上的内容。"
+
+#: classes/class-fl-builder-booster-customizer.php:57
+msgid "Launch Page Builder"
+msgstr "启动网页达人"
+
+#: classes/class-fl-builder-booster-pointer.php:62
+msgid "Page Builder"
+msgstr "网页达人"
+
+#: classes/class-fl-builder-booster-pointer.php:64
+#, php-format
+msgctxt "%s is the singular post type name (e.g. page)"
+msgid ""
+"Click here to edit content on this %s using an easy drag-and-drop builder."
+msgstr "使用易于拖放的网页达人，单击此处编辑 %s 上的内容。"
+
+#. Plugin Name of the plugin/theme
+#: classes/class-fl-builder-booster-updater.php:23
+msgid "Beaver Builder Booster"
+msgstr "Beaver Builder Booster"
+
+#: modules/button/button.php:14 modules/callout/callout.php:485
+#: modules/contact-form/contact-form.php:196
+#: modules/content-slider/content-slider.php:645 modules/cta/cta.php:218
+msgid "Button"
+msgstr "按钮"
+
+#: modules/button/button.php:15
+msgid "A simple call to action button."
+msgstr "一个简单的行动号召按钮。"
+
+#: modules/button/button.php:16
+msgid "Basic Modules"
+msgstr "基础模块"
+
+#: modules/button/button.php:60 modules/callout/callout.php:214
+#: modules/contact-form/contact-form.php:98
+#: modules/content-slider/content-slider.php:224
+#: modules/content-slider/content-slider.php:357 modules/cta/cta.php:70
+#: modules/gallery/gallery.php:221 modules/icon/icon.php:28
+#: modules/map/map.php:27
+msgid "General"
+msgstr "常规"
+
+#: modules/button/button.php:67 modules/callout/callout.php:230
+#: modules/callout/callout.php:484 modules/callout/callout.php:500
+#: modules/content-slider/content-slider.php:425
+#: modules/content-slider/content-slider.php:660 modules/cta/cta.php:87
+#: modules/cta/cta.php:225
+msgid "Text"
+msgstr "文本"
+
+#: modules/button/button.php:68 modules/cta/cta.php:226
+msgid "Click Here"
+msgstr "单击此处"
+
+#: modules/button/button.php:76 modules/callout/callout.php:323
+#: modules/callout/callout.php:371 modules/callout/callout.php:375
+#: modules/cta/cta.php:234 modules/icon/icon.php:14 modules/icon/icon.php:35
+msgid "Icon"
+msgstr "图标"
+
+#: modules/button/button.php:81 modules/contact-form/contact-form.php:213
+#: modules/cta/cta.php:239
+msgid "Icon Position"
+msgstr "图标位置"
+
+#: modules/button/button.php:84 modules/callout/callout.php:513
+#: modules/contact-form/contact-form.php:216
+#: modules/content-slider/content-slider.php:672 modules/cta/cta.php:242
+msgid "Before Text"
+msgstr "文本前"
+
+#: modules/button/button.php:85 modules/callout/callout.php:514
+#: modules/contact-form/contact-form.php:217
+#: modules/content-slider/content-slider.php:673 modules/cta/cta.php:243
+msgid "After Text"
+msgstr "文本后"
+
+#: modules/button/button.php:90 modules/callout/callout.php:519
+#: modules/contact-form/contact-form.php:222
+#: modules/content-slider/content-slider.php:678 modules/cta/cta.php:248
+msgid "Icon Visibility"
+msgstr "图标可见性"
+
+#: modules/button/button.php:93 modules/callout/callout.php:522
+#: modules/contact-form/contact-form.php:225
+#: modules/content-slider/content-slider.php:681 modules/cta/cta.php:251
+msgid "Always Visible"
+msgstr "始终可见"
+
+#: modules/button/button.php:94 modules/callout/callout.php:523
+#: modules/contact-form/contact-form.php:226
+#: modules/content-slider/content-slider.php:682 modules/cta/cta.php:252
+msgid "Fade In On Hover"
+msgstr "淡入悬停"
+
+#: modules/button/button.php:100 modules/button/button.php:104
+#: modules/callout/callout.php:451 modules/callout/callout.php:455
+#: modules/content-slider/content-slider.php:617
+#: modules/content-slider/content-slider.php:621
+#: modules/content-slider/content-slider.php:644 modules/cta/cta.php:262
+#: modules/icon/icon.php:40 modules/icon/icon.php:44
+msgid "Link"
+msgstr "链接"
+
+#: modules/button/button.php:105
+msgid "http://www.example.com"
+msgstr "http://www.example.com"
+
+#: modules/button/button.php:112 modules/callout/callout.php:463
+#: modules/content-slider/content-slider.php:626 modules/cta/cta.php:269
+#: modules/icon/icon.php:51
+msgid "Link Target"
+msgstr "链接对象"
+
+#: modules/button/button.php:115 modules/callout/callout.php:466
+#: modules/content-slider/content-slider.php:629 modules/cta/cta.php:272
+#: modules/icon/icon.php:54
+msgid "Same Window"
+msgstr "相同的窗口"
+
+#: modules/button/button.php:116 modules/callout/callout.php:467
+#: modules/content-slider/content-slider.php:630 modules/cta/cta.php:273
+#: modules/icon/icon.php:55
+msgid "New Window"
+msgstr "新窗口"
+
+#: modules/button/button.php:127 modules/button/button.php:165
+#: modules/button/button.php:169 modules/callout/callout.php:247
+#: modules/callout/callout.php:568 modules/contact-form/contact-form.php:271
+#: modules/content-slider/content-slider.php:469
+#: modules/content-slider/content-slider.php:719 modules/cta/cta.php:105
+#: modules/cta/cta.php:321 modules/icon/icon.php:76
+msgid "Style"
+msgstr "样式"
+
+#: modules/button/button.php:130 modules/cta/cta.php:191
+#: modules/icon/icon.php:79
+msgid "Colors"
+msgstr "颜色"
+
+#: modules/button/button.php:134 modules/callout/callout.php:410
+#: modules/callout/callout.php:533 modules/contact-form/contact-form.php:236
+#: modules/content-slider/content-slider.php:406
+#: modules/content-slider/content-slider.php:692 modules/cta/cta.php:201
+#: modules/cta/cta.php:286 modules/icon/icon.php:96
+msgid "Background Color"
+msgstr "背景色"
+
+#: modules/button/button.php:140 modules/callout/callout.php:415
+#: modules/callout/callout.php:539 modules/contact-form/contact-form.php:242
+#: modules/content-slider/content-slider.php:698 modules/cta/cta.php:292
+#: modules/icon/icon.php:101
+msgid "Background Hover Color"
+msgstr "背景悬停颜色"
+
+#: modules/button/button.php:149 modules/callout/callout.php:548
+#: modules/contact-form/contact-form.php:251
+#: modules/content-slider/content-slider.php:572
+#: modules/content-slider/content-slider.php:703
+#: modules/content-slider/content-slider.php:834 modules/cta/cta.php:195
+#: modules/cta/cta.php:301
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: modules/button/button.php:155 modules/callout/callout.php:554
+#: modules/contact-form/contact-form.php:257
+#: modules/content-slider/content-slider.php:709 modules/cta/cta.php:307
+msgid "Text Hover Color"
+msgstr "文本悬停颜色"
+
+#: modules/button/button.php:172 modules/callout/callout.php:571
+#: modules/contact-form/contact-form.php:274
+#: modules/content-slider/content-slider.php:722 modules/cta/cta.php:324
+msgid "Flat"
+msgstr "稳定"
+
+#: modules/button/button.php:173 modules/callout/callout.php:423
+#: modules/callout/callout.php:572 modules/contact-form/contact-form.php:275
+#: modules/content-slider/content-slider.php:723 modules/cta/cta.php:325
+#: modules/icon/icon.php:109
+msgid "Gradient"
+msgstr "渐变"
+
+#: modules/button/button.php:174 modules/callout/callout.php:573
+#: modules/contact-form/contact-form.php:276
+#: modules/content-slider/content-slider.php:724 modules/cta/cta.php:326
+msgid "Transparent"
+msgstr "透明色"
+
+#: modules/button/button.php:184 modules/callout/callout.php:583
+#: modules/contact-form/contact-form.php:286
+#: modules/content-slider/content-slider.php:734 modules/cta/cta.php:336
+msgid "Border Size"
+msgstr "边框大小"
+
+#: modules/button/button.php:193 modules/callout/callout.php:592
+#: modules/contact-form/contact-form.php:295
+#: modules/content-slider/content-slider.php:743 modules/cta/cta.php:207
+#: modules/cta/cta.php:345
+msgid "Background Opacity"
+msgstr "背景透明度"
+
+#: modules/button/button.php:202 modules/callout/callout.php:601
+#: modules/contact-form/contact-form.php:304
+#: modules/content-slider/content-slider.php:752 modules/cta/cta.php:354
+msgid "Background Hover Opacity"
+msgstr "背景悬停透明度"
+
+#: modules/button/button.php:211 modules/callout/callout.php:610
+#: modules/contact-form/contact-form.php:313
+#: modules/content-slider/content-slider.php:271
+#: modules/content-slider/content-slider.php:761 modules/cta/cta.php:363
+msgid "Transition"
+msgstr "过渡"
+
+#: modules/button/button.php:214 modules/callout/callout.php:613
+#: modules/contact-form/contact-form.php:316
+#: modules/content-slider/content-slider.php:764 modules/cta/cta.php:366
+msgid "Disabled"
+msgstr "已停用"
+
+#: modules/button/button.php:215 modules/callout/callout.php:614
+#: modules/contact-form/contact-form.php:317
+#: modules/content-slider/content-slider.php:765 modules/cta/cta.php:367
+msgid "Enabled"
+msgstr "启用"
+
+#: modules/button/button.php:221 modules/callout/callout.php:250
+#: modules/cta/cta.php:108 modules/icon/icon.php:119
+msgid "Structure"
+msgstr "结构"
+
+#: modules/button/button.php:225 modules/contact-form/contact-form.php:327
+#: modules/content-slider/content-slider.php:527
+msgid "Width"
+msgstr "宽度"
+
+#: modules/button/button.php:228 modules/callout/callout.php:627
+#: modules/contact-form/contact-form.php:330
+msgctxt "Width."
+msgid "Auto"
+msgstr "汽车机械"
+
+#: modules/button/button.php:229 modules/callout/callout.php:628
+#: modules/contact-form/contact-form.php:331
+msgid "Full Width"
+msgstr "全屏宽度"
+
+#: modules/button/button.php:230 modules/callout/callout.php:290
+#: modules/content-slider/content-slider.php:493 modules/cta/cta.php:172
+#: modules/icon/icon.php:150
+msgid "Custom"
+msgstr "自定义"
+
+#: modules/button/button.php:244
+msgid "Custom Width"
+msgstr "自定义宽度"
+
+#: modules/button/button.php:252 modules/contact-form/contact-form.php:336
+#: modules/cta/cta.php:126 modules/icon/icon.php:131 modules/icon/icon.php:146
+msgid "Alignment"
+msgstr "对齐"
+
+#: modules/button/button.php:255 modules/callout/callout.php:257
+#: modules/contact-form/contact-form.php:340
+#: modules/content-slider/content-slider.php:521 modules/cta/cta.php:130
+#: modules/icon/icon.php:134 modules/icon/icon.php:164
+msgid "Center"
+msgstr "居中"
+
+#: modules/button/button.php:256 modules/callout/callout.php:258
+#: modules/contact-form/contact-form.php:339
+#: modules/content-slider/content-slider.php:520 modules/cta/cta.php:129
+#: modules/icon/icon.php:135 modules/icon/icon.php:163
+msgid "Left"
+msgstr "左"
+
+#: modules/button/button.php:257 modules/callout/callout.php:259
+#: modules/contact-form/contact-form.php:341
+#: modules/content-slider/content-slider.php:522 modules/cta/cta.php:131
+#: modules/icon/icon.php:136 modules/icon/icon.php:165
+msgid "Right"
+msgstr "右"
+
+#: modules/button/button.php:262 modules/callout/callout.php:633
+#: modules/contact-form/contact-form.php:346
+#: modules/content-slider/content-slider.php:775 modules/cta/cta.php:377
+msgid "Font Size"
+msgstr "字体大小"
+
+#: modules/button/button.php:270 modules/callout/callout.php:641
+#: modules/contact-form/contact-form.php:354
+#: modules/content-slider/content-slider.php:783 modules/cta/cta.php:385
+msgid "Padding"
+msgstr "填充"
+
+#: modules/button/button.php:278 modules/callout/callout.php:649
+#: modules/contact-form/contact-form.php:362 modules/cta/cta.php:393
+msgid "Round Corners"
+msgstr "圆角"
+
+#: modules/callout/callout.php:14
+msgid "Callout"
+msgstr "插图编号"
+
+#: modules/callout/callout.php:15
+msgid "A heading and snippet of text with an optional link, icon and image."
+msgstr "带可选链接、图标和图像的标题和文本片段。"
+
+#: modules/callout/callout.php:16 modules/contact-form/contact-form.php:16
+#: modules/content-slider/content-slider.php:16 modules/cta/cta.php:16
+#: modules/gallery/gallery.php:16 modules/icon/icon.php:16
+#: modules/map/map.php:16
+msgid "Advanced Modules"
+msgstr "高级模块"
+
+#: modules/callout/callout.php:221
+#: modules/content-slider/content-slider.php:456
+#: modules/content-slider/content-slider.php:472 modules/cta/cta.php:77
+msgid "Heading"
+msgstr "标题"
+
+#: modules/callout/callout.php:254
+msgid "Overall Alignment"
+msgstr "总体对齐"
+
+#: modules/callout/callout.php:261
+msgid "The alignment that will apply to all elements within the callout."
+msgstr "对齐插图编号内的所有元素。"
+
+#: modules/callout/callout.php:269 modules/cta/cta.php:151
+msgid "Heading Structure"
+msgstr "标题结构"
+
+#: modules/callout/callout.php:273
+#: modules/content-slider/content-slider.php:476 modules/cta/cta.php:155
+msgid "Heading Tag"
+msgstr "标题标签"
+
+#: modules/callout/callout.php:286
+#: modules/content-slider/content-slider.php:489
+#: modules/content-slider/content-slider.php:503 modules/cta/cta.php:168
+msgid "Heading Size"
+msgstr "标题大小"
+
+#: modules/callout/callout.php:289
+#: modules/content-slider/content-slider.php:492 modules/cta/cta.php:171
+#: modules/icon/icon.php:149
+msgid "Default"
+msgstr "默认"
+
+#: modules/callout/callout.php:300 modules/cta/cta.php:182
+msgid "Heading Custom Size"
+msgstr "标题自定义大小"
+
+#: modules/callout/callout.php:311
+msgid "Image"
+msgstr "图像"
+
+#: modules/callout/callout.php:318
+msgid "Image Type"
+msgstr "图像类型"
+
+#: modules/callout/callout.php:321
+msgctxt "Image type."
+msgid "None"
+msgstr "无"
+
+#: modules/callout/callout.php:322 modules/callout/callout.php:338
+#: modules/callout/callout.php:342
+#: modules/content-slider/content-slider.php:378
+#: modules/content-slider/content-slider.php:447
+#: modules/content-slider/content-slider.php:825
+msgid "Photo"
+msgstr "照片"
+
+#: modules/callout/callout.php:346
+msgid "Crop"
+msgstr "剪裁"
+
+#: modules/callout/callout.php:349
+msgctxt "Photo Crop."
+msgid "None"
+msgstr "无"
+
+#: modules/callout/callout.php:350
+msgid "Landscape"
+msgstr "园林景观"
+
+#: modules/callout/callout.php:351
+msgid "Panorama"
+msgstr "全景"
+
+#: modules/callout/callout.php:352
+msgid "Portrait"
+msgstr "肖像"
+
+#: modules/callout/callout.php:353
+msgid "Square"
+msgstr "方形"
+
+#: modules/callout/callout.php:354
+msgid "Circle"
+msgstr "圆"
+
+#: modules/callout/callout.php:359 modules/callout/callout.php:379
+#: modules/content-slider/content-slider.php:516
+msgid "Position"
+msgstr "位置"
+
+#: modules/callout/callout.php:362 modules/callout/callout.php:382
+msgid "Above Heading"
+msgstr "上方标题"
+
+#: modules/callout/callout.php:363 modules/callout/callout.php:383
+msgid "Below Heading"
+msgstr "下方标题"
+
+#: modules/callout/callout.php:364 modules/callout/callout.php:386
+msgid "Left of Text and Heading"
+msgstr "文本和标题左侧"
+
+#: modules/callout/callout.php:365 modules/callout/callout.php:387
+msgid "Right of Text and Heading"
+msgstr "文本和标题右侧"
+
+#: modules/callout/callout.php:384
+msgid "Left of Heading"
+msgstr "标题左侧"
+
+#: modules/callout/callout.php:385
+msgid "Right of Heading"
+msgstr "标题右侧"
+
+#: modules/callout/callout.php:393
+msgid "Icon Colors"
+msgstr "图标颜色"
+
+#: modules/callout/callout.php:397
+#: modules/content-slider/content-slider.php:380 modules/icon/icon.php:83
+msgid "Color"
+msgstr "颜色"
+
+#: modules/callout/callout.php:402 modules/icon/icon.php:88
+msgid "Hover Color"
+msgstr "悬停颜色"
+
+#: modules/callout/callout.php:426
+#: modules/content-slider/content-slider.php:243
+#: modules/content-slider/content-slider.php:265
+#: modules/content-slider/content-slider.php:291
+#: modules/content-slider/content-slider.php:300
+#: modules/content-slider/content-slider.php:309
+#: modules/content-slider/content-slider.php:581 modules/icon/icon.php:112
+msgid "No"
+msgstr "否"
+
+#: modules/callout/callout.php:427
+#: modules/content-slider/content-slider.php:244
+#: modules/content-slider/content-slider.php:266
+#: modules/content-slider/content-slider.php:292
+#: modules/content-slider/content-slider.php:301
+#: modules/content-slider/content-slider.php:310
+#: modules/content-slider/content-slider.php:582 modules/icon/icon.php:113
+msgid "Yes"
+msgstr "是"
+
+#: modules/callout/callout.php:433
+msgid "Icon Structure"
+msgstr "图标结构"
+
+#: modules/callout/callout.php:437 modules/icon/icon.php:123
+msgid "Size"
+msgstr "大小"
+
+#: modules/callout/callout.php:448
+#: modules/content-slider/content-slider.php:614
+msgid "Call To Action"
+msgstr "行动号召"
+
+#: modules/callout/callout.php:456
+msgid ""
+"The link applies to the entire module. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr "整个模块应用的链接。如果选择下面的行动号召类型，这个链接也将用于文本或按钮。"
+
+#: modules/callout/callout.php:476
+#: modules/content-slider/content-slider.php:636 modules/cta/cta.php:14
+msgid "Call to Action"
+msgstr "行动号召"
+
+#: modules/callout/callout.php:480
+#: modules/content-slider/content-slider.php:374
+#: modules/content-slider/content-slider.php:421
+#: modules/content-slider/content-slider.php:640
+#: modules/content-slider/content-slider.php:809
+msgid "Type"
+msgstr "类型"
+
+#: modules/callout/callout.php:483
+#: modules/content-slider/content-slider.php:643
+msgctxt "Call to action."
+msgid "None"
+msgstr "无"
+
+#: modules/callout/callout.php:501
+msgid "Read More"
+msgstr "阅读更多"
+
+#: modules/callout/callout.php:505 modules/contact-form/contact-form.php:208
+#: modules/content-slider/content-slider.php:664
+msgid "Button Icon"
+msgstr "按钮图标"
+
+#: modules/callout/callout.php:510
+#: modules/content-slider/content-slider.php:669
+msgid "Button Icon Position"
+msgstr "按钮图标位置"
+
+#: modules/callout/callout.php:529 modules/contact-form/contact-form.php:232
+#: modules/content-slider/content-slider.php:688 modules/cta/cta.php:282
+msgid "Button Colors"
+msgstr "按钮颜色"
+
+#: modules/callout/callout.php:564 modules/contact-form/contact-form.php:267
+#: modules/content-slider/content-slider.php:715 modules/cta/cta.php:317
+msgid "Button Style"
+msgstr "按钮类型"
+
+#: modules/callout/callout.php:620 modules/contact-form/contact-form.php:323
+#: modules/content-slider/content-slider.php:771 modules/cta/cta.php:373
+msgid "Button Structure"
+msgstr "按钮结构"
+
+#: modules/callout/callout.php:624
+msgid "Button Width"
+msgstr "按钮宽度"
+
+#: modules/contact-form/contact-form.php:14
+msgid "Contact Form"
+msgstr "联系表"
+
+#: modules/contact-form/contact-form.php:15
+msgid "A very simple contact form."
+msgstr "一个非常简单的联系表。"
+
+#: modules/contact-form/contact-form.php:36
+msgid "Contact Form Submission"
+msgstr "提交联系表"
+
+#: modules/contact-form/contact-form.php:69
+msgid "Message"
+msgstr "邮件"
+
+#: modules/contact-form/contact-form.php:105
+msgid "Send To Email"
+msgstr "发送到电子邮件"
+
+#: modules/contact-form/contact-form.php:107
+msgid "example@mail.com"
+msgstr "example@mail.com"
+
+#: modules/contact-form/contact-form.php:108
+msgid "The contact form will send to this e-mail. Defaults to the admin email."
+msgstr "将联系表发送到这个电子邮件。默认为管理员电子邮件。"
+
+#: modules/contact-form/contact-form.php:115
+msgid "Name Field"
+msgstr "姓名字段"
+
+#: modules/contact-form/contact-form.php:118
+#: modules/contact-form/contact-form.php:127
+#: modules/contact-form/contact-form.php:136
+#: modules/contact-form/contact-form.php:145
+msgid "Show"
+msgstr "显示"
+
+#: modules/contact-form/contact-form.php:119
+#: modules/contact-form/contact-form.php:128
+#: modules/contact-form/contact-form.php:137
+#: modules/contact-form/contact-form.php:146
+msgid "Hide"
+msgstr "隐藏"
+
+#: modules/contact-form/contact-form.php:124
+msgid "Subject Field"
+msgstr "主题字段"
+
+#: modules/contact-form/contact-form.php:133
+msgid "Email Field"
+msgstr "电子邮件字段"
+
+#: modules/contact-form/contact-form.php:142
+msgid "Phone Field"
+msgstr "电话字段"
+
+#: modules/contact-form/contact-form.php:152
+msgid "Success"
+msgstr "成功"
+
+#: modules/contact-form/contact-form.php:156
+msgid "Success Action"
+msgstr "操作成功"
+
+#: modules/contact-form/contact-form.php:158
+msgid "None"
+msgstr "无"
+
+#: modules/contact-form/contact-form.php:159
+msgid "Show Message"
+msgstr "显示信息"
+
+#: modules/contact-form/contact-form.php:160
+msgid "Redirect"
+msgstr "重定向"
+
+#: modules/contact-form/contact-form.php:179
+msgid "Thanks for your message! We’ll be in touch soon."
+msgstr "感谢您的信息！我们将尽快联系。"
+
+#: modules/contact-form/contact-form.php:186
+msgid "Success URL"
+msgstr "成功的 URL"
+
+#: modules/contact-form/contact-form.php:203
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: modules/contact-form/contact-form.php:204
+msgid "Send"
+msgstr "发送"
+
+#: modules/contact-form/includes/frontend.php:5
+msgctxt "Contact form field label."
+msgid "Name"
+msgstr "名称"
+
+#: modules/contact-form/includes/frontend.php:6
+msgid "Please enter your name."
+msgstr "请输入您的姓名。"
+
+#: modules/contact-form/includes/frontend.php:7
+msgid "Your name"
+msgstr "您的姓名"
+
+#: modules/contact-form/includes/frontend.php:13
+#: modules/contact-form/includes/frontend.php:15
+msgid "Subject"
+msgstr "主题"
+
+#: modules/contact-form/includes/frontend.php:14
+msgid "Please enter a subject."
+msgstr "请输入主题。"
+
+#: modules/contact-form/includes/frontend.php:21
+msgid "Email"
+msgstr "电子邮件"
+
+#: modules/contact-form/includes/frontend.php:22
+msgid "Please enter a valid email."
+msgstr "请输入一个有效的电子邮件。"
+
+#: modules/contact-form/includes/frontend.php:23
+msgid "Your email"
+msgstr "您的电子邮件"
+
+#: modules/contact-form/includes/frontend.php:29
+msgid "Phone"
+msgstr "电话"
+
+#: modules/contact-form/includes/frontend.php:30
+msgid "Please enter a valid phone number."
+msgstr "请输入有效的电话号码。"
+
+#: modules/contact-form/includes/frontend.php:31
+msgid "Your phone"
+msgstr "您的电话"
+
+#: modules/contact-form/includes/frontend.php:36
+msgid "Your Message"
+msgstr "您的信息"
+
+#: modules/contact-form/includes/frontend.php:37
+msgid "Please enter a message."
+msgstr "请输入信息。"
+
+#: modules/contact-form/includes/frontend.php:38
+msgid "Your message"
+msgstr "您的信息"
+
+#: modules/contact-form/includes/frontend.php:70
+msgid "Message Sent!"
+msgstr "信息已发送！"
+
+#: modules/contact-form/includes/frontend.php:73
+msgid "Message failed. Please try again."
+msgstr "信息发送失败。请重试。"
+
+#: modules/content-slider/content-slider.php:14
+msgid "Content Slider"
+msgstr "内容滑块"
+
+#: modules/content-slider/content-slider.php:15
+msgid "Displays multiple slides with an optional heading and call to action."
+msgstr "使用可选标题和行动号召显示多个幻灯片。"
+
+#: modules/content-slider/content-slider.php:231 modules/map/map.php:42
+msgid "Height"
+msgstr "高度"
+
+#: modules/content-slider/content-slider.php:236
+msgid ""
+"This setting is the minimum height of the content slider. Content will "
+"expand the height automatically."
+msgstr "这个设置是内容滑块的最低高度。内容将会自动扩大高度。"
+
+#: modules/content-slider/content-slider.php:240
+msgid "Auto Play"
+msgstr "音频播放"
+
+#: modules/content-slider/content-slider.php:254
+msgid "Delay"
+msgstr "延时"
+
+#: modules/content-slider/content-slider.php:258
+#: modules/content-slider/content-slider.php:284
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "秒"
+
+#: modules/content-slider/content-slider.php:262
+msgid "Loop"
+msgstr "循环"
+
+#: modules/content-slider/content-slider.php:274
+msgctxt "Transition type."
+msgid "Slide"
+msgstr "滑入"
+
+#: modules/content-slider/content-slider.php:275
+msgid "Fade"
+msgstr "淡入"
+
+#: modules/content-slider/content-slider.php:280
+msgid "Transition Speed"
+msgstr "过渡速度"
+
+#: modules/content-slider/content-slider.php:288
+msgid "Show Play/Pause"
+msgstr "显示播放/暂停"
+
+#: modules/content-slider/content-slider.php:297
+msgid "Show Arrows"
+msgstr "显示箭头键"
+
+#: modules/content-slider/content-slider.php:306
+msgid "Show Dots"
+msgstr "显示点"
+
+#: modules/content-slider/content-slider.php:316
+msgid "Advanced"
+msgstr "高级"
+
+#: modules/content-slider/content-slider.php:320
+msgid "Max Content Width"
+msgstr "最宽内容宽度"
+
+#: modules/content-slider/content-slider.php:325
+msgid "The max width that the content area will be within your slides."
+msgstr "内容区域的最宽宽度不会超过您的幻灯片。"
+
+#: modules/content-slider/content-slider.php:332
+msgid "Slides"
+msgstr "幻灯片"
+
+#: modules/content-slider/content-slider.php:339
+msgid "Slide"
+msgstr "滑入"
+
+#: modules/content-slider/content-slider.php:354
+msgid "Slide Settings"
+msgstr "幻灯片设置"
+
+#: modules/content-slider/content-slider.php:364
+msgid "Slide Label"
+msgstr "幻灯片标签"
+
+#: modules/content-slider/content-slider.php:365
+msgid ""
+"A label to identify this slide on the Slides tab of the Content Slider "
+"settings."
+msgstr "验证这个幻灯片的标签在内容滑块设置的幻灯片选项卡上。"
+
+#: modules/content-slider/content-slider.php:370
+msgid "Background Layout"
+msgstr "背景布局"
+
+#: modules/content-slider/content-slider.php:376
+msgid "This setting is for the entire background of your slide."
+msgstr "这个设置用于您幻灯片的整个背景。"
+
+#: modules/content-slider/content-slider.php:379
+msgid "Video"
+msgstr "视频"
+
+#: modules/content-slider/content-slider.php:381
+msgctxt "Background type."
+msgid "None"
+msgstr "无"
+
+#: modules/content-slider/content-slider.php:402
+msgid "Background Photo"
+msgstr "背景照片"
+
+#: modules/content-slider/content-slider.php:411
+msgid "Background Video Code"
+msgstr "背景视频编码"
+
+#: modules/content-slider/content-slider.php:417
+msgid "Content Layout"
+msgstr "内容布局"
+
+#: modules/content-slider/content-slider.php:423
+msgid ""
+"This allows you to add content over or in addition to the background "
+"selection above. The location of the content layout can be selected in the "
+"style tab."
+msgstr "使用这个您可以添加内容对上述背景进行覆盖或内容添加。可以在类型选项卡内选择内容布局的位置。"
+
+#: modules/content-slider/content-slider.php:426
+msgid "Text &amp; Photo"
+msgstr "文本 &amp；照片"
+
+#: modules/content-slider/content-slider.php:427
+msgid "Text &amp; Video"
+msgstr "文本 &amp；视频"
+
+#: modules/content-slider/content-slider.php:428
+msgctxt "Content type."
+msgid "None"
+msgstr "无"
+
+#: modules/content-slider/content-slider.php:451
+msgid "Video Embed Code"
+msgstr "视频嵌入代码"
+
+#: modules/content-slider/content-slider.php:512
+msgid "Text Position"
+msgstr "文本位置"
+
+#: modules/content-slider/content-slider.php:518
+msgid ""
+"The position will move the content layout selections left, right or center "
+"over the background of the slide."
+msgstr "位置功能可以在幻灯片背景上方向左、右或中间移动内容布局的选择。"
+
+#: modules/content-slider/content-slider.php:535
+msgid "Top Margin"
+msgstr "上边距"
+
+#: modules/content-slider/content-slider.php:543
+msgid "Bottom Margin"
+msgstr "下边距"
+
+#: modules/content-slider/content-slider.php:551
+msgid "Left Margin"
+msgstr "左边距"
+
+#: modules/content-slider/content-slider.php:559
+msgid "Right Margin"
+msgstr "右边距"
+
+#: modules/content-slider/content-slider.php:568
+msgid "Text Colors"
+msgstr "文本颜色"
+
+#: modules/content-slider/content-slider.php:578
+msgid "Text Shadow"
+msgstr "文字阴影"
+
+#: modules/content-slider/content-slider.php:587
+#: modules/content-slider/content-slider.php:840
+msgid "Text Background Color"
+msgstr "文本背景颜色"
+
+#: modules/content-slider/content-slider.php:588
+msgid ""
+"The color applies to the overlay behind text over the background selections."
+msgstr "应用于文本后面的颜色叠加位于背景选择的上方。"
+
+#: modules/content-slider/content-slider.php:593
+msgid "Text Background Opacity"
+msgstr "文本背景透明度"
+
+#: modules/content-slider/content-slider.php:601
+msgid "Text Background Height"
+msgstr "文本背景高度"
+
+#: modules/content-slider/content-slider.php:603
+msgid ""
+"Auto will allow the overlay to fit however long the text content is. 100% "
+"will fit the overlay to the top and bottom of the slide."
+msgstr "无论文本内容有多长，自动功能将调整叠加以适应文本。叠加将 100% 适合幻灯片的顶部和底部。"
+
+#: modules/content-slider/content-slider.php:605
+msgctxt "Background height."
+msgid "Auto"
+msgstr "汽车机械"
+
+#: modules/content-slider/content-slider.php:622
+msgid ""
+"The link applies to the entire slide. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr "整个幻灯片应用的链接。如果选择下面的行动号召类型，这个链接也将用于文本或按钮。"
+
+#: modules/content-slider/content-slider.php:791
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: modules/content-slider/content-slider.php:802
+msgctxt "Module settings form tab. Display on mobile devices."
+msgid "Mobile"
+msgstr "手机"
+
+#: modules/content-slider/content-slider.php:805
+msgid "Mobile Photo"
+msgstr "移动照片"
+
+#: modules/content-slider/content-slider.php:811
+msgid ""
+"You can choose a different photo that the slide will change to on mobile "
+"devices or no photo if desired."
+msgstr "您可以在移动设备上选择一张幻灯片要更换的不同的照片或者必要时没有照片。"
+
+#: modules/content-slider/content-slider.php:813
+msgid "Use Main Photo"
+msgstr "使用主要照片"
+
+#: modules/content-slider/content-slider.php:814
+msgid "Choose Another Photo"
+msgstr "选择其他照片"
+
+#: modules/content-slider/content-slider.php:815
+msgid "No Photo"
+msgstr "没有照片"
+
+#: modules/content-slider/content-slider.php:830
+msgid "Mobile Text Colors"
+msgstr "移动文本颜色"
+
+#: modules/cta/cta.php:15
+msgid "Display a heading, subheading and a button."
+msgstr "显示标题、子标题和按钮。"
+
+#: modules/cta/cta.php:78
+msgid "Ready to find out more?"
+msgstr "准备好了解详情了吗？"
+
+#: modules/cta/cta.php:94
+msgid "Drop us a line today for a free quote!"
+msgstr "马上给我们写信询价！"
+
+#: modules/cta/cta.php:112 modules/gallery/gallery.php:228
+msgid "Layout"
+msgstr "布局"
+
+#: modules/cta/cta.php:115
+msgid "Inline"
+msgstr "内联"
+
+#: modules/cta/cta.php:116
+msgid "Stacked"
+msgstr "堆叠"
+
+#: modules/cta/cta.php:136
+msgid "Spacing"
+msgstr "间距"
+
+#: modules/cta/cta.php:258
+msgid "Button Link"
+msgstr "按钮链接"
+
+#: modules/gallery/gallery.php:14
+msgid "Gallery"
+msgstr "库"
+
+#: modules/gallery/gallery.php:15
+msgid "Display multiple photos in a gallery view."
+msgstr "显示图片库查看内的多张照片。"
+
+#: modules/gallery/gallery.php:231
+msgid "Collage"
+msgstr "拼贴画"
+
+#: modules/gallery/gallery.php:232
+msgctxt "Gallery layout: thumbnails."
+msgid "Thumbs"
+msgstr "大拇指"
+
+#: modules/gallery/gallery.php:242
+msgid "Source"
+msgstr "信息来源"
+
+#: modules/gallery/gallery.php:245
+msgid "Media Library"
+msgstr "媒体库"
+
+#: modules/gallery/gallery.php:248
+msgid ""
+"Pull images from the WordPress media library or a gallery on your SmugMug "
+"site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be "
+"accessed by using the get a link function in your SmugMug gallery."
+msgstr ""
+"通过插入来自 SmugMug 的 RSS 订阅 URL，从 WordPress 媒体库或您 SmugMug 网站的图片库获取图片。可通过使用您 "
+"SmugMug 图片库中的获取链接功能访问 RSS 订阅 URL。"
+
+#: modules/gallery/gallery.php:260
+msgid "Photos"
+msgstr "照片"
+
+#: modules/gallery/gallery.php:264
+msgid "Feed URL"
+msgstr "订阅 URL"
+
+#: modules/gallery/gallery.php:268
+msgid "Photo Size"
+msgstr "照片大小"
+
+#: modules/gallery/gallery.php:271
+msgctxt "Photo size."
+msgid "Small"
+msgstr "小"
+
+#: modules/gallery/gallery.php:272
+msgctxt "Photo size."
+msgid "Medium"
+msgstr "中"
+
+#: modules/gallery/gallery.php:273
+msgctxt "Photo size."
+msgid "Large"
+msgstr "大"
+
+#: modules/gallery/gallery.php:278
+msgid "Photo Spacing"
+msgstr "照片间距"
+
+#: modules/gallery/gallery.php:286
+msgid "Show Captions"
+msgstr "显示图片说明"
+
+#: modules/gallery/gallery.php:289
+msgid "Never"
+msgstr "永久有效"
+
+#: modules/gallery/gallery.php:290
+msgid "On Hover"
+msgstr "悬停"
+
+#: modules/gallery/gallery.php:291
+msgid "Below Photo"
+msgstr "照片下"
+
+#: modules/gallery/gallery.php:293
+msgid ""
+"The caption pulls from whatever text you put in the caption area in the "
+"media manager for each image. The caption is also pulled directly from "
+"SmugMug if you have captions set in your gallery."
+msgstr "插入您放入每张图片媒体管理器中字幕区域的任何文本。如果在图片库中有设置字幕，也可以直接从 SmugMug 进行插入。"
+
+#: modules/gallery/gallery.php:297
+msgid "Click Action"
+msgstr "单击操作"
+
+#: modules/gallery/gallery.php:300
+msgctxt "Click action."
+msgid "None"
+msgstr "无"
+
+#: modules/gallery/gallery.php:301
+msgid "Lightbox"
+msgstr "灯箱"
+
+#: modules/gallery/gallery.php:302
+msgid "Photo Link"
+msgstr "照片链接"
+
+#: modules/icon/icon.php:15
+msgid "Display an icon and optional title."
+msgstr "显示图标和可选标题。"
+
+#: modules/icon/icon.php:142
+msgid "Mobile Structure"
+msgstr "移动结构"
+
+#: modules/icon/icon.php:160
+msgid "Custom Alignment"
+msgstr "自定义对齐"
+
+#: modules/map/map.php:14
+msgid "Map"
+msgstr "地图"
+
+#: modules/map/map.php:15
+msgid "Display a Google map."
+msgstr "显示 Google 地图。"
+
+#: modules/map/map.php:34
+msgid "Address"
+msgstr "地址"
+
+#: modules/map/map.php:35
+msgid "1865 Winchester Blvd #202 Campbell, CA 95008"
+msgstr "1865 Winchester Blvd #202 Campbell, CA 95008"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.wpbeaverbuilder.com"
+msgstr "http://www.wpbeaverbuilder.com"
+
+#. Description of the plugin/theme
+msgid "Additional functionality for Beaver Builder lite."
+msgstr "Beaver Builder 精简版的附加功能"
+
+#. Author of the plugin/theme
+msgid "The Beaver Builder Team"
+msgstr "Beaver Builder 团队"

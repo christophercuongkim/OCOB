@@ -1,0 +1,49 @@
+.ts-table-odd-colored {
+	width: 100%; 
+    border-collapse: collapse;
+	
+	}
+
+.ts-table-odd-colored tr:nth-of-type(odd) { 
+  background:#f5f5f5;
+}
+
+.ts-table-odd-colored img {
+	margin-left:5px;
+	vertical-align:baseline;
+	}
+
+.ts-table-odd-colored td {
+	vertical-align:middle;
+}
+
+
+@media 
+only screen and (max-width: 480px) {
+
+	/* Force table to not be like tables anymore */
+	.ts-table-odd-colored table, .ts-table-odd-colored thead, .ts-table-odd-colored tbody, .ts-table-odd-colored th, .ts-table-odd-colored td, .ts-table-odd-colored tr { 
+		display: block; 
+	}
+	
+	
+	
+	.ts-table-odd-colored tr { }
+	
+	.ts-table-odd-colored td { 
+		/* Behave  like a "row" */
+		border: none;
+		position: relative;
+		padding: 5px; 
+	}
+	
+	.ts-table-odd-colored td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}

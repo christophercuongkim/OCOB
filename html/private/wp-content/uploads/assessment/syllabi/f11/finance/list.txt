@@ -1,0 +1,10 @@
+BUS 342 (Dobson).pdf
+BUS 342 (Gorman).pdf
+BUS 431 (Roche).pdf
+BUS 436 Course Overview (York).pdf
+BUS 436 Schedule  Assignments (York).pdf
+BUS 438 (Dutt).pdf
+BUS 439 (Anderson).pdf
+BUS 441 (Dutt).pdf
+BUS 461 & 462 (Ramezani).pdf
+list.txt

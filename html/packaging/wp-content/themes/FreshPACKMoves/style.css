@@ -1,0 +1,146 @@
+/*****
+Theme Name: FreshPACKMoves
+Theme URI: https://www.mhthemes.com/themes/mh/foodmagazine/
+Description: MH FoodMagazine comes with nice and fresh colors, especially suitable for yummy food magazines and editorial websites from the health or fitness sector. You can have the same layout in the premium version of MH Magazine (without the need of a child theme) which can be configured by making use of the flexible layout options. MH Magazine offers additional widget areas, multiple unique custom widgets, great features and extended layout options to manage several layout elements on your site including changing the color scheme and typography.
+Author: MH Themes
+Author URI: https://www.mhthemes.com/
+Template: mh-magazine-lite
+Version: 1.1.3
+Tags: one-column, two-columns, left-sidebar, right-sidebar, custom-background, flexible-header, custom-header, custom-menu, featured-images, full-width-template, theme-options, threaded-comments, translation-ready, rtl-language-support, blog, entertainment, news, food-and-drink
+Text Domain: mh-foodmagazine
+Domain Path: /languages/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*****/
+
+/***** Structure *****/
+
+.mh-container-outer { margin: 0 auto; box-shadow: none; }
+
+/***** Typography *****/
+
+body { font-family: "ABeeZee", sans-serif; color: #4f4f4f; background: #f2ffff; }
+h1, h2, h3, h4, h5, h6, .mh-custom-posts-small-title { font-family: "Sarala", sans-serif; color: #4f4f4f; }
+pre, code, kbd { color: #4f4f4f; background: #f2ffff; }
+blockquote { color: #4f4f4f; border-color: #bbbd00; }
+a { color: #4f4f4f; }
+a:hover { color: #16a1a4; }
+
+/***** Header *****/
+
+.mh-header-tagline { color: #bbbd00; }
+
+/***** Navigation *****/
+
+.mh-main-nav-wrap { background: #16a1a4; }
+.mh-main-nav { background: #16a1a4; border-bottom: none; }
+.mh-main-nav li:hover { background: #bbbd00; }
+.mh-main-nav ul li:hover > ul { background: #16a1a4; }
+.mh-main-nav .menu > .current-menu-item { background: none; }
+.mh-main-nav .menu > .current-menu-item:hover { background: #bbbd00; }
+
+/***** SlickNav Custom Style *****/
+
+.slicknav_btn { background: #bbbd00; }
+.slicknav_menu { border-color: #16a1a4; background: #bbbd00; }
+.slicknav_nav ul { border-color: #16a1a4; }
+.slicknav_nav .slicknav_item:hover, .slicknav_nav a:hover { background: #bbbd00; }
+.mh-main-nav-wrap .slicknav_btn, .mh-main-nav-wrap .slicknav_menu, .mh-main-nav-wrap .slicknav_nav .slicknav_item:hover, .mh-main-nav-wrap .slicknav_nav a:hover { background: transparent; }
+.mh-main-nav-wrap .slicknav_nav ul { border-color: #bbbd00; }
+.mh-main-nav-wrap .slicknav_nav ul ul { border: none; }
+
+/***** Posts/Pages *****/
+
+.page-title { color: #4f4f4f; }
+.entry-content a, .entry-content a:hover, .mh-meta a:hover { color: #16a1a4; }
+.entry-tags li { background: #16a1a4; }
+.entry-tags li:hover, .entry-tags .fa { background: #bbbd00; }
+
+/***** Pagination *****/
+
+.page-numbers { color: #4f4f4f; background: #f2ffff; }
+.page-numbers:hover, .mh-loop-pagination .current, .mh-comments-pagination .current, a:hover .pagelink, .pagelink { background: #bbbd00; }
+a .pagelink { color: #4f4f4f; background: #f2ffff; }
+
+/***** Footer *****/
+
+.mh-footer { background: #16a1a4; }
+.mh-footer a, .mh-footer .mh-meta, .mh-footer .mh-meta a, .mh-footer .mh-meta a:hover { color: #f2ffff; }
+.mh-copyright-wrap { border-color: rgba(255, 255, 255, 0.3); background: #16a1a4; }
+.mh-copyright, .mh-copyright a { color: #f2ffff; }
+
+/***** Images / Video *****/
+
+.wp-caption-text { color: #4f4f4f; }
+
+/***** Gallery *****/
+
+.gallery-caption { color: #fff; }
+
+/***** Comments *****/
+
+.mh-comment-meta, .mh-comment-meta a { color: #4f4f4f; }
+.bypostauthor .mh-comment-meta-author:after, .mh-comment-meta-links .comment-reply-link:before, #respond #cancel-comment-reply-link:before { color: #bbbd00; }
+
+/***** Forms *****/
+
+input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover, textarea:hover { border-color: #bbbd00; }
+input[type=submit] { background: #bbbd00; }
+input[type=submit]:hover { background: #16a1a4; }
+
+/***** Searchform *****/
+
+.mh-widget .search-form { background: #f2ffff; }
+
+/***** Widgets *****/
+
+.mh-widget-title { border-color: #bbbd00; }
+
+/***** Widgets Areas (Advertising) *****/
+
+.mh-ad-spot, .mh-info-spot { background: #f2ffff; }
+
+/***** MH Slider Widget *****/
+
+.mh-slider-widget img { width: 100%; display: block; }
+.mh-slider-widget .flex-control-paging li a.flex-active { background: #bbbd00; }
+.mh-slider-caption { border-color: #bbbd00; background: #16a1a4; background: rgba(22, 161, 164, 0.8); }
+.mh-widget-col-1 .mh-slider-caption { background: #16a1a4; }
+.mh-footer-widget .mh-slider-caption { background: rgba(255, 255, 255, 0.1); }
+
+/***** MH Posts Stacked Widget *****/
+
+.mh-posts-stacked-title { background: #16a1a4; background: rgba(22, 161, 164, 0.8); }
+.mh-posts-stacked-meta { background: #bbbd00; }
+#mh-mobile .mh-footer-widget .mh-posts-stacked-overlay { border-color: #16a1a4; }
+
+/***** MH Tabbed Widget *****/
+
+.mh-tabbed-widget, .mh-tabbed-widget a { color: #4f4f4f; }
+.mh-tabbed-widget a:hover { color: #16a1a4; }
+.mh-tabbed-widget .tagcloud a { color: #fff; }
+.mh-tab-buttons { border-bottom: 3px solid #bbbd00; }
+.mh-tab-button, .mh-tab-content { background: #f2ffff; }
+.mh-tab-button.active, .mh-tab-button.active:hover { color: #fff; background: #bbbd00; }
+.mh-tab-comment-excerpt { background: rgba(255, 255, 255, 0.6); }
+.mh-footer-widget .mh-tabbed-widget, .mh-footer-widget .mh-tabbed-widget a { color: #fff; }
+.mh-footer-widget .mh-tab-button.active { background: #bbbd00; }
+.mh-footer-widget .mh-tab-comment-excerpt { background: #16a1a4; }
+
+/***** WP Calendar Widget *****/
+
+#wp-calendar caption { background: #f2ffff; }
+
+/***** WP Tag Cloud Widget *****/
+
+.mh-widget .tagcloud a, .mh-footer-widget .tagcloud a { background: #16a1a4; }
+.tagcloud a:hover, .mh-widget .tagcloud a:hover, .mh-footer-widget .tagcloud a:hover { background: #bbbd00; }
+
+/***** Media Queries *****/
+
+@media screen and (max-width: 900px) {
+	#mh-mobile .mh-slider-caption { background: #16a1a4; background: rgba(22, 161, 164, 1); }
+}
+@media only screen and (max-width: 420px) {
+	.mh-copyright-wrap { padding: 15px 20px; }
+}

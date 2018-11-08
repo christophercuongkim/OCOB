@@ -1,0 +1,14 @@
+BUS 310 (York).pdf
+IT 150 (Chang).pdf
+IT 326 (Valdez).pdf
+IT 329 (Djassemi).pdf
+IT 330 (Singh).pdf
+IT 341 (Saha).pdf
+IT 371 (Barber).pdf
+IT 406 (Valdez).pdf
+IT 407 (Djassemi).pdf
+IT 410 (Olsen).pdf
+IT 428 (Tornatzky).pdf
+IT 435 (Saha).pdf
+IT 462 (Tornatzky).pdf
+list.txt

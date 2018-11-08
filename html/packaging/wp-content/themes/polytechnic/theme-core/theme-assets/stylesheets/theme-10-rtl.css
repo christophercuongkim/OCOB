@@ -1,0 +1,113 @@
+/*
+Theme Name: Mythology
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+/* DIRECTION */
+body, body *, input, input * {
+	direction: rtl !important;
+	unicode-bidi: embed !important;
+}
+
+/* MARGINS & PADDINGS */
+	/* SIDEBARS: RIGHT */
+	#secondary.right, 
+	#tertiary.right {
+	  padding: 0rem 4rem 1rem 0rem !important;
+	}
+	/* SIDEBARS: LEFT; */
+	#secondary.left, 
+	#tertiary.left {
+	  padding: 0rem 0rem 1rem 4rem !important;
+	}
+	/* WIDGETS */
+	.widget ul li::before, .plussed ul li::before, ul li::before {
+	  margin-left: 0 !important;
+	  margin-right: -1.5rem !important;
+	}
+	.widget ul, .plussed ul, #primary ul {
+	  margin-left: 0 !important;
+	  margin-right: 1.5rem !important;
+	}
+	/* BULLETS & ICONS */
+	.bullet {
+	  float: right !important;
+	  margin-left: 1rem !important;
+	  margin-right: 0 !important;
+	}
+
+/* TEXT ALIGN */
+	/* TEXT ALIGN: RIGHT */
+	#section-tophat-dropdown h4.entry-title.summary, 
+	#section-tophat-dropdown .tribe-list-widget .tribe-event-title, 
+	#section-content .widget-title,
+	.module.hover-text .module-content-inner, 
+	.hover-image .module-content, 
+	.module-category,
+	.text-left,
+	#section-footer h4.entry-title.summary, 
+	#section-footer .tribe-list-widget .tribe-event-title {
+	  text-align: right !important;
+	}
+	#page .text-right {
+	  text-align: left !important;
+	}
+
+/* FLOATS */
+	/* FLOAT: RIGHT */
+	#section-tophat nav, 
+	.tophat_navigation, 
+	.tophat_navigation .menu-item-title, 
+	#section-tophat span, 
+	#section-tophat .social, 
+	#page .left, 
+	.container .column, 
+	.container .columns {
+	  float: right !important;
+	}
+	/* FLOAT: LEFT */
+	#page .right {
+	  float: left !important;
+	}
+	/* FLOAT: NONE */
+	#page #skeleton-filter {
+	  float: none !important;
+	}
+
+/* BACKGROUND POSITION */
+#section-content .sf_input {
+  background-position: 4% 10px !important;
+}
+
+/* ELEMENT SPECIFICS */
+	/* HEADER CENTER */
+	#site-heading.center {
+	  float: none !important;
+	}
+	/* HEADER LEFT */
+	#section-header nav ul.menu li {
+	  margin-right: 0;
+	  margin-left: 25px;
+	  text-align: right;
+	}
+	#page #section-header nav ul.menu li:last-child {
+	  margin: 0 !important;
+	}
+	/* TRIBE WIDGETS */
+	.tribe-events-list-widget-events {
+	  float: right;
+	  margin: 0 0 1.6rem 4rem !important;
+	}
+	/* FOOTER */
+		/* TRIBE WIDGETS */
+		#section-footer .tribe-events-list-widget-events {
+		  float: right;
+		  margin: 0 0 0rem 4rem !important;
+		  width: 95% !important;
+		}

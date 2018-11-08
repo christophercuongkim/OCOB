@@ -1,0 +1,26 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0BE-76DD
+
+ Directory of C:\Users\shughes\Desktop\Clint\1_28_2013 More syllabi\Marketing
+
+01/29/2013  02:12 PM    <DIR>          .
+01/29/2013  02:12 PM    <DIR>          ..
+01/28/2013  12:59 PM            38,070 BUS 346 (BORIN).pdf
+01/28/2013  12:59 PM            38,673 BUS 346 (DOBSON).pdf
+01/28/2013  01:00 PM           129,911 BUS 346 (MULLIKIN).pdf
+01/28/2013  01:00 PM            21,504 BUS 346 (POOLE).pdf
+01/09/2013  09:24 AM            38,895 BUS 346 (SIMON).pdf
+01/28/2013  01:00 PM            58,762 BUS 346 (WOLF).pdf
+01/03/2013  09:25 AM           153,013 BUS 418 (NEILL).pdf
+01/28/2013  01:01 PM            47,300 BUS 419 (HESS).pdf
+01/09/2013  09:26 AM            35,905 BUS 446 (SIMON).pdf
+01/11/2013  10:24 AM           235,366 BUS 451 (DANES).pdf
+01/28/2013  01:01 PM            83,007 BUS 452 (MULLIKIN).pdf
+01/28/2013  01:01 PM            60,666 BUS 452 (WOLF).pdf
+01/28/2013  01:01 PM           183,924 BUS 454 (METCALF).pdf
+01/28/2013  08:42 AM           732,583 BUS 464 (DANES 1).pdf
+01/28/2013  08:42 AM           427,830 BUS 464 (DANES 2).pdf
+01/09/2013  09:23 AM            32,268 BUS 464 (SIMON).pdf
+01/29/2013  02:12 PM                 0 marketingNames.txt
+              17 File(s)      2,317,677 bytes
+               2 Dir(s)  19,305,287,680 bytes free

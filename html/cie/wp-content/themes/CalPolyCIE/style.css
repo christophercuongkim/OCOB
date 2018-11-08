@@ -1,0 +1,79 @@
+/*
+Theme Name: Cal Poly CIE 
+Author: IE Design + Communcations
+Author URI: http://iedesign.com;
+Version: 1.1
+
+*/
+
+/* 1-6-16 accessibility fix */
+body {color: #000000}
+
+
+/* 1-5-16 Formstack Embed */
+.fsboxshadow .fsBody .fsForm {
+    box-shadow: none !important;
+    border: 0;
+}
+
+/* 12-16-16  changes */
+.binding.subpage .wp-caption-text {
+    margin: 10px 5px !important;
+    padding: 0;
+    line-height: 1.8em;
+    color: #666666;
+font-family: LatoWeb;
+}
+
+@media (max-width: 767px) {
+	.alignright,
+	.alignleft {
+		display: block;
+		margin: 1em auto;
+		float: none;
+	}
+}
+
+/* 12-15-16 changes */
+
+#about a {
+	color: #035642
+}
+
+#cal-poly-bar {
+	background: #035642;
+	height: 56px;
+}
+#cal-poly-bar img {
+	width: 126px;
+}
+
+@media (max-width: 767px) {
+	#cal-poly-bar {
+		height: 37px;
+	}
+	#cal-poly-bar img {
+		width: 96px;
+	}
+}
+
+
+
+#page-footer label {
+	display: block !important;
+	font-size: 13px;
+}
+
+#page-footer input[type=text],
+#page-footer input[type=email] {
+	height: 32px;
+	line-height: 26px;
+}
+
+#page-footer input[type=email] {
+	width: 100%;
+}
+
+/* end 12-15-16 changes */
+
+

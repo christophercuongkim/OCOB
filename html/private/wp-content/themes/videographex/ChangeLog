@@ -1,0 +1,167 @@
+2009-03-15  bruni
+
+	* trunk/VideographEx/functions.php:
+	  - Missing title in video thumbnail. Thanks to Jeton
+	  (http://muzikeshqip.net/) that found the bug.
+	* trunk/VideographEx/functions.php:
+	  - Removed fopen code. Now all remote calls use get_url
+	  - Bypass Vimeo api problem. Description here:
+	  http://www.vimeo.com/forums/topic:11826
+
+2009-03-09  bruni
+
+	* tags/01.02:
+	  Snapshot of version 01.02
+	* trunk/VideographEx/style.css:
+	  - Version update on style.css
+	* trunk/VideographEx/ChangeLog:
+	  - Add ChangeLog to project
+	* trunk/VideographEx, trunk/VideographerEx:
+	  - Change project folder to sync with project name
+	* ., Wordpress/VideographerEx:
+	  - Change main project folder to sync with project name
+	* Wordpress/VideographerEx/trunk/VideographerEx/Thumbs.db:
+	  - Delete an unused file
+	* Wordpress/VideographerEx/trunk/VideographerEx/header.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/your_logo.png,
+	  Wordpress/VideographerEx/trunk/VideographerEx/style.css:
+	  - Add a logo example in the header
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for thumbnail image for flash video added via [flv]
+	  tag with .f4v extension
+
+2009-02-25  bruni
+
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Split the_content_video in a function that return the content
+	  and a function that echoed it.
+
+2009-02-16  bruni
+
+	* Wordpress/VideographerEx/tags/01.01:
+	  Spanshot version 01.01
+	* Wordpress/VideographerEx/trunk/VideographerEx/archive.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/comments.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/footer.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/index.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/screenshot.png,
+	  Wordpress/VideographerEx/trunk/VideographerEx/style.css:
+	  - Update screenshot
+	  - Add Tag in index and archive following this rules
+	  http://codex.wordpress.org/Template_Tags/the_tags
+	  - Add gravatar support following this rules
+	  http://codex.wordpress.org/Using_Gravatars#Theme_Support_for_WordPress_2.5
+	* Wordpress/VideographerEx/trunk/VideographerEx/style.css:
+	  - Add tags to style.css
+	* Wordpress/VideographerEx/trunk/VideographerEx/404.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/ad_header.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/ad_sidebar.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/ad_singlepage.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/archive.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/comments.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/footer.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/functions.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/header.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/index.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/page.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/searchform.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/sidebar.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/sidebar2.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/sidebar3.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/single.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/style.css,
+	  Wordpress/VideographerEx/trunk/VideographerEx/top_nav.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/xhtmlsitemap.php:
+	  - Change link to theme website
+	  - Change link in footer
+	  - Set eol-style on every .php and .css conforming to specs
+	  available on
+	  http://codex.wordpress.org/Theme_Development_Checklist
+
+2009-02-14  bruni
+
+	* Wordpress/VideographerEx/trunk/VideographerEx/footer.php:
+	  - Change footer information
+	* Wordpress/VideographerEx/trunk/VideographerEx/archive.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/page.php:
+	  - Sync page and archive with VgEx
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/myspace_thumb.png,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/thumb_myspace.png:
+	  - Myspace default thumb renamed
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for thumbnail selection via custom field
+	  - Add support for thumbnail as first image
+	  - Organized code for functions.php
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/myspace_thumb.png:
+	  - Add support for MySpace video
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for spike.com video
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Added Flickr Video support
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for Blip.tv
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for Metacafe video
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for Viddler video
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add support for Veoh video
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Add Dailymotion support
+
+2009-02-13  bruni
+
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Implement Quicktime video also with RTSP support
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Remove video link in excerpt
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Implemented local and remote Flash flv video.
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php:
+	  - Implemented Vimeo videos.
+	* Wordpress/VideographerEx/trunk/VideographerEx/functions.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/index.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/single.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/style.css:
+	  - Backward compatibility with standard Videographer vids
+	  attribute
+	  - Using Viper's Video Quicktags plugin to include video from
+	  YouTube, Google video, Vimeo, standard Flash, Quicktime, and
+	  others.
+	  - Wherever you put video in your code, video is show as first and
+	  thumbnail is shown in index.php
+	  - Currently, full working with YouTube and Google video.
+	* Wordpress, Wordpress/VideographerEx,
+	  Wordpress/VideographerEx/tags, Wordpress/VideographerEx/trunk,
+	  Wordpress/VideographerEx/trunk/VideographerEx,
+	  Wordpress/VideographerEx/trunk/VideographerEx/404.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/Thumbs.db,
+	  Wordpress/VideographerEx/trunk/VideographerEx/ad_header.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/ad_sidebar.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/ad_singlepage.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/archive.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/comments.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/footer.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/functions.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/header.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/Thumbs.db,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/commentslink.gif,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/film.jpg,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/ledge.jpg,
+	  Wordpress/VideographerEx/trunk/VideographerEx/images/rsslink.gif,
+	  Wordpress/VideographerEx/trunk/VideographerEx/index.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/page.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/screenshot.png,
+	  Wordpress/VideographerEx/trunk/VideographerEx/searchform.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/sidebar.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/sidebar2.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/sidebar3.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/single.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/style.css,
+	  Wordpress/VideographerEx/trunk/VideographerEx/top_nav.php,
+	  Wordpress/VideographerEx/trunk/VideographerEx/xhtmlsitemap.php:
+	  Import of original theme from zoomstart.com
+

@@ -1,0 +1,978 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><!-- InstanceBegin template="/Templates/master.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!--
+Cal Poly Web Template v5.0
+
+Code maintained by
+Information Technology Services
+California Polytechnic State University
+San Luis Obispo, CA 93407
+-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="en" />
+<meta name="language" content="en" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<meta name="codebase" content="5.0" />
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>page title - dept name - Cal Poly, San Luis Obispo</title>
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="description" -->
+<meta name="Description" content="Description" />
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="keyWords" -->
+<meta name="Keywords" content="Keywords" />
+<!-- InstanceEndEditable -->
+
+<!-- InstanceBeginEditable name="comments" -->
+<meta name="comments" content="Comments" />
+<!-- InstanceEndEditable -->
+
+<link href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/css/cp_screen.min.css" rel="stylesheet" type="text/css" />
+<link href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/css/cp_print.min.css" rel="stylesheet" type="text/css" media="print" />
+
+<!--[if IE 8]>
+<link href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/css/ie8_screen.min.css" rel="stylesheet" type="text/css" />
+<link href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/css/ie8_print.min.css" rel="stylesheet" type="text/css" media="print" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/css/ie7_screen.min.css" rel="stylesheet" type="text/css" />
+<link href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/css/ie7_print.min.css" rel="stylesheet" type="text/css" media="print" />
+<![endif]-->
+
+<link href="../css/screen.min.css" rel="stylesheet" type="text/css" />
+<link href="../css/print.min.css" rel="stylesheet" type="text/css" media="print" />
+	
+<script src="https://webresource.its.calpoly.edu/jquery/1.6.4/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="https://webresource.its.calpoly.edu/jqueryui/1.8.20/jquery.ui.core.min.js" type="text/javascript"></script>
+<script src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/jquery/noconflict.min.js" type="text/javascript"></script>
+<script src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/jquery/smoothscroll.min.js" type="text/javascript"></script>
+<script src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/jquery/zebrastriping.min.js" type="text/javascript"></script>
+
+
+<!-- InstanceBeginEditable name="head" -->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- InstanceEndEditable -->
+
+<link rel="shortcut icon" href="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="header">
+		<div id = "accessibilityNav"><!-- #BeginLibraryItem "/Library/top-nav-accessibility.lbi" -->
+<ul>
+<li><a href="#topH1" id="skip" title="skip to content">Skip to Content</a></li>
+<li><a href="http://www.calpoly.edu/help.html" id="helpLink" title="help">?</a></li>
+</ul><!-- #EndLibraryItem --></div><div id = "audienceNav"><!-- #BeginLibraryItem "/Library/top-nav-audience.lbi" -->
+
+<ul>
+    <li><a href="#">Current Students</a></li>
+    <li><a href="#">Prospective Students</a></li>
+    <li><a href="#">Parents</a></li>
+	<li><a href="#">Business Community</a></li>
+	<li><a href="#">Faculty &amp; Staff</a></li>
+	<li><a href="#">Alumni</a></li>
+</ul>  
+<!-- #EndLibraryItem --></div>
+
+
+<hr />
+      <div id = "myCalPolyNav">  
+      	<a href="#" id="login" >my CalPoly login</a>
+		</div>
+      
+      <div id = "utilityNav"><!-- #BeginLibraryItem "/Library/top-nav-utility.lbi" -->
+
+<ul>
+	<li id="azindex"><a href="javascript:;">A - Z Index</a>
+       <ul id="azindexdropdown">
+            <li class="lightGreen"><a href="../atoz.html#A">A</a></li>
+            <li class="lightGreen"><a href="../atoz.html#B">B</a></li>
+            <li class="darkGreen"><a href="../atoz.html#C">C</a></li>
+            <li class="darkGreen"><a href="../atoz.html#D">D</a></li>
+            <li class="lightGreen"><a href="../atoz.html#E">E</a></li>
+            <li class="lightGreen"><a href="../atoz.html#F">F</a></li>
+            <li class="darkGreen"><a href="../atoz.html#G">G</a></li>
+            <li class="darkGreen"><a href="../atoz.html#H">H</a></li>
+            <li class="lightGreen"><a href="../atoz.html#I">I</a></li>
+            <li class="lightGreen"><a href="../atoz.html#J">J</a></li>
+            <li class="darkGreen"><a href="../atoz.html#K">K</a></li>
+            <li class="darkGreen"><a href="../atoz.html#L">L</a></li>
+            <li class="lightGreen"><a href="../atoz.html#M">M</a></li>
+            <li class="lightGreen"><a href="../atoz.html#N">N</a></li>
+            <li class="darkGreen"><a href="../atoz.html#O">O</a></li>
+            <li class="darkGreen"><a href="../atoz.html#P">P</a></li>
+            <li class="lightGreen">Q</li>
+            <li class="lightGreen"><a href="../atoz.html#R">R</a></li>
+            <li class="darkGreen"><a href="../atoz.html#S">S</a></li>
+            <li class="darkGreen"><a href="../atoz.html#T">T</a></li>
+            <li class="lightGreen"><a href="../atoz.html#U">U</a></li>
+            <li class="lightGreen"><a href="../atoz.html#V">V</a></li>
+            <li class="darkGreen"><a href="../atoz.html#W">W</a></li>
+            <li class="darkGreen">X</li>
+            <li class="lightGreen"><a href="../atoz.html#Y">Y</a></li>
+            <li class="lightGreen"><a href="../atoz.html#Z">Z</a></li>
+       </ul>
+    </li>
+    <li id="quicklinks"><a href="javascript:;">Quick Links</a>
+        <ul id="quicklinksdropdown">
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+            <li><a href="#">Link 4</a></li>
+            <li><a href="#">Link 5</a></li>
+            <li><a href="#">Link 6</a></li>
+        </ul>
+    </li>
+    <li id="maps"><a href="javascript:;">Maps</a></li>
+</ul><!-- #EndLibraryItem --></div>
+<!-- InstanceBeginEditable name="headercontent" --><!-- #BeginLibraryItem "/Library/struct1.lbi" --><!--
+========================
+DO NOT MODIFY THIS CODE!
+- Cal Poly, ITS
+========================
+-->
+
+<div id="headerContent">
+                <div id="cplogo">
+                  
+                    <a href="http://www.calpoly.edu/" ><img src="../images/ocob_logo.gif" alt="Cal Poly, San Luis Obispo" height="75" width="200" title="Go to Cal Poly Home" /></a>
+  </div>
+                <div id="deptName"><!-- #BeginLibraryItem "/Library/deptname.lbi" -->
+
+<h2><a href="../index.html">Department Name</a></h2><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/deptinfo.lbi" -->
+
+<h3><a href="../index.html">Optional Department Information</a></h3><!-- #EndLibraryItem --></div>
+            </div>    
+<!-- #EndLibraryItem --><!-- InstanceEndEditable --></div>
+	<div id = "cp"><!-- #BeginLibraryItem "/Library/main-nav-megamenu.lbi" -->
+
+
+    
+	  <ul id="cpUl">
+            <li id="admissionsAndAidTab"><a href="#">Academic Areas</a>
+            	<div class="largeNav" id="admissionsAndAidNav">
+        			<div>
+                    	<h2><a  href="#">Academic Areas Home <img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/navigation/small_arrow_out.png" alt="" /></a></h2>
+                        <a  href="#"><img src="../images/sample-images/support_cp.jpg" alt="Support Cal Poly" width="174" height="39" /></a>
+                        <div>
+                        	<a  href="#"><b>CONTACT US</b></a>
+                       		<p>Phone: 805-756-XXXX</p>
+                       		<a  href="#">admissions@calpoly.edu</a>
+                       		<a  href="#"> Department Contacts</a>
+                       </div>
+                    </div>
+                    
+                    <div class="largeNavRight">
+                    	
+                        <div><h3>APPLY TO CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                           <li><a href="#">Grand Avenue Advice for Applicants</a></li>
+                            <li><a href="#">Tips for Applicants</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>FINANCIAL AID &amp; SCHOLARSHIPS</h3>
+                    	<ul>
+                            <li><a href="#">Types of Aid</a></li>
+                            <li><a href="#">Scholarships</a></li>
+                            <li><a href="#">Apply for Aid</a></li>
+                            <li><a href="#">Financial Aid Policies</a></li>
+                           <li><a href="#">Financial Aid FAQs</a></li>
+                            <li><a href="#">Cost of Attendance</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>VISIT CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Location</a></li>
+                            <li><a href="#">Virtual Tour/Viewbook</a></li>
+                            <li><a href="#">Schedule a Tour</a></li>
+                           <li><a href="#">Spotlight</a></li>
+                            <li><a href="#">Week in Pictures</a></li>
+                            <li><a href="#">Campus Maps &amp; Directories</a></li>
+                            <li><a href="#">Things to Do on Campus</a></li>
+                            <li><a href="#">Where to Stay</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>SELECTION CRITERIA</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                            <li><a href="#">General Education Requirements</a></li>
+                            <li><a href="#">Outcomes</a></li>
+                            <li><a href="#">Choosing Your Major</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <div class="linkBlockDouble">
+                        <h3>ADMITTED STUDENTS</h3>
+                    	<ul>
+                            <li><a href="#">Orientation Events</a></li>
+                            <li><a href="#">New Cal Poly Parents</a></li>
+                            <li><a href="#">Registering for Classes</a></li>
+                            <li><a href="#">SLO Chamber of Commerce</a></li>
+                            <li><a href="#">Things You Should Know</a></li>
+                            <li><a href="#">Bookstore</a></li>    
+                        </ul>
+                        <ul>
+                       		<li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Academic Calendar</a></li>
+                            <li><a href="#">Housing</a></li>
+                            <li><a href="#">Access My CalPoly</a></li>
+                            <li><a href="#">Summer Term</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>HIGH SCHOOL COUNSELORS</h3>
+                    	<ul>
+                            <li><a href="#">Counselor VIP Page</a></li>
+                            <li><a href="#">Newsletter</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>NEED HELP?</h3>
+                    	<ul>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Grand Ave. Advice for Applicants</a></li>
+                            <li><a href="#">Admissions FAQs</a></li>
+                            <li><a href="#">Not Selected?</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <a href="javascript:;" class="largeNavClose">CLOSE MENU</a>
+                    </div>
+        		</div>
+            </li>
+            <li id="majorsAndCollegesTab"><a href="#">Undergraduate Programs & Concentrations</a>
+            <div class="largeNav" id="majorsAndCollegesNav">
+        			<div>
+                    	<h2><a href="#">Undergraduate Programs & Concentrations Home <img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/navigation/small_arrow_out.png" alt="" /></a></h2>
+                        <a href="#"><img src="../images/sample-images/support_cp.jpg" alt="Support Cal Poly" width="174" height="39" /></a>
+                        <div>
+                        <a href="#"><b>CONTACT US</b></a>
+                       <p>Phone: 805-756-XXXX</p>
+                       <a href="#">admissions@calpoly.edu</a>
+                       <a href="#"> Department Contacts</a>
+                       </div>
+                    </div>
+                    
+                    <div class="largeNavRight">
+                    	<div>
+                        <h3>APPLY TO CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                           <li><a href="#">Grand Avenue Advice for Applicants</a></li>
+                            <li><a href="#">Tips for Applicants</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>FINANCIAL AID &amp; SCHOLARSHIPS</h3>
+                    	<ul>
+                            <li><a href="#">Types of Aid</a></li>
+                            <li><a href="#">Scholarships</a></li>
+                            <li><a href="#">Apply for Aid</a></li>
+                            <li><a href="#">Financial Aid Policies</a></li>
+                           <li><a href="#">Financial Aid FAQs</a></li>
+                            <li><a href="#">Cost of Attendance</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>VISIT CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Location</a></li>
+                            <li><a href="#">Virtual Tour/Viewbook</a></li>
+                            <li><a href="#">Schedule a Tour</a></li>
+                           <li><a href="#">Spotlight</a></li>
+                            <li><a href="#">Week in Pictures</a></li>
+                            <li><a href="#">Campus Maps &amp; Directories</a></li>
+                            <li><a href="#">Things to Do on Campus</a></li>
+                            <li><a href="#">Where to Stay</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>SELECTION CRITERIA</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                            <li><a href="#">General Education Requirements</a></li>
+                            <li><a href="#">Outcomes</a></li>
+                            <li><a href="#">Choosing Your Major</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <div class="linkBlockDouble">
+                        <h3>ADMITTED STUDENTS</h3>
+                    	<ul>
+                            <li><a href="#">Orientation Events</a></li>
+                            <li><a href="#">New Cal Poly Parents</a></li>
+                            <li><a href="#">Registering for Classes</a></li>
+                            <li><a href="#">SLO Chamber of Commerce</a></li>
+                            <li><a href="#">Things You Should Know</a></li>
+                            <li><a href="#">Bookstore</a></li>    
+                        </ul>
+                        <ul>
+                       		<li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Academic Calendar</a></li>
+                            <li><a href="#">Housing</a></li>
+                            <li><a href="#">Access My CalPoly</a></li>
+                            <li><a href="#">Summer Term</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>HIGH SCHOOL COUNSELORS</h3>
+                    	<ul>
+                            <li><a href="#">Counselor VIP Page</a></li>
+                            <li><a href="#">Newsletter</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>NEED HELP?</h3>
+                    	<ul>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Grand Ave. Advice for Applicants</a></li>
+                            <li><a href="#">Admissions FAQs</a></li>
+                            <li><a href="#">Not Selected?</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <a href="javascript:;" class="largeNavClose">CLOSE MENU</a>
+                    </div>
+        		</div>
+            </li>
+            <li id="researchTab"><a href="#">Graduate Programs</a>
+            <div class="largeNav" id="researchNav">
+        			<div>
+                    	<h2><a href="#">Graduate Programs Home <img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/navigation/small_arrow_out.png" alt="" /></a></h2>
+                        <a href="#"><img src="../images/sample-images/support_cp.jpg" alt="Support Cal Poly" width="174" height="39" /></a>
+                        <div>
+                        <a href="#"><b>CONTACT US</b></a>
+                       <p>Phone: 805-756-XXXX</p>
+                       <a href="#">admissions@calpoly.edu</a>
+                       <a href="#"> Department Contacts</a>
+                       </div>
+                    </div>
+                    
+                    <div class="largeNavRight">
+                        <div>
+                        <h3>APPLY TO CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                           <li><a href="#">Grand Avenue Advice for Applicants</a></li>
+                            <li><a href="#">Tips for Applicants</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>FINANCIAL AID &amp; SCHOLARSHIPS</h3>
+                    	<ul>
+                            <li><a href="#">Types of Aid</a></li>
+                            <li><a href="#">Scholarships</a></li>
+                            <li><a href="#">Apply for Aid</a></li>
+                            <li><a href="#">Financial Aid Policies</a></li>
+                           <li><a href="#">Financial Aid FAQs</a></li>
+                            <li><a href="#">Cost of Attendance</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>VISIT CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Location</a></li>
+                            <li><a href="#">Virtual Tour/Viewbook</a></li>
+                            <li><a href="#">Schedule a Tour</a></li>
+                           <li><a href="#">Spotlight</a></li>
+                            <li><a href="#">Week in Pictures</a></li>
+                            <li><a href="#">Campus Maps &amp; Directories</a></li>
+                            <li><a href="#">Things to Do on Campus</a></li>
+                            <li><a href="#">Where to Stay</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>SELECTION CRITERIA</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                            <li><a href="#">General Education Requirements</a></li>
+                            <li><a href="#">Outcomes</a></li>
+                            <li><a href="#">Choosing Your Major</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <div class="linkBlockDouble">
+                        <h3>ADMITTED STUDENTS</h3>
+                    	<ul>
+                            <li><a href="#">Orientation Events</a></li>
+                            <li><a href="#">New Cal Poly Parents</a></li>
+                            <li><a href="#">Registering for Classes</a></li>
+                            <li><a href="#">SLO Chamber of Commerce</a></li>
+                            <li><a href="#">Things You Should Know</a></li>
+                            <li><a href="#">Bookstore</a></li>    
+                        </ul>
+                        <ul>
+                       		<li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Academic Calendar</a></li>
+                            <li><a href="#">Housing</a></li>
+                            <li><a href="#">Access My CalPoly</a></li>
+                            <li><a href="#">Summer Term</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>HIGH SCHOOL COUNSELORS</h3>
+                    	<ul>
+                            <li><a href="#">Counselor VIP Page</a></li>
+                            <li><a href="#">Newsletter</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>NEED HELP?</h3>
+                    	<ul>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Grand Ave. Advice for Applicants</a></li>
+                            <li><a href="#">Admissions FAQs</a></li>
+                            <li><a href="#">Not Selected?</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <a href="javascript:;" class="largeNavClose">CLOSE MENU</a>
+                    </div>
+        		</div>
+            </li>
+            
+            <li id="researchTab"><a href="#">Advising</a>
+            <div class="largeNav" id="researchNav">
+        			<div>
+                    	<h2><a href="#">Advising Home <img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/navigation/small_arrow_out.png" alt="" /></a></h2>
+                        <a href="#"><img src="../images/sample-images/support_cp.jpg" alt="Support Cal Poly" width="174" height="39" /></a>
+                        <div>
+                        <a href="#"><b>CONTACT US</b></a>
+                       <p>Phone: 805-756-XXXX</p>
+                       <a href="#">admissions@calpoly.edu</a>
+                       <a href="#"> Department Contacts</a>
+                       </div>
+                    </div>
+                    
+                    <div class="largeNavRight">
+                        <div>
+                        <h3>APPLY TO CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                           <li><a href="#">Grand Avenue Advice for Applicants</a></li>
+                            <li><a href="#">Tips for Applicants</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>FINANCIAL AID &amp; SCHOLARSHIPS</h3>
+                    	<ul>
+                            <li><a href="#">Types of Aid</a></li>
+                            <li><a href="#">Scholarships</a></li>
+                            <li><a href="#">Apply for Aid</a></li>
+                            <li><a href="#">Financial Aid Policies</a></li>
+                           <li><a href="#">Financial Aid FAQs</a></li>
+                            <li><a href="#">Cost of Attendance</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>VISIT CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Location</a></li>
+                            <li><a href="#">Virtual Tour/Viewbook</a></li>
+                            <li><a href="#">Schedule a Tour</a></li>
+                           <li><a href="#">Spotlight</a></li>
+                            <li><a href="#">Week in Pictures</a></li>
+                            <li><a href="#">Campus Maps &amp; Directories</a></li>
+                            <li><a href="#">Things to Do on Campus</a></li>
+                            <li><a href="#">Where to Stay</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>SELECTION CRITERIA</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                            <li><a href="#">General Education Requirements</a></li>
+                            <li><a href="#">Outcomes</a></li>
+                            <li><a href="#">Choosing Your Major</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <div class="linkBlockDouble">
+                        <h3>ADMITTED STUDENTS</h3>
+                    	<ul>
+                            <li><a href="#">Orientation Events</a></li>
+                            <li><a href="#">New Cal Poly Parents</a></li>
+                            <li><a href="#">Registering for Classes</a></li>
+                            <li><a href="#">SLO Chamber of Commerce</a></li>
+                            <li><a href="#">Things You Should Know</a></li>
+                            <li><a href="#">Bookstore</a></li>    
+                        </ul>
+                        <ul>
+                       		<li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Academic Calendar</a></li>
+                            <li><a href="#">Housing</a></li>
+                            <li><a href="#">Access My CalPoly</a></li>
+                            <li><a href="#">Summer Term</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>HIGH SCHOOL COUNSELORS</h3>
+                    	<ul>
+                            <li><a href="#">Counselor VIP Page</a></li>
+                            <li><a href="#">Newsletter</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>NEED HELP?</h3>
+                    	<ul>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Grand Ave. Advice for Applicants</a></li>
+                            <li><a href="#">Admissions FAQs</a></li>
+                            <li><a href="#">Not Selected?</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <a href="javascript:;" class="largeNavClose">CLOSE MENU</a>
+                    </div>
+        		</div>
+            </li>
+            <li id="campusLifeTab"><a  href="#">About</a>
+            <div class="largeNav" id="campusLifeNav">
+        			<div>
+                    	<h2><a href="#">About Home <img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/navigation/small_arrow_out.png" alt="" /></a></h2>
+                        <a href="#"><img src="../images/sample-images/support_cp.jpg" alt="Support Cal Poly" width="174" height="39" /></a>
+                        <div>
+                        <a href="#"><b>CONTACT US</b></a>
+                       <p>Phone: 805-756-XXXX</p>
+                       <a href="#">admissions@calpoly.edu</a>
+                       <a href="#"> Department Contacts</a>
+                       </div>
+                    </div>
+                    
+                    <div class="largeNavRight">
+                        <div>
+                        <h3>APPLY TO CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                           <li><a href="#">Grand Avenue Advice for Applicants</a></li>
+                            <li><a href="#">Tips for Applicants</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>FINANCIAL AID &amp; SCHOLARSHIPS</h3>
+                    	<ul>
+                            <li><a href="#">Types of Aid</a></li>
+                            <li><a href="#">Scholarships</a></li>
+                            <li><a href="#">Apply for Aid</a></li>
+                            <li><a href="#">Financial Aid Policies</a></li>
+                           <li><a href="#">Financial Aid FAQs</a></li>
+                            <li><a href="#">Cost of Attendance</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>VISIT CAL POLY</h3>
+                    	<ul>
+                            <li><a href="#">Location</a></li>
+                            <li><a href="#">Virtual Tour/Viewbook</a></li>
+                            <li><a href="#">Schedule a Tour</a></li>
+                           <li><a href="#">Spotlight</a></li>
+                            <li><a href="#">Week in Pictures</a></li>
+                            <li><a href="#">Campus Maps &amp; Directories</a></li>
+                            <li><a href="#">Things to Do on Campus</a></li>
+                            <li><a href="#">Where to Stay</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>SELECTION CRITERIA</h3>
+                    	<ul>
+                            <li><a href="#">Freshman</a></li>
+                            <li><a href="#">Transfer</a></li>
+                            <li><a href="#">Graduate</a></li>
+                            <li><a href="#">International</a></li>
+                            <li><a href="#">General Education Requirements</a></li>
+                            <li><a href="#">Outcomes</a></li>
+                            <li><a href="#">Choosing Your Major</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <div class="linkBlockDouble">
+                        <h3>ADMITTED STUDENTS</h3>
+                    	<ul>
+                            <li><a href="#">Orientation Events</a></li>
+                            <li><a href="#">New Cal Poly Parents</a></li>
+                            <li><a href="#">Registering for Classes</a></li>
+                            <li><a href="#">SLO Chamber of Commerce</a></li>
+                            <li><a href="#">Things You Should Know</a></li>
+                            <li><a href="#">Bookstore</a></li>    
+                        </ul>
+                        <ul>
+                       		<li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Academic Calendar</a></li>
+                            <li><a href="#">Housing</a></li>
+                            <li><a href="#">Access My CalPoly</a></li>
+                            <li><a href="#">Summer Term</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>HIGH SCHOOL COUNSELORS</h3>
+                    	<ul>
+                            <li><a href="#">Counselor VIP Page</a></li>
+                            <li><a href="#">Newsletter</a></li>
+                        </ul>
+                        </div>
+                        
+                        <div>
+                        <h3>NEED HELP?</h3>
+                    	<ul>
+                            <li><a href="#">Virtual Advisor</a></li>
+                            <li><a href="#">Grand Ave. Advice for Applicants</a></li>
+                            <li><a href="#">Admissions FAQs</a></li>
+                            <li><a href="#">Not Selected?</a></li>
+                            
+                        </ul>
+                        </div>
+                        
+                        <a href="javascript:;" class="largeNavClose">CLOSE MENU</a>
+                    </div>
+        		</div>
+            </li>
+            <li id="athleticsTab"><a href="#">Outreach</a>
+            <div class="largeNav" id="athleticsNav">
+        			<div>
+                    	<h2><a href="#">Outreach Home <img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/navigation/small_arrow_out.png" alt="" /></a></h2>
+                        <a href="#"><img src="../images/sample-images/support_cp.jpg" alt="Support Cal Poly" width="174" height="39" /></a>
+                        <div>
+                        <a href="#"><b>CONTACT US</b></a>
+                       <p>Phone: 805-756-XXXX</p>
+                       <a href="#">admissions@calpoly.edu</a>
+                       <a href="#"> Department Contacts</a>
+                       </div>
+                    </div>
+                    
+                    <div class="largeNavRight">
+                        <a href="#">
+                        <img src="../images/sample-images/taylor_UCSB.jpeg" alt="Cal Poly mens basketball player shooting against UCSB"/>						</a>
+                       	<p><a href="#">This is a caption for the image above</a></p>
+                        <a href="javascript:;" class="largeNavClose">CLOSE MENU</a>
+                  </div>
+        		</div>
+            </li>
+        	<li id="searchli"><!-- #BeginLibraryItem "/Library/search.lbi" -->
+
+                <div id="search">
+                	<form method = "get" title = "Search Form" action="http://search.calstate.edu/search">
+                    <div>
+                    	<input type="hidden" name="site" value="slo-CalPoly" />
+                    	<input type="hidden" name="output" value="xml_no_dtd" />
+                    	<input type="hidden" name="client" value="slo-CalPoly" />
+                    	<input type="hidden" name="proxystylesheet" value="slo-CalPoly" />
+                    	<input type="hidden" name="sitesearch" value="departmentURL.calpoly.edu" />   
+                        <input type="text" id="q" name="q" value="Search" title="Search this site" alt="Search Text" maxlength="256"/>                      <input type="image" id="searchSubmit" name="submit" src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/header/search-arrow.png" alt="Go" title="Submit Search Query" />
+                    </div>
+                    </form>
+                </div>      <!-- #EndLibraryItem --></li>
+        </ul>
+        
+       <!-- #EndLibraryItem --></div><!--HeadNav--><!-- InstanceBeginEditable name="maincontent" --><div id="breadcrumb"><!-- #BeginLibraryItem "/Library/breadcrumb.lbi" -->
+<a href="../index.html">Home</a>&nbsp;<!-- #EndLibraryItem --><!-- TemplateBeginEditable name="breadcrumbs" -->: <a href="#">Donec a Eros Nisl</a>  :  Lorem Ipsum<!-- TemplateEndEditable --> </div>
+        
+        <div id="rightCol"><!-- #BeginLibraryItem "/Library/right-nav.lbi" -->
+
+<h2><a href="#">menu header-h2</a></h2>
+<ul>
+  <li><a href="#">First Tier 1</a>
+    <ul>
+      <li><a href="#">Second Tier 1</a>
+        <ul>
+          <li><a href="#">Third Tier 1</a></li>
+          <li><a href="#">Third Tier 2 - with extra text that wraps to another line</a></li>
+          <li><a href="#">Third Tier 3</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Second Tier 2</a></li>
+      <li><a href="#">Second Tier 3 - with extra text that wraps to another line</a></li>
+    </ul>
+  </li>
+  <li><a href="#">First Tier 2</a></li>
+  <li><a href="#">First Tier 3 - with extra text that wraps to another line</a></li>
+  <li><a href="#">First Tier 4</a></li>
+  <li><a href="#">First Tier 5</a></li>
+</ul>
+<h2>Useful Links-h2</h2>
+<ul>
+  <li><a href="#">First Tier 1</a></li>
+  <li><a href="#">First Tier 2</a></li>
+  <li><a href="#">First Tier 3</a></li>
+  <li><a href="#">First Tier 4</a></li>
+  <li><a href="#">First Tier 5</a></li>
+  <li><a href="#">First Tier 6</a></li>
+</ul>
+<!-- #EndLibraryItem --><!-- #BeginEditable "Right Col" --><!-- #EndEditable -->
+        </div><!--rightCol -->
+        
+        <div id="content">
+        	<div id="contentLine"></div>
+<!-- #BeginEditable "Main Image" -->
+            <img src="../images/sample-images/main_image.jpg" alt="Sample main image" height="318" width="728" id="mainImg" />
+<!-- #EndEditable -->
+
+			<div id="contentNav">
+            	<div id="contentNavInner">
+<!-- #BeginEditable "Table Of Contents" -->
+<h2>In this section:</h2>
+<ul>
+  <li><a href="#">Use this section to link to headings within this same page</a></li>
+  <li><a href="#">How do you rank practical experience?</a></li>
+  <li><a href="#">Learn by Working hard</a></li>
+  <li><a href="#">More on how our<br />
+    graduates do</a></li>
+</ul>
+<!-- #EndEditable -->
+		  </div></div><!--contentNav-->
+            
+            <div id="mainLeft">
+            	<a name="topH1"></a>
+<!-- #BeginEditable "Main Left" -->
+            	<h1>Page Title-H1 -Appears on Every Page                </h1>
+            	<p id="subH1">This is lead in text. <a href="http://warc.calpoly.edu/universityid/templates/instructions.html">Instructions for editing the Cal Poly Web template</a> are available online. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <a href="#">the industry's standard dummy text</a> ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.                </p>
+            	<h2>Heading 2 - Section Headings</h2>
+      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                <h3>Heading 3 - Sub-section Headings </h3>
+                <p> This is what standard paragraph text looks like. <a href="#">Linked text will look like this</a>. <em>Emphasized text will look like this</em>. Here's an example of <strong>strong (bolded) text</strong>.</p>
+      <p>Additional sample content can be found in the main folder of your template (see links below)</p>
+                <ul>
+                  <li><a href="../sample-content_and_styles.html">Content and Image Styles (sample-content_and_styles.html)</a></li>
+                  <li><a href="../sample-tables.html">Table styles (sample-tables.html)</a></li>
+                  <li><a href="../sample-forms.html">Form styles (sample-forms.html)</a></li>
+                  <li><a href="../sample-widgets_only.html">Widgets only (sample-widgets_only.html)</a></li>
+                  <li><a href="../sample-span_wide.html">Span Wide layout (sample-span_wide.html)</a></li>
+                  <li><a href="../sample-span_extrawide.html">Span Extra Wide layout (sample-span_extrawide.html)</a></li>
+                </ul>
+                
+<!-- #EndEditable "Main Left"-->
+  </div><!--mainLeft-->
+            
+            <div id="mainLeftFull">
+<!-- #BeginEditable "Main Left Full"-->
+                <h2>Span Wide Format</h2>
+                <table border="1" class="table_directory" summary="Large Directory Table style">
+                	<caption><b>I am</b> <strong>a caption</strong> that <i>is fun</i></caption>
+                	<tbody>
+                        <tr>
+                            <th scope="col" width="20%">Day</th>
+                            <th scope="col" width="15%">Time</th>
+                            <th scope="col" width="40%">Location</th>
+                            <th scope="col" width="25%">&nbsp;</th>
+                        </tr>
+
+                      <tr>
+                        <td>Wednesday</td>
+                        <td>3-6 pm</td>
+                        <td>Cal Poly Campus (<a href="#">follow U-Pick Signs</a>)</td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>Thursday</td>
+                        <td>2:30-5pm</td>
+                        <td>Morro Bay Farmer’s Market</td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>Thursday</td>
+                        <td>6:10-9pm</td>
+                        <td>Downtown SLO Farmer’s Market</td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>Saturday</td>
+                        <td>8-10:30am</td>
+                        <td>Farmer’s Market new Embassy Suites</td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>Saturday</td>
+                        <td>11am-2pm</td>
+                        <td>Cal Poly Campus (<a href="#">follow U-Pick Signs</a>)</td>
+                        <td>&nbsp;</td>
+                      </tr>
+                  </tbody>
+                </table>
+      <h2>Heading 2 - Section Headings</h2>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.      </p>
+      <hr />
+      <p class="backtotop"><a href="#topH1">Back to top</a></p>
+               
+<!-- #EndEditable "Main Col Full Width"-->
+	    </div><!--mainLeftFull-->
+
+      </div><!--mainCol-->
+        
+        <div class="clear"></div>
+        
+<!-- #BeginEditable "Widgets"-->
+        <div class="widget">
+          <h2>Recent News</h2>
+          <ul>
+          	<li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis augue</a></li>
+            <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis augue</a></li>
+            <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis augue, consectetur adipiscing elit. Donec sagittis augue</a></li>
+          </ul>
+          <p><a class="linkArrow" href="#">
+          More news
+          </a></p>
+      	</div>
+      
+      	<div class="widget">
+            <h2>Upcoming Events</h2>
+            <ul>
+                <li><a href="#"><img src="../images/sample-images/img1-50x50.jpg" alt="sample image snippet" width="50" height="50" /></a>
+                	<h3><a href="#">Event Name</a></h3>
+                    <p><a href="#">Weekend of August 6-7</a></p>
+                </li>
+                <li><a href="#"><img src="../images/sample-images/img2-50x50.jpg" alt="sample image snippet" width="50" height="50" /></a>
+                	<h3><a href="#">Event Name Lorem Ipsum Dolor</a></h3>
+                    <p><a href="#">August 17, 2011</a></p>
+                </li>
+              	<li><a href="#"><img src="../images/sample-images/img3-50x50.jpg" alt="sample image snippet" width="50" height="50" /></a>
+               		<h3><a href="#">Event Name</a></h3>
+                    <p><a href="#">Happening August 17, 2011</a></p>
+                </li>
+          	</ul>
+              <p><a class="linkArrow" href="#">
+            	More events &amp; ticketing
+              </a></p>
+        </div>
+      	<div class="widget">
+          <h2>Spotlight</h2>
+          <a href="#"><img src="../images/sample-images/widget_img1.jpg" alt="widget sample image" width="176" height="180" /></a>
+          <p><a class="linkArrow" href="#">
+          More on spotlight
+          </a></p>
+      	</div>
+      	<div class="widget">
+          <h2>Giving</h2>
+          <a href="#"><img src="../images/sample-images/widget_img2.jpg" alt="widget sample image" width="176" height="180" /></a>
+          <p><a class="linkArrow" href="#">
+          More on giving
+          </a></p>
+      	</div>
+      	<div class="widget">
+          <h2>Apply</h2>
+          <img class="widgetHead" src="../images/sample-images/widget_img3.jpg" alt="sample image snippet" width="176" height="60" />
+          <p>Start your online application process now! Enter your email to create an ApplyNow account.</p>
+          <p><a class="linkArrow" href="#">Go to apply</a></p>
+      	</div>
+<!-- #EndEditable "Widgets"--><!-- InstanceEndEditable --><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+    
+	<div id="footer">
+        <div id="footerSocial">
+            <a href="http://www.facebook.com/CaliforniaPolytechnic"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/facebook.png" alt="Facebook" width="32" height="32"/></a>
+            <a href="http://www.linkedin.com/groups?gid=80105"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/linkedin.png" alt="Linked In" width="32" height="32"/></a>
+            <a href="http://twitter.com/calpoly"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/twitter.png" alt="Twitter" width="32" height="32"/></a>
+            <a href="http://www.flickr.com/photos/30208331@N03/sets/"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/flickr.png" alt="Flickr" width="32" height="32"/></a>
+</div>
+
+        <ul id="footer_links">
+            <li><a href="http://www.calpoly.edu/">CP Home</a></li> 
+            <li><a href="http://www.calpoly.edu/directory.html">Directory</a></li> 
+            <li><a href="http://maps.calpoly.edu/">Campus Maps &amp; Directions</a></li> 
+            <li><a href="http://www.elcorralbookstore.com/">Bookstore</a></li> 
+            <li><a href="http://registrar.calpoly.edu/acad_cal/">Calendar</a></li> 
+            <!--<li><a href="#">Sitemap</a></li>--> 
+            <li><a href="http://www.afd.calpoly.edu/hr/jobopportunities.asp">Employment</a></li> 
+            <li><a href="http://www.calpoly.edu/policy.html">Campus Policies</a></li> 
+            <li><a href="http://www.calpoly.edu/contactus.html">Contact Us</a></li>
+            <li id="footerLogo"><a href="http://www.calpoly.edu/"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/footer_logo.png" height="24" width="138" alt="Cal Poly" title="Go to Cal Poly Home" /></a></li>    
+        </ul>
+            
+        <ul>
+        	<li><a href="http://get.adobe.com/reader/">Get Adobe Reader</a></li>
+            <li><a href="http://office.microsoft.com/en-us/downloads/">Microsoft Viewers</a></li> 
+        </ul>
+        
+        <div id="footer_deptinfo">
+        	<p>&#169; 2012 California Polytechnic State University &nbsp;<img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/footer_separator.jpg" alt="" height="10" width="1" />&nbsp; San Luis Obispo, California 93407<br />
+            Phone: 805-756-1111</p>
+        </div>  
+    </div><!-- #EndLibraryItem --><script type="text/javascript" src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/jquery/calpoly.min.js"></script>
+        <div class="clear"></div>
+	</div>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,128 @@
+
+/********************************/
+	CHANGELOG : MYTHOLOGY CORE 
+/********************************/
+
+VERSION 1.2.0 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.8.1
+- UPDATED: Revolution Slider 5.1.4
+
+VERSION 1.1.9 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.7.4
+- UPDATED: Revolution Slider 5.1
+
+VERSION 1.1.8 (By ThemeIsland)
+- Load Text Domain function updated to check both original and standard locations
+
+VERSION 1.1.7 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.6.2
+- UPDATED: Revolution Slider 5.0.8.5
+
+VERSION 1.1.6 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.6.2
+
+VERSION 1.1.5 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.5.3
+
+VERSION 1.1.4 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.5.2
+
+VERSION 1.1.3 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.5.1
+- UPDATED: Revolution Slider 4.6.93
+- UPDATED: OptionTree 2.5.5
+
+VERSION 1.1.2 (By ThemeIsland)
+- UPDATED: WPBakery Visual Composer 4.5
+- UPDATED: Revolution Slider Version 4.6.9
+- UPDATED: OptionTree 2.5.4
+- UPDATED: TGM-Plugin-Activation 2.4.1
+- UPDATED: Plugin-loader.php sources updated from http to https
+- UPDATED: Plugin-loader.php sources updated to latest-stable
+
+VERSION 1.1.1 (By ThemeIsland)
+- Plugin Update: WPBakery Visual Composer - Version 4.3.3 - 4.3.4
+- Plugin Update: WP Revolution Slider - Version 4.6.0 - 4.6.5
+- candy-admin-simple.css updated - Version: 2.1.0 - 2.1.1
+
+VERSION 1.1.0
+- Scripts updated for FitVids.js & Isotope.js
+- More re-organization.
+	- OPTIONTREE now loads from the core (via [functions.php]).
+	- OT Google Fonts now loads from the core (when needed).
+		- This ultimately allows us to update OptionTree very easily within core.
+	- Layout Variables moved from the old [theme-optiontree-loader.php] to the [theme-layout-variables.php]
+- Update all [functions.php] & [theme-layout-variables.php] files in themes to reflect these changes. 
+	- [theme-optiontree-loader.php] can be deleted.
+
+- Key Benefits of Core (ie: why am I bothering with this?):
+	- Automatically runs an updated version of OptionTree, OT Google Fonts, Visual Composer, and Revolution Slider.
+	- Includes the latest OT-Mythology skin & interactive scripts for OptionTree.
+	- Loads a base set of stylesheets, functions, and scripts that are handy with all themes.
+	- It's modular, so you can determine which parts are used/unused from functions.php
+
+	- DEVELOPER NOTES:
+
+	- To move mythology-core into existing themes:
+		- Move the mythology-core folder inside.
+		- Add the Core-Loader snippet at the top of your functions.php file.
+			- Make sure the theme-options.php and meta-boxes.php files are referenced properly.
+		- Remove any references to OptionTree/OT-GoogleFonts/VisualComposer/RevolutionSlider from the theme's TGM Class as these are now auto-loaded.
+
+	- To update existing themes:
+		- Move the layout-variables section of [theme-optiontree-loader.php] into [theme-layout-variables.php]
+		- Delete [theme-optiontree-loader.php]
+		- Update functions.php
+
+>	ROADMAP: 
+>	- 1.1.1 will aim to include some white-label skinning options for the admin panels.
+>	- 1.1.2 will aim to overhaul the theme documentation with an external "knowledgebase" rather than the internal theme-options notes & PDF docs.
+
+
+VERSION 1.0.9
+- Updated VC + RS
+
+VERSION 1.0.8
+- Moving Visual Composer & Revolution Slider to "core plugins" to make them easier to update.
+- Updated VC + RS
+- Updates to the Theme Options panel skin.
+- Making way to allow for "white label" skinning of the options panel (we'll likely release this in 1.1).
+
+VERSION 1.0.7
+- Rolling back the TGM Plugin Activation Class (all pre-packaged plugins must be manually installed). The mod from the last version prooved to be unstable.
+
+VERSION 1.0.6
+- Added the modified TGM Plugin Activation Class (allowing pre-packaged plugins to also be updated via the class).
+- Optiontree updated to 2.4.2
+
+VERSION 1.0.5
+- Admin CSS tweaks.
+- Optiontree updated to 2.4.1
+
+VERSION 1.0.4
+- Now including the OT_Google_Fonts folder. 
+- Added style fixes for the Theme UI Builder
+- OptionTree updated to 2.4.0
+- SOCIAL ICON UPDATES:
+	- Removed all social icon PNG files that were not being used regularly.
+	- Added in a set of circle social icons.
+	- NOTE: We should turn this into a sprite ASAP.
+- THEME-CORE: "theme-core/theme-optiontree-loader.php" to include OT_Google_Fonts, although it is disabled by default.
+- THEME-CORE: Modified the base ot-theme-options.php header and footer (the options array can stay the same, but I recommend updating the top and bottom). 
+	- This ultimately just ensures a smoother loading pattern for OT 2.4 and above.
+- THEME-CORE: "theme-core/elements/element-get-social.php" updated to allow for easily toggling the icons family either through a manual variable or a theme option.
+- Changes to the OT Candy Skin.
+
+VERSION 1.0.3
+- Added skin rules to the numeric-slider handle.
+
+VERSION 1.0.2
+- Patched the SF-MENU so that hovering over a dropdown link doesn't also color links in child menus.
+- OptionTree updated to 2.3.3
+
+VERSION 1.0.1
+- Updating OptionTree to 2.3
+- Updated the ot-candy-skin.css file to adapt to OptionTree 2.3 (mostly just overriding button styling)
+
+VERSION 1.0
+- original gangsta

@@ -1,0 +1,113 @@
+/*
+Retro looking box theme
+Feel free to edit
+*/
+
+.ts-retro-style .tshowcase-inner-box {
+	display:inline-block;
+	margin:0 auto;
+	/*width:90%;*/ /*Uncomment if you want the boxes to have a fixed with. Works better when image is on the left and content on the right */
+	background: #eee6d8; 
+	background: -webkit-linear-gradient(top, #ede1c9, #fef8e2 20%, #f2ebde 60%);
+	background: -moz-linear-gradient(top, #ede1c9, #fef8e2 20%, #f2ebde 60%);
+	background: -o-linear-gradient(top, #ede1c9, #fef8e2 20%, #f2ebde 60%);
+	background: -ms-linear-gradient(top, #ede1c9, #fef8e2 20%, #f2ebde 60%);
+	background: linear-gradient(top, #ede1c9, #fef8e2 20%, #f2ebde 60%);
+	-webkit-box-shadow: 4px 4px 8px -4px rgba(0, 0, 0, .75);
+	-moz-box-shadow: 4px 4px 8px -4px rgba(0, 0, 0, .75);
+	box-shadow: 2px 2px 5px -2px rgba(0, 0, 0, .75);
+	padding:5px 5px 2px 5px;
+	 transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    -ms-transition: 0.6s;	
+	}
+
+.ts-retro-style .tshowcase-box:nth-child(even) {
+	 -webkit-transform:rotate(-1deg);
+	-moz-transform: rotate(-1deg);
+	-o-transform: rotate(-1deg);
+	-ms-transform: rotate(-1deg);
+	transform: rotate(-1deg);
+	-webkit-backface-visibility:hidden; /*prevent rotated text in the caption being jagged in Chrome and Safari*/
+}
+
+.ts-retro-style .tshowcase-box:nth-child(odd) {
+	 -webkit-transform:rotate(1deg);
+	-moz-transform: rotate(1deg);
+	-o-transform: rotate(1deg);
+	-ms-transform: rotate(1deg);
+	transform: rotate(1deg);
+	-webkit-backface-visibility:hidden; /*prevent rotated text in the caption being jagged in Chrome and Safari*/
+}
+
+.ts-retro-style .tshowcase-box:nth-child(3n) {
+	 -webkit-transform:rotate(2deg);
+	-moz-transform: rotate(2deg);
+	-o-transform: rotate(2deg);
+	-ms-transform: rotate(2deg);
+	transform: rotate(2deg);
+	-webkit-backface-visibility:hidden; /*prevent rotated text in the caption being jagged in Chrome and Safari*/
+}
+
+	
+.ts-retro-style  .tshowcase-inner-box:hover {
+	-webkit-transform: scale(1.05) rotate(2deg);
+	-moz-transform: scale(1.05) rotate(2deg);
+	-ms-transform: scale(1.05 rotate(2deg);
+	position: relative;
+	z-index: 5;
+	 transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    -ms-transition: 0.6s;	
+	}
+
+.ts-retro-style .tshowcase-box-photo {	
+	padding:0;
+	margin:0;
+}
+
+.ts-retro-style .ts-img-left img {
+	padding:0 10px 0 0;
+	}
+
+.ts-retro-style .ts-img-above img {
+	padding:0;
+	}
+
+.ts-retro-style .tshowcase-box-photo img:hover {
+	
+}
+
+.ts-retro-style .tshowcase-box-info {
+	padding:2px 2px 10px 2px;	
+}
+
+.ts-retro-style .tshowcase-box-title {
+	font-weight:bold;
+	font-size:1.1em;
+	padding:3px;
+	
+	
+	}
+#tshowcase-hover-wrap .ts-retro-style .tshowcase-box-title a:link {
+	color:#FFF;
+	text-decoration:none;
+}
+
+#tshowcase-hover-wrap .ts-retro-style .tshowcase-box-title a:hover {
+	color:#FFF;
+	text-decoration:underline;
+}
+
+.ts-retro-style .tshowcase-box-social {}
+.ts-retro-style .tshowcase-box-details { }
+.ts-retro-style .tshowcase-single-position {}
+.ts-retro-style .tshowcase-single-email{}
+.ts-retro-style .tshowcase-single-telephone{}
+.ts-retro-style .tshowcase-single-location{}
+.ts-retro-style .tshowcase-single-shortbio{}
+.ts-retro-style .tshowcase-single-website{}

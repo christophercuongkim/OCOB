@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced TinyMCE Configuration\n"
+"POT-Creation-Date: 2016-01-07 20:48-0800\n"
+"PO-Revision-Date: 2016-01-07 20:48-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../adv-mce-config.php:40
+msgid ""
+"The Advanced TinyMCE Config plugin requires attention: you are running "
+"TinyMCE 4.0 (WordPress 3.9 or newer) but the settings for the editor have "
+"not been updated. This can result in errors while editing, or the editor may "
+"fail completely."
+msgstr ""
+
+#: ../adv-mce-config.php:201
+msgid "Options saved."
+msgstr ""
+
+#: ../adv-mce-config.php:216
+msgid "Advanced TinyMCE Settings"
+msgstr ""
+
+#: ../adv-mce-config.php:223
+msgid ""
+"You are running TinyMCE 4.0 (WordPress 3.9 or newer) but the settings for "
+"the editor have not been updated. This can result in errors while editing, "
+"or the editor may fail completely. "
+msgstr ""
+
+#: ../adv-mce-config.php:224
+msgid "(This notice will dissapear after the settings are updated.)"
+msgstr ""
+
+#: ../adv-mce-config.php:235
+msgid ""
+"To add a setting to TinyMCE type the name on the left and the value on the "
+"right. Do not add quotes around the setting name or value. To remove a "
+"setting, delete both the name and value. To add boolean values type "
+"<code>true</code> or <code>false</code>, these strings are converted to "
+"boolean."
+msgstr ""
+
+#: ../adv-mce-config.php:236
+msgid "Description of all settings is available in the"
+msgstr ""
+
+#: ../adv-mce-config.php:236
+msgid "TinyMCE documentation"
+msgstr ""
+
+#: ../adv-mce-config.php:237
+msgid "Several of the more commonly used settings are:"
+msgstr ""
+
+#: ../adv-mce-config.php:265
+msgid "Name"
+msgstr ""
+
+#: ../adv-mce-config.php:267 ../adv-mce-config.php:311
+msgid "Value"
+msgstr ""
+
+#: ../adv-mce-config.php:279
+msgid "Change"
+msgstr ""
+
+#: ../adv-mce-config.php:303
+msgid "Show the default TinyMCE settings"
+msgstr ""
+
+#: ../adv-mce-config.php:304
+msgid "Hide the default TinyMCE settings"
+msgstr ""
+
+#: ../adv-mce-config.php:310
+msgid "Option name"
+msgstr ""
+
+#: ../adv-mce-config.php:317
+msgid "Remove"
+msgstr ""
+
+#: ../adv-mce-config.php:346
+msgid "Save Changes"
+msgstr ""

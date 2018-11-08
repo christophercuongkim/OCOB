@@ -1,0 +1,12 @@
+2772.988 (1) Opened log file at time: Wed, 21 Mar 2018 22:16:07 +0000 on https://packaging.calpoly.edu/
+2772.996 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 57.9M | 59M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+2773.004 (1) Free space on disk containing Updraft's temporary directory: 64525 MB
+2773.012 (1) It looks like WordPress's scheduler has started multiple instances of this resumption
+2773.029 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1521670566.4, time_now=1521670567.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+2773.038 (1) Rescheduling resumption 2: moving to 600 seconds from now (1521671167)
+2773.063 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 1672 + 0 = 1672
+5684.204 (2) Opened log file at time: Wed, 21 Mar 2018 23:04:38 +0000 on https://packaging.calpoly.edu/
+5684.212 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 45.2M | 45.8M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+5684.220 (2) Free space on disk containing Updraft's temporary directory: 64510.2 MB
+5684.237 (2) Backup run: resumption=2, nonce=104d092846dc, begun at=1521667794 (5684s ago), job type=backup, previous check-in=0s
+5684.245 (2) Terminate: This backup job is already finished (1).

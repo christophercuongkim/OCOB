@@ -1,0 +1,90 @@
+#tshowcase-full-hover-wrap {
+	clear:both;
+	margin: 20px 0;
+	word-break:normal;
+	-moz-hyphens:none;
+    word-wrap:normal;
+}
+
+#tshowcase-full-hover-wrap img {
+	width:100%;
+}
+
+#tshowcase-full-hover-wrap div {
+	margin:0;
+	}
+/* --------------------------
+    Main Image Box
+----------------------------- */
+
+.tshowcase-hover-box span{
+	width:100%;
+}
+
+
+#tshowcase-full-hover-wrap span {
+    float: left;    
+    position: relative;
+    padding: 0 !important;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    -ms-transition: 0.6s;
+	width:100%;
+	
+	
+	
+}
+
+#tshowcase-full-hover-wrap span span {
+	
+	width:100%;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    top: 0;
+    margin: 0;    
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -o-transition: 0.6s;
+    -ms-transition: 0.6s;
+	
+	
+	
+	
+	
+}
+#tshowcase-full-hover-wrap span:hover span {
+    opacity: 1;
+	
+}
+
+
+
+.tshowcase-hover-info .tshowcase-box-info {
+	width:100%;	
+	display:table;
+	height:100%;
+	width:100%;
+	}
+
+
+.tshowcase-hover-info .tshowcase-box-info .ts-align-left {
+	padding:5px 0px 0px 5px;
+}
+
+.ts-circle .tshowcase-hover-info .tshowcase-box-info .tshowcase-box-info-inner  {
+	display:table-cell;
+	vertical-align:middle;
+	margin:0 auto;	
+	}
+	
+.ts-circle .tshowcase-hover-info .tshowcase-box-info  {
+	padding:0;	
+	}

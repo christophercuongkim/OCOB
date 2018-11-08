@@ -1,0 +1,16 @@
+ECON201_Villegas.pdf
+ECON221_Lepore.pdf
+ECON221_Lindahl.pdf
+ECON221_Shafran.pdf
+ECON222_Jones.pdf
+ECON222_Lindahl.pdf
+ECON222_Marshall.pdf
+ECON303_Battista.pdf
+ECON304_Jones.pdf
+ECON311_Zambrano.pdf
+ECON313_Marshall.pdf
+ECON339_Jaggia.pdf
+ECON403_Lepore.pdf
+ECON410_Fisher.pdf
+ECON410_Marlow.pdf
+ECON435_Shafran.pdf

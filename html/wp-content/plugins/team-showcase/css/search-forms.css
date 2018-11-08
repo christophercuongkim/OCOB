@@ -1,0 +1,49 @@
+/* Search Related Styles */
+
+#tshowcasesearch {
+	padding:20px 0px;
+}
+
+.tshowcase-search-label {
+	padding:10px;
+	font-weight: bold;
+}
+
+#tshowcase-categories,
+#tshowcase-taxonomy {
+	margin:0px 10px;
+}
+
+.widget #tshowcase-categories {
+	clear:both;
+	margin:3px 0px;
+	width:90%;
+}
+
+.widget #tshowcasesearch {
+	padding:0px;
+}
+
+
+/* Autocomplete CSS */
+
+#tshowcasesearch .ui-autocomplete {
+	z-index:99999999;
+	position:absolute;
+}
+
+#tshowcasesearch .ui-menu-item {
+	border:1px solid #f5f5f5;
+	line-height: 1.1em;
+	background: #FFF;
+	padding: 10px;
+	list-style: none;
+	cursor:pointer;
+}
+
+
+#tshowcasesearch .ui-widget-content .ui-state-focus
+{
+	background: #f5f5f5;
+    border:1px solid #f5f5f5;
+}

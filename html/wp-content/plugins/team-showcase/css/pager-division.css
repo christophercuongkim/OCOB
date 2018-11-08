@@ -1,0 +1,59 @@
+
+.tshowcase-pager-division-wrap .tshowcase-box {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 5px solid #FFFFFF;
+	box-shadow: 0 0 5px 0 #CCCCCC;
+	margin:8px;
+    
+}
+
+.tshowcase-pager-division-wrap .tshowcase-pager-thumbnail {
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #FFFFFF;
+	box-shadow: 0 0 3px 0 #CCCCCC;
+	margin:5px;
+}
+
+.tshowcase-pager-division-wrap .tshowcase-pager-thumbnail {
+	float:left;
+	padding:5px; 
+	}
+
+.tshowcase-pager-division-wrap .tshowcase-bxslider li {
+	margin:0px 0px 0px 0px;
+}
+
+
+
+.tshowcase-pager-division-wrap .ts-pager-left {
+	float:left;
+	width:60%;
+	margin-right:-2px;
+	}
+
+.tshowcase-pager-division-wrap .ts-pager-box-right {
+	float:right;
+	width:40%;
+	
+}
+
+.tshowcase-pager-division-wrap .ts-pager-right {
+	float:right;
+	width:60%;
+	margin-left:-2px;
+	}
+
+.tshowcase-pager-division-wrap .ts-pager-box-left {
+	float:left;
+	width:40%;
+}
+
+.tshowcase-pager-division-wrap .ts-pager-below {
+	display:block;
+	width:100%;
+	}
+
+.tshowcase-pager-division-wrap .ts-pager-box-above {
+	display:block;
+	width:100%;
+}

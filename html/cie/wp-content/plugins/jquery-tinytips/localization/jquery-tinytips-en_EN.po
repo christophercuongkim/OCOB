@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Tinytips\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-28 23:10+0100\n"
+"PO-Revision-Date: 2010-12-28 23:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: Techotronic <blog@techotronic.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-tinytips.php:117
+msgid "Light Theme"
+msgstr ""
+
+#: jquery-tinytips.php:118
+msgid "Yellow Theme"
+msgstr ""
+
+#: jquery-tinytips.php:119
+msgid "Orange Theme"
+msgstr ""
+
+#: jquery-tinytips.php:120
+msgid "Red Theme"
+msgstr ""
+
+#: jquery-tinytips.php:121
+msgid "Green Theme"
+msgstr ""
+
+#: jquery-tinytips.php:122
+msgid "Blue Theme"
+msgstr ""
+
+#: jquery-tinytips.php:123
+msgid "Purple Theme"
+msgstr ""
+
+#: jquery-tinytips.php:124
+msgid "Dark Theme"
+msgstr ""
+
+#: jquery-tinytips.php:151
+msgid "Using"
+msgstr ""
+
+#: jquery-tinytips.php:248
+#: includes/settings-page.php:66
+msgid "Settings"
+msgstr ""
+
+#: jquery-tinytips.php:305
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr ""
+
+#: jquery-tinytips.php:307
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr ""
+
+#: jquery-tinytips.php:350
+msgid "needs attention: the plugin is not activated to work automatically for all links."
+msgstr ""
+
+#: jquery-tinytips.php:395
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr ""
+
+#: jquery-tinytips.php:442
+#, php-format
+msgid "Did not delete %1$s settings. Either you dont have the nececssary rights or you didnt check the checkbox."
+msgstr ""
+
+#: jquery-tinytips.php:597
+msgid "does not work with PHP 4. Please update or uninstall the plugin."
+msgstr ""
+
+#: includes/settings-page.php:56
+#, php-format
+msgid "%1$s Settings"
+msgstr ""
+
+#: includes/settings-page.php:67
+msgid "Plugin settings"
+msgstr ""
+
+#: includes/settings-page.php:74
+#, php-format
+msgid "Automate %1$s for all links in pages, posts and galleries"
+msgstr ""
+
+#: includes/settings-page.php:78
+msgid "Automatically add tinytips-class to links in posts and pages. Also adds tinytips-class to links to images in galleries."
+msgstr ""
+
+#: includes/settings-page.php:83
+#, php-format
+msgid "Automate %1$s for links to images in WordPress galleries"
+msgstr ""
+
+#: includes/settings-page.php:83
+#, php-format
+msgid "Automate %1$s for images in WordPress galleries only"
+msgstr ""
+
+#: includes/settings-page.php:87
+msgid "Automatically add tinytips-class to links to images in WordPress galleries, but nowhere else."
+msgstr ""
+
+#: includes/settings-page.php:92
+msgid "Add JavaScript to footer"
+msgstr ""
+
+#: includes/settings-page.php:96
+msgid "Add JavaScript to footer instead of the header."
+msgstr ""
+
+#: includes/settings-page.php:101
+msgid "Remove link from Meta-box"
+msgstr ""
+
+#: includes/settings-page.php:105
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr ""
+
+#: includes/settings-page.php:110
+msgid "Activate debug mode"
+msgstr ""
+
+#: includes/settings-page.php:114
+msgid "Adds debug information and non-minified JavaScript to the page. Useful for troubleshooting."
+msgstr ""
+
+#: includes/settings-page.php:119
+msgid "Disable warning"
+msgstr ""
+
+#: includes/settings-page.php:123
+msgid "Disables the warning that is displayed if the plugin is activated but the auto-tinytips feature for all links is turned off."
+msgstr ""
+
+#: includes/settings-page.php:129
+#: includes/settings-page.php:169
+msgid "Save Changes"
+msgstr ""
+
+#: includes/settings-page.php:134
+msgid "Tinytips settings"
+msgstr ""
+
+#: includes/settings-page.php:141
+msgid "Theme"
+msgstr ""
+
+#: includes/settings-page.php:153
+msgid "Select the theme you want to use on your blog."
+msgstr ""
+
+#: includes/settings-page.php:158
+msgid "Theme screenshot"
+msgstr ""
+
+#: includes/settings-page.php:179
+#: includes/settings-page.php:188
+msgid "Delete Settings"
+msgstr ""
+
+#: includes/settings-page.php:182
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr ""
+
+#: includes/settings-page.php:199
+msgid "Top donations"
+msgstr ""
+
+#: includes/settings-page.php:208
+msgid "Latest donations"
+msgstr ""
+
+#: includes/settings-page.php:217
+msgid "Donate"
+msgstr ""
+
+#: includes/settings-page.php:221
+msgid "If you would like to make a small (or large) contribution towards future development please consider making a donation."
+msgstr ""
+
+#: includes/settings-page.php:223
+msgid "Donate using Paypal"
+msgstr ""
+
+#: includes/settings-page.php:227
+msgid "Techotronic Development Support"
+msgstr ""
+
+#: includes/settings-page.php:231
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr ""
+
+#: includes/settings-page.php:233
+msgid "Return to Your Dashboard"
+msgstr ""
+
+#: includes/settings-page.php:237
+msgid "Select Preset Amount"
+msgstr ""
+
+#: includes/settings-page.php:245
+#: includes/settings-page.php:249
+msgid "USD"
+msgstr ""
+
+#: includes/settings-page.php:246
+msgid "Or"
+msgstr ""
+
+#: includes/settings-page.php:247
+msgid "Enter Custom Amount"
+msgstr ""
+
+#: includes/settings-page.php:251
+msgid "Submit"
+msgstr ""
+
+#: includes/settings-page.php:258
+msgid "Translation"
+msgstr ""
+
+#: includes/settings-page.php:261
+msgid "The english translation was done by <a href=\"http://www.techotronic.de\">Arne Franken</a>."
+msgstr ""
+
+#~ msgid "maxWidth"
+#~ msgstr "Maximum width of an image"
+
+#~ msgid "maxHeight"
+#~ msgstr "Maximum height of an image"
+
+#~ msgid "width"
+#~ msgstr "Maxinmum width of the Colorbox"
+
+#~ msgid "height"
+#~ msgstr "Maximum height of the Colorbox"

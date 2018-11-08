@@ -1,0 +1,33 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+	<div id="footer">
+        <div id="footerSocial">
+            <a href="http://www.facebook.com/CaliforniaPolytechnic"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/facebook.png" alt="Facebook" width="32" height="32"/></a>
+            <a href="http://www.linkedin.com/groups?gid=80105"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/linkedin.png" alt="Linked In" width="32" height="32"/></a>
+            <a href="http://twitter.com/calpoly"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/twitter.png" alt="Twitter" width="32" height="32"/></a>
+            <a href="http://www.flickr.com/photos/30208331@N03/sets/"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/flickr.png" alt="Flickr" width="32" height="32"/></a>
+</div>
+
+        <ul id="footer_links">
+            <li><a href="http://www.calpoly.edu/">CP Home</a></li> 
+            <li><a href="http://www.calpoly.edu/directory.html">Directory</a></li> 
+            <li><a href="http://maps.calpoly.edu/">Campus Maps &amp; Directions</a></li> 
+            <li><a href="http://www.elcorralbookstore.com/">Bookstore</a></li> 
+            <li><a href="http://registrar.calpoly.edu/acad_cal/">Calendar</a></li> 
+            <!--<li><a href="#">Sitemap</a></li>--> 
+            <li><a href="http://www.afd.calpoly.edu/hr/jobopportunities.asp">Employment</a></li> 
+            <li><a href="http://www.calpoly.edu/policy.html">Campus Policies</a></li> 
+            <li><a href="http://www.calpoly.edu/contactus.html">Contact Us</a></li>
+            <li id="footerLogo"><a href="http://www.calpoly.edu/"><img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/footer_logo.png" height="24" width="138" alt="Cal Poly" title="Go to Cal Poly Home" /></a></li>    
+        </ul>
+            
+        <ul>
+        	<li><a href="http://get.adobe.com/reader/">Get Adobe Reader</a></li>
+            <li><a href="http://office.microsoft.com/en-us/downloads/">Microsoft Viewers</a></li> 
+        </ul>
+        
+        <div id="footer_deptinfo">
+        	<p>&#169; 2012 California Polytechnic State University &nbsp;<img src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/footer/footer_separator.jpg" alt="" height="10" width="1" />&nbsp; San Luis Obispo, California 93407<br />
+            Phone: 805-756-1111</p>
+        </div>  
+    </div>

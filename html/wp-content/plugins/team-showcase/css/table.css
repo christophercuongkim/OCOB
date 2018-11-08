@@ -1,0 +1,53 @@
+.tshowcase-box-table {
+	width: 100%; 
+    border-collapse: collapse;
+	
+	}
+
+.tshowcase-box-table tr:nth-of-type(odd) { 
+  
+}
+
+.tshowcase-box-table img {
+	margin-left:5px;
+	vertical-align:baseline;
+	}
+
+.tshowcase-box-table td {
+	vertical-align:middle;
+}
+
+/* 
+Max width before this PARTICULAR table gets nasty
+This query will take effect for any screen smaller than 760px
+and also iPads specifically.
+*/
+@media 
+only screen and (max-width: 480px) {
+
+	/* Force table to not be like tables anymore */
+	.tshowcase-box-table table, .tshowcase-box-table thead, .tshowcase-box-table tbody, .tshowcase-box-table th, .tshowcase-box-table td, .tshowcase-box-table tr { 
+		display: block; 
+	}
+	
+	
+	
+	.tshowcase-box-table tr { }
+	
+	.tshowcase-box-table td { 
+		/* Behave  like a "row" */
+		border: none;
+		position: relative;
+		padding: 5px; 
+	}
+	
+	.tshowcase-box-table td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}

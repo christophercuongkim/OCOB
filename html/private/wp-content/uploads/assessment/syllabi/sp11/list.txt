@@ -1,0 +1,84 @@
+.:
+acct
+econ
+fin
+grad
+list.txt
+
+./acct:
+BUS 311 (Burgunder).pdf
+Bus 207 (Carr).pdf
+Bus 207 (Sperow).pdf
+Bus 212 (Simon).pdf
+Bus 214 (Simon).pdf
+Bus 214 (Wacker).pdf
+Bus 214-03 (Carr).pdf
+Bus 214-04 (Carr).pdf
+Bus 215 (Bishop).pdf
+Bus 215 (Kaney).pdf
+Bus 320 (Tolin).pdf
+Bus 346 (Borin).pdf
+Bus 346 (Danes).pdf
+Bus 346 (Simon).pdf
+Bus 404 (Perello).pdf
+Bus 404 (Sperow).pdf
+Bus 418 (Neill).pdf
+Bus 419 (Hess).pdf
+Bus 424 (Mintz).pdf
+Bus 425 (Miller).pdf
+Bus 427 (Mintz).pdf
+Bus 446 (Simon).pdf
+Bus 451 (Danes).pdf
+Bus 452 (Lindsey-Mullikin).pdf
+Bus 454 (Hess).pdf
+Bus 455 (Metcalf).pdf
+Bus 464 (Lindsey-Mullikin).pdf
+Bus 464 (Quijano & Roy).pdf
+GSA 536 (Mock).pdf
+GSA 549 (Mock).pdf
+GSA 550 (Tolin).pdf
+GSB 569 (Burgunder).pdf
+
+./econ:
+ECON 201 (Fisher).pdf
+ECON 201 (Villegas).pdf
+ECON 221 (Lepore).pdf
+ECON 221 (Lindahl).pdf
+ECON 222 (Battista).pdf
+ECON 222 (Jones).pdf
+ECON 222 (Marshall).pdf
+ECON 222 (Shiers).pdf
+ECON 303 (Battista).pdf
+ECON 303 (Villegas).pdf
+ECON 304 (Jones).pdf
+ECON 311 (Zambrano).pdf
+ECON 313 (Marshall).pdf
+ECON 405 (Fisher).pdf
+ECON 406 (Jaggia).pdf
+ECON 409 (Zambrano).pdf
+ECON 424 (Marlow).pdf
+ECON 464 (Shafran).pdf
+
+./fin:
+BUS 342 (Jaggia) 2.pdf
+BUS 342 (Jaggia).pdf
+BUS 342 (Weatherford).pdf
+BUS 404 (Dobson).pdf
+BUS 431 (Roche).pdf
+BUS 433 (Anderson).pdf
+BUS 436 (York) Course Overview.pdf
+BUS 436 (York).pdf
+BUS 438 (Dutt).pdf
+BUS 443 (Dobson).pdf
+BUS 461 & 462 (Ramezani).pdf
+BUS 464 (Roche).pdf
+
+./grad:
+BUS 320 (Tolin).pdf
+GSA 536 (Mock).pdf
+GSA 549 (Mock).pdf
+GSA 550 (Tolin).pdf
+GSB 500 (Anderson).pdf
+GSB 514 (Anderson).pdf
+GSB 533 (Shiers).pdf
+GSB 569 (Burgunder).pdf

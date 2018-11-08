@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Team Showcase\n"
+"POT-Creation-Date: 2016-08-30 15:46+0200\n"
+"PO-Revision-Date: 2016-08-30 16:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tshowcase.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: advanced-options.php:94
+msgid "Aditional Information"
+msgstr "Informações Adicionais"
+
+#: advanced-options.php:95
+msgid "Social Profile Links"
+msgstr "Links Redes Sociais"
+
+#: advanced-options.php:98
+msgid ""
+"Use the complete URL to the profile page. Example: http://www.facebook.com/"
+"profile"
+msgstr ""
+
+#: advanced-options.php:104
+msgid "Free HTML"
+msgstr "HTML LIVRE"
+
+#: advanced-options.php:105
+msgid ""
+"Short bio or tag line. Might be used when listing members with short "
+"descriptions."
+msgstr ""
+
+#: advanced-options.php:110
+msgid "Job Title"
+msgstr "Cargo"
+
+#: advanced-options.php:111
+msgid "The job description, position or functions of this member."
+msgstr ""
+
+#: advanced-options.php:116 tshowcase.php:580
+msgid "Email"
+msgstr "Email"
+
+#: advanced-options.php:117
+msgid "Contact email for this member. Might be visible to public."
+msgstr ""
+
+#: advanced-options.php:122
+msgid "Location"
+msgstr "Localização"
+
+#: advanced-options.php:123
+msgid "Location/Origin/Adress of this member. Might be visible to public."
+msgstr ""
+
+#: advanced-options.php:128
+msgid "Telephone"
+msgstr "Telefone"
+
+#: advanced-options.php:129
+msgid "Telephone contact. Might be visible to public."
+msgstr ""
+
+#: advanced-options.php:134
+msgid "User/Author Profile"
+msgstr "Perfil de usuário/autor"
+
+#: advanced-options.php:135
+msgid ""
+"If this member is associated with a user account select it here. Might be "
+"used to fetch latest published posts in the single member page."
+msgstr ""
+
+#: advanced-options.php:140
+msgid "Personal Website"
+msgstr "URL do sítio web pessoal"
+
+#: advanced-options.php:141
+msgid "URL to personal website. Might be visible to public."
+msgstr ""
+
+#: advanced-options.php:147
+msgid "Personal Website Anchor Text"
+msgstr "Texto de âncora de site pessoal"
+
+#: advanced-options.php:148
+msgid "Text to display for the link. If blank URL will be used."
+msgstr ""
+
+#: advanced-options.php:154
+msgid "Name/Title"
+msgstr "Nome / Título"
+
+#: advanced-options.php:155
+msgid "Name of the entry."
+msgstr ""
+
+#: advanced-options.php:160
+msgid "Photo/Image"
+msgstr "Foto/imagem"
+
+#: advanced-options.php:161
+msgid "Featured Image of the entry."
+msgstr ""
+
+#: advanced-options.php:167 shortcode-generator.php:639
+msgid "Image Shape"
+msgstr "Forma da Imagem"
+
+#: advanced-options.php:168
+msgid "Shape of Featured Image of the entry."
+msgstr ""
+
+#: advanced-options.php:173
+msgid "Small Icons"
+msgstr "Ícones Pequenos"
+
+#: advanced-options.php:174
+msgid "Small CSS Icons."
+msgstr ""
+
+#: advanced-options.php:178 settings-page.php:87
+msgid "Social Icons"
+msgstr "Ícones Redes Sociais"
+
+#: advanced-options.php:179
+msgid "Social Icons."
+msgstr ""
+
+#: advanced-options.php:182 search-widget.php:80 search-widget.php:96
+msgid "Filter"
+msgstr "Filtro"
+
+#: advanced-options.php:183 advanced-options.php:186
+msgid "All"
+msgstr "Todos"
+
+#: advanced-options.php:187
+msgid "Search"
+msgstr "Procurar"
+
+#: advanced-options.php:188
+msgid "Results for "
+msgstr "Resultados para"
+
+#: advanced-options.php:191
+msgid "Next Page >"
+msgstr ""
+
+#: advanced-options.php:192
+msgid "< Previous Page"
+msgstr ""
+
+#: advanced-options.php:291 advanced-options.php:328 advanced-options.php:344
+#: advanced-options.php:360 tshowcase.php:3366
+msgid "Default"
+msgstr "Por defeito"
+
+#: advanced-options.php:297
+msgid "Blue Badge Title"
+msgstr ""
+
+#: advanced-options.php:305
+msgid "Retro boxes"
+msgstr ""
+
+#: advanced-options.php:312
+msgid "White Box with Shadow"
+msgstr ""
+
+#: advanced-options.php:318
+msgid "Simple Card"
+msgstr ""
+
+#: advanced-options.php:334
+msgid "White Hover"
+msgstr ""
+
+#: advanced-options.php:350
+msgid "Odd Rows Colored"
+msgstr ""
+
+#: ordering-code.php:102
+msgid "Simple Page Ordering"
+msgstr ""
+
+#: ordering-code.php:103
+msgid ""
+"To reposition an item, simply drag and drop the row by \"clicking and holding"
+"\" it anywhere (outside of the links and form controls) and moving it to its "
+"new position."
+msgstr ""
+
+#: ordering-code.php:289
+msgid "Sort by Order"
+msgstr ""
+
+#: ordering-code.php:294
+msgid "Drag & Drop Ordering Activated"
+msgstr ""
+
+#: search-widget.php:72
+msgid "Title"
+msgstr ""
+
+#: search-widget.php:80 search-widget.php:96
+msgid "Display"
+msgstr ""
+
+#: search-widget.php:86 search-widget.php:102 settings-page.php:62
+#: settings-page.php:208
+msgid "Yes"
+msgstr ""
+
+#: search-widget.php:88 search-widget.php:104 settings-page.php:63
+#: settings-page.php:209
+msgid "No"
+msgstr ""
+
+#: search-widget.php:128 tshowcase.php:3276
+msgid "Results URL"
+msgstr ""
+
+#: search-widget.php:133
+msgid ""
+"Include the URL of the page where you applied a Team Showcase shortcode. If "
+"empty it will default to the search results page template of current Theme."
+msgstr ""
+
+#: settings-page.php:29 tshowcase.php:639 tshowcase.php:640
+msgid "Settings"
+msgstr ""
+
+#: settings-page.php:32
+msgid "Settings Updated"
+msgstr ""
+
+#: settings-page.php:50
+msgid "Image Sizes"
+msgstr ""
+
+#: settings-page.php:55
+msgid "Main Image Size"
+msgstr ""
+
+#: settings-page.php:56 settings-page.php:80
+msgid "Width"
+msgstr ""
+
+#: settings-page.php:58 settings-page.php:82
+msgid "Height"
+msgstr ""
+
+#: settings-page.php:60
+msgid "Crop"
+msgstr ""
+
+#: settings-page.php:66
+msgid ""
+"\n"
+"      This will be the size of the Images. When they are uploaded they will "
+"follow this settings. If you change this settings after the image is "
+"uploaded they will show scaled.</span></td>\n"
+"      "
+msgstr ""
+
+#: settings-page.php:71 shortcode-generator.php:431
+msgid "Thumbnails Pager"
+msgstr ""
+
+#: settings-page.php:76
+msgid ""
+"This will be the size of the thumbnail images in the 'Thumbnails Pager' "
+"layout. Smaller value will prevail, if image doesn't match the size."
+msgstr ""
+
+#: settings-page.php:79
+msgid "Table Image Size"
+msgstr ""
+
+#: settings-page.php:84
+msgid ""
+"This will be the size of the thumbnail images in the 'Table' layout. Smaller "
+"value will prevail, if image doesn't match the size."
+msgstr ""
+
+#: settings-page.php:100 settings-page.php:119
+msgid "What Social Icons do you want to display?"
+msgstr ""
+
+#: settings-page.php:103
+msgid "Icons Size"
+msgstr ""
+
+#: settings-page.php:125
+msgid "Linking Settings"
+msgstr ""
+
+#: settings-page.php:132
+msgid "When active, emails will display as a link in the mailto:email format. "
+msgstr ""
+
+#: settings-page.php:138
+msgid ""
+"When active, telephone entries will display linked with the tel: protocol. "
+msgstr ""
+
+#: settings-page.php:142
+msgid "nofollow Social Links"
+msgstr ""
+
+#: settings-page.php:144
+msgid "When active, social links will have the rel=\"nofollow\" parameter."
+msgstr ""
+
+#: settings-page.php:148
+msgid "Main Link CSS Class"
+msgstr ""
+
+#: settings-page.php:150
+msgid ""
+"This will be the css class of the links that lead to the single page or "
+"custom URLs. It can be useful to place a class to use with a lightbox plugin "
+"for example."
+msgstr ""
+
+#: settings-page.php:154
+msgid "Ajax Settings"
+msgstr ""
+
+#: settings-page.php:159
+msgid "Ajax Pagination"
+msgstr ""
+
+#: settings-page.php:161
+msgid ""
+"If active, when pagination is enabled, it will be performed with ajax, so "
+"the page does not reload."
+msgstr ""
+
+#: settings-page.php:166
+msgid "Search Settings"
+msgstr ""
+
+#: settings-page.php:171
+msgid "Exclude From General Search"
+msgstr ""
+
+#: settings-page.php:173
+msgid ""
+"If active it will exclude the Team Showcase entries from the General Search "
+"Results (General Search Form). <br /> You can place a Search Form specific "
+"for Team Showcase entries using the widget option available or placing the "
+"following shortcode in your page:<br /> \n"
+"      <code>[show-team-search filter=\"\" url =\"\"]</code> Where filter = "
+"true or false and url = link to a page where you have placed a Team Showcase "
+"shortcode (you can leave it blank and it will default to the theme search "
+"results page)."
+msgstr ""
+
+#: settings-page.php:179
+msgid "Autocomplete Suggestions"
+msgstr ""
+
+#: settings-page.php:181
+msgid ""
+"If enabled, when user writes on search input, autocomplete suggestions will "
+"display. Only the Name of members entries will be considered."
+msgstr ""
+
+#: settings-page.php:186
+msgid "Go to single page"
+msgstr ""
+
+#: settings-page.php:188
+msgid ""
+"If enabled, when user clicks the suggestion, the single page for that entry "
+"will open"
+msgstr ""
+
+#: settings-page.php:193
+msgid "Search all fields"
+msgstr ""
+
+#: settings-page.php:195
+msgid ""
+"When disabled, the search will only consider the Title/Name and content of "
+"each entry. When including all fields, you may experience speed issues."
+msgstr ""
+
+#: settings-page.php:201
+msgid "Single Page Settings"
+msgstr ""
+
+#: settings-page.php:206
+msgid "Active"
+msgstr ""
+
+#: settings-page.php:211
+msgid ""
+"If active, single pages for each entry will be available.  <strong> If your "
+"single pages are not working and you get a 404 Page not Found error, try "
+"resaving your <a href='<?php echo get_admin_url(); ?>options-permalink."
+"php'>permalink options</a>."
+msgstr ""
+
+#: settings-page.php:214
+msgid "Page Template:"
+msgstr ""
+
+#: settings-page.php:233
+msgid ""
+"This option will depend on your theme. Many themes display extra meta "
+"information on post pages such as <i>posted by</i> or <i>post date</i> "
+"information, which may not be desired. Usually, page templates contain the "
+"essential information. If you choose <i>Pages</i> then the team members will "
+"be shown using your theme default page template. <storng>Be aware that some "
+"themes will not work with this option</strong>, if so (or you want to make a "
+"custom page), you can create a file named <code>single-tshowcase.php</code> "
+"<a href='http://codex.wordpress.org/Post_Types#Template_Files'>as shown on "
+"the wordpress codex</a>, and leave this set to Posts."
+msgstr ""
+
+#: settings-page.php:236 shortcode-generator.php:427
+msgid "Layout"
+msgstr ""
+
+#: settings-page.php:238
+msgid "None"
+msgstr ""
+
+#: settings-page.php:239 shortcode-generator.php:443
+#: shortcode-generator.php:447 shortcode-generator.php:448
+#: shortcode-generator.php:449 shortcode-generator.php:450
+#: shortcode-generator.php:451
+msgid "Columns"
+msgstr ""
+
+#: settings-page.php:240
+msgid "Information Card"
+msgstr ""
+
+#: settings-page.php:242
+msgid "Choose the layout type for the single page."
+msgstr ""
+
+#: settings-page.php:245
+msgid "Show Latest Posts"
+msgstr ""
+
+#: settings-page.php:248
+msgid ""
+"When active, if there is a user associated with with the entry, it will "
+"display his latest posts, if available."
+msgstr ""
+
+#: settings-page.php:251
+msgid "Display:"
+msgstr "Display:"
+
+#: settings-page.php:271 shortcode-generator.php:641
+msgid "Square (normal)"
+msgstr "Quadrado (normal)"
+
+#: settings-page.php:272 shortcode-generator.php:642
+msgid "Rounded Corners"
+msgstr "Cantos Redondos"
+
+#: settings-page.php:273 shortcode-generator.php:643
+msgid "Circular"
+msgstr "Circular"
+
+#: settings-page.php:322
+msgid "Set of options to display in the single page."
+msgstr ""
+
+#: settings-page.php:325
+msgid "Archive Page"
+msgstr "Página de Arquivo"
+
+#: settings-page.php:330
+msgid "Archive Custom URL"
+msgstr "URL Página de Arquivo"
+
+#: settings-page.php:332
+msgid ""
+"Sometimes breadcrumbs will link to the default theme archive page, which "
+"does not have the layout you want. You can setup here the URL you want the "
+"archive page to redirect to."
+msgstr ""
+
+#: settings-page.php:335
+msgid "Feature Names"
+msgstr ""
+
+#: settings-page.php:340
+msgid "Singular Name"
+msgstr ""
+
+#: settings-page.php:342
+msgid "These will be the labels for your features."
+msgstr ""
+
+#: settings-page.php:345
+msgid "Plural Name"
+msgstr ""
+
+#: settings-page.php:351
+msgid "Slug"
+msgstr ""
+
+#: settings-page.php:353
+msgid ""
+"If you change this option, you might have to update/save the 'permalink' "
+"settings again. The slug value should be unique. There can't be any other "
+"page or post with the same slug as this."
+msgstr ""
+
+#: settings-page.php:359
+msgid "Taxonomies"
+msgstr ""
+
+#: settings-page.php:365
+msgid "Main Taxonomy"
+msgstr ""
+
+#: settings-page.php:373
+msgid "Enable Second Taxonomy"
+msgstr ""
+
+#: settings-page.php:376
+msgid "Second Taxonomy"
+msgstr ""
+
+#: settings-page.php:378
+msgid ""
+"Attention! Beta Feature. Second taxonomy can only be used as a filter in the "
+"search form. Live filter will only allow you to filter by main category. You "
+"can use the parameter taxonomy=\"true\" in your search shortcode to display "
+"the second dropdown filter."
+msgstr ""
+
+#: settings-page.php:386
+msgid "Custom Styles & Scripts"
+msgstr ""
+
+#: settings-page.php:391
+msgid "Custom CSS"
+msgstr ""
+
+#: settings-page.php:393
+msgid ""
+"Place here any custom CSS you want to display together with the Team "
+"Showcase layout."
+msgstr ""
+
+#: settings-page.php:396
+msgid "Custom JS"
+msgstr ""
+
+#: settings-page.php:398
+msgid ""
+"Place here any custom javascript you want to display together with the Team "
+"Showcase layout."
+msgstr ""
+
+#: settings-page.php:412
+msgid "Save Changes"
+msgstr "Guardar alterações"
+
+#: shortcode-generator.php:6 shortcode-generator.php:7
+msgid "Shortcode Generator"
+msgstr ""
+
+#: shortcode-generator.php:151
+msgid "What entries do you want to display?"
+msgstr ""
+
+#: shortcode-generator.php:198
+msgid "Relation"
+msgstr ""
+
+#: shortcode-generator.php:205
+msgid "AND"
+msgstr ""
+
+#: shortcode-generator.php:206
+msgid "OR"
+msgstr ""
+
+#: shortcode-generator.php:257
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: shortcode-generator.php:264
+msgid "Default (Order Field)"
+msgstr "Padrão (campo da ordem)"
+
+#: shortcode-generator.php:265
+msgid "Name"
+msgstr "Nome"
+
+#: shortcode-generator.php:266
+msgid "Last Word in Name"
+msgstr "Última palavra no nome"
+
+#: shortcode-generator.php:267
+msgid "ID"
+msgstr "ID"
+
+#: shortcode-generator.php:268
+msgid "Date"
+msgstr "Data"
+
+#: shortcode-generator.php:269
+msgid "Modified Date"
+msgstr "Data de Modificação"
+
+#: shortcode-generator.php:270
+msgid "Random"
+msgstr ""
+
+#: shortcode-generator.php:274
+msgid "Number of entries to display"
+msgstr ""
+
+#: shortcode-generator.php:277
+msgid "Leave blank or 0 to display all"
+msgstr ""
+
+#: shortcode-generator.php:287
+msgid "Pagination"
+msgstr ""
+
+#: shortcode-generator.php:289
+msgid "You should set a limit above for the pagination to work properly."
+msgstr ""
+
+#: shortcode-generator.php:296
+msgid "IDs to display"
+msgstr ""
+
+#: shortcode-generator.php:298
+msgid ""
+"(Comma sperated ID values of specific entries you want to display. Example: "
+"7,11. Leave blank or 0 to display all)"
+msgstr ""
+
+#: shortcode-generator.php:305
+msgid "IDs to exclude"
+msgstr ""
+
+#: shortcode-generator.php:307
+msgid ""
+"(Comma sperated ID values of specific entries you want to exclude. Example: "
+"7,11. Leave blank or 0 to display all)"
+msgstr ""
+
+#: shortcode-generator.php:313
+msgid "What information do you want to display:"
+msgstr ""
+
+#: shortcode-generator.php:331
+msgid "Will display small icons before the information"
+msgstr ""
+
+#: shortcode-generator.php:379
+msgid "Entry Link:"
+msgstr ""
+
+#: shortcode-generator.php:381 shortcode-generator.php:466
+#: shortcode-generator.php:517 shortcode-generator.php:607
+msgid "Inactive"
+msgstr ""
+
+#: shortcode-generator.php:382
+msgid "Active (Default)"
+msgstr ""
+
+#: shortcode-generator.php:383
+msgid "Active (Default - New Page):"
+msgstr ""
+
+#: shortcode-generator.php:384
+msgid "Active (Personal URL Field)"
+msgstr ""
+
+#: shortcode-generator.php:385
+msgid "Active (Personal URL Field - New Page)"
+msgstr ""
+
+#: shortcode-generator.php:386
+msgid "Personal URL (Defaults to Inactive)"
+msgstr ""
+
+#: shortcode-generator.php:387
+msgid "Active (User URL)"
+msgstr ""
+
+#: shortcode-generator.php:388
+msgid "Full Size Image"
+msgstr ""
+
+#: shortcode-generator.php:393
+msgid "How do you want it to look like?"
+msgstr ""
+
+#: shortcode-generator.php:400
+msgid "Load a layout preset:"
+msgstr ""
+
+#: shortcode-generator.php:419
+msgid ""
+"Choosing a  preset will automaticaly select predefined values for the "
+"visuals.\n"
+"        You can then adjust the options to your needs."
+msgstr ""
+
+#: shortcode-generator.php:429
+msgid "Grid"
+msgstr "Grelha"
+
+#: shortcode-generator.php:430
+msgid "Hover Grid"
+msgstr ""
+
+#: shortcode-generator.php:432
+msgid "Table"
+msgstr "Tabela"
+
+#: shortcode-generator.php:445
+msgid "Normal Float"
+msgstr ""
+
+#: shortcode-generator.php:446
+msgid "1 Column"
+msgstr "1 Coluna"
+
+#: shortcode-generator.php:467 shortcode-generator.php:518
+msgid "Active - Hide Filter"
+msgstr ""
+
+#: shortcode-generator.php:468 shortcode-generator.php:519
+msgid "Active - Enhance Filter"
+msgstr ""
+
+#: shortcode-generator.php:469 shortcode-generator.php:606
+msgid "Active - Isotope Hide Filter"
+msgstr ""
+
+#: shortcode-generator.php:472 shortcode-generator.php:522
+#: shortcode-generator.php:610
+msgid "When active, a jQuery Category filter will display above the Grid."
+msgstr ""
+
+#: shortcode-generator.php:498
+msgid "Composition"
+msgstr ""
+
+#: shortcode-generator.php:500 shortcode-generator.php:565
+msgid "Image Left - Content Right"
+msgstr ""
+
+#: shortcode-generator.php:501 shortcode-generator.php:566
+msgid "Content Right - Image Left"
+msgstr ""
+
+#: shortcode-generator.php:502 shortcode-generator.php:567
+msgid "Image Above - Content Below"
+msgstr ""
+
+#: shortcode-generator.php:544
+msgid "General Composition"
+msgstr ""
+
+#: shortcode-generator.php:552
+msgid "Thumnails Left - Content Right"
+msgstr ""
+
+#: shortcode-generator.php:553
+msgid "Content Left - Thumbnails Right"
+msgstr ""
+
+#: shortcode-generator.php:554
+msgid "Content Above - Thumbnails Below"
+msgstr ""
+
+#: shortcode-generator.php:555
+msgid "Content Below - Thumbnails Above"
+msgstr ""
+
+#: shortcode-generator.php:563
+msgid "Image Composition"
+msgstr ""
+
+#: shortcode-generator.php:574 shortcode-generator.php:613
+msgid "Theme"
+msgstr ""
+
+#: shortcode-generator.php:604
+msgid "Active - Hide Effect"
+msgstr ""
+
+#: shortcode-generator.php:605
+msgid "Active - Enhance Effect"
+msgstr ""
+
+#: shortcode-generator.php:650
+msgid "Image Effect"
+msgstr ""
+
+#: shortcode-generator.php:653
+msgid "Grayscale"
+msgstr ""
+
+#: shortcode-generator.php:654
+msgid "Shadow Highlight"
+msgstr ""
+
+#: shortcode-generator.php:655
+msgid "White Border"
+msgstr ""
+
+#: shortcode-generator.php:656
+msgid "Shadow Highlight & Grayscale"
+msgstr ""
+
+#: shortcode-generator.php:666
+msgid "Text-Align"
+msgstr ""
+
+#: shortcode-generator.php:668
+msgid "Left"
+msgstr "Esquerda"
+
+#: shortcode-generator.php:669
+msgid "Right"
+msgstr "Direita"
+
+#: shortcode-generator.php:670
+msgid "Center"
+msgstr "Centro"
+
+#: shortcode-generator.php:674
+msgid "Image Size Override"
+msgstr ""
+
+#: shortcode-generator.php:683
+msgid ""
+"Leave blank to use default values.<br>\n"
+"              In case you want to override the default image size settings, "
+"use this field to put the width and height values in the following format: "
+"width,height <br>\n"
+"              ex. 100,100. <br>\n"
+"            Width value will prevail if images don't have exactly this size."
+msgstr ""
+
+#: shortcode-generator.php:693
+msgid ""
+"Browse examples</a> or read more about the shortcode options at the <a href="
+"\"http://cmoreira.net/team-showcase/documentation#shortcodes\" target="
+"\"_blank\">online documentation of the plugin</a>."
+msgstr ""
+
+#: shortcode-generator.php:703 shortcode-generator.php:738
+msgid "Save Settings"
+msgstr ""
+
+#: shortcode-generator.php:705
+msgid ""
+"You can use the shortcode [show-team] without parameters to use the latest "
+"saved settings."
+msgstr ""
+
+#: shortcode-generator.php:709
+msgid ""
+"Use this shortcode to display the list of Members with the currently "
+"selected options. <br> \n"
+"      Just copy this piece of text and place it where you want it to display "
+"in your posts, pages or text widgets."
+msgstr ""
+
+#: shortcode-generator.php:720
+msgid ""
+"Attention!\n"
+"      This is a preview only. The visuals might differ after applying the "
+"shortcode on your page due to extra styling rules that your Theme might have "
+"or the available space."
+msgstr ""
+
+#: shortcode-generator.php:728
+msgid "PHP Function"
+msgstr ""
+
+#: shortcode-generator.php:729
+msgid ""
+"Use this PHP function to display the list of Members directly in your theme "
+"files!"
+msgstr ""
+
+#: shortcode-generator.php:740
+msgid ""
+"You can use the shortcode <strong>[show-team]</strong> without parameters to "
+"use the latest saved settings."
+msgstr ""
+
+#: tshowcase.php:212
+msgid " Image"
+msgstr "Imagem"
+
+#: tshowcase.php:235 tshowcase.php:236
+msgctxt "tshowcase"
+msgid "Add New "
+msgstr "Adicionar Novo"
+
+#: tshowcase.php:237
+msgctxt "tshowcase"
+msgid "Edit "
+msgstr "Editar"
+
+#: tshowcase.php:238
+msgctxt "tshowcase"
+msgid "New "
+msgstr "Novo"
+
+#: tshowcase.php:239
+msgctxt "tshowcase"
+msgid "View "
+msgstr "Ver"
+
+#: tshowcase.php:240
+msgctxt "tshowcase"
+msgid "Search "
+msgstr "Pesquisar"
+
+#: tshowcase.php:241 tshowcase.php:242
+msgctxt "tshowcase"
+msgid "No "
+msgstr "Não"
+
+#: tshowcase.php:243
+msgctxt "tshowcase"
+msgid "Parent "
+msgstr "Antecessor"
+
+#: tshowcase.php:340
+msgid "Insert "
+msgstr ""
+
+#: tshowcase.php:340
+msgid " Name Here"
+msgstr ""
+
+#: tshowcase.php:586
+msgid ""
+"If the \"mailto\" option is enabled in the settings, it will work as an "
+"email link"
+msgstr ""
+
+#: tshowcase.php:654 tshowcase.php:655
+msgid "Advanced Settings"
+msgstr ""
+
+#: tshowcase.php:2887
+msgid "Latest Posts"
+msgstr ""
+
+#: tshowcase.php:3206
+msgid ""
+"By 'Saving Changes' this will render the saved settings from the Shortcode "
+"Generator page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: tshowcase.php:3227
+msgid "Team Showcase"
+msgstr ""
+
+#: tshowcase.php:3228
+msgid "Insert Team Showcase Layout"
+msgstr ""
+
+#: tshowcase.php:3234 tshowcase.php:3255
+msgid "Content"
+msgstr ""
+
+#: tshowcase.php:3237
+msgid ""
+"To use different settings you should build a unique shortcode and use it on "
+"a Text Block."
+msgstr ""
+
+#: tshowcase.php:3239
+msgid "visual_composer_team_build"
+msgstr ""
+
+#: tshowcase.php:3248
+msgid "Team Showcase Search"
+msgstr ""
+
+#: tshowcase.php:3249
+msgid "Insert Team Search Form"
+msgstr ""
+
+#: tshowcase.php:3262
+msgid "Category Filter"
+msgstr ""
+
+#: tshowcase.php:3268
+msgid "Display a category dropdown"
+msgstr ""
+
+#: tshowcase.php:3279
+msgid ""
+"URL to open to process the layout with the results. The results page should "
+"have a team showcase shortcode."
+msgstr ""
+
+#: tshowcase.php:3347 tshowcase.php:3364
+msgid "Page Template"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.cmoreira.net/team-showcase"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows you to manage the members of your team/staff and display "
+"them in multiple ways."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Carlos Moreira"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cmoreira.net"
+msgstr ""

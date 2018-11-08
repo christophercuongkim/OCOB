@@ -1,0 +1,70 @@
+
+/* Global Adjustments */
+.wp-admin select {
+  max-width: 100%;
+}
+
+/* Turn off plugin-update notices */
+
+.updated.woocommerce-message.wc-connect, 
+.updated.woocommerce-message.woocommerce-tracker {display: none !important;} /* WOOCOMMERCE */
+.wp-admin .vc-license-activation-notice{display: none !important;} /* VISUAL COMPOSER */
+.wp-admin .tp-plugin-version #button_upload_plugin{display: none !important;} /* SLIDER REVOLUTION */
+.wp-admin .rs-update-notice-wrap{display: none !important;}
+#update-nag, .update-nag {display: none;}
+.su-vote {display: none !important;}
+
+/* Plugin Activation Box Styles */
+
+#setting-error-tgmpa {
+    /* background: #ddd url('images/admin-background.png') top center fixed repeat; */
+    background: #363B3F; /* Old browsers */     
+    border: 1px solid #26292C;
+    border-radius: 0;
+    margin: 10px 0 30px;
+    padding: 10px 50px 10px 25px;
+    display: inline-block;
+}
+
+#setting-error-tgmpa *{
+    font-family: "Open Sans",sans-serif !important; 
+    text-decoration: none;
+    font-size: 0.9rem;
+    }
+
+#setting-error-tgmpa strong{
+    color: #FFFFFF !important;
+    font-weight: 100;
+    line-height: 1.2em;
+    }
+
+#setting-error-tgmpa a {
+    color: #FFFFFF !important;
+    font-weight: 500;
+    letter-spacing: -0.3px;
+    background: #13B192;  
+    padding: 0.5rem 0.6rem;
+    display: inline-block;
+    }
+    /* #E14D43 */
+
+#setting-error-tgmpa p {
+    width: 100% !important;
+    }
+
+/* RESPONSIVE MENU */
+.upgrade-notes {
+  background: #afafaf none repeat scroll 0 0 !important;
+  color: white;
+  margin: 15px 0;
+  padding: 15px 2%;
+  position: relative;
+  width: 96%;
+}
+#upgrade_banner {
+  background: #afafaf none repeat scroll 0 0 !important;
+  border: 1px solid #dfdfdf !important;
+  border-radius: 2px;
+  color: #fff;
+  padding: 35px;
+}

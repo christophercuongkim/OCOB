@@ -1,0 +1,74 @@
+BODY 
+{
+	font-family: verdana, arial, geneva, helvetica, sans-serif, swiss, sunsans-regular;
+	background-color: #ffffff;color: #000000; 
+}
+
+
+
+
+a:hover {
+ color: #1E90FF;
+ text-decoration: none;
+}
+
+
+
+
+P 
+{
+	font-family: verdana, arial, geneva, helvetica, sans-serif, swiss, sunsans-regular;
+	font-size: 8.0pt;
+	margin-left: 6.0pt;
+	
+}
+
+H1 
+{
+	font-weight: normal;
+	font-size: 13.0pt;
+	background-color: #000000;
+	color: #ffffff;
+	line-height: normal;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-left: -6pt;
+}
+
+H2 
+{
+	font-size: 10.0pt;
+	color: #000000;
+	margin-left: 6.0pt;
+}
+
+H3 
+{
+	font-size: 8.0pt;
+	color: #000000;
+	margin-left: 12px;
+}
+
+H4 
+{
+	font-size: 8.0pt;
+	color: #000000 ;
+	margin-left: 18.0pt;
+}
+
+UL, OL, LI 
+{ 
+    font-family:verdana, arial, geneva, helvetica, sans-serif, swiss, sunsans-regular; 
+    font-size:8.0pt;color: #000000;
+}
+
+.bastard
+	{
+	font-size: 7pt; 
+	font-color: rgb(49,0,99);
+	}
+	
+.indent
+	{
+	margin-left: 5%;
+	}

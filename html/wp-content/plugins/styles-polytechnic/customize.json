@@ -1,0 +1,140 @@
+{ /* Version 1.4 */
+	"Global Theme Text": [
+		/* Global Text */
+		{ "selector": "#page h1, h1 a", "type": "text", "label": "Headline 1" },
+		{ "selector": "#page h1, h1 a", "type": "color", "label": "Headline 1" },
+		{ "selector": "#page h2, h2 a", "type": "text", "label": "Headline 2" },
+		{ "selector": "#page h2, h2 a", "type": "color", "label": "Headline 2" },
+		{ "selector": "#page h3, h3 a", "type": "text", "label": "Headline 3" },
+		{ "selector": "#page h3, h3 a", "type": "color", "label": "Headline 3" },
+		{ "selector": "#page h4, h4 a", "type": "text", "label": "Headline 4" },
+		{ "selector": "#page h4, h4 a", "type": "color", "label": "Headline 4" },
+		{ "selector": "#page h5, h5 a", "type": "text", "label": "Headline 5" },
+		{ "selector": "#page h5, h5 a", "type": "color", "label": "Headline 5" },
+		{ "selector": "#page h6, h6 a", "type": "text", "label": "Headline 6" },
+		{ "selector": "#page h6, h6 a", "type": "color", "label": "Headline 6" },
+
+		{ "selector": "body, #page, p", "type": "text", "label": "Default Text" },
+		{ "selector": "body, p", "type": "color", "label": "Text" },
+
+		/* Link */
+		{ "selector": "#page a", "type": "color", "label": "Default link" },
+		{ "selector": "#page a:hover", "type": "color", "label": "Default link" },
+		{}
+	],
+	/*"Global Theme Colors": [	*/
+		/* Section Backgrounds */
+		/* { "selector": "html,body, #page", "type": "background-color", "label": "Outer area" },
+		{ "selector": "#section-content .sixteen", "type": "background-color", "label": "Inner area" },
+		{ "selector": "#section-tophat", "type": "background-color", "label": "Top-Hat area" },
+		{ "selector": "#section-header", "type": "background-color", "label": "Header BG" },
+		{ "selector": "#section-footer", "type": "background-color", "label": "Footer area" },
+		{ "selector": "#section-sub-footer", "type": "background-color", "label": "Sub-Footer area" },	*/
+		/*{}
+	],*/
+    "Top-Hat-Dropdown Text": [
+        /* Footer Widget Titles */
+        { "selector": "#page #section-tophat-dropdown .widget-title, #page #section-tophat-dropdown h1, #page #section-tophat-dropdown h2, #page #section-tophat-dropdown h3, #page #section-tophat-dropdown h4, #page #section-tophat-dropdown h5, #page #section-tophat-dropdown h6", "type": "text", "label": "Tophat Dropdown Headlines" },
+        { "selector": "#page #section-tophat-dropdown .widget-title, #page #section-tophat-dropdown h1, #page #section-tophat-dropdown h2, #page #section-tophat-dropdown h3, #page #section-tophat-dropdown h4, #page #section-tophat-dropdown h5, #page #section-tophat-dropdown h6", "type": "color", "label": "Tophat Dropdown Headlines" },
+        /* Text */
+        { "selector": "#page #section-tophat-dropdown *, #page #section-tophat-dropdown a, #page #section-tophat-dropdown", "type": "text", "label": "Tophat Dropdown font" },
+        { "selector": "#page #section-tophat-dropdown, #page #section-tophat-dropdown *", "type": "color", "label": "Tophat Dropdown text" },
+        { "selector": "#page #section-tophat-dropdown hr", "type": "border-color", "label": "Tophat Dropdown Other" },
+        { "selector": "#page #section-tophat-dropdown a, #page #section-tophat-dropdown a *, #page #section-tophat-dropdown .menu-item-title", "type": "color", "label": "Tophat Dropdown links" },
+        { "selector": "#page #section-tophat-dropdown a:hover, #page #section-tophat-dropdown a div:hover", "type": "color", "label": "Tophat Dropdown links" },
+        {}
+    ],
+	"Top-Hat Text": [
+		/* Text */
+		{ "selector": "#page #section-tophat *, #page #section-tophat a, #page #section-tophat .left", "type": "text", "label": "Tophat font" },
+		{ "selector": "#page #section-tophat, #page #section-tophat .left, #page #section-tophat .sf_search .sf_focused", "type": "color", "label": "Tophat text", "important": true },
+        { "selector": "#page #section-tophat span.account", "type": "border-color", "label": "Tophat Other" },
+		{ "selector": "#page #section-tophat a, #page #section-tophat a *, #page #section-tophat .menu-item-title, #page #section-tophat .th_trigger, #page #section-tophat .th_trigger i", "type": "color", "label": "Tophat links" },
+		{ "selector": "#page #section-tophat a:hover, #page #section-tophat a div:hover, #page #section-tophat .th_trigger:hover, #page #section-tophat .th_show_hide:hover i, #page #section-tophat .th_show_hide.th_flag_toggle:hover", "type": "color", "label": "Tophat links" },
+		{}
+	],
+	"Header Text": [		
+		/* Title */
+		{ "selector": "#site-heading h1", "type": "text", "label": "Title" },
+		{ "selector": "#site-heading h1", "type": "color", "label": "Title", "important": true },
+		{ "selector": "#site-heading h1:hover", "type": "color", "label": "Title", "important": true },
+		/* Tagline */
+		{ "selector": "#site-heading h2, #site-heading .site-description", "type": "text", "label": "Tagline" },
+		{ "selector": "#site-heading h2, #site-heading .site-description", "type": "color", "label": "Tagline", "important": true },
+		{ "selector": "#site-heading h2:hover, #site-heading .site-description:hover", "type": "color", "label": "Tagline", "important": true },
+		{}
+	],
+	"Primary Menu": [
+		/* Top items */
+		{ "selector": "#page #section-navigation ul.mega-menu > li.mega-menu-item > a, #page #section-navigation ul.menu > li .menu-item-title, #page #section-navigation ul.menu > li, #page #section-navigation ul.menu > li > a", "type": "text", "label": "Top item" },
+		{ "selector": "#page #section-navigation ul.mega-menu > li.mega-menu-item > a, #page #section-navigation ul.menu > li .menu-item-title, #page #section-navigation ul.menu > li, #page #section-navigation ul.menu > li > a", "type": "color", "label": "Top item" },
+		{ "selector": "#page #section-navigation ul.mega-menu > li.mega-menu-item:hover > a, #page #section-navigation  ul.menu > li:hover .menu-item-title, #page #section-navigation ul.menu > li:hover, #page #section-navigation ul.menu > li:hover > a", "type": "color", "label": "Top item" },
+		{ "selector": "#page #section-header nav ul.menu > li:after, #page #section-navigation ul.mega-menu li.mega-menu-item a:after", "type": "background-color", "label": "Top item dropdown" },
+		{ "selector": "#page #section-navigation ul.mega-menu > li.mega-menu-item, #page #section-navigation ul.menu > li", "type": "background-color", "label": "Top item" },
+		{ "selector": "#page #section-navigation ul.mega-menu > li.mega-menu-item:hover, #page #section-navigation  ul.menu li:hover, #page nav ul.menu .sub-menu li:hover a", "type": "background-color", "label": "Top item" },
+		/* Sub Menu */
+		{ "selector": "#page #section-super-header nav#site-navigation .mega-menu-wrap .mega-menu > li.mega-menu-item-has-children ul.mega-sub-menu, #section-header nav ul.menu > li > .sub-menu li:first-child", "type": "border-top-color", "label": "Sub Menu Highlight" },
+		{ "selector": "#page #section-super-header #site-navigation ul.mega-sub-menu, #page #section-super-header #site-navigation ul.mega-sub-menu li.mega-menu-item, #page #section-navigation ul.menu .sub-menu li", "type": "background-color", "label": "Sub Menu" },
+		/* Sub items */
+		{ "selector": "#page #section-super-header #site-navigation ul.mega-sub-menu li.mega-menu-item a, #page #section-navigation ul.menu .sub-menu li a, #page #section-super-header #site-navigation ul.menu ul.sub-menu li a span", "type": "text", "label": "Sub item" },
+		{ "selector": "#page #section-super-header #site-navigation ul.mega-sub-menu li.mega-menu-item a, #page #section-navigation ul.menu .sub-menu li a", "type": "color", "label": "Sub item" },
+		{ "selector": "#page #section-super-header #site-navigation ul.mega-sub-menu li.mega-menu-item:hover a, #page #section-navigation ul.menu .sub-menu li:hover a, #page #section-navigation nav ul.menu .sub-menu li:hover a span", "type": "color", "label": "Sub item" },
+		{ "selector": "#page #section-super-header #site-navigation ul.mega-sub-menu li.mega-menu-item, #page #section-navigation ul.menu .sub-menu li", "type": "background-color", "label": "Sub item" },
+		{ "selector": "#page #section-super-header #site-navigation li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item:hover, #page #section-navigation nav ul.menu .sub-menu li:hover, #page #section-navigation nav ul.menu .sub-menu li:hover a", "type": "background-color", "label": "Sub item" },
+		{}
+	],
+	"Content Area Text": [
+		/* Entry Titles */
+		{ "selector": ".entry-title, #page .entry-title a", "type": "text", "label": "Title" },
+		{ "selector": ".entry-title, #page .entry-title a", "type": "color", "label": "Title" },
+		{ "selector": "#page .entry-title a:hover", "type": "color", "label": "Title link" },
+		/* Normal */
+		{ "selector": "#page #section-content, #page #section-content p", "type": "text", "label": "Entry Text" },
+		{ "selector": "#page #section-content, #page #section-content p", "type": "color", "label": "Entry Text" },
+		/* Meta */
+		{ "selector": "#page #section-content .entry-meta, #page #section-content .entry-meta p", "type": "text", "label": "Meta Text" },
+		{ "selector": "#page #section-content .entry-meta, #page #section-content .entry-meta p", "type": "color", "label": "Meta Text" },
+		
+		/* Headers */
+		{ "selector": "#page #section-content h1, #page #section-content h1 a", "type": "text", "label": "Heading 1" },
+		{ "selector": "#page #section-content h1, #page #section-content h1 a", "type": "color", "label": "Heading 1" },
+		{ "selector": "#page #section-content h2, #page #section-content h2 a", "type": "text", "label": "Heading 2" },
+		{ "selector": "#page #section-content h2, #page #section-content h2 a", "type": "color", "label": "Heading 2" },
+		{ "selector": "#page #section-content h3, #page #section-content h3 a", "type": "text", "label": "Heading 3" },
+		{ "selector": "#page #section-content h3, #page #section-content h3 a", "type": "color", "label": "Heading 3" },
+		{ "selector": "#page #section-content h4, #page #section-content h4 a", "type": "text", "label": "Heading 4" },
+		{ "selector": "#page #section-content h4, #page #section-content h4 a", "type": "color", "label": "Heading 4" },
+		{ "selector": "#page #section-content h5, #page #section-content h5 a", "type": "text", "label": "Heading 5" },
+		{ "selector": "#page #section-content h5, #page #section-content h5 a", "type": "color", "label": "Heading 5" },
+		{ "selector": "#page #section-content h6, #page #section-content h6 a", "type": "text", "label": "Heading 6" },
+		{ "selector": "#page #section-content h6, #page #section-content h6 a", "type": "color", "label": "Heading 6" },
+		{}
+	],
+	"Sidebar Text": [
+		/* Sidebar Widget Titles */
+		{ "selector": "#page #section-content .widget-title", "type": "text", "label": "Sidebar title", "important": true  },
+		{ "selector": "#page #section-content .widget-title", "type": "color", "label": "Sidebar title", "important": true  },
+		/* Text */
+		{ "selector": "#page #section-content .widget-area, #page #section-content .widget-area p", "type": "text", "label": "Sidebar text" },
+		{ "selector": "#page #section-content .widget-area, #page #section-content .widget-area p", "type": "color", "label": "Sidebar text" },
+		{}
+	],
+	"Footer Text": [
+		/* Footer Widget Titles */
+		{ "selector": "#page #section-footer .widget-title", "type": "text", "label": "Footer title" },
+		{ "selector": "#page #section-footer .widget-title", "type": "color", "label": "Footer title" },
+		/* Text */
+		{ "selector": "#page #section-footer, #page #section-footer div, #page #section-footer span, #page #section-footer a", "type": "text", "label": "Footer text" },
+		{ "selector": "#page #section-footer a", "type": "color", "label": "Footer link" },
+		{ "selector": "#page #section-footer a:hover", "type": "color", "label": "Footer link" },
+		{}
+	],
+	"Sub-Footer Text": [
+		/* Text */
+		{ "selector": "#page #section-sub-footer, #page #section-sub-footer a, #page #section-sub-footer .left", "type": "text", "label": "Sub-Footer text" },
+		{ "selector": "#page #section-sub-footer, #page #section-sub-footer a, #page #section-sub-footer .left", "type": "color", "label": "Sub-Footer text" },
+		{ "selector": "#page #section-sub-footer a", "type": "color", "label": "Sub-Footer link" },
+		{ "selector": "#page #section-sub-footer a:hover", "type": "color", "label": "Sub-Footer link" },
+		{}
+	]
+}

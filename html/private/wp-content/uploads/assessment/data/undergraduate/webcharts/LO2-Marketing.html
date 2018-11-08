@@ -1,0 +1,91 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>OCOB Assessment Results Data Summary</title>	
+		<link type="text/css" rel="stylesheet" href="visualize.jQuery.css"/>
+		<link type="text/css" rel="stylesheet" href="demopage.css"/>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<!--[if IE]><script type="text/javascript" src="excanvas.compiled.js"></script><![endif]-->
+		<script type="text/javascript" src="visualize.jQuery.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				//make some charts
+				
+				$('#t0').visualize({width: 600, lineWeight: 4}).appendTo('body').trigger('visualizeRefresh');
+                
+                makeRowPie();
+			});
+
+		</script>
+	</head>
+    <body onLoad="location.href='#top'">
+    <a name="top"></a>
+	
+        <table >
+        <caption>
+        Marketing Concentration LO 2 - Results Data
+        Summary - 2008-09
+        </caption>
+        </table>
+		<table id="t0">
+			<caption>
+		    
+			</caption>
+			<thead>
+				<tr>
+					<td></td>
+					<th>Does not Meet
+Expectations</th>
+					<th>Meets
+Expectations</th>
+					<th>Exceeds
+Expectations</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Meets client
+expectations</th>
+					<td>5</td>
+					<td>70</td>
+					<td>73</td>
+				</tr>
+                <tr>
+					<th>Target
+customer description</th>
+					<td>13</td>
+					<td>117</td>
+					<td>18</td>
+				</tr>
+                <tr>
+					<th>Marketing
+recommendations</th>
+					<td>5</td>
+					<td>83</td>
+					<td>60</td>
+				</tr>
+				<tr>
+					<th>Research-based
+plan of action</th>
+					<td>0</td>
+					<td>99</td>
+					<td>49</td>
+				</tr>
+                <tr>
+					<th>Presentation
+of data / information</th>
+					<td>10</td>
+					<td>82</td>
+					<td>56</td>
+				</tr>
+                <tr>
+					<th>Use of
+reference citations</th>
+					<td>11</td>
+					<td>82</td>
+					<td>66</td>
+				</tr>
+			</tbody>
+		</table>        
+	</body>
+</html>

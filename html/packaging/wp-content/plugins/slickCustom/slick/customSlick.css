@@ -1,0 +1,218 @@
+#bottomPost{
+	margin-top: -10px;
+}
+.top{
+	text-align: center;
+}
+.slider{
+	width: 730px; /* here */
+	overflow: visible;
+	display: inline-block;	
+	border-top: 5px solid #29551a;
+	padding-top: 1px;
+	margin-top: 13px;
+
+}
+.sideSlider{
+	width: 214px;
+	height: 333px;
+	display: inline-block;
+	vertical-align: top;
+	border-top: 5px solid #29551a;
+	padding-top: 1px;
+	margin-top: 13px;
+	float: right;
+}
+
+.sideSlider a{
+	color: #252525;
+    border-bottom: 1px dotted #6f6345;
+    font-family: inherit;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#smallPrev{
+	vertical-align: bottom;
+}
+#smallNext{
+	vertical-align: bottom;
+}
+#breadcrumb{
+	display: none;
+}
+.sideSlider h2{
+	text-align: left;
+	text-transform: uppercase;
+	margin-left: 5px;
+	font-size: 18px;
+	color: #29551a;
+}
+.sideSlider p{
+	text-align: left;
+	margin-left: 14px;
+	margin-right: 5px;
+	overflow: hidden;
+	max-height: 170px;
+	line-height: 21px;
+	font-size: 16px;
+	font-family: "Times New Roman", Times, serif;
+}
+#imageArrowRight{
+	display: inline;
+	right:-25px;
+	 top: 42%;
+}
+#imageArrowLeft{
+	display: inline;
+	right:-25px;
+	 top: 42%;
+}
+.rightArrow{
+    display: none !important;
+    right: -25px;
+    top: 42%;
+    background-position: top right;
+    width: 50px;
+    height: 50px;
+    z-index: 200;
+    position: absolute;
+    cursor: pointer;
+    overflow: hidden;
+    line-height: 50px;
+}
+.leftArrow{
+	display: none !important;
+    right: -25px;
+    top: 42%;
+    left: -25px;
+    background-position: top left;
+    width: 50px;
+    height: 50px;
+    z-index: 200;
+    position: absolute;
+    cursor: pointer;
+    overflow: hidden;
+    line-height: 50px;
+}
+.mobileText{
+	display: none;
+}
+.showArrow{
+	display: inherit !important;
+}
+/* Dots */
+
+.slick-dots
+{
+    position: absolute;
+    bottom: -10px;
+
+    display: block;
+
+    width: 100%;
+    padding: 0;
+
+    list-style: none;
+
+    text-align: center;
+}
+.slick-dots li
+{
+    position: relative;
+
+    display: inline-block;
+
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+
+    cursor: pointer;
+}
+.slick-dots li button
+{
+    font-size: 0;
+    line-height: 0;
+
+    display: block;
+
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+
+    cursor: pointer;
+
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+.slick-dots li button:hover,
+.slick-dots li button:focus
+{
+    outline: none;
+}
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before
+{
+    opacity: 1;
+}
+.slick-dots li button:before
+{
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 20px;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 20px;
+    height: 20px;
+
+    content: '•';
+    text-align: center;
+
+    opacity: .25;
+    color: black;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-dots li.slick-active button:before
+{
+    opacity: .75;
+    color: black;
+}
+@media only screen and (max-width: 760px) {
+	.mobileText{
+		display: inherit;
+		margin: 0 auto;
+		display: block;
+		width: 98%;
+	}
+	
+	.mobileText a{
+		color: #252525;
+	    border-bottom: 1px dotted #6f6345;
+	    font-family: inherit;
+	    text-decoration: none;
+	    font-size: 15px;
+	}
+	
+	.sideSlider{
+		display: none;
+	}
+	.slider{
+		width: 98%;
+		margin: 0 auto;
+		display: block;
+	}
+	#imageArrowLeft, #imageArrowRight{
+		display: none !important;
+	}
+	.widget:first-child{
+		margin-top: 0;
+	}
+}

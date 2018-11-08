@@ -1,0 +1,16 @@
+
+.ts-badge-style .tshowcase-box-details { font-size: 0.9em; margin-top:-5px;  }
+.ts-badge-style .tshowcase-box-details::before { content:'___'; color:#6699CC; text-align: center; padding:0px; margin:3px 0px; }
+.ts-badge-style .tshowcase-single-position {}
+.ts-badge-style .tshowcase-single-email{}
+.ts-badge-style .tshowcase-single-telephone{}
+.ts-badge-style .tshowcase-single-location{}
+.ts-badge-style .tshowcase-single-shortbio{}
+.ts-badge-style .tshowcase-single-website{}
+.ts-badge-style .tshowcase-box-info {  }
+
+.ts-badge-style .tshowcase-box-title { padding:3px 5px; background-color: #6699CC; color:#FFF; border-radius: 2px; font-size:1em;  white-space: nowrap; }
+.ts-badge-style .tshowcase-box-title a { text-decoration:none; border:none; color:#FFF;  }
+.ts-badge-style .tshowcase-box-title:hover { background-color:#6699DD; }
+
+.ts-badge-style .tshowcase-box-social { padding:3px 0px; }

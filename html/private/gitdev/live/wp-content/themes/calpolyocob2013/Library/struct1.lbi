@@ -1,0 +1,18 @@
+<!--
+========================
+DO NOT MODIFY THIS CODE!
+- Cal Poly, ITS
+========================
+-->
+
+<div id="headerContent">
+                <div id="cplogo">
+                  
+                    <a href="http://www.calpoly.edu/" ><img src="../images/ocob_logo.gif" alt="Cal Poly, San Luis Obispo" height="75" width="200" title="Go to Cal Poly Home" /></a>
+  </div>
+                <div id="deptName"><!-- #BeginLibraryItem "/Library/deptname.lbi" -->
+
+<h2><a href="../index.html">Department Name</a></h2><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/deptinfo.lbi" -->
+
+<h3><a href="../index.html">Optional Department Information</a></h3><!-- #EndLibraryItem --></div>
+            </div>    

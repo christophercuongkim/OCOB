@@ -1,0 +1,266 @@
+11037.987 (1) Opened log file at time: Sat, 24 Mar 2018 01:30:23 +0000 on https://packaging.calpoly.edu/
+11037.995 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 49.4M | 51.3M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+11038.003 (1) Free space on disk containing Updraft's temporary directory: 64025.9 MB
+11038.020 (1) Backup run: resumption=1, nonce=89901f2fd017, begun at=1521843985 (11038s ago), job type=backup, previous check-in=1258.7s
+11038.028 (1) Long time past since expected resumption time: approx expected=1521846533, now=1521855023.2, diff=8490.2
+11038.037 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+11038.045 (1) Scheduling a resumption (2) after 1289 seconds (1521856312) in case this run gets aborted
+11038.062 (1) Checking if we have a zip executable available
+11038.070 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+11038.078 (1) Creation of backups of directories: already finished
+11038.087 (1) Saving backup status to database (elements: 15)
+11038.113 (1) Database dump (WordPress DB): Creation was completed already
+11038.139 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-plugins.zip: plugins: This file has already been successfully uploaded
+11038.146 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-themes.zip: themes: This file has already been successfully uploaded
+11038.155 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads.zip: uploads: This file has already been successfully uploaded
+11038.163 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads2.zip: uploads: This file has already been successfully uploaded
+11038.171 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads3.zip: uploads: This file has already been successfully uploaded
+11038.180 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads4.zip: uploads: This file has already been successfully uploaded
+11038.188 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads5.zip: uploads: This file has already been successfully uploaded
+11038.197 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads6.zip: uploads: This file has already been successfully uploaded
+11038.205 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+11038.213 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads8.zip: uploads: This file has already been successfully uploaded
+11038.221 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-others.zip: others: This file has already been successfully uploaded
+11038.230 (1) backup_2018-03-23-2226_Packaging_Program_89901f2fd017-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/var/www/www.cob.calpoly.edu/html/packaging/wp-content/updraft/backup_2018-03-23-2226_Packaging_Program_89901f2fd017-db.gz)
+11038.247 (1) Recording as successfully uploaded: backup_2018-03-23-2226_Packaging_Program_89901f2fd017-db.gz (7a7846a2261eb2b06440d6205e468b94)
+11038.263 (1) Saving backup history. Total backup size: Unknown
+11038.298 (1) Requesting upload of the files that have not yet been successfully uploaded (1)
+11038.314 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+11038.323 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-703a8595d286579beadb77101d32275f)
+11038.661 (1) Google Drive quota usage: used=87026.1 MB, total=10572786.1 MB, available=10485760 MB
+11038.664 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads7.zip: Attempting to upload to Google Drive (into folder id: 1pPthRS0p7-ofdCa3JzEoqRMbQcatWRRl)
+11038.778 (1) backup_2018-03-23-2226_Packaging_Program_1ed0e3e638ee-uploads7.zip: upload already began; attempting to resume from byte 46137343
+11040.231 (1) Googledrive chunked upload: 11.4 % uploaded (47185920)
+11040.798 (1) Googledrive chunked upload: 11.6 % uploaded (48234496)
+11041.190 (1) Googledrive chunked upload: 11.9 % uploaded (49283072)
+11041.550 (1) Googledrive chunked upload: 12.2 % uploaded (50331648)
+11041.917 (1) Googledrive chunked upload: 12.4 % uploaded (51380224)
+11042.267 (1) Googledrive chunked upload: 12.7 % uploaded (52428800)
+11042.626 (1) Googledrive chunked upload: 12.9 % uploaded (53477376)
+11043.001 (1) Googledrive chunked upload: 13.2 % uploaded (54525952)
+11043.326 (1) Googledrive chunked upload: 13.4 % uploaded (55574528)
+11043.677 (1) Googledrive chunked upload: 13.7 % uploaded (56623104)
+11044.019 (1) Googledrive chunked upload: 13.9 % uploaded (57671680)
+11044.419 (1) Googledrive chunked upload: 14.2 % uploaded (58720256)
+11044.828 (1) Googledrive chunked upload: 14.4 % uploaded (59768832)
+11045.262 (1) Googledrive chunked upload: 14.7 % uploaded (60817408)
+11045.587 (1) Googledrive chunked upload: 14.9 % uploaded (61865984)
+11046.179 (1) Googledrive chunked upload: 15.2 % uploaded (62914560)
+11046.521 (1) Googledrive chunked upload: 15.4 % uploaded (63963136)
+11046.888 (1) Googledrive chunked upload: 15.7 % uploaded (65011712)
+11047.230 (1) Googledrive chunked upload: 16 % uploaded (66060288)
+11047.580 (1) Googledrive chunked upload: 16.2 % uploaded (67108864)
+11047.989 (1) Googledrive chunked upload: 16.5 % uploaded (68157440)
+11048.431 (1) Googledrive chunked upload: 16.7 % uploaded (69206016)
+11048.839 (1) Googledrive chunked upload: 17 % uploaded (70254592)
+11049.206 (1) Googledrive chunked upload: 17.2 % uploaded (71303168)
+11049.557 (1) Googledrive chunked upload: 17.5 % uploaded (72351744)
+11049.882 (1) Googledrive chunked upload: 17.7 % uploaded (73400320)
+11050.274 (1) Googledrive chunked upload: 18 % uploaded (74448896)
+11050.674 (1) Googledrive chunked upload: 18.2 % uploaded (75497472)
+11051.108 (1) Googledrive chunked upload: 18.5 % uploaded (76546048)
+11051.533 (1) Googledrive chunked upload: 18.7 % uploaded (77594624)
+11051.892 (1) Googledrive chunked upload: 19 % uploaded (78643200)
+11052.334 (1) Googledrive chunked upload: 19.2 % uploaded (79691776)
+11052.659 (1) Googledrive chunked upload: 19.5 % uploaded (80740352)
+11053.043 (1) Googledrive chunked upload: 19.8 % uploaded (81788928)
+11053.451 (1) Googledrive chunked upload: 20 % uploaded (82837504)
+11053.827 (1) Googledrive chunked upload: 20.3 % uploaded (83886080)
+11054.144 (1) Googledrive chunked upload: 20.5 % uploaded (84934656)
+11054.479 (1) Googledrive chunked upload: 20.8 % uploaded (85983232)
+11054.846 (1) Googledrive chunked upload: 21 % uploaded (87031808)
+11055.188 (1) Googledrive chunked upload: 21.3 % uploaded (88080384)
+11055.546 (1) Googledrive chunked upload: 21.5 % uploaded (89128960)
+11055.980 (1) Googledrive chunked upload: 21.8 % uploaded (90177536)
+11057.172 (1) Googledrive chunked upload: 22 % uploaded (91226112)
+11057.531 (1) Googledrive chunked upload: 22.3 % uploaded (92274688)
+11057.897 (1) Googledrive chunked upload: 22.5 % uploaded (93323264)
+11058.248 (1) Googledrive chunked upload: 22.8 % uploaded (94371840)
+11058.590 (1) Googledrive chunked upload: 23 % uploaded (95420416)
+11058.965 (1) Googledrive chunked upload: 23.3 % uploaded (96468992)
+11059.332 (1) Googledrive chunked upload: 23.5 % uploaded (97517568)
+11059.707 (1) Googledrive chunked upload: 23.8 % uploaded (98566144)
+11060.066 (1) Googledrive chunked upload: 24.1 % uploaded (99614720)
+11060.492 (1) Googledrive chunked upload: 24.3 % uploaded (100663296)
+11061.208 (1) Googledrive chunked upload: 24.6 % uploaded (101711872)
+11061.642 (1) Googledrive chunked upload: 24.8 % uploaded (102760448)
+11062.076 (1) Googledrive chunked upload: 25.1 % uploaded (103809024)
+11062.409 (1) Googledrive chunked upload: 25.3 % uploaded (104857600)
+11062.918 (1) Googledrive chunked upload: 25.6 % uploaded (105906176)
+11063.243 (1) Googledrive chunked upload: 25.8 % uploaded (106954752)
+11063.594 (1) Googledrive chunked upload: 26.1 % uploaded (108003328)
+11063.944 (1) Googledrive chunked upload: 26.3 % uploaded (109051904)
+11064.294 (1) Googledrive chunked upload: 26.6 % uploaded (110100480)
+11064.653 (1) Googledrive chunked upload: 26.8 % uploaded (111149056)
+11064.986 (1) Googledrive chunked upload: 27.1 % uploaded (112197632)
+11065.355 (1) Googledrive chunked upload: 27.3 % uploaded (113246208)
+11065.722 (1) Googledrive chunked upload: 27.6 % uploaded (114294784)
+11066.139 (1) Googledrive chunked upload: 27.9 % uploaded (115343360)
+11066.531 (1) Googledrive chunked upload: 28.1 % uploaded (116391936)
+11066.898 (1) Googledrive chunked upload: 28.4 % uploaded (117440512)
+11067.248 (1) Googledrive chunked upload: 28.6 % uploaded (118489088)
+11067.598 (1) Googledrive chunked upload: 28.9 % uploaded (119537664)
+11068.015 (1) Googledrive chunked upload: 29.1 % uploaded (120586240)
+11068.399 (1) Googledrive chunked upload: 29.4 % uploaded (121634816)
+11068.724 (1) Googledrive chunked upload: 29.6 % uploaded (122683392)
+11069.125 (1) Googledrive chunked upload: 29.9 % uploaded (123731968)
+11069.533 (1) Googledrive chunked upload: 30.1 % uploaded (124780544)
+11069.959 (1) Googledrive chunked upload: 30.4 % uploaded (125829120)
+11070.301 (1) Googledrive chunked upload: 30.6 % uploaded (126877696)
+11070.642 (1) Googledrive chunked upload: 30.9 % uploaded (127926272)
+11071.232 (1) Googledrive chunked upload: 31.1 % uploaded (128974848)
+11071.710 (1) Googledrive chunked upload: 31.4 % uploaded (130023424)
+11072.077 (1) Googledrive chunked upload: 31.7 % uploaded (131072000)
+11072.435 (1) Googledrive chunked upload: 31.9 % uploaded (132120576)
+11072.811 (1) Googledrive chunked upload: 32.2 % uploaded (133169152)
+11073.178 (1) Googledrive chunked upload: 32.4 % uploaded (134217728)
+11073.561 (1) Googledrive chunked upload: 32.7 % uploaded (135266304)
+11073.962 (1) Googledrive chunked upload: 32.9 % uploaded (136314880)
+11074.354 (1) Googledrive chunked upload: 33.2 % uploaded (137363456)
+11074.712 (1) Googledrive chunked upload: 33.4 % uploaded (138412032)
+11075.113 (1) Googledrive chunked upload: 33.7 % uploaded (139460608)
+11075.481 (1) Googledrive chunked upload: 33.9 % uploaded (140509184)
+11131.557 (1) ERROR: Google Drive upload error: Resolving timed out after 15525 milliseconds (line: 117, file: /var/www/www.cob.calpoly.edu/html/packaging/wp-content/plugins/updraftplus/includes/Google/IO/Curl.php)
+11131.572 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=30, retain_db=30
+11131.595 (1) Number of backup sets in history: 30; groups (db): 1
+11131.605 (1) Examining (for databases) backup set with group_id=0, nonce=89901f2fd017, datestamp=1521843985 (Mar 23 2018 22:26:25)
+11131.613 (1) This backup set is the backup set just made, so will not be deleted.
+11131.613 (1) Examining (for databases) backup set with group_id=0, nonce=8dd39e1a63ff, datestamp=1521754334 (Mar 22 2018 21:32:14)
+11131.614 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.622 (1) Examining (for databases) backup set with group_id=0, nonce=d24aa08fd249, datestamp=1521667794 (Mar 21 2018 21:29:54)
+11131.622 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.622 (1) Examining (for databases) backup set with group_id=0, nonce=bc4580173195, datestamp=1521582865 (Mar 20 2018 21:54:25)
+11131.622 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.622 (1) Examining (for databases) backup set with group_id=0, nonce=6d97e4b82c64, datestamp=1521495234 (Mar 19 2018 21:33:54)
+11131.623 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.623 (1) Examining (for databases) backup set with group_id=0, nonce=c1cc3aa7faa9, datestamp=1521415923 (Mar 18 2018 23:32:03)
+11131.623 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.623 (1) Examining (for databases) backup set with group_id=0, nonce=1e22509f27a5, datestamp=1521325857 (Mar 17 2018 22:30:57)
+11131.623 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.623 (1) Examining (for databases) backup set with group_id=0, nonce=dc30f9214bad, datestamp=1521239233 (Mar 16 2018 22:27:13)
+11131.624 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.624 (1) Examining (for databases) backup set with group_id=0, nonce=33e45485dfb8, datestamp=1521151955 (Mar 15 2018 22:12:35)
+11131.624 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.624 (1) Examining (for databases) backup set with group_id=0, nonce=60ee0fcde5d9, datestamp=1521067705 (Mar 14 2018 22:48:25)
+11131.624 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.624 (1) Examining (for databases) backup set with group_id=0, nonce=55289aff94b9, datestamp=1520980569 (Mar 13 2018 22:36:09)
+11131.624 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.625 (1) Examining (for databases) backup set with group_id=0, nonce=1d5b48abfec5, datestamp=1520893730 (Mar 12 2018 22:28:50)
+11131.625 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.625 (1) Examining (for databases) backup set with group_id=0, nonce=d6efcfc0310f, datestamp=1520805527 (Mar 11 2018 21:58:47)
+11131.625 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.625 (1) Examining (for databases) backup set with group_id=0, nonce=a7b58c5f50b9, datestamp=1520717841 (Mar 10 2018 21:37:21)
+11131.625 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.626 (1) Examining (for databases) backup set with group_id=0, nonce=6bcbb1db5587, datestamp=1520644865 (Mar 10 2018 01:21:05)
+11131.626 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.626 (1) Examining (for databases) backup set with group_id=0, nonce=e8287942ade9, datestamp=1520547272 (Mar 08 2018 22:14:32)
+11131.626 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.626 (1) Examining (for databases) backup set with group_id=0, nonce=145cede42200, datestamp=1520473478 (Mar 08 2018 01:44:38)
+11131.626 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.626 (1) Examining (for databases) backup set with group_id=0, nonce=e84e7931cb82, datestamp=1520371789 (Mar 06 2018 21:29:49)
+11131.626 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.627 (1) Examining (for databases) backup set with group_id=0, nonce=fd74ae7d2bdc, datestamp=1520285864 (Mar 05 2018 21:37:44)
+11131.627 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.627 (1) Examining (for databases) backup set with group_id=0, nonce=de416e48321f, datestamp=1520206256 (Mar 04 2018 23:30:56)
+11131.627 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.627 (1) Examining (for databases) backup set with group_id=0, nonce=d2cb2e0d51df, datestamp=1520127413 (Mar 04 2018 01:36:53)
+11131.627 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.628 (1) Examining (for databases) backup set with group_id=0, nonce=06de575084bd, datestamp=1520032288 (Mar 02 2018 23:11:28)
+11131.628 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.628 (1) Examining (for databases) backup set with group_id=0, nonce=5f525081a425, datestamp=1519941730 (Mar 01 2018 22:02:10)
+11131.628 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.628 (1) Examining (for databases) backup set with group_id=0, nonce=29f63451397e, datestamp=1519862996 (Mar 01 2018 00:09:56)
+11131.628 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.628 (1) Examining (for databases) backup set with group_id=0, nonce=112cc20e1915, datestamp=1519774835 (Feb 27 2018 23:40:35)
+11131.629 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.629 (1) Examining (for databases) backup set with group_id=0, nonce=28c2d4416b80, datestamp=1519681983 (Feb 26 2018 21:53:03)
+11131.629 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.629 (1) Examining (for databases) backup set with group_id=0, nonce=2a9cf96e9479, datestamp=1519594894 (Feb 25 2018 21:41:34)
+11131.629 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.629 (1) Examining (for databases) backup set with group_id=0, nonce=a4a04fb13528, datestamp=1519508336 (Feb 24 2018 21:38:56)
+11131.629 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.630 (1) Examining (for databases) backup set with group_id=0, nonce=85ba6a75315c, datestamp=1519427332 (Feb 23 2018 23:08:52)
+11131.630 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.630 (1) Examining (for databases) backup set with group_id=0, nonce=f21a0542a6d3, datestamp=1519334976 (Feb 22 2018 21:29:36)
+11131.630 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.630 (1) Number of backup sets in history: 30; groups (files): 1
+11131.638 (1) Examining (for files) backup set with nonce=89901f2fd017, datestamp=1521843985 (Mar 23 2018 22:26:25)
+11131.638 (1) This backup set is the backup set just made, so will not be deleted.
+11131.647 (1) This backup set is the backup set just made, so will not be deleted.
+11131.647 (1) This backup set is the backup set just made, so will not be deleted.
+11131.647 (1) This backup set is the backup set just made, so will not be deleted.
+11131.647 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.655 (1) Examining (for files) backup set with nonce=8dd39e1a63ff, datestamp=1521754334 (Mar 22 2018 21:32:14)
+11131.655 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.655 (1) Examining (for files) backup set with nonce=d24aa08fd249, datestamp=1521667794 (Mar 21 2018 21:29:54)
+11131.655 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.656 (1) Examining (for files) backup set with nonce=bc4580173195, datestamp=1521582865 (Mar 20 2018 21:54:25)
+11131.656 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.656 (1) Examining (for files) backup set with nonce=6d97e4b82c64, datestamp=1521495234 (Mar 19 2018 21:33:54)
+11131.656 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.656 (1) Examining (for files) backup set with nonce=c1cc3aa7faa9, datestamp=1521415923 (Mar 18 2018 23:32:03)
+11131.656 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.657 (1) Examining (for files) backup set with nonce=1e22509f27a5, datestamp=1521325857 (Mar 17 2018 22:30:57)
+11131.657 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.657 (1) Examining (for files) backup set with nonce=dc30f9214bad, datestamp=1521239233 (Mar 16 2018 22:27:13)
+11131.657 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.657 (1) Examining (for files) backup set with nonce=33e45485dfb8, datestamp=1521151955 (Mar 15 2018 22:12:35)
+11131.657 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.657 (1) Examining (for files) backup set with nonce=60ee0fcde5d9, datestamp=1521067705 (Mar 14 2018 22:48:25)
+11131.657 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.658 (1) Examining (for files) backup set with nonce=55289aff94b9, datestamp=1520980569 (Mar 13 2018 22:36:09)
+11131.658 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.658 (1) Examining (for files) backup set with nonce=1d5b48abfec5, datestamp=1520893730 (Mar 12 2018 22:28:50)
+11131.658 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.658 (1) Examining (for files) backup set with nonce=d6efcfc0310f, datestamp=1520805527 (Mar 11 2018 21:58:47)
+11131.658 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.658 (1) Examining (for files) backup set with nonce=a7b58c5f50b9, datestamp=1520717841 (Mar 10 2018 21:37:21)
+11131.658 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.659 (1) Examining (for files) backup set with nonce=6bcbb1db5587, datestamp=1520644865 (Mar 10 2018 01:21:05)
+11131.659 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.659 (1) Examining (for files) backup set with nonce=e8287942ade9, datestamp=1520547272 (Mar 08 2018 22:14:32)
+11131.659 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.659 (1) Examining (for files) backup set with nonce=145cede42200, datestamp=1520473478 (Mar 08 2018 01:44:38)
+11131.659 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.659 (1) Examining (for files) backup set with nonce=e84e7931cb82, datestamp=1520371789 (Mar 06 2018 21:29:49)
+11131.659 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.660 (1) Examining (for files) backup set with nonce=fd74ae7d2bdc, datestamp=1520285864 (Mar 05 2018 21:37:44)
+11131.660 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.660 (1) Examining (for files) backup set with nonce=de416e48321f, datestamp=1520206256 (Mar 04 2018 23:30:56)
+11131.660 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.660 (1) Examining (for files) backup set with nonce=d2cb2e0d51df, datestamp=1520127413 (Mar 04 2018 01:36:53)
+11131.660 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.660 (1) Examining (for files) backup set with nonce=06de575084bd, datestamp=1520032288 (Mar 02 2018 23:11:28)
+11131.660 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.661 (1) Examining (for files) backup set with nonce=5f525081a425, datestamp=1519941730 (Mar 01 2018 22:02:10)
+11131.661 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.661 (1) Examining (for files) backup set with nonce=29f63451397e, datestamp=1519862996 (Mar 01 2018 00:09:56)
+11131.661 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.661 (1) Examining (for files) backup set with nonce=112cc20e1915, datestamp=1519774835 (Feb 27 2018 23:40:35)
+11131.661 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.661 (1) Examining (for files) backup set with nonce=28c2d4416b80, datestamp=1519681983 (Feb 26 2018 21:53:03)
+11131.661 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.662 (1) Examining (for files) backup set with nonce=2a9cf96e9479, datestamp=1519594894 (Feb 25 2018 21:41:34)
+11131.662 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.662 (1) Examining (for files) backup set with nonce=a4a04fb13528, datestamp=1519508336 (Feb 24 2018 21:38:56)
+11131.662 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.662 (1) Examining (for files) backup set with nonce=85ba6a75315c, datestamp=1519427332 (Feb 23 2018 23:08:52)
+11131.662 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.662 (1) Examining (for files) backup set with nonce=f21a0542a6d3, datestamp=1519334976 (Feb 22 2018 21:29:36)
+11131.662 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+11131.663 (1) Retain: saving new backup history (sets now: 30) and finishing retain operation
+11131.681 (1) Resume backup (89901f2fd017, 1): finish run
+11131.705 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+11131.722 (1) The backup has not finished; a resumption is scheduled
+13358.318 (2) Opened log file at time: Sat, 24 Mar 2018 02:09:03 +0000 on https://packaging.calpoly.edu/
+13358.326 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 54.9M | 56.3M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+13358.334 (2) Free space on disk containing Updraft's temporary directory: 64401.7 MB
+13358.343 (2) It looks like WordPress's scheduler has started multiple instances of this resumption
+13358.359 (2) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1521857342.4, time_now=1521857343.5, diff=1, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+13358.368 (2) Rescheduling resumption 3: moving to 1289 seconds from now (1521858632)
+13358.393 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 1289 + 0 = 1289
+18558.350 (3) Opened log file at time: Sat, 24 Mar 2018 03:35:43 +0000 on https://packaging.calpoly.edu/
+18558.357 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 45.2M | 45.8M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+18558.366 (3) Free space on disk containing Updraft's temporary directory: 64381.5 MB
+18558.382 (3) Backup run: resumption=3, nonce=89901f2fd017, begun at=1521843985 (18558s ago), job type=backup, previous check-in=0s
+18558.391 (3) Terminate: This backup job is already finished (1).

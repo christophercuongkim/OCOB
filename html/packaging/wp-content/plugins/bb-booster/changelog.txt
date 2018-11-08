@@ -1,0 +1,35 @@
+<h4>1.0.7 - 10/10/2017</h4>
+<ul>
+	<li>Module fixes and enhancements.</li>
+</ul>
+
+<h4>1.0.6 - 04/19/2017</h4>
+<ul>
+	<li>Don't show pointers when WalkMe is present.</li>
+	<li>Updated Beaver Builder upgrade URLs.</li>
+</ul>
+
+<h4>1.0.5 - 12/12/2016</h4>
+<ul>
+	<li>Fixed a PHP warning on the plugins add new screen.</li>
+</ul>
+
+<h4>1.0.4 - 10/24/2016</h4>
+<ul>
+	<li>Removed the launch page builder section from the customizer.</li>
+</ul>
+
+<h4>1.0.2 - 9/14/2016</h4>
+<ul>
+	<li>Added missing translation files.</li>
+</ul>
+
+<h4>1.0.1 - 9/12/2016</h4>
+<ul>
+	<li>Updated translations.</li>
+</ul>
+
+<h4>1.0 - 9/9/2016</h4>
+<ul>
+	<li>Public release</li>
+</ul>

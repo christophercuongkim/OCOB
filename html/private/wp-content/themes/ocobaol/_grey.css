@@ -1,0 +1,33 @@
+/* background color */
+body {
+	background-color: #E5E5E5;
+}
+
+/* link colors */
+a {
+	color: #B91313;
+}
+a:hover {
+	color: #E81E1E;
+}
+
+/* border color for menu and columns */
+.menu, #c1, #c2, #c3, #secondary-menu {
+	border-color: #D2D2D2;
+}
+
+/* background color for selected page in the menu - same color as above */
+.menu li.current_page_item > a, .menu li.current_page_parent > a, .menu li:hover > a, .menu li ul li a { 
+	background: #D2D2D2;
+}
+
+/* background color for widgets */
+.widget, .comment-body, .sticky {
+	background: #F3F3F3;
+}
+
+/* wiget titles */
+.widget h2 {
+	background: #DFDFDF;
+	color: #7E7E7E;
+}

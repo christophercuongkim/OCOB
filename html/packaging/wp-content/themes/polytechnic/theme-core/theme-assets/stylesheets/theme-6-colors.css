@@ -1,0 +1,56 @@
+@media only screen and (min-width: 1025px) {
+  #page #section-content #primary.eleven.full-content {
+    width: 70%;
+  }
+}
+
+a{color:#0992e5;}
+a:visited{color:#107acb;}
+a:hover,a:focus,a:active{color:#107acb;}
+
+#section-content .tribe-events-widget-link, 
+button, .button, input[type="button"], input[type="reset"], input[type="submit"] {
+    background: none repeat scroll 0 0 #fff;
+    border: 2px solid #ebebeb;
+    border-radius: 6px;
+    font-family: "Raleway","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif !important;
+    font-weight: 600 !important;
+    padding: 1rem 1.6rem;
+    transition: 0.2s all ease;
+}
+
+  button:hover, button:focus, .button:hover, .button:focus,
+  input[type="button"]:hover,
+  input[type="reset"]:hover,
+  input[type="submit"]:hover,
+  input[type="button"]:focus,
+  input[type="reset"]:focus,
+  input[type="submit"]:focus {
+    background-color: #107acb; }
+
+  button:hover, button:focus, .button:hover, .button:focus,
+  input[type="button"]:hover,
+  input[type="reset"]:hover,
+  input[type="submit"]:hover,
+  input[type="button"]:focus,
+  input[type="reset"]:focus,
+  input[type="submit"]:focus {
+    color: white; }
+
+#sf_results #sf_val ul li.sf_selected {
+    background-color: #107acb !important;
+    border-color: #107acb !important;
+    color: #FFFFFF !important;
+}
+
+/* CUSTOM CLASSES */
+.highlight-row {
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2) !important;
+  color: #fff;
+  padding: 35px;
+}
+#page .highlight-row h3, #page .highlight-row .wpb_text_column {
+  color: white;
+  margin: 0;
+}

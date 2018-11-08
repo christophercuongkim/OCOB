@@ -1,0 +1,63 @@
+/* DropDown Menu CSS */
+.pageIsMenu{
+    background: #d2d0ca !important;
+}
+.parentIsMenu{
+    background: #dbd8d2 !important;
+}
+.parentIsMenu:hover{
+    background-color: #c5bdab !important;
+}
+.sub-menu{
+	width: 110%;
+	margin-left: -10px;
+	background-color: #f9f6ef;
+	position: relative;
+}
+.sub-menu-item{
+	border-right: none;
+	/*border-top: solid;*/
+}
+.noRight{
+	border-right: none;
+}
+
+#navbar {
+   margin: 0;
+   padding: 0;
+   height: 1em; }
+#navbar li {
+   list-style: none;
+   float: left; }
+#navbar li a {
+   display: block;
+   text-decoration: none; }
+#navbar li ul {
+   display: none; 
+   width: auto;
+   margin-left: -10px;
+ }
+#navbar li ul li {
+   padding: 2px;
+   margin: 1px;
+   padding: 0 10px;
+   border:none;
+}
+#navbar li:hover ul li:hover{
+	background-color: #c5bdab;
+}
+#navbar li:hover ul, #navbar li.hover ul {
+   display: block;
+   position: absolute;
+}
+#navbar li:hover li, #navbar li.hover li {
+   float: none; }
+#navbar li:hover li a, #navbar li.hover li a {
+   /* border-bottom: 1px solid #fff; */}
+#cp ul li{
+	line-height: normal;
+}
+
+#cp li:hover ul{
+	border-top: 2px solid #beb594;
+}

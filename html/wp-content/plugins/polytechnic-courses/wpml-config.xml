@@ -1,0 +1,45 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">polytechnic_courses</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">polytechnic_courses_category</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">course_description</custom-field>
+        <custom-field action="translate">course_unique_id</custom-field>
+        <custom-field action="translate">course_number</custom-field>
+        <custom-field action="translate">course_name</custom-field>
+        <custom-field action="translate">course_time</custom-field>
+        <custom-field action="translate">course_days</custom-field>
+        <custom-field action="translate">course_room_number</custom-field>
+        <custom-field action="translate">course_location</custom-field>
+        <custom-field action="translate">course_prerequisites</custom-field>
+        <custom-field action="translate">course_components</custom-field>
+        <custom-field action="translate">course_credits</custom-field>
+        <custom-field action="translate">course_notes</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="polytechnic_course_meta_box">
+            <key name="course_description" />
+            <key name="course_unique_id" />
+            <key name="course_number" />
+            <key name="course_name" />
+            <key name="course_time" />
+            <key name="course_days" />
+            <key name="course_room_number" />
+            <key name="course_location" />
+            <key name="course_prerequisites" />
+            <key name="course_components" />
+            <key name="course_credits" />
+            <key name="course_notes" />
+        </key>
+        <key name="polytechnic_courses_category"/>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+

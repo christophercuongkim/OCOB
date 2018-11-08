@@ -1,0 +1,21 @@
+/*
+This file will be loaded in the page edit page when Visual Composer is activated.
+From here you can style your custom shortcode visual appearance in the backend editor.
+
+Lets add icon for our new shortocde. More information can be found here:
+http://kb.wpbakery.com/index.php?title=VC_Shortcode_Icon_Class
+*/
+
+/*
+Change icon in the "Add element" content elements list
+Note: path to the icon file should be relative to the css file where you place your css rules (this file)
+*/
+.wpb-layout-element-button[data-element=themesingleimage] .vc_element-icon {
+    background-image: url(assets/32x32_pb_poly_icon.png);
+}
+/*
+Change icon in the Visual Composer page schematic representation (backend).
+*/
+.wpb_themesingleimage[data-element_type="themesingleimage"] .vc_element-icon {
+	background-image: url(assets/32x32_pb_poly_icon.png);
+}

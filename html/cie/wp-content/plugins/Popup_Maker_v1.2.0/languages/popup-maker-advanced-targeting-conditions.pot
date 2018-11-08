@@ -1,0 +1,193 @@
+# Copyright (C) 2017 popup-maker-advanced-targeting-conditions
+# This file is distributed under the same license as the popup-maker-advanced-targeting-conditions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: popup-maker-advanced-targeting-conditions\n"
+"Report-Msgid-Bugs-To: https://wppopupmaker.com/support\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Language-Team: WP Popup Maker <support@wppopupmaker.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/Conditions.php:58
+msgid "Has Commented"
+msgstr ""
+
+#: classes/Conditions.php:332
+msgid "Google"
+msgstr ""
+
+#: classes/Conditions.php:332
+msgid "www.google.com"
+msgstr ""
+
+#: classes/Conditions.php:333
+msgid "Bing"
+msgstr ""
+
+#: classes/Conditions.php:333
+msgid "www.bing.com"
+msgstr ""
+
+#: classes/Conditions.php:334
+msgid "Yahoo"
+msgstr ""
+
+#: classes/Conditions.php:334
+msgid "search.yahoo.com"
+msgstr ""
+
+#: classes/Conditions.php:377
+msgid "Version Is"
+msgstr ""
+
+#: classes/Conditions.php:482
+msgid "iPhone"
+msgstr ""
+
+#: classes/Conditions.php:483
+msgid "BlackBerry"
+msgstr ""
+
+#: classes/Conditions.php:484
+msgid "HTC"
+msgstr ""
+
+#: classes/Conditions.php:485
+msgid "Nexus"
+msgstr ""
+
+#: classes/Conditions.php:486
+msgid "Motorola"
+msgstr ""
+
+#: classes/Conditions.php:487
+msgid "Dell"
+msgstr ""
+
+#: classes/Conditions.php:488
+msgid "Samsung"
+msgstr ""
+
+#: classes/Conditions.php:489
+msgid "LG"
+msgstr ""
+
+#: classes/Conditions.php:490
+msgid "Sony"
+msgstr ""
+
+#: classes/Conditions.php:491
+msgid "Asus"
+msgstr ""
+
+#: classes/Conditions.php:492
+msgid "Micromax"
+msgstr ""
+
+#: classes/Conditions.php:493
+msgid "Palm"
+msgstr ""
+
+#: classes/Conditions.php:494
+msgid "Vertu"
+msgstr ""
+
+#: classes/Conditions.php:495
+msgid "Pantech"
+msgstr ""
+
+#: classes/Conditions.php:496
+msgid "Fly"
+msgstr ""
+
+#: classes/Conditions.php:497
+msgid "iMobile"
+msgstr ""
+
+#: classes/Conditions.php:498
+msgid "SimValley"
+msgstr ""
+
+#: classes/Conditions.php:499
+msgid "Wolfgang"
+msgstr ""
+
+#: classes/Conditions.php:500
+msgid "Alcatel"
+msgstr ""
+
+#: classes/Conditions.php:501
+msgid "Nintendo"
+msgstr ""
+
+#: classes/Conditions.php:502
+msgid "Amoi"
+msgstr ""
+
+#: classes/Conditions.php:503
+msgid "INQ"
+msgstr ""
+
+#: classes/Conditions.php:504
+msgid "Generic"
+msgstr ""
+
+#: classes/Conditions.php:571
+msgid "iOS"
+msgstr ""
+
+#: classes/Conditions.php:572
+msgid "AndroidOS"
+msgstr ""
+
+#: classes/Conditions.php:573
+msgid "BlackBerryOS"
+msgstr ""
+
+#: classes/Conditions.php:574
+msgid "PalmOS"
+msgstr ""
+
+#: classes/Conditions.php:575
+msgid "SymbianOS"
+msgstr ""
+
+#: classes/Conditions.php:576
+msgid "WindowsMobileOS"
+msgstr ""
+
+#: classes/Conditions.php:577
+msgid "WindowsPhoneOS"
+msgstr ""
+
+#: classes/Conditions.php:578
+msgid "MeeGoOS"
+msgstr ""
+
+#: classes/Conditions.php:579
+msgid "MaemoOS"
+msgstr ""
+
+#: classes/Conditions.php:580
+msgid "JavaOS"
+msgstr ""
+
+#: classes/Conditions.php:581
+msgid "webOS"
+msgstr ""
+
+#: classes/Conditions.php:582
+msgid "badaOS"
+msgstr ""
+
+#: classes/Conditions.php:583
+msgid "BREWOS"
+msgstr ""

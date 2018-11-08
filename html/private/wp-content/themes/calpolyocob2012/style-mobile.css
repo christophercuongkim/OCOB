@@ -1,0 +1,242 @@
+@media only screen and (max-width: 480px) {
+	.carousel-control.right, 
+	.carousel-control.left {
+		top: 80px;
+	}
+	.carousel-control {
+		line-height: 30px;
+	}
+	#content img {
+		/*width: inherit;*/
+    	height:auto;
+	}
+}
+@media only screen and (max-width: 540px) {
+	#mainLeft {
+		width:95%;
+	}
+	a button {
+		/*width:100% !important;*/
+	}
+	#contentNav {
+		width:100%;
+		border-left:none;
+	}
+	#contentNavInner {
+		width:200px;
+		margin: 0 auto;
+		padding:0px;
+		text-align: center;
+	}
+	#contentNavInner img {
+		/*width:130px !important;*/
+		margin:auto;
+	}	
+	.carousel-control {
+		line-height: 30px;
+	}
+}
+
+#sidebar-dropdown {
+	display:none;
+}
+@media 
+only screen and (max-width: 760px) {
+	.post {
+		margin: 0 2% 0 2%;
+	}
+	.entry .responsive-full {
+		width:100%;
+	}
+	#mainLeftFull h4 {
+		margin-left: 2%;
+	}
+	#accessibilityNav {
+		display: none;
+	}
+	.attachment-post-thumbnail {
+		width:100%;
+	}
+	.carousel-inner img {
+		width: 100%;
+	}
+	.carousel-caption a {
+		color: white;
+	}
+	.carousel-control {
+		line-height: 30px;
+		vertical-align: top;
+		top: 80px;
+	}
+	#deptName {
+		width: initial;
+	}
+	#cp {
+		display:none;
+	}
+	#navicon, #mobile-nav, #mobile-main-nav {
+		display:block !important;
+		visibility: "visible";
+	}
+    #mobile-nav-overlay {
+    	display: block !important;
+    }
+	#sidebar-dropdown {
+		display: block;
+	}
+	/*#cp ul li {
+		list-style-position: inside;
+		border-right:none;
+		width:auto;
+		float:none;
+	}
+	#cp ul li#searchli {
+		display:none;
+	}
+	#cp {
+		height:100%;
+	}
+	#cp ul {
+		list-style-position: inside;
+		text-align: center;
+	}*/
+	h1, h2, h3 {
+		line-height: 1em;
+	}
+	#agnosia-bootstrap-carousel {
+		display: block;
+	}
+	#heroContainer {
+		display:none;	
+	}
+	.widget {
+		width:95%;
+	}
+	.widget li {
+		text-align:center;
+	}
+	.textwidget {
+        margin-left: auto;
+        margin-right: auto;
+        width: 180px;
+	}
+	.widget li img {
+		float:inherit;
+	}
+	#contentNavInner {
+		word-wrap: break-word;
+	}
+	#rightCol,
+	#breadcrumb {
+		display:none;
+	}
+	#content {
+		width:inherit;
+		/*padding: 0px 10px 0px 10px;*/
+		margin:0px;
+	}
+	#wrapper {
+		width:98%;
+		padding:0px;
+		margin:0 auto;
+		
+	}
+	#search {
+		display:none;
+	}
+	#headerContent {
+		width:100%;
+	}
+	#thecplogo {
+		position:absolute;
+		margin: 0px 0 0 -110px;
+  		left: 50%;
+		width:200px;
+		height:auto;
+	}
+	#cplogo {
+		display: none;
+	}
+	#deptName {
+		border:none;
+        margin-top:30px;
+	}
+	#deptName h2 a {
+		font-size: 30px; 
+	}
+	#utilityNav {
+		display:none;
+	}
+	#content img {
+		/*width:100%;*/
+    	height:auto;
+	}
+	#footer_deptinfo {
+		width:100%;
+	}
+	.widgets {
+		float:left;
+	}
+	#theWidgets {
+		width:100%;
+		
+	}
+	/*table th {
+		padding:0px;
+	}
+	table td {
+		padding: 0px;
+	}*/
+	table {
+		width: 100%;
+		/*overflow:scroll;*/
+	}
+	#table::-webkit-scrollbar {
+		display:none;
+	}
+	/*
+	#cpUl li, #cpUl .noMenu {
+		width:100%;
+		background: #29551a;
+		color:white;
+		border:solid;
+		border-width:thin;
+	}
+	#cpUl li a, #cpUl .noMenu a {
+		color:white;
+		font-weight:bold;
+	}
+	*/
+	.splitLeft {
+		width: 100%;
+	}
+	.splitRight {
+		width: 100%;
+	}
+	/*for forms*/
+	form {
+		width: 90%;
+	}
+	fieldset {
+		width: 90%;
+	}
+	.address {
+		width: 80%;
+	}
+	.g-recaptcha {
+		width: 300px;
+	}
+}
+
+ #mobile-nav {
+	 display:none; 
+/*	 position:absolute; */
+	 top:0px; 
+	 left:0px; 
+	 width:100%;
+ }
+
+/* style to try to fix header tag line cuting off - pfed */
+.h3 {
+	white-space:normal !important;
+}

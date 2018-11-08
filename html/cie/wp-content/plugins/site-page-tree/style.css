@@ -1,0 +1,22 @@
+.site-page-tree {
+	overflow:hidden;
+	margin-bottom:18px !important;
+	}
+
+#page_tree_show {
+	cursor:pointer;
+	color:#993333;
+	font-size:10px;
+	font-weight:normal;
+	}
+
+
+a.site-page-tree-link, a.site-page-tree-link:link {
+	color:#993333;
+	text-decoration:none;
+	border:none;
+	}
+
+a.site-page-tree-link:active  {color:#993333; text-decoration:underline;}
+a.site-page-tree-link:visited {color:#993333; text-decoration:none;}
+a.site-page-tree-link:hover   {color:#993333; text-decoration:underline;}

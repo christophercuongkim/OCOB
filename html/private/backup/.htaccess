@@ -1,0 +1,11 @@
+AuthName "OCOB Secure Area"
+AuthType Basic
+AuthUserFile /var/www/private/.htpasswd
+AuthGroupFile /dev/null
+
+<Limit GET>
+require valid-user
+Order Allow,Deny
+allow from index.atomz.com
+satisfy any
+</Limit>

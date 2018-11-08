@@ -1,0 +1,97 @@
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+	# Ban Hosts - Security > Settings > Banned Users
+	SetEnvIF REMOTE_ADDR "^139\.129\.40\.112$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^139\.129\.40\.112$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^139\.129\.40\.112$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^115\.159\.99\.54$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^115\.159\.99\.54$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^115\.159\.99\.54$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^121\.42\.50\.93$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^121\.42\.50\.93$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^121\.42\.50\.93$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^140\.143\.93\.167$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^140\.143\.93\.167$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^140\.143\.93\.167$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^119\.29\.82\.97$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^119\.29\.82\.97$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^119\.29\.82\.97$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^120\.76\.146\.29$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^120\.76\.146\.29$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^120\.76\.146\.29$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^115\.29\.32\.55$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^115\.29\.32\.55$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^115\.29\.32\.55$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^119\.27\.178\.206$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^119\.27\.178\.206$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^119\.27\.178\.206$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^121\.42\.205\.30$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^121\.42\.205\.30$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^121\.42\.205\.30$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^103\.21\.142\.12$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^103\.21\.142\.12$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^103\.21\.142\.12$" DenyAccess
+
+	<IfModule mod_authz_core.c>
+		<RequireAll>
+			Require all granted
+			Require not env DenyAccess
+			Require not ip 139.129.40.112
+			Require not ip 115.159.99.54
+			Require not ip 121.42.50.93
+			Require not ip 140.143.93.167
+			Require not ip 119.29.82.97
+			Require not ip 120.76.146.29
+			Require not ip 115.29.32.55
+			Require not ip 119.27.178.206
+			Require not ip 121.42.205.30
+			Require not ip 103.21.142.12
+		</RequireAll>
+	</IfModule>
+	<IfModule !mod_authz_core.c>
+		Order allow,deny
+		Allow from all
+		Deny from env=DenyAccess
+		Deny from 139.129.40.112
+		Deny from 115.159.99.54
+		Deny from 121.42.50.93
+		Deny from 140.143.93.167
+		Deny from 119.29.82.97
+		Deny from 120.76.146.29
+		Deny from 115.29.32.55
+		Deny from 119.27.178.206
+		Deny from 121.42.205.30
+		Deny from 103.21.142.12
+	</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+
+# add a trailing slash to /wp-admin
+RewriteRule ^([_0-9a-zA-Z-]+/)?wp-admin$ $1wp-admin/ [R=301,L]
+
+#RewriteCond %{REQUEST_URI} /poly-pack
+#RewriteCond %{REQUEST_URI} /poly-pack/(.*)
+#RewriteRule (.*) http://www.cob.calpoly.edu/$1 [R=301,L]
+
+#RewriteRule https://packaging.calpoly.edu/ https://www.cob.calpoly.edu/undergrad/industrial-technology/packaging-concentration/ [L]
+
+
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(wp-(content|admin|includes).*) $2 [L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ $2 [L]
+RewriteRule . index.php [L]

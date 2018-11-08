@@ -1,0 +1,1075 @@
+0000.000 (0) Opened log file at time: Sun, 18 Mar 2018 21:10:55 +0000 on https://cie.calpoly.edu
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 45.2M | 45.5M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.017 (0) Free space on disk containing Updraft's temporary directory: 64989.6 MB
+0000.026 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.033 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.078 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1521320843, seconds_ago=86612)
+0000.116 (0) Set semaphore last lock (fd) time to 2018-03-18 21:10:55
+0000.125 (0) Semaphore lock (fd) complete
+0000.150 (0) Backup run: resumption=0, nonce=bc4e3f5f0fb3, begun at=1521407455 (0s ago), job type=backup
+0000.167 (0) Scheduling a resumption (1) after 300 seconds (1521407755) in case this run gets aborted
+0000.194 (0) Checking if we have a zip executable available
+0000.200 (0) Testing: /usr/bin/zip
+0000.217 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.225 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.233 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.242 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.250 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.267 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.275 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.302 (0) Working binary zip found: /usr/bin/zip
+0000.325 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.334 (0) Creation of backups of directories: beginning
+0000.359 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.667 (0) Total entities for the zip file: 727 directories, 4383 files (0 skipped as non-modified), 71.4 MB
+0000.688 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.695 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.704 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.712 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.721 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.725 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17 MB, 4383 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.400 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: size is now: 5.10 MB
+0002.422 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 600 files added (on-disk size: 5221 KB)
+0002.430 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 700 files added (on-disk size: 5221 KB)
+0002.438 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 800 files added (on-disk size: 5221 KB)
+0002.446 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 900 files added (on-disk size: 5221 KB)
+0002.455 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1000 files added (on-disk size: 5221 KB)
+0002.459 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.7 MB, 4383 files batched, 501 (1002) added so far); re-opening (prior size: 5221 KB)
+0003.046 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1100 files added (on-disk size: 6162.2 KB)
+0003.055 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1200 files added (on-disk size: 6162.2 KB)
+0003.063 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1300 files added (on-disk size: 6162.2 KB)
+0003.071 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1400 files added (on-disk size: 6162.2 KB)
+0003.079 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1500 files added (on-disk size: 6162.2 KB)
+0003.084 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.5 MB, 4383 files batched, 501 (1503) added so far); re-opening (prior size: 6162.2 KB)
+0003.644 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: size is now: 7.50 MB
+0003.671 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1600 files added (on-disk size: 7726.1 KB)
+0003.680 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1700 files added (on-disk size: 7726.1 KB)
+0003.688 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1800 files added (on-disk size: 7726.1 KB)
+0003.696 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 1900 files added (on-disk size: 7726.1 KB)
+0003.704 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2000 files added (on-disk size: 7726.1 KB)
+0003.709 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.8 MB, 4383 files batched, 501 (2004) added so far); re-opening (prior size: 7726.1 KB)
+0004.622 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2100 files added (on-disk size: 9246.1 KB)
+0004.630 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2200 files added (on-disk size: 9246.1 KB)
+0004.638 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2300 files added (on-disk size: 9246.1 KB)
+0004.647 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2400 files added (on-disk size: 9246.1 KB)
+0004.655 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2500 files added (on-disk size: 9246.1 KB)
+0004.659 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.2 MB, 4383 files batched, 501 (2505) added so far); re-opening (prior size: 9246.1 KB)
+0006.211 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: size is now: 13.70 MB
+0006.238 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2600 files added (on-disk size: 14066.2 KB)
+0006.247 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2700 files added (on-disk size: 14066.2 KB)
+0006.255 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2800 files added (on-disk size: 14066.2 KB)
+0006.263 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 2900 files added (on-disk size: 14066.2 KB)
+0006.271 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3000 files added (on-disk size: 14066.2 KB)
+0006.276 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 4383 files batched, 501 (3006) added so far); re-opening (prior size: 14066.2 KB)
+0007.221 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3100 files added (on-disk size: 16034.9 KB)
+0007.229 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3200 files added (on-disk size: 16034.9 KB)
+0007.238 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3300 files added (on-disk size: 16034.9 KB)
+0007.246 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3400 files added (on-disk size: 16034.9 KB)
+0007.254 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3500 files added (on-disk size: 16034.9 KB)
+0007.259 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.3 MB, 4383 files batched, 501 (3507) added so far); re-opening (prior size: 16034.9 KB)
+0008.269 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: size is now: 20.90 MB
+0008.305 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3600 files added (on-disk size: 21442.9 KB)
+0008.314 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3700 files added (on-disk size: 21442.9 KB)
+0008.322 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3800 files added (on-disk size: 21442.9 KB)
+0008.330 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 3900 files added (on-disk size: 21442.9 KB)
+0008.338 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 4000 files added (on-disk size: 21442.9 KB)
+0008.343 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.6 MB, 4383 files batched, 501 (4008) added so far); re-opening (prior size: 21442.9 KB)
+0009.075 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 4100 files added (on-disk size: 23226.3 KB)
+0009.139 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 4200 files added (on-disk size: 23226.3 KB)
+0009.190 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip.tmp: 4300 files added (on-disk size: 23226.3 KB)
+0010.809 (0) Created plugins zip (0) - 25310.2 KB in 10.4 s (2429 KB/s) (sha1: efc3b6ff1e56bdef0d535614022dc6acf9e8e253, sha256: eccbcc4f74e29bc9c54bbee848444ee86a441df649ad67aa410c397088759d4d)
+0010.826 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.872 (0) Total entities for the zip file: 38 directories, 399 files (0 skipped as non-modified), 33.4 MB
+0010.881 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.885 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.2 MB, 399 files batched, 113 (113) added so far); re-opening (prior size: 0 KB)
+0012.389 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip.tmp: size is now: 18.00 MB
+0012.417 (0) A useful amount of data was added after this amount of zip processing: 1.9 s (normalised: 1.9 s, rate: 13412.1 KB/s)
+0012.434 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9269111156464, normalised_time=1.9087246995674, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=82403921)
+0012.453 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip.tmp: 200 files added (on-disk size: 18409.8 KB)
+0012.470 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip.tmp: 300 files added (on-disk size: 18409.8 KB)
+0013.146 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip.tmp: size is now: 24.70 MB
+0013.559 (0) Created themes zip (0) - 25248.1 KB in 2.7 s (9267 KB/s) (sha1: eed3e807523d40c4f9922a1d973cdbf793063804, sha256: 9a891358f05420274cf47f15e6fee6760fb647d2e70ff42c6cbc5a03666d7097)
+0013.576 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.584 (0) Looking for candidates to back up in: /var/www/www.cob.calpoly.edu/html/cie/wp-content/uploads
+0013.593 (0) finding files: ithemes-security: adding to list (1)
+0013.601 (0) finding files: 2017: adding to list (2)
+0013.609 (0) finding files: 2018: adding to list (3)
+0013.618 (0) finding files: 2016: adding to list (4)
+0013.626 (0) finding files: 2015: adding to list (5)
+0013.634 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0013.715 (0) Total entities for the zip file: 30 directories, 2181 files (0 skipped as non-modified), 288.4 MB
+0013.721 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0013.729 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0013.737 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0013.745 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0013.754 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0013.759 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (76.5 MB, 2181 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0017.164 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: size is now: 76.70 MB
+0017.205 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 600 files added (on-disk size: 78489.7 KB)
+0017.214 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 700 files added (on-disk size: 78489.7 KB)
+0017.222 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 800 files added (on-disk size: 78489.7 KB)
+0017.230 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 900 files added (on-disk size: 78489.7 KB)
+0017.239 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1000 files added (on-disk size: 78489.7 KB)
+0017.243 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (69.4 MB, 2181 files batched, 501 (1002) added so far); re-opening (prior size: 78489.7 KB)
+0020.554 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: size is now: 146.20 MB
+0020.588 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1100 files added (on-disk size: 149682.5 KB)
+0020.596 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1200 files added (on-disk size: 149682.5 KB)
+0020.605 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1300 files added (on-disk size: 149682.5 KB)
+0020.613 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1400 files added (on-disk size: 149682.5 KB)
+0020.630 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1500 files added (on-disk size: 149682.5 KB)
+0020.634 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (32.3 MB, 2181 files batched, 501 (1503) added so far); re-opening (prior size: 149682.5 KB)
+0023.549 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: size is now: 178.50 MB
+0023.580 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1600 files added (on-disk size: 182826.9 KB)
+0023.588 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1700 files added (on-disk size: 182826.9 KB)
+0023.597 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1800 files added (on-disk size: 182826.9 KB)
+0023.605 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 1900 files added (on-disk size: 182826.9 KB)
+0023.613 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 2000 files added (on-disk size: 182826.9 KB)
+0023.618 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (46.9 MB, 2181 files batched, 501 (2004) added so far); re-opening (prior size: 182826.9 KB)
+0026.892 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: size is now: 225.60 MB
+0026.921 (0) Zip: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: 2100 files added (on-disk size: 230980 KB)
+0028.802 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip.tmp: size is now: 288.80 MB
+0032.959 (0) Created uploads zip (0) - 295731.7 KB in 19.3 s (15310.2 KB/s) (sha1: c7e636f61015ea41d3b68bb990fb66a50c8113e4, sha256: 4ebf170685e1061e707708180228604fab667616b0c80a3544d312a37afd5201)
+0032.976 (0) Beginning backup of other directories found in the content directory (index: 0)
+0032.984 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0032.993 (0) Looking for candidates to back up in: /var/www/www.cob.calpoly.edu/html/cie/wp-content
+0033.001 (0) finding files: uploads: skipping: this is the uploads directory
+0033.009 (0) finding files: updraft: skipping: this is the updraft directory
+0033.018 (0) finding files: plugins: skipping: this is the plugins directory
+0033.026 (0) finding files: upgrade: skipping: excluded by options
+0033.034 (0) finding files: index.php: adding to list (1)
+0033.043 (0) finding files: themes: skipping: this is the themes directory
+0033.060 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0033.081 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip.tmp: size is now: 0.00 MB
+0033.110 (0) Created others zip (0) - 0.2 KB in 0.1 s (3.3 KB/s) (sha1: e780b6fe30f6064b6144d51b4435f9de30e6b691, sha256: 1214a6f6abbb5a096849296cc34f5887bb6dfea53fea8e036786cc6ae7a376cd)
+0033.143 (0) Saving backup status to database (elements: 8)
+0033.169 (0) Beginning creation of database dump (WordPress DB)
+0033.185 (0) Testing: /usr/bin/mysqldump
+0033.212 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1193 bytes total)
+0033.219 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0033.326 (0) Table wp_options: Total expected rows (approximate): 1249
+0033.368 (0) Table wp_options: Total rows added: 633 in 0.03 seconds
+0033.377 (0) Table wp_options: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_options.table.gz - 50.5 KB)
+0033.403 (0) Table wp_users: Total expected rows (approximate): 6
+0033.421 (0) Table wp_users: Total rows added: 6 in 0.00 seconds
+0033.427 (0) Table wp_users: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_users.table.gz - 0.9 KB)
+0033.453 (0) Table wp_usermeta: Total expected rows (approximate): 143
+0033.465 (0) Table wp_usermeta: Total rows added: 143 in 0.00 seconds
+0033.469 (0) Table wp_usermeta: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_usermeta.table.gz - 3.4 KB)
+0033.509 (0) Table wp_commentmeta: Total expected rows (approximate): 241
+0033.527 (0) Table wp_commentmeta: Total rows added: 291 in 0.01 seconds
+0033.536 (0) Table wp_commentmeta: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_commentmeta.table.gz - 4.5 KB)
+0033.587 (0) Table wp_comments: Total expected rows (approximate): 516
+0033.700 (0) Table wp_comments: Total rows added: 370 in 0.10 seconds
+0033.720 (0) Table wp_comments: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_comments.table.gz - 142.4 KB)
+0033.745 (0) Table wp_links: Total expected rows (approximate): 0
+0033.754 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0033.761 (0) Table wp_links: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_links.table.gz - 0.4 KB)
+0033.800 (0) Table wp_postmeta: Total expected rows (approximate): 4138
+0033.906 (0) Table wp_postmeta: Total rows added: 4052 in 0.10 seconds
+0033.911 (0) Table wp_postmeta: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_postmeta.table.gz - 71.9 KB)
+0033.947 (0) Table wp_posts: Total expected rows (approximate): 566
+0034.135 (0) Table wp_posts: Total rows added: 995 in 0.18 seconds
+0034.187 (0) Table wp_posts: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_posts.table.gz - 338.3 KB)
+0034.395 (0) Table wp_term_relationships: Total expected rows (approximate): 277
+0034.408 (0) Table wp_term_relationships: Total rows added: 277 in 0.01 seconds
+0034.411 (0) Table wp_term_relationships: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_term_relationships.table.gz - 1.1 KB)
+0034.437 (0) Table wp_term_taxonomy: Total expected rows (approximate): 80
+0034.448 (0) Table wp_term_taxonomy: Total rows added: 80 in 0.00 seconds
+0034.453 (0) Table wp_term_taxonomy: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_term_taxonomy.table.gz - 0.9 KB)
+0034.478 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0034.488 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0034.503 (0) Table wp_termmeta: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_termmeta.table.gz - 0.4 KB)
+0034.528 (0) Table wp_terms: Total expected rows (approximate): 80
+0034.539 (0) Table wp_terms: Total rows added: 80 in 0.00 seconds
+0034.545 (0) Table wp_terms: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_terms.table.gz - 1.5 KB)
+0034.570 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0034.580 (0) Table wp_itsec_lockouts: Total rows added: 0 in 0.00 seconds
+0034.586 (0) Table wp_itsec_lockouts: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_lockouts.table.gz - 0.4 KB)
+0034.619 (0) Table wp_itsec_log: Total expected rows (approximate): 43
+0034.633 (0) Table wp_itsec_log: Total rows added: 43 in 0.00 seconds
+0034.637 (0) Table wp_itsec_log: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_log.table.gz - 1.7 KB)
+0034.668 (0) Table wp_itsec_logs: Total expected rows (approximate): 31
+0034.685 (0) Table wp_itsec_logs: Total rows added: 28 in 0.01 seconds
+0034.695 (0) Table wp_itsec_logs: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_logs.table.gz - 7 KB)
+0034.720 (0) Table wp_itsec_temp: Total expected rows (approximate): 2
+0034.730 (0) Table wp_itsec_temp: Total rows added: 2 in 0.00 seconds
+0034.737 (0) Table wp_itsec_temp: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_temp.table.gz - 0.5 KB)
+0034.793 (0) Table wp_redirection_404: Total expected rows (approximate): 0
+0034.805 (0) Table wp_redirection_404: Total rows added: 0 in 0.00 seconds
+0034.812 (0) Table wp_redirection_404: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_404.table.gz - 0.4 KB)
+0034.838 (0) Table wp_redirection_groups: Total expected rows (approximate): 2
+0034.847 (0) Table wp_redirection_groups: Total rows added: 2 in 0.00 seconds
+0034.854 (0) Table wp_redirection_groups: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_groups.table.gz - 0.4 KB)
+0034.890 (0) Table wp_redirection_items: Total expected rows (approximate): 1
+0034.897 (0) Table wp_redirection_items: Total rows added: 1 in 0.00 seconds
+0034.904 (0) Table wp_redirection_items: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_items.table.gz - 0.7 KB)
+0034.938 (0) Table wp_redirection_logs: Total expected rows (approximate): 2
+0034.947 (0) Table wp_redirection_logs: Total rows added: 2 in 0.00 seconds
+0034.954 (0) Table wp_redirection_logs: finishing file (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_logs.table.gz - 0.7 KB)
+0034.979 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_options.table.gz (1/20): adding to final database dump
+0035.004 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_users.table.gz (2/20): adding to final database dump
+0035.012 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_usermeta.table.gz (3/20): adding to final database dump
+0035.022 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_commentmeta.table.gz (4/20): adding to final database dump
+0035.032 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_comments.table.gz (5/20): adding to final database dump
+0035.073 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_links.table.gz (6/20): adding to final database dump
+0035.079 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_postmeta.table.gz (7/20): adding to final database dump
+0035.125 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_posts.table.gz (8/20): adding to final database dump
+0035.202 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_term_relationships.table.gz (9/20): adding to final database dump
+0035.213 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_term_taxonomy.table.gz (10/20): adding to final database dump
+0035.221 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_termmeta.table.gz (11/20): adding to final database dump
+0035.229 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_terms.table.gz (12/20): adding to final database dump
+0035.238 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_lockouts.table.gz (13/20): adding to final database dump
+0035.246 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_log.table.gz (14/20): adding to final database dump
+0035.254 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_logs.table.gz (15/20): adding to final database dump
+0035.264 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_itsec_temp.table.gz (16/20): adding to final database dump
+0035.271 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_404.table.gz (17/20): adding to final database dump
+0035.279 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_groups.table.gz (18/20): adding to final database dump
+0035.287 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_items.table.gz (19/20): adding to final database dump
+0035.296 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db-table-wp_redirection_logs.table.gz (20/20): adding to final database dump
+0035.304 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz: finished writing out complete database file (616 KB)
+0035.346 (0) Total database tables backed up: 20 (backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz, size: 639950, sha256)
+0035.398 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0035.406 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0035.414 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0035.423 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0035.431 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0035.439 (0) Saving backup history. Total backup size: 338.8 MB
+0035.465 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0035.490 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0035.507 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d9ffb9a098a4cd7562c60c2cc42cd0e9)
+0038.420 (0) Google Drive quota usage: used=11094.8 MB, total=10496854.8 MB, available=10485760 MB
+0038.473 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0039.232 (0) Googledrive chunked upload: 4 % uploaded (1048576)
+0039.582 (0) Googledrive chunked upload: 8.1 % uploaded (2097152)
+0039.957 (0) Googledrive chunked upload: 12.1 % uploaded (3145728)
+0040.297 (0) Googledrive chunked upload: 16.2 % uploaded (4194304)
+0040.722 (0) Googledrive chunked upload: 20.2 % uploaded (5242880)
+0041.081 (0) Googledrive chunked upload: 24.3 % uploaded (6291456)
+0041.423 (0) Googledrive chunked upload: 28.3 % uploaded (7340032)
+0041.781 (0) Googledrive chunked upload: 32.4 % uploaded (8388608)
+0042.165 (0) Googledrive chunked upload: 36.4 % uploaded (9437184)
+0042.756 (0) Googledrive chunked upload: 40.5 % uploaded (10485760)
+0043.123 (0) Googledrive chunked upload: 44.5 % uploaded (11534336)
+0043.440 (0) Googledrive chunked upload: 48.5 % uploaded (12582912)
+0043.832 (0) Googledrive chunked upload: 52.6 % uploaded (13631488)
+0044.449 (0) Googledrive chunked upload: 56.6 % uploaded (14680064)
+0044.982 (0) Googledrive chunked upload: 60.7 % uploaded (15728640)
+0045.391 (0) Googledrive chunked upload: 64.7 % uploaded (16777216)
+0045.791 (0) Googledrive chunked upload: 68.8 % uploaded (17825792)
+0046.183 (0) Googledrive chunked upload: 72.8 % uploaded (18874368)
+0046.591 (0) Googledrive chunked upload: 76.9 % uploaded (19922944)
+0046.908 (0) Googledrive chunked upload: 80.9 % uploaded (20971520)
+0047.268 (0) Googledrive chunked upload: 85 % uploaded (22020096)
+0047.626 (0) Googledrive chunked upload: 89 % uploaded (23068672)
+0047.976 (0) Googledrive chunked upload: 93.1 % uploaded (24117248)
+0048.351 (0) Googledrive chunked upload: 97.1 % uploaded (25165824)
+0049.643 (0) Googledrive chunked upload: 100 % uploaded (25165824)
+0049.668 (0) OK: Archive backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip uploaded to Google Drive in 11.19 seconds
+0049.685 (0) Recording as successfully uploaded: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip (bda22ca042d4f547e1339adba23f50fc)
+0049.725 (0) Deleting local file: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip: OK
+0049.980 (0) Google Drive quota usage: used=11119.5 MB, total=10496879.5 MB, available=10485760 MB
+0049.985 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0050.719 (0) Googledrive chunked upload: 4.1 % uploaded (1048576)
+0051.077 (0) Googledrive chunked upload: 8.1 % uploaded (2097152)
+0051.427 (0) Googledrive chunked upload: 12.2 % uploaded (3145728)
+0051.752 (0) Googledrive chunked upload: 16.2 % uploaded (4194304)
+0111.773 (0) ERROR: Google Drive upload error: Operation timed out after 60001 milliseconds with 0 out of -1 bytes received (line: 117, file: /var/www/www.cob.calpoly.edu/html/cie/wp-content/plugins/updraftplus/includes/Google/IO/Curl.php)
+0111.801 (0) An error condition has occurred for the first time during this job
+0120.603 (0) Google Drive quota usage: used=11119.5 MB, total=10496879.5 MB, available=10485760 MB
+0120.618 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0121.302 (0) Googledrive chunked upload: 0.3 % uploaded (1048576)
+0121.682 (0) Googledrive chunked upload: 0.7 % uploaded (2097152)
+0122.119 (0) Googledrive chunked upload: 1 % uploaded (3145728)
+0122.599 (0) Googledrive chunked upload: 1.4 % uploaded (4194304)
+0122.889 (0) Googledrive chunked upload: 1.7 % uploaded (5242880)
+0123.332 (0) Googledrive chunked upload: 2.1 % uploaded (6291456)
+0123.703 (0) Googledrive chunked upload: 2.4 % uploaded (7340032)
+0124.120 (0) Googledrive chunked upload: 2.8 % uploaded (8388608)
+0124.516 (0) Googledrive chunked upload: 3.1 % uploaded (9437184)
+0124.987 (0) Googledrive chunked upload: 3.5 % uploaded (10485760)
+0125.301 (0) Googledrive chunked upload: 3.8 % uploaded (11534336)
+0125.711 (0) Googledrive chunked upload: 4.2 % uploaded (12582912)
+0126.079 (0) Googledrive chunked upload: 4.5 % uploaded (13631488)
+0126.433 (0) Googledrive chunked upload: 4.8 % uploaded (14680064)
+0126.851 (0) Googledrive chunked upload: 5.2 % uploaded (15728640)
+0127.267 (0) Googledrive chunked upload: 5.5 % uploaded (16777216)
+0127.634 (0) Googledrive chunked upload: 5.9 % uploaded (17825792)
+0128.009 (0) Googledrive chunked upload: 6.2 % uploaded (18874368)
+0128.376 (0) Googledrive chunked upload: 6.6 % uploaded (19922944)
+0128.792 (0) Googledrive chunked upload: 6.9 % uploaded (20971520)
+0129.144 (0) Googledrive chunked upload: 7.3 % uploaded (22020096)
+0129.521 (0) Googledrive chunked upload: 7.6 % uploaded (23068672)
+0185.600 (0) ERROR: Google Drive upload error: Resolving timed out after 15524 milliseconds (line: 117, file: /var/www/www.cob.calpoly.edu/html/cie/wp-content/plugins/updraftplus/includes/Google/IO/Curl.php)
+0186.097 (0) Google Drive quota usage: used=11119.5 MB, total=10496879.5 MB, available=10485760 MB
+0186.179 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0187.279 (0) Googledrive chunked upload: 100 % uploaded
+0187.304 (0) OK: Archive backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip uploaded to Google Drive in 0.96 seconds
+0187.321 (0) Recording as successfully uploaded: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip (42e1ccd3410c334682fcae3725373ea6)
+0187.346 (0) Deleting local file: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip: OK
+0187.593 (0) Google Drive quota usage: used=11119.5 MB, total=10496879.5 MB, available=10485760 MB
+0187.604 (0) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0188.746 (0) Googledrive chunked upload: 100 % uploaded
+0188.780 (0) OK: Archive backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz uploaded to Google Drive in 1.17 seconds
+0188.796 (0) Recording as successfully uploaded: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz (a44739d214e2d93cc3da34fd80cea3b7)
+0188.821 (0) Deleting local file: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz: OK
+0188.838 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=30, retain_db=30
+0188.848 (0) Number of backup sets in history: 31; groups (db): 1
+0188.855 (0) Examining (for databases) backup set with group_id=0, nonce=bc4e3f5f0fb3, datestamp=1521407455 (Mar 18 2018 21:10:55)
+0188.863 (0) This backup set is the backup set just made, so will not be deleted.
+0188.863 (0) Examining (for databases) backup set with group_id=0, nonce=f523cbecb32d, datestamp=1521320843 (Mar 17 2018 21:07:23)
+0188.863 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.871 (0) Examining (for databases) backup set with group_id=0, nonce=409acd0ce7f0, datestamp=1521234589 (Mar 16 2018 21:09:49)
+0188.871 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.872 (0) Examining (for databases) backup set with group_id=0, nonce=754eb4710af9, datestamp=1521148212 (Mar 15 2018 21:10:12)
+0188.872 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.872 (0) Examining (for databases) backup set with group_id=0, nonce=d73e923b9dad, datestamp=1521061635 (Mar 14 2018 21:07:15)
+0188.872 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.872 (0) Examining (for databases) backup set with group_id=0, nonce=b67febe034f1, datestamp=1520975268 (Mar 13 2018 21:07:48)
+0188.872 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.872 (0) Examining (for databases) backup set with group_id=0, nonce=84a1957fb061, datestamp=1520888850 (Mar 12 2018 21:07:30)
+0188.872 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.873 (0) Examining (for databases) backup set with group_id=0, nonce=6ff407abd1dd, datestamp=1520802586 (Mar 11 2018 21:09:46)
+0188.873 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.873 (0) Examining (for databases) backup set with group_id=0, nonce=f89c2fb3191d, datestamp=1520716106 (Mar 10 2018 21:08:26)
+0188.873 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.873 (0) Examining (for databases) backup set with group_id=0, nonce=b2cdbdb3bff1, datestamp=1520629758 (Mar 09 2018 21:09:18)
+0188.873 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.873 (0) Examining (for databases) backup set with group_id=0, nonce=5fdbeae43a6f, datestamp=1520543258 (Mar 08 2018 21:07:38)
+0188.873 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.873 (0) Examining (for databases) backup set with group_id=0, nonce=2bfbeb13d9f7, datestamp=1520456917 (Mar 07 2018 21:08:37)
+0188.874 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.874 (0) Examining (for databases) backup set with group_id=0, nonce=764bac86af5a, datestamp=1520370662 (Mar 06 2018 21:11:02)
+0188.874 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.874 (0) Examining (for databases) backup set with group_id=0, nonce=d3583a37c1b2, datestamp=1520284032 (Mar 05 2018 21:07:12)
+0188.874 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.874 (0) Examining (for databases) backup set with group_id=0, nonce=4ddb2bbc9410, datestamp=1520197733 (Mar 04 2018 21:08:53)
+0188.874 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.874 (0) Examining (for databases) backup set with group_id=0, nonce=6addf3927cbc, datestamp=1520111278 (Mar 03 2018 21:07:58)
+0188.874 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.875 (0) Examining (for databases) backup set with group_id=0, nonce=ddc2bc0aa2a5, datestamp=1520024883 (Mar 02 2018 21:08:03)
+0188.875 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.875 (0) Examining (for databases) backup set with group_id=0, nonce=9d87c14b385c, datestamp=1519938485 (Mar 01 2018 21:08:05)
+0188.875 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.875 (0) Examining (for databases) backup set with group_id=0, nonce=5eda27da5c9e, datestamp=1519852098 (Feb 28 2018 21:08:18)
+0188.875 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.875 (0) Examining (for databases) backup set with group_id=0, nonce=906ae53584d0, datestamp=1519765737 (Feb 27 2018 21:08:57)
+0188.875 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.876 (0) Examining (for databases) backup set with group_id=0, nonce=482ca6115d36, datestamp=1519679280 (Feb 26 2018 21:08:00)
+0188.876 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.876 (0) Examining (for databases) backup set with group_id=0, nonce=96d503eff12f, datestamp=1519592879 (Feb 25 2018 21:07:59)
+0188.876 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.876 (0) Examining (for databases) backup set with group_id=0, nonce=55511a27ef82, datestamp=1519506635 (Feb 24 2018 21:10:35)
+0188.876 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.876 (0) Examining (for databases) backup set with group_id=0, nonce=271168e5cf23, datestamp=1519420048 (Feb 23 2018 21:07:28)
+0188.876 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.876 (0) Examining (for databases) backup set with group_id=0, nonce=efe1ac4f0518, datestamp=1519333637 (Feb 22 2018 21:07:17)
+0188.876 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.877 (0) Examining (for databases) backup set with group_id=0, nonce=4978ec79a124, datestamp=1519247252 (Feb 21 2018 21:07:32)
+0188.877 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.877 (0) Examining (for databases) backup set with group_id=0, nonce=028e9dde4e11, datestamp=1519160858 (Feb 20 2018 21:07:38)
+0188.877 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.877 (0) Examining (for databases) backup set with group_id=0, nonce=f657069a388f, datestamp=1519074515 (Feb 19 2018 21:08:35)
+0188.877 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.877 (0) Examining (for databases) backup set with group_id=0, nonce=873af98a09c9, datestamp=1518988073 (Feb 18 2018 21:07:53)
+0188.877 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.878 (0) Examining (for databases) backup set with group_id=0, nonce=e147195ea7e9, datestamp=1518901640 (Feb 17 2018 21:07:20)
+0188.878 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.878 (0) Examining (for databases) backup set with group_id=0, nonce=2898de0b79a2, datestamp=1518815399 (Feb 16 2018 21:09:59)
+0188.878 (0) 1518815399: db: this set includes a database (backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-db.gz); db count is now 30
+0188.878 (0) 1518815399: db: over retain limit (30); will delete this database
+0188.878 (0) Delete file: backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-db.gz, service=googledrive
+0190.144 (0) backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-db.gz: Deletion successful
+0190.238 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0190.246 (0) Number of backup sets in history: 31; groups (files): 1
+0190.255 (0) Examining (for files) backup set with nonce=bc4e3f5f0fb3, datestamp=1521407455 (Mar 18 2018 21:10:55)
+0190.255 (0) This backup set is the backup set just made, so will not be deleted.
+0190.263 (0) This backup set is the backup set just made, so will not be deleted.
+0190.263 (0) This backup set is the backup set just made, so will not be deleted.
+0190.263 (0) This backup set is the backup set just made, so will not be deleted.
+0190.264 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.271 (0) Examining (for files) backup set with nonce=f523cbecb32d, datestamp=1521320843 (Mar 17 2018 21:07:23)
+0190.271 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.272 (0) Examining (for files) backup set with nonce=409acd0ce7f0, datestamp=1521234589 (Mar 16 2018 21:09:49)
+0190.272 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.272 (0) Examining (for files) backup set with nonce=754eb4710af9, datestamp=1521148212 (Mar 15 2018 21:10:12)
+0190.272 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.272 (0) Examining (for files) backup set with nonce=d73e923b9dad, datestamp=1521061635 (Mar 14 2018 21:07:15)
+0190.272 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.272 (0) Examining (for files) backup set with nonce=b67febe034f1, datestamp=1520975268 (Mar 13 2018 21:07:48)
+0190.272 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.273 (0) Examining (for files) backup set with nonce=84a1957fb061, datestamp=1520888850 (Mar 12 2018 21:07:30)
+0190.273 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.273 (0) Examining (for files) backup set with nonce=6ff407abd1dd, datestamp=1520802586 (Mar 11 2018 21:09:46)
+0190.273 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.273 (0) Examining (for files) backup set with nonce=f89c2fb3191d, datestamp=1520716106 (Mar 10 2018 21:08:26)
+0190.273 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.273 (0) Examining (for files) backup set with nonce=b2cdbdb3bff1, datestamp=1520629758 (Mar 09 2018 21:09:18)
+0190.273 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.273 (0) Examining (for files) backup set with nonce=5fdbeae43a6f, datestamp=1520543258 (Mar 08 2018 21:07:38)
+0190.273 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.274 (0) Examining (for files) backup set with nonce=2bfbeb13d9f7, datestamp=1520456917 (Mar 07 2018 21:08:37)
+0190.274 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.274 (0) Examining (for files) backup set with nonce=764bac86af5a, datestamp=1520370662 (Mar 06 2018 21:11:02)
+0190.274 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.274 (0) Examining (for files) backup set with nonce=d3583a37c1b2, datestamp=1520284032 (Mar 05 2018 21:07:12)
+0190.274 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.274 (0) Examining (for files) backup set with nonce=4ddb2bbc9410, datestamp=1520197733 (Mar 04 2018 21:08:53)
+0190.274 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.274 (0) Examining (for files) backup set with nonce=6addf3927cbc, datestamp=1520111278 (Mar 03 2018 21:07:58)
+0190.274 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.275 (0) Examining (for files) backup set with nonce=ddc2bc0aa2a5, datestamp=1520024883 (Mar 02 2018 21:08:03)
+0190.275 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.275 (0) Examining (for files) backup set with nonce=9d87c14b385c, datestamp=1519938485 (Mar 01 2018 21:08:05)
+0190.275 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.275 (0) Examining (for files) backup set with nonce=5eda27da5c9e, datestamp=1519852098 (Feb 28 2018 21:08:18)
+0190.275 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.275 (0) Examining (for files) backup set with nonce=906ae53584d0, datestamp=1519765737 (Feb 27 2018 21:08:57)
+0190.275 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.276 (0) Examining (for files) backup set with nonce=482ca6115d36, datestamp=1519679280 (Feb 26 2018 21:08:00)
+0190.276 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.276 (0) Examining (for files) backup set with nonce=96d503eff12f, datestamp=1519592879 (Feb 25 2018 21:07:59)
+0190.276 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.276 (0) Examining (for files) backup set with nonce=55511a27ef82, datestamp=1519506635 (Feb 24 2018 21:10:35)
+0190.276 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.276 (0) Examining (for files) backup set with nonce=271168e5cf23, datestamp=1519420048 (Feb 23 2018 21:07:28)
+0190.276 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.276 (0) Examining (for files) backup set with nonce=efe1ac4f0518, datestamp=1519333637 (Feb 22 2018 21:07:17)
+0190.276 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.277 (0) Examining (for files) backup set with nonce=4978ec79a124, datestamp=1519247252 (Feb 21 2018 21:07:32)
+0190.277 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.277 (0) Examining (for files) backup set with nonce=028e9dde4e11, datestamp=1519160858 (Feb 20 2018 21:07:38)
+0190.277 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.277 (0) Examining (for files) backup set with nonce=f657069a388f, datestamp=1519074515 (Feb 19 2018 21:08:35)
+0190.277 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.277 (0) Examining (for files) backup set with nonce=873af98a09c9, datestamp=1518988073 (Feb 18 2018 21:07:53)
+0190.277 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.277 (0) Examining (for files) backup set with nonce=e147195ea7e9, datestamp=1518901640 (Feb 17 2018 21:07:20)
+0190.277 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0190.278 (0) Examining (for files) backup set with nonce=2898de0b79a2, datestamp=1518815399 (Feb 16 2018 21:09:59)
+0190.278 (0) plugins: over retain limit (30); will delete this file entity
+0190.278 (0) themes: over retain limit (30); will delete this file entity
+0190.278 (0) uploads: over retain limit (30); will delete this file entity
+0190.278 (0) others: over retain limit (30); will delete this file entity
+0190.278 (0) Delete file: backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-plugins.zip, service=googledrive
+0190.288 (0) Delete file: backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-themes.zip, service=googledrive
+0190.296 (0) Delete file: backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-uploads.zip, service=googledrive
+0190.305 (0) Delete file: backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-others.zip, service=googledrive
+0191.320 (0) backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-others.zip: Deletion successful
+0191.930 (0) backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-uploads.zip: Deletion successful
+0192.612 (0) backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-themes.zip: Deletion successful
+0246.473 (0) backup_2018-02-16-1309_Cal_Poly_Center_For_Innovation_a_2898de0b79a2-plugins.zip: Deletion successful
+0246.600 (0) This backup set is now empty; will remove from history
+0246.634 (0) Deleting log file (log.2898de0b79a2.txt)
+0246.738 (0) Retain: saving new backup history (sets now: 30) and finishing retain operation
+0246.822 (0) Resume backup (bc4e3f5f0fb3, 0): finish run
+0246.859 (0) Decremented the semaphore (fd) by 1
+0246.882 (0) Semaphore (fd) unlocked
+0246.889 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0246.933 (0) Rescheduling resumption 1: moving to 120 seconds from now (1521407822)
+0246.947 (0) The backup has not finished; a resumption is scheduled
+0368.557 (1) Opened log file at time: Sun, 18 Mar 2018 21:17:04 +0000 on https://cie.calpoly.edu
+0368.582 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 45.3M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0368.603 (1) Free space on disk containing Updraft's temporary directory: 61998 MB
+0368.644 (1) Backup run: resumption=1, nonce=bc4e3f5f0fb3, begun at=1521407455 (369s ago), job type=backup, previous check-in=246.6s
+0368.667 (1) Scheduling a resumption (2) after 300 seconds (1521408124) in case this run gets aborted
+0368.721 (1) Checking if we have a zip executable available
+0368.745 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0368.766 (1) Creation of backups of directories: already finished
+0368.773 (1) Saving backup status to database (elements: 8)
+0368.835 (1) Database dump (WordPress DB): Creation was completed already
+0368.889 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip: plugins: This file has already been successfully uploaded
+0368.912 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0368.946 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0368.950 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip: others: This file has already been successfully uploaded
+0368.971 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz: db: This file has already been successfully uploaded
+0368.989 (1) Saving backup history. Total backup size: Unknown
+0369.048 (1) Requesting upload of the files that have not yet been successfully uploaded (2)
+0369.098 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0369.118 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d9ffb9a098a4cd7562c60c2cc42cd0e9)
+0369.907 (1) Google Drive quota usage: used=10792.5 MB, total=10496552.5 MB, available=10485760 MB
+0370.103 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0370.304 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: upload already began; attempting to resume from byte 5242879
+0371.018 (1) Googledrive chunked upload: 24.3 % uploaded (6291456)
+0371.574 (1) Googledrive chunked upload: 28.4 % uploaded (7340032)
+0371.950 (1) Googledrive chunked upload: 32.4 % uploaded (8388608)
+0372.909 (1) Googledrive chunked upload: 36.5 % uploaded (9437184)
+0373.698 (1) Googledrive chunked upload: 40.6 % uploaded (10485760)
+0374.465 (1) Googledrive chunked upload: 44.6 % uploaded (11534336)
+0375.326 (1) Googledrive chunked upload: 48.7 % uploaded (12582912)
+0376.687 (1) Googledrive chunked upload: 52.7 % uploaded (13631488)
+0377.286 (1) Googledrive chunked upload: 56.8 % uploaded (14680064)
+0377.765 (1) Googledrive chunked upload: 60.8 % uploaded (15728640)
+0378.409 (1) Googledrive chunked upload: 64.9 % uploaded (16777216)
+0379.663 (1) Googledrive chunked upload: 68.9 % uploaded (17825792)
+0380.145 (1) Googledrive chunked upload: 73 % uploaded (18874368)
+0380.503 (1) Googledrive chunked upload: 77.1 % uploaded (19922944)
+0380.870 (1) Googledrive chunked upload: 81.1 % uploaded (20971520)
+0381.220 (1) Googledrive chunked upload: 85.2 % uploaded (22020096)
+0381.579 (1) Googledrive chunked upload: 89.2 % uploaded (23068672)
+0381.904 (1) Googledrive chunked upload: 93.3 % uploaded (24117248)
+0382.262 (1) Googledrive chunked upload: 97.3 % uploaded (25165824)
+0383.704 (1) Googledrive chunked upload: 100 % uploaded (25165824)
+0383.729 (1) OK: Archive backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip uploaded to Google Drive in 13.56 seconds
+0383.746 (1) Recording as successfully uploaded: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip (042be0310e31b48ba5f0c17caba0e7ca)
+0383.784 (1) Deleting local file: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: OK
+0384.035 (1) Google Drive quota usage: used=10817.2 MB, total=10496577.2 MB, available=10485760 MB
+0384.038 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0384.146 (1) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: upload already began; attempting to resume from byte 23068671
+0384.848 (1) Googledrive chunked upload: 8 % uploaded (24117248)
+0386.361 (1) Googledrive chunked upload: 8.3 % uploaded (25165824)
+0387.723 (1) Googledrive chunked upload: 8.7 % uploaded (26214400)
+0388.559 (1) Googledrive chunked upload: 9 % uploaded (27262976)
+0389.022 (1) Googledrive chunked upload: 9.3 % uploaded (28311552)
+0389.407 (1) Googledrive chunked upload: 9.7 % uploaded (29360128)
+0389.764 (1) Googledrive chunked upload: 10 % uploaded (30408704)
+0390.123 (1) Googledrive chunked upload: 10.4 % uploaded (31457280)
+0390.480 (1) Googledrive chunked upload: 10.7 % uploaded (32505856)
+0390.881 (1) Googledrive chunked upload: 11.1 % uploaded (33554432)
+0391.365 (1) Googledrive chunked upload: 11.4 % uploaded (34603008)
+0391.682 (1) Googledrive chunked upload: 11.8 % uploaded (35651584)
+0392.024 (1) Googledrive chunked upload: 12.1 % uploaded (36700160)
+0392.461 (1) Googledrive chunked upload: 12.5 % uploaded (37748736)
+0392.851 (1) Googledrive chunked upload: 12.8 % uploaded (38797312)
+0393.238 (1) Googledrive chunked upload: 13.2 % uploaded (39845888)
+0393.640 (1) Googledrive chunked upload: 13.5 % uploaded (40894464)
+0394.068 (1) Googledrive chunked upload: 13.9 % uploaded (41943040)
+0394.384 (1) Googledrive chunked upload: 14.2 % uploaded (42991616)
+0394.735 (1) Googledrive chunked upload: 14.5 % uploaded (44040192)
+0395.060 (1) Googledrive chunked upload: 14.9 % uploaded (45088768)
+0395.410 (1) Googledrive chunked upload: 15.2 % uploaded (46137344)
+0395.753 (1) Googledrive chunked upload: 15.6 % uploaded (47185920)
+0396.158 (1) Googledrive chunked upload: 15.9 % uploaded (48234496)
+0396.586 (1) Googledrive chunked upload: 16.3 % uploaded (49283072)
+0396.971 (1) Googledrive chunked upload: 16.6 % uploaded (50331648)
+0397.289 (1) Googledrive chunked upload: 17 % uploaded (51380224)
+0397.697 (1) Googledrive chunked upload: 17.3 % uploaded (52428800)
+0398.032 (1) Googledrive chunked upload: 17.7 % uploaded (53477376)
+0398.513 (1) Googledrive chunked upload: 18 % uploaded (54525952)
+0398.905 (1) Googledrive chunked upload: 18.4 % uploaded (55574528)
+0399.231 (1) Googledrive chunked upload: 18.7 % uploaded (56623104)
+0399.614 (1) Googledrive chunked upload: 19 % uploaded (57671680)
+0400.032 (1) Googledrive chunked upload: 19.4 % uploaded (58720256)
+0400.426 (1) Googledrive chunked upload: 19.7 % uploaded (59768832)
+0400.835 (1) Googledrive chunked upload: 20.1 % uploaded (60817408)
+0401.186 (1) Googledrive chunked upload: 20.4 % uploaded (61865984)
+0401.571 (1) Googledrive chunked upload: 20.8 % uploaded (62914560)
+0401.930 (1) Googledrive chunked upload: 21.1 % uploaded (63963136)
+0402.432 (1) Googledrive chunked upload: 21.5 % uploaded (65011712)
+0402.782 (1) Googledrive chunked upload: 21.8 % uploaded (66060288)
+0403.231 (1) Googledrive chunked upload: 22.2 % uploaded (67108864)
+0403.726 (1) Googledrive chunked upload: 22.5 % uploaded (68157440)
+0404.110 (1) Googledrive chunked upload: 22.9 % uploaded (69206016)
+0404.486 (1) Googledrive chunked upload: 23.2 % uploaded (70254592)
+0404.913 (1) Googledrive chunked upload: 23.5 % uploaded (71303168)
+0405.265 (1) Googledrive chunked upload: 23.9 % uploaded (72351744)
+0405.640 (1) Googledrive chunked upload: 24.2 % uploaded (73400320)
+0406.116 (1) Googledrive chunked upload: 24.6 % uploaded (74448896)
+0406.433 (1) Googledrive chunked upload: 24.9 % uploaded (75497472)
+0406.926 (1) Googledrive chunked upload: 25.3 % uploaded (76546048)
+0407.360 (1) Googledrive chunked upload: 25.6 % uploaded (77594624)
+0407.735 (1) Googledrive chunked upload: 26 % uploaded (78643200)
+0408.128 (1) Googledrive chunked upload: 26.3 % uploaded (79691776)
+0408.511 (1) Googledrive chunked upload: 26.7 % uploaded (80740352)
+0408.987 (1) Googledrive chunked upload: 27 % uploaded (81788928)
+0409.381 (1) Googledrive chunked upload: 27.4 % uploaded (82837504)
+0409.840 (1) Googledrive chunked upload: 27.7 % uploaded (83886080)
+0410.240 (1) Googledrive chunked upload: 28 % uploaded (84934656)
+0410.625 (1) Googledrive chunked upload: 28.4 % uploaded (85983232)
+0411.042 (1) Googledrive chunked upload: 28.7 % uploaded (87031808)
+0411.418 (1) Googledrive chunked upload: 29.1 % uploaded (88080384)
+0411.760 (1) Googledrive chunked upload: 29.4 % uploaded (89128960)
+0412.086 (1) Googledrive chunked upload: 29.8 % uploaded (90177536)
+0412.554 (1) Googledrive chunked upload: 30.1 % uploaded (91226112)
+0412.947 (1) Googledrive chunked upload: 30.5 % uploaded (92274688)
+0413.289 (1) Googledrive chunked upload: 30.8 % uploaded (93323264)
+0413.674 (1) Googledrive chunked upload: 31.2 % uploaded (94371840)
+0414.117 (1) Googledrive chunked upload: 31.5 % uploaded (95420416)
+0414.566 (1) Googledrive chunked upload: 31.9 % uploaded (96468992)
+0414.999 (1) Googledrive chunked upload: 32.2 % uploaded (97517568)
+0415.559 (1) Googledrive chunked upload: 32.5 % uploaded (98566144)
+0416.001 (1) Googledrive chunked upload: 32.9 % uploaded (99614720)
+0416.518 (1) Googledrive chunked upload: 33.2 % uploaded (100663296)
+0416.887 (1) Googledrive chunked upload: 33.6 % uploaded (101711872)
+0417.288 (1) Googledrive chunked upload: 33.9 % uploaded (102760448)
+0417.622 (1) Googledrive chunked upload: 34.3 % uploaded (103809024)
+0418.047 (1) Googledrive chunked upload: 34.6 % uploaded (104857600)
+0418.373 (1) Googledrive chunked upload: 35 % uploaded (105906176)
+0419.106 (1) Googledrive chunked upload: 35.3 % uploaded (106954752)
+0419.570 (1) Googledrive chunked upload: 35.7 % uploaded (108003328)
+0419.978 (1) Googledrive chunked upload: 36 % uploaded (109051904)
+0420.429 (1) Googledrive chunked upload: 36.4 % uploaded (110100480)
+0420.787 (1) Googledrive chunked upload: 36.7 % uploaded (111149056)
+0421.315 (1) Googledrive chunked upload: 37 % uploaded (112197632)
+0422.087 (1) Googledrive chunked upload: 37.4 % uploaded (113246208)
+0422.579 (1) Googledrive chunked upload: 37.7 % uploaded (114294784)
+0423.716 (1) Googledrive chunked upload: 38.1 % uploaded (115343360)
+0424.389 (1) Googledrive chunked upload: 38.4 % uploaded (116391936)
+0424.982 (1) Googledrive chunked upload: 38.8 % uploaded (117440512)
+0425.391 (1) Googledrive chunked upload: 39.1 % uploaded (118489088)
+0425.875 (1) Googledrive chunked upload: 39.5 % uploaded (119537664)
+0426.275 (1) Googledrive chunked upload: 39.8 % uploaded (120586240)
+0426.759 (1) Googledrive chunked upload: 40.2 % uploaded (121634816)
+0427.125 (1) Googledrive chunked upload: 40.5 % uploaded (122683392)
+0427.518 (1) Googledrive chunked upload: 40.9 % uploaded (123731968)
+0427.993 (1) Googledrive chunked upload: 41.2 % uploaded (124780544)
+0428.510 (1) Googledrive chunked upload: 41.6 % uploaded (125829120)
+0428.868 (1) Googledrive chunked upload: 41.9 % uploaded (126877696)
+0429.294 (1) Googledrive chunked upload: 42.2 % uploaded (127926272)
+0429.769 (1) Googledrive chunked upload: 42.6 % uploaded (128974848)
+0430.094 (1) Googledrive chunked upload: 42.9 % uploaded (130023424)
+0430.503 (1) Googledrive chunked upload: 43.3 % uploaded (131072000)
+0430.936 (1) Googledrive chunked upload: 43.6 % uploaded (132120576)
+0431.320 (1) Googledrive chunked upload: 44 % uploaded (133169152)
+0431.712 (1) Googledrive chunked upload: 44.3 % uploaded (134217728)
+0432.113 (1) Googledrive chunked upload: 44.7 % uploaded (135266304)
+0432.758 (1) Googledrive chunked upload: 45 % uploaded (136314880)
+0433.258 (1) Googledrive chunked upload: 45.4 % uploaded (137363456)
+0433.625 (1) Googledrive chunked upload: 45.7 % uploaded (138412032)
+0433.975 (1) Googledrive chunked upload: 46.1 % uploaded (139460608)
+0434.317 (1) Googledrive chunked upload: 46.4 % uploaded (140509184)
+0434.684 (1) Googledrive chunked upload: 46.7 % uploaded (141557760)
+0435.034 (1) Googledrive chunked upload: 47.1 % uploaded (142606336)
+0435.327 (1) Googledrive chunked upload: 47.4 % uploaded (143654912)
+0435.660 (1) Googledrive chunked upload: 47.8 % uploaded (144703488)
+0435.952 (1) Googledrive chunked upload: 48.1 % uploaded (145752064)
+0436.319 (1) Googledrive chunked upload: 48.5 % uploaded (146800640)
+0436.653 (1) Googledrive chunked upload: 48.8 % uploaded (147849216)
+0437.053 (1) Googledrive chunked upload: 49.2 % uploaded (148897792)
+0437.429 (1) Googledrive chunked upload: 49.5 % uploaded (149946368)
+0437.771 (1) Googledrive chunked upload: 49.9 % uploaded (150994944)
+0438.113 (1) Googledrive chunked upload: 50.2 % uploaded (152043520)
+0438.422 (1) Googledrive chunked upload: 50.6 % uploaded (153092096)
+0438.739 (1) Googledrive chunked upload: 50.9 % uploaded (154140672)
+0439.031 (1) Googledrive chunked upload: 51.2 % uploaded (155189248)
+0439.406 (1) Googledrive chunked upload: 51.6 % uploaded (156237824)
+0439.765 (1) Googledrive chunked upload: 51.9 % uploaded (157286400)
+0440.141 (1) Googledrive chunked upload: 52.3 % uploaded (158334976)
+0440.500 (1) Googledrive chunked upload: 52.6 % uploaded (159383552)
+0440.842 (1) Googledrive chunked upload: 53 % uploaded (160432128)
+0441.143 (1) Googledrive chunked upload: 53.3 % uploaded (161480704)
+0441.510 (1) Googledrive chunked upload: 53.7 % uploaded (162529280)
+0441.860 (1) Googledrive chunked upload: 54 % uploaded (163577856)
+0442.219 (1) Googledrive chunked upload: 54.4 % uploaded (164626432)
+0442.552 (1) Googledrive chunked upload: 54.7 % uploaded (165675008)
+0442.936 (1) Googledrive chunked upload: 55.1 % uploaded (166723584)
+0443.286 (1) Googledrive chunked upload: 55.4 % uploaded (167772160)
+0443.603 (1) Googledrive chunked upload: 55.7 % uploaded (168820736)
+0443.971 (1) Googledrive chunked upload: 56.1 % uploaded (169869312)
+0444.438 (1) Googledrive chunked upload: 56.4 % uploaded (170917888)
+0444.746 (1) Googledrive chunked upload: 56.8 % uploaded (171966464)
+0445.105 (1) Googledrive chunked upload: 57.1 % uploaded (173015040)
+0445.447 (1) Googledrive chunked upload: 57.5 % uploaded (174063616)
+0445.814 (1) Googledrive chunked upload: 57.8 % uploaded (175112192)
+0446.148 (1) Googledrive chunked upload: 58.2 % uploaded (176160768)
+0446.523 (1) Googledrive chunked upload: 58.5 % uploaded (177209344)
+0446.887 (1) Googledrive chunked upload: 58.9 % uploaded (178257920)
+0447.287 (1) Googledrive chunked upload: 59.2 % uploaded (179306496)
+0447.638 (1) Googledrive chunked upload: 59.6 % uploaded (180355072)
+0447.988 (1) Googledrive chunked upload: 59.9 % uploaded (181403648)
+0448.363 (1) Googledrive chunked upload: 60.2 % uploaded (182452224)
+0448.747 (1) Googledrive chunked upload: 60.6 % uploaded (183500800)
+0449.098 (1) Googledrive chunked upload: 60.9 % uploaded (184549376)
+0449.465 (1) Googledrive chunked upload: 61.3 % uploaded (185597952)
+0449.907 (1) Googledrive chunked upload: 61.6 % uploaded (186646528)
+0450.250 (1) Googledrive chunked upload: 62 % uploaded (187695104)
+0450.601 (1) Googledrive chunked upload: 62.3 % uploaded (188743680)
+0450.926 (1) Googledrive chunked upload: 62.7 % uploaded (189792256)
+0451.343 (1) Googledrive chunked upload: 63 % uploaded (190840832)
+0451.744 (1) Googledrive chunked upload: 63.4 % uploaded (191889408)
+0452.111 (1) Googledrive chunked upload: 63.7 % uploaded (192937984)
+0452.553 (1) Googledrive chunked upload: 64.1 % uploaded (193986560)
+0453.170 (1) Googledrive chunked upload: 64.4 % uploaded (195035136)
+0453.545 (1) Googledrive chunked upload: 64.8 % uploaded (196083712)
+0453.870 (1) Googledrive chunked upload: 65.1 % uploaded (197132288)
+0454.229 (1) Googledrive chunked upload: 65.4 % uploaded (198180864)
+0454.538 (1) Googledrive chunked upload: 65.8 % uploaded (199229440)
+0454.888 (1) Googledrive chunked upload: 66.1 % uploaded (200278016)
+0455.288 (1) Googledrive chunked upload: 66.5 % uploaded (201326592)
+0455.739 (1) Googledrive chunked upload: 66.8 % uploaded (202375168)
+0456.181 (1) Googledrive chunked upload: 67.2 % uploaded (203423744)
+0456.515 (1) Googledrive chunked upload: 67.5 % uploaded (204472320)
+0456.899 (1) Googledrive chunked upload: 67.9 % uploaded (205520896)
+0457.249 (1) Googledrive chunked upload: 68.2 % uploaded (206569472)
+0457.591 (1) Googledrive chunked upload: 68.6 % uploaded (207618048)
+0457.958 (1) Googledrive chunked upload: 68.9 % uploaded (208666624)
+0458.467 (1) Googledrive chunked upload: 69.3 % uploaded (209715200)
+0458.817 (1) Googledrive chunked upload: 69.6 % uploaded (210763776)
+0459.285 (1) Googledrive chunked upload: 69.9 % uploaded (211812352)
+0459.701 (1) Googledrive chunked upload: 70.3 % uploaded (212860928)
+0460.060 (1) Googledrive chunked upload: 70.6 % uploaded (213909504)
+0520.098 (1) ERROR: Google Drive upload error: Operation timed out after 60001 milliseconds with 0 out of -1 bytes received (line: 117, file: /var/www/www.cob.calpoly.edu/html/cie/wp-content/plugins/updraftplus/includes/Google/IO/Curl.php)
+0520.128 (1) An error condition has occurred for the first time during this job
+0520.144 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=30, retain_db=30
+0520.155 (1) Number of backup sets in history: 30; groups (db): 1
+0520.161 (1) Examining (for databases) backup set with group_id=0, nonce=bc4e3f5f0fb3, datestamp=1521407455 (Mar 18 2018 21:10:55)
+0520.169 (1) This backup set is the backup set just made, so will not be deleted.
+0520.169 (1) Examining (for databases) backup set with group_id=0, nonce=f523cbecb32d, datestamp=1521320843 (Mar 17 2018 21:07:23)
+0520.169 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.178 (1) Examining (for databases) backup set with group_id=0, nonce=409acd0ce7f0, datestamp=1521234589 (Mar 16 2018 21:09:49)
+0520.178 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.178 (1) Examining (for databases) backup set with group_id=0, nonce=754eb4710af9, datestamp=1521148212 (Mar 15 2018 21:10:12)
+0520.178 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.178 (1) Examining (for databases) backup set with group_id=0, nonce=d73e923b9dad, datestamp=1521061635 (Mar 14 2018 21:07:15)
+0520.178 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.179 (1) Examining (for databases) backup set with group_id=0, nonce=b67febe034f1, datestamp=1520975268 (Mar 13 2018 21:07:48)
+0520.179 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.179 (1) Examining (for databases) backup set with group_id=0, nonce=84a1957fb061, datestamp=1520888850 (Mar 12 2018 21:07:30)
+0520.179 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.179 (1) Examining (for databases) backup set with group_id=0, nonce=6ff407abd1dd, datestamp=1520802586 (Mar 11 2018 21:09:46)
+0520.179 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.180 (1) Examining (for databases) backup set with group_id=0, nonce=f89c2fb3191d, datestamp=1520716106 (Mar 10 2018 21:08:26)
+0520.180 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.180 (1) Examining (for databases) backup set with group_id=0, nonce=b2cdbdb3bff1, datestamp=1520629758 (Mar 09 2018 21:09:18)
+0520.180 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.180 (1) Examining (for databases) backup set with group_id=0, nonce=5fdbeae43a6f, datestamp=1520543258 (Mar 08 2018 21:07:38)
+0520.180 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.181 (1) Examining (for databases) backup set with group_id=0, nonce=2bfbeb13d9f7, datestamp=1520456917 (Mar 07 2018 21:08:37)
+0520.181 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.181 (1) Examining (for databases) backup set with group_id=0, nonce=764bac86af5a, datestamp=1520370662 (Mar 06 2018 21:11:02)
+0520.181 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.181 (1) Examining (for databases) backup set with group_id=0, nonce=d3583a37c1b2, datestamp=1520284032 (Mar 05 2018 21:07:12)
+0520.181 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.182 (1) Examining (for databases) backup set with group_id=0, nonce=4ddb2bbc9410, datestamp=1520197733 (Mar 04 2018 21:08:53)
+0520.182 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.182 (1) Examining (for databases) backup set with group_id=0, nonce=6addf3927cbc, datestamp=1520111278 (Mar 03 2018 21:07:58)
+0520.182 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.182 (1) Examining (for databases) backup set with group_id=0, nonce=ddc2bc0aa2a5, datestamp=1520024883 (Mar 02 2018 21:08:03)
+0520.182 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.183 (1) Examining (for databases) backup set with group_id=0, nonce=9d87c14b385c, datestamp=1519938485 (Mar 01 2018 21:08:05)
+0520.183 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.183 (1) Examining (for databases) backup set with group_id=0, nonce=5eda27da5c9e, datestamp=1519852098 (Feb 28 2018 21:08:18)
+0520.183 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.183 (1) Examining (for databases) backup set with group_id=0, nonce=906ae53584d0, datestamp=1519765737 (Feb 27 2018 21:08:57)
+0520.183 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.184 (1) Examining (for databases) backup set with group_id=0, nonce=482ca6115d36, datestamp=1519679280 (Feb 26 2018 21:08:00)
+0520.184 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.184 (1) Examining (for databases) backup set with group_id=0, nonce=96d503eff12f, datestamp=1519592879 (Feb 25 2018 21:07:59)
+0520.184 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.184 (1) Examining (for databases) backup set with group_id=0, nonce=55511a27ef82, datestamp=1519506635 (Feb 24 2018 21:10:35)
+0520.184 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.184 (1) Examining (for databases) backup set with group_id=0, nonce=271168e5cf23, datestamp=1519420048 (Feb 23 2018 21:07:28)
+0520.185 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.185 (1) Examining (for databases) backup set with group_id=0, nonce=efe1ac4f0518, datestamp=1519333637 (Feb 22 2018 21:07:17)
+0520.185 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.185 (1) Examining (for databases) backup set with group_id=0, nonce=4978ec79a124, datestamp=1519247252 (Feb 21 2018 21:07:32)
+0520.185 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.185 (1) Examining (for databases) backup set with group_id=0, nonce=028e9dde4e11, datestamp=1519160858 (Feb 20 2018 21:07:38)
+0520.185 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.186 (1) Examining (for databases) backup set with group_id=0, nonce=f657069a388f, datestamp=1519074515 (Feb 19 2018 21:08:35)
+0520.186 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.186 (1) Examining (for databases) backup set with group_id=0, nonce=873af98a09c9, datestamp=1518988073 (Feb 18 2018 21:07:53)
+0520.186 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.186 (1) Examining (for databases) backup set with group_id=0, nonce=e147195ea7e9, datestamp=1518901640 (Feb 17 2018 21:07:20)
+0520.186 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.187 (1) Number of backup sets in history: 30; groups (files): 1
+0520.194 (1) Examining (for files) backup set with nonce=bc4e3f5f0fb3, datestamp=1521407455 (Mar 18 2018 21:10:55)
+0520.194 (1) This backup set is the backup set just made, so will not be deleted.
+0520.203 (1) This backup set is the backup set just made, so will not be deleted.
+0520.203 (1) This backup set is the backup set just made, so will not be deleted.
+0520.203 (1) This backup set is the backup set just made, so will not be deleted.
+0520.203 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.211 (1) Examining (for files) backup set with nonce=f523cbecb32d, datestamp=1521320843 (Mar 17 2018 21:07:23)
+0520.211 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.211 (1) Examining (for files) backup set with nonce=409acd0ce7f0, datestamp=1521234589 (Mar 16 2018 21:09:49)
+0520.211 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.212 (1) Examining (for files) backup set with nonce=754eb4710af9, datestamp=1521148212 (Mar 15 2018 21:10:12)
+0520.212 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.212 (1) Examining (for files) backup set with nonce=d73e923b9dad, datestamp=1521061635 (Mar 14 2018 21:07:15)
+0520.212 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.212 (1) Examining (for files) backup set with nonce=b67febe034f1, datestamp=1520975268 (Mar 13 2018 21:07:48)
+0520.212 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.212 (1) Examining (for files) backup set with nonce=84a1957fb061, datestamp=1520888850 (Mar 12 2018 21:07:30)
+0520.212 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.213 (1) Examining (for files) backup set with nonce=6ff407abd1dd, datestamp=1520802586 (Mar 11 2018 21:09:46)
+0520.213 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.213 (1) Examining (for files) backup set with nonce=f89c2fb3191d, datestamp=1520716106 (Mar 10 2018 21:08:26)
+0520.213 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.213 (1) Examining (for files) backup set with nonce=b2cdbdb3bff1, datestamp=1520629758 (Mar 09 2018 21:09:18)
+0520.213 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.214 (1) Examining (for files) backup set with nonce=5fdbeae43a6f, datestamp=1520543258 (Mar 08 2018 21:07:38)
+0520.214 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.214 (1) Examining (for files) backup set with nonce=2bfbeb13d9f7, datestamp=1520456917 (Mar 07 2018 21:08:37)
+0520.214 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.214 (1) Examining (for files) backup set with nonce=764bac86af5a, datestamp=1520370662 (Mar 06 2018 21:11:02)
+0520.214 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.214 (1) Examining (for files) backup set with nonce=d3583a37c1b2, datestamp=1520284032 (Mar 05 2018 21:07:12)
+0520.215 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.215 (1) Examining (for files) backup set with nonce=4ddb2bbc9410, datestamp=1520197733 (Mar 04 2018 21:08:53)
+0520.215 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.215 (1) Examining (for files) backup set with nonce=6addf3927cbc, datestamp=1520111278 (Mar 03 2018 21:07:58)
+0520.215 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.215 (1) Examining (for files) backup set with nonce=ddc2bc0aa2a5, datestamp=1520024883 (Mar 02 2018 21:08:03)
+0520.215 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.216 (1) Examining (for files) backup set with nonce=9d87c14b385c, datestamp=1519938485 (Mar 01 2018 21:08:05)
+0520.216 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.216 (1) Examining (for files) backup set with nonce=5eda27da5c9e, datestamp=1519852098 (Feb 28 2018 21:08:18)
+0520.216 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.216 (1) Examining (for files) backup set with nonce=906ae53584d0, datestamp=1519765737 (Feb 27 2018 21:08:57)
+0520.216 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.217 (1) Examining (for files) backup set with nonce=482ca6115d36, datestamp=1519679280 (Feb 26 2018 21:08:00)
+0520.217 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.217 (1) Examining (for files) backup set with nonce=96d503eff12f, datestamp=1519592879 (Feb 25 2018 21:07:59)
+0520.217 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.217 (1) Examining (for files) backup set with nonce=55511a27ef82, datestamp=1519506635 (Feb 24 2018 21:10:35)
+0520.217 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.217 (1) Examining (for files) backup set with nonce=271168e5cf23, datestamp=1519420048 (Feb 23 2018 21:07:28)
+0520.217 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.218 (1) Examining (for files) backup set with nonce=efe1ac4f0518, datestamp=1519333637 (Feb 22 2018 21:07:17)
+0520.218 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.218 (1) Examining (for files) backup set with nonce=4978ec79a124, datestamp=1519247252 (Feb 21 2018 21:07:32)
+0520.218 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.218 (1) Examining (for files) backup set with nonce=028e9dde4e11, datestamp=1519160858 (Feb 20 2018 21:07:38)
+0520.218 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.219 (1) Examining (for files) backup set with nonce=f657069a388f, datestamp=1519074515 (Feb 19 2018 21:08:35)
+0520.219 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.219 (1) Examining (for files) backup set with nonce=873af98a09c9, datestamp=1518988073 (Feb 18 2018 21:07:53)
+0520.219 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.219 (1) Examining (for files) backup set with nonce=e147195ea7e9, datestamp=1518901640 (Feb 17 2018 21:07:20)
+0520.219 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0520.219 (1) Retain: saving new backup history (sets now: 30) and finishing retain operation
+0520.236 (1) Resume backup (bc4e3f5f0fb3, 1): finish run
+0520.253 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0520.269 (1) The backup has not finished; a resumption is scheduled
+0744.525 (2) Opened log file at time: Sun, 18 Mar 2018 21:23:20 +0000 on https://cie.calpoly.edu
+0744.532 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob-vm-1.cob.calpoly.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 45.3M | 45.8M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+0744.541 (2) Free space on disk containing Updraft's temporary directory: 62504 MB
+0744.557 (2) Backup run: resumption=2, nonce=bc4e3f5f0fb3, begun at=1521407455 (745s ago), job type=backup, previous check-in=91.5s
+0744.583 (2) Scheduling a resumption (3) after 300 seconds (1521408500) in case this run gets aborted
+0744.606 (2) Checking if we have a zip executable available
+0744.616 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+0744.624 (2) Creation of backups of directories: already finished
+0744.633 (2) Saving backup status to database (elements: 8)
+0744.867 (2) Database dump (WordPress DB): Creation was completed already
+0744.902 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-plugins.zip: plugins: This file has already been successfully uploaded
+0744.909 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-themes.zip: themes: This file has already been successfully uploaded
+0744.917 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0744.925 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-others.zip: others: This file has already been successfully uploaded
+0744.934 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-db.gz: db: This file has already been successfully uploaded
+0744.942 (2) Saving backup history. Total backup size: Unknown
+0744.968 (2) Requesting upload of the files that have not yet been successfully uploaded (1)
+0744.993 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0745.001 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d9ffb9a098a4cd7562c60c2cc42cd0e9)
+0745.959 (2) Google Drive quota usage: used=10817.2 MB, total=10496577.2 MB, available=10485760 MB
+0745.986 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1g-vetUJ55XBbFhHb8guNGjI0YFIYrsUb)
+0746.166 (2) backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: upload already began; attempting to resume from byte 214958079
+0746.595 (2) Googledrive chunked upload: 71.3 % uploaded (216006656)
+0746.954 (2) Googledrive chunked upload: 71.7 % uploaded (217055232)
+0747.354 (2) Googledrive chunked upload: 72 % uploaded (218103808)
+0747.705 (2) Googledrive chunked upload: 72.4 % uploaded (219152384)
+0748.122 (2) Googledrive chunked upload: 72.7 % uploaded (220200960)
+0748.689 (2) Googledrive chunked upload: 73.1 % uploaded (221249536)
+0749.107 (2) Googledrive chunked upload: 73.4 % uploaded (222298112)
+0749.464 (2) Googledrive chunked upload: 73.8 % uploaded (223346688)
+0749.974 (2) Googledrive chunked upload: 74.1 % uploaded (224395264)
+0750.349 (2) Googledrive chunked upload: 74.4 % uploaded (225443840)
+0750.767 (2) Googledrive chunked upload: 74.8 % uploaded (226492416)
+0751.075 (2) Googledrive chunked upload: 75.1 % uploaded (227540992)
+0751.459 (2) Googledrive chunked upload: 75.5 % uploaded (228589568)
+0751.843 (2) Googledrive chunked upload: 75.8 % uploaded (229638144)
+0752.227 (2) Googledrive chunked upload: 76.2 % uploaded (230686720)
+0752.652 (2) Googledrive chunked upload: 76.5 % uploaded (231735296)
+0753.027 (2) Googledrive chunked upload: 76.9 % uploaded (232783872)
+0753.403 (2) Googledrive chunked upload: 77.2 % uploaded (233832448)
+0753.745 (2) Googledrive chunked upload: 77.6 % uploaded (234881024)
+0754.046 (2) Googledrive chunked upload: 77.9 % uploaded (235929600)
+0754.371 (2) Googledrive chunked upload: 78.3 % uploaded (236978176)
+0754.847 (2) Googledrive chunked upload: 78.6 % uploaded (238026752)
+0755.382 (2) Googledrive chunked upload: 78.9 % uploaded (239075328)
+0755.765 (2) Googledrive chunked upload: 79.3 % uploaded (240123904)
+0756.057 (2) Googledrive chunked upload: 79.6 % uploaded (241172480)
+0756.424 (2) Googledrive chunked upload: 80 % uploaded (242221056)
+0756.808 (2) Googledrive chunked upload: 80.3 % uploaded (243269632)
+0757.150 (2) Googledrive chunked upload: 80.7 % uploaded (244318208)
+0757.568 (2) Googledrive chunked upload: 81 % uploaded (245366784)
+0758.010 (2) Googledrive chunked upload: 81.4 % uploaded (246415360)
+0758.452 (2) Googledrive chunked upload: 81.7 % uploaded (247463936)
+0758.786 (2) Googledrive chunked upload: 82.1 % uploaded (248512512)
+0759.128 (2) Googledrive chunked upload: 82.4 % uploaded (249561088)
+0759.487 (2) Googledrive chunked upload: 82.8 % uploaded (250609664)
+0759.862 (2) Googledrive chunked upload: 83.1 % uploaded (251658240)
+0760.271 (2) Googledrive chunked upload: 83.4 % uploaded (252706816)
+0760.655 (2) Googledrive chunked upload: 83.8 % uploaded (253755392)
+0760.964 (2) Googledrive chunked upload: 84.1 % uploaded (254803968)
+0761.280 (2) Googledrive chunked upload: 84.5 % uploaded (255852544)
+0761.648 (2) Googledrive chunked upload: 84.8 % uploaded (256901120)
+0762.033 (2) Googledrive chunked upload: 85.2 % uploaded (257949696)
+0762.417 (2) Googledrive chunked upload: 85.5 % uploaded (258998272)
+0762.792 (2) Googledrive chunked upload: 85.9 % uploaded (260046848)
+0763.168 (2) Googledrive chunked upload: 86.2 % uploaded (261095424)
+0763.610 (2) Googledrive chunked upload: 86.6 % uploaded (262144000)
+0763.935 (2) Googledrive chunked upload: 86.9 % uploaded (263192576)
+0764.302 (2) Googledrive chunked upload: 87.3 % uploaded (264241152)
+0764.661 (2) Googledrive chunked upload: 87.6 % uploaded (265289728)
+0765.012 (2) Googledrive chunked upload: 87.9 % uploaded (266338304)
+0765.346 (2) Googledrive chunked upload: 88.3 % uploaded (267386880)
+0765.729 (2) Googledrive chunked upload: 88.6 % uploaded (268435456)
+0766.013 (2) Googledrive chunked upload: 89 % uploaded (269484032)
+0766.372 (2) Googledrive chunked upload: 89.3 % uploaded (270532608)
+0766.722 (2) Googledrive chunked upload: 89.7 % uploaded (271581184)
+0767.115 (2) Googledrive chunked upload: 90 % uploaded (272629760)
+0767.523 (2) Googledrive chunked upload: 90.4 % uploaded (273678336)
+0767.907 (2) Googledrive chunked upload: 90.7 % uploaded (274726912)
+0768.259 (2) Googledrive chunked upload: 91.1 % uploaded (275775488)
+0768.551 (2) Googledrive chunked upload: 91.4 % uploaded (276824064)
+0769.018 (2) Googledrive chunked upload: 91.8 % uploaded (277872640)
+0769.598 (2) Googledrive chunked upload: 92.1 % uploaded (278921216)
+0769.984 (2) Googledrive chunked upload: 92.5 % uploaded (279969792)
+0770.360 (2) Googledrive chunked upload: 92.8 % uploaded (281018368)
+0770.727 (2) Googledrive chunked upload: 93.1 % uploaded (282066944)
+0771.027 (2) Googledrive chunked upload: 93.5 % uploaded (283115520)
+0771.369 (2) Googledrive chunked upload: 93.8 % uploaded (284164096)
+0771.736 (2) Googledrive chunked upload: 94.2 % uploaded (285212672)
+0772.088 (2) Googledrive chunked upload: 94.5 % uploaded (286261248)
+0772.488 (2) Googledrive chunked upload: 94.9 % uploaded (287309824)
+0772.847 (2) Googledrive chunked upload: 95.2 % uploaded (288358400)
+0773.206 (2) Googledrive chunked upload: 95.6 % uploaded (289406976)
+0773.523 (2) Googledrive chunked upload: 95.9 % uploaded (290455552)
+0773.882 (2) Googledrive chunked upload: 96.3 % uploaded (291504128)
+0774.258 (2) Googledrive chunked upload: 96.6 % uploaded (292552704)
+0774.625 (2) Googledrive chunked upload: 97 % uploaded (293601280)
+0774.954 (2) Googledrive chunked upload: 97.3 % uploaded (294649856)
+0775.655 (2) Googledrive chunked upload: 97.6 % uploaded (295698432)
+0776.047 (2) Googledrive chunked upload: 98 % uploaded (296747008)
+0776.397 (2) Googledrive chunked upload: 98.3 % uploaded (297795584)
+0776.764 (2) Googledrive chunked upload: 98.7 % uploaded (298844160)
+0777.166 (2) Googledrive chunked upload: 99 % uploaded (299892736)
+0777.541 (2) Googledrive chunked upload: 99.4 % uploaded (300941312)
+0778.042 (2) Googledrive chunked upload: 99.7 % uploaded (301989888)
+0779.135 (2) Googledrive chunked upload: 100 % uploaded (301989888)
+0779.160 (2) OK: Archive backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip uploaded to Google Drive in 33.16 seconds
+0779.177 (2) Recording as successfully uploaded: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip (d9e20633288c1ad2dc06f7a0e6a87142)
+0779.269 (2) Deleting local file: backup_2018-03-18-1410_Cal_Poly_Center_For_Innovation_a_bc4e3f5f0fb3-uploads.zip: OK
+0779.285 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=30, retain_db=30
+0779.296 (2) Number of backup sets in history: 30; groups (db): 1
+0779.302 (2) Examining (for databases) backup set with group_id=0, nonce=bc4e3f5f0fb3, datestamp=1521407455 (Mar 18 2018 21:10:55)
+0779.310 (2) This backup set is the backup set just made, so will not be deleted.
+0779.310 (2) Examining (for databases) backup set with group_id=0, nonce=f523cbecb32d, datestamp=1521320843 (Mar 17 2018 21:07:23)
+0779.310 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.318 (2) Examining (for databases) backup set with group_id=0, nonce=409acd0ce7f0, datestamp=1521234589 (Mar 16 2018 21:09:49)
+0779.318 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.319 (2) Examining (for databases) backup set with group_id=0, nonce=754eb4710af9, datestamp=1521148212 (Mar 15 2018 21:10:12)
+0779.319 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.319 (2) Examining (for databases) backup set with group_id=0, nonce=d73e923b9dad, datestamp=1521061635 (Mar 14 2018 21:07:15)
+0779.319 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.319 (2) Examining (for databases) backup set with group_id=0, nonce=b67febe034f1, datestamp=1520975268 (Mar 13 2018 21:07:48)
+0779.319 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.319 (2) Examining (for databases) backup set with group_id=0, nonce=84a1957fb061, datestamp=1520888850 (Mar 12 2018 21:07:30)
+0779.320 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.320 (2) Examining (for databases) backup set with group_id=0, nonce=6ff407abd1dd, datestamp=1520802586 (Mar 11 2018 21:09:46)
+0779.320 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.320 (2) Examining (for databases) backup set with group_id=0, nonce=f89c2fb3191d, datestamp=1520716106 (Mar 10 2018 21:08:26)
+0779.320 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.320 (2) Examining (for databases) backup set with group_id=0, nonce=b2cdbdb3bff1, datestamp=1520629758 (Mar 09 2018 21:09:18)
+0779.320 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.320 (2) Examining (for databases) backup set with group_id=0, nonce=5fdbeae43a6f, datestamp=1520543258 (Mar 08 2018 21:07:38)
+0779.321 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.321 (2) Examining (for databases) backup set with group_id=0, nonce=2bfbeb13d9f7, datestamp=1520456917 (Mar 07 2018 21:08:37)
+0779.321 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.321 (2) Examining (for databases) backup set with group_id=0, nonce=764bac86af5a, datestamp=1520370662 (Mar 06 2018 21:11:02)
+0779.321 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.321 (2) Examining (for databases) backup set with group_id=0, nonce=d3583a37c1b2, datestamp=1520284032 (Mar 05 2018 21:07:12)
+0779.321 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.321 (2) Examining (for databases) backup set with group_id=0, nonce=4ddb2bbc9410, datestamp=1520197733 (Mar 04 2018 21:08:53)
+0779.321 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.322 (2) Examining (for databases) backup set with group_id=0, nonce=6addf3927cbc, datestamp=1520111278 (Mar 03 2018 21:07:58)
+0779.322 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.322 (2) Examining (for databases) backup set with group_id=0, nonce=ddc2bc0aa2a5, datestamp=1520024883 (Mar 02 2018 21:08:03)
+0779.322 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.322 (2) Examining (for databases) backup set with group_id=0, nonce=9d87c14b385c, datestamp=1519938485 (Mar 01 2018 21:08:05)
+0779.322 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.322 (2) Examining (for databases) backup set with group_id=0, nonce=5eda27da5c9e, datestamp=1519852098 (Feb 28 2018 21:08:18)
+0779.322 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.323 (2) Examining (for databases) backup set with group_id=0, nonce=906ae53584d0, datestamp=1519765737 (Feb 27 2018 21:08:57)
+0779.323 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.323 (2) Examining (for databases) backup set with group_id=0, nonce=482ca6115d36, datestamp=1519679280 (Feb 26 2018 21:08:00)
+0779.323 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.323 (2) Examining (for databases) backup set with group_id=0, nonce=96d503eff12f, datestamp=1519592879 (Feb 25 2018 21:07:59)
+0779.323 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.323 (2) Examining (for databases) backup set with group_id=0, nonce=55511a27ef82, datestamp=1519506635 (Feb 24 2018 21:10:35)
+0779.323 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.323 (2) Examining (for databases) backup set with group_id=0, nonce=271168e5cf23, datestamp=1519420048 (Feb 23 2018 21:07:28)
+0779.323 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.324 (2) Examining (for databases) backup set with group_id=0, nonce=efe1ac4f0518, datestamp=1519333637 (Feb 22 2018 21:07:17)
+0779.324 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.324 (2) Examining (for databases) backup set with group_id=0, nonce=4978ec79a124, datestamp=1519247252 (Feb 21 2018 21:07:32)
+0779.324 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.324 (2) Examining (for databases) backup set with group_id=0, nonce=028e9dde4e11, datestamp=1519160858 (Feb 20 2018 21:07:38)
+0779.324 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.324 (2) Examining (for databases) backup set with group_id=0, nonce=f657069a388f, datestamp=1519074515 (Feb 19 2018 21:08:35)
+0779.324 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.325 (2) Examining (for databases) backup set with group_id=0, nonce=873af98a09c9, datestamp=1518988073 (Feb 18 2018 21:07:53)
+0779.325 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.325 (2) Examining (for databases) backup set with group_id=0, nonce=e147195ea7e9, datestamp=1518901640 (Feb 17 2018 21:07:20)
+0779.325 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.325 (2) Number of backup sets in history: 30; groups (files): 1
+0779.335 (2) Examining (for files) backup set with nonce=bc4e3f5f0fb3, datestamp=1521407455 (Mar 18 2018 21:10:55)
+0779.335 (2) This backup set is the backup set just made, so will not be deleted.
+0779.344 (2) This backup set is the backup set just made, so will not be deleted.
+0779.344 (2) This backup set is the backup set just made, so will not be deleted.
+0779.344 (2) This backup set is the backup set just made, so will not be deleted.
+0779.344 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.352 (2) Examining (for files) backup set with nonce=f523cbecb32d, datestamp=1521320843 (Mar 17 2018 21:07:23)
+0779.352 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.352 (2) Examining (for files) backup set with nonce=409acd0ce7f0, datestamp=1521234589 (Mar 16 2018 21:09:49)
+0779.352 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.352 (2) Examining (for files) backup set with nonce=754eb4710af9, datestamp=1521148212 (Mar 15 2018 21:10:12)
+0779.352 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.353 (2) Examining (for files) backup set with nonce=d73e923b9dad, datestamp=1521061635 (Mar 14 2018 21:07:15)
+0779.353 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.353 (2) Examining (for files) backup set with nonce=b67febe034f1, datestamp=1520975268 (Mar 13 2018 21:07:48)
+0779.353 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.353 (2) Examining (for files) backup set with nonce=84a1957fb061, datestamp=1520888850 (Mar 12 2018 21:07:30)
+0779.353 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.353 (2) Examining (for files) backup set with nonce=6ff407abd1dd, datestamp=1520802586 (Mar 11 2018 21:09:46)
+0779.353 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.353 (2) Examining (for files) backup set with nonce=f89c2fb3191d, datestamp=1520716106 (Mar 10 2018 21:08:26)
+0779.353 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.354 (2) Examining (for files) backup set with nonce=b2cdbdb3bff1, datestamp=1520629758 (Mar 09 2018 21:09:18)
+0779.354 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.354 (2) Examining (for files) backup set with nonce=5fdbeae43a6f, datestamp=1520543258 (Mar 08 2018 21:07:38)
+0779.354 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.354 (2) Examining (for files) backup set with nonce=2bfbeb13d9f7, datestamp=1520456917 (Mar 07 2018 21:08:37)
+0779.354 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.354 (2) Examining (for files) backup set with nonce=764bac86af5a, datestamp=1520370662 (Mar 06 2018 21:11:02)
+0779.354 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.354 (2) Examining (for files) backup set with nonce=d3583a37c1b2, datestamp=1520284032 (Mar 05 2018 21:07:12)
+0779.355 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.355 (2) Examining (for files) backup set with nonce=4ddb2bbc9410, datestamp=1520197733 (Mar 04 2018 21:08:53)
+0779.355 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.355 (2) Examining (for files) backup set with nonce=6addf3927cbc, datestamp=1520111278 (Mar 03 2018 21:07:58)
+0779.355 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.355 (2) Examining (for files) backup set with nonce=ddc2bc0aa2a5, datestamp=1520024883 (Mar 02 2018 21:08:03)
+0779.355 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.355 (2) Examining (for files) backup set with nonce=9d87c14b385c, datestamp=1519938485 (Mar 01 2018 21:08:05)
+0779.355 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.356 (2) Examining (for files) backup set with nonce=5eda27da5c9e, datestamp=1519852098 (Feb 28 2018 21:08:18)
+0779.356 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.356 (2) Examining (for files) backup set with nonce=906ae53584d0, datestamp=1519765737 (Feb 27 2018 21:08:57)
+0779.356 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.356 (2) Examining (for files) backup set with nonce=482ca6115d36, datestamp=1519679280 (Feb 26 2018 21:08:00)
+0779.356 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.356 (2) Examining (for files) backup set with nonce=96d503eff12f, datestamp=1519592879 (Feb 25 2018 21:07:59)
+0779.356 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.356 (2) Examining (for files) backup set with nonce=55511a27ef82, datestamp=1519506635 (Feb 24 2018 21:10:35)
+0779.356 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.357 (2) Examining (for files) backup set with nonce=271168e5cf23, datestamp=1519420048 (Feb 23 2018 21:07:28)
+0779.357 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.357 (2) Examining (for files) backup set with nonce=efe1ac4f0518, datestamp=1519333637 (Feb 22 2018 21:07:17)
+0779.357 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.357 (2) Examining (for files) backup set with nonce=4978ec79a124, datestamp=1519247252 (Feb 21 2018 21:07:32)
+0779.357 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.357 (2) Examining (for files) backup set with nonce=028e9dde4e11, datestamp=1519160858 (Feb 20 2018 21:07:38)
+0779.357 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.357 (2) Examining (for files) backup set with nonce=f657069a388f, datestamp=1519074515 (Feb 19 2018 21:08:35)
+0779.357 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.358 (2) Examining (for files) backup set with nonce=873af98a09c9, datestamp=1518988073 (Feb 18 2018 21:07:53)
+0779.358 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.358 (2) Examining (for files) backup set with nonce=e147195ea7e9, datestamp=1518901640 (Feb 17 2018 21:07:20)
+0779.358 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0779.358 (2) Retain: saving new backup history (sets now: 30) and finishing retain operation
+0779.369 (2) Resume backup (bc4e3f5f0fb3, 2): finish run
+0779.385 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0779.412 (2) Fetching RSS news feed
+0779.870 (2) Fetched RSS news feed; result is a: SimplePie
+0780.033 (2) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: ocob-...
+0780.194 (2) The backup apparently succeeded and is now complete

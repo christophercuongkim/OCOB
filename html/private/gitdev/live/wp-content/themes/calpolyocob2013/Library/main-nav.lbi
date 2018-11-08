@@ -1,0 +1,44 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+    
+	  <ul id="cpUl" class="cpStandardNav">
+            <li id="admissionsAndAidTab"><a href="#">Academic Areas</a>
+            	
+            </li>
+            <li id="majorsAndCollegesTab"><a href="#">Undergraduate Programs &amp; Concentrations</a>
+            
+            </li>
+            <li id="researchTab"><a href="#">Graduate Programs</a>
+            
+            </li>
+            <li id="alumniCommunityTab"><a href="#">Graduate Programs</a>
+           
+            
+            </li>
+            <li id="campusLifeTab"><a href="#">Campus Life</a>
+            
+            </li>
+            <li id="athleticsTab"><a href="#">Athletics</a>
+            
+            </li>
+            <li id="aboutTab"><a href="#">About</a>
+            
+            </li>
+        	<li id="searchli"><!-- #BeginLibraryItem "/Library/search.lbi" -->
+
+                <div id="search">
+                	<form method = "get" title = "Search Form" action="http://search.calstate.edu/search">
+                    <div>
+                    	<input type="hidden" name="site" value="slo-CalPoly" />
+                    	<input type="hidden" name="output" value="xml_no_dtd" />
+                    	<input type="hidden" name="client" value="slo-CalPoly" />
+                    	<input type="hidden" name="proxystylesheet" value="slo-CalPoly" />
+                    	<input type="hidden" name="sitesearch" value="departmentURL.calpoly.edu" />   
+                        <input type="text" id="q" name="q" value="Search" title="Search this site" alt="Search Text" maxlength="256"/>                      <input type="image" id="searchSubmit" name="submit" src="http://webresource.its.calpoly.edu/cpwebtemplate/5.0.0/common/images_html/header/search-arrow.png" alt="Go" title="Submit Search Query" />
+                    </div>
+                    </form>
+                </div>      <!-- #EndLibraryItem --></li>
+        </ul>
+        
+       

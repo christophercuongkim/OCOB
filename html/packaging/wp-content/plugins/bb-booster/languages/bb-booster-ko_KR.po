@@ -1,0 +1,1162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Beaver Builder Booster\n"
+"POT-Creation-Date: 2016-09-06 14:53-0500\n"
+"PO-Revision-Date: 2016-09-06 14:53-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bb-booster.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bb-booster.php:92
+msgid "The Beaver Builder Booster plugin is not compatible with your host."
+msgstr "Beaver 빌더 부스터 플러그인은 귀하의 호스트와 호환되지 않습니다."
+
+#: classes/class-fl-builder-booster-customizer.php:56
+msgid "Use an easy drag-and-drop builder to edit content on this page."
+msgstr "이 페이지의 콘텐츠를 편집하려면 쉬운 끌어서 놓기 빌더를 사용하세요."
+
+#: classes/class-fl-builder-booster-customizer.php:57
+msgid "Launch Page Builder"
+msgstr "페이지 빌더 시작"
+
+#: classes/class-fl-builder-booster-pointer.php:62
+msgid "Page Builder"
+msgstr "페이지 빌더"
+
+#: classes/class-fl-builder-booster-pointer.php:64
+#, php-format
+msgctxt "%s is the singular post type name (e.g. page)"
+msgid ""
+"Click here to edit content on this %s using an easy drag-and-drop builder."
+msgstr "쉬운 끌어서 놓기 빌더를 사용하여 이 %s의 콘텐츠를 편집하려면 여기를 클릭하세요."
+
+#. Plugin Name of the plugin/theme
+#: classes/class-fl-builder-booster-updater.php:23
+msgid "Beaver Builder Booster"
+msgstr "Beaver 빌더 부스터"
+
+#: modules/button/button.php:14 modules/callout/callout.php:485
+#: modules/contact-form/contact-form.php:196
+#: modules/content-slider/content-slider.php:645 modules/cta/cta.php:218
+msgid "Button"
+msgstr "버튼"
+
+#: modules/button/button.php:15
+msgid "A simple call to action button."
+msgstr "액션 버튼으로 간편하게 호출."
+
+#: modules/button/button.php:16
+msgid "Basic Modules"
+msgstr "기본 모듈"
+
+#: modules/button/button.php:60 modules/callout/callout.php:214
+#: modules/contact-form/contact-form.php:98
+#: modules/content-slider/content-slider.php:224
+#: modules/content-slider/content-slider.php:357 modules/cta/cta.php:70
+#: modules/gallery/gallery.php:221 modules/icon/icon.php:28
+#: modules/map/map.php:27
+msgid "General"
+msgstr "일반"
+
+#: modules/button/button.php:67 modules/callout/callout.php:230
+#: modules/callout/callout.php:484 modules/callout/callout.php:500
+#: modules/content-slider/content-slider.php:425
+#: modules/content-slider/content-slider.php:660 modules/cta/cta.php:87
+#: modules/cta/cta.php:225
+msgid "Text"
+msgstr "Text"
+
+#: modules/button/button.php:68 modules/cta/cta.php:226
+msgid "Click Here"
+msgstr "여기를 클릭하세요"
+
+#: modules/button/button.php:76 modules/callout/callout.php:323
+#: modules/callout/callout.php:371 modules/callout/callout.php:375
+#: modules/cta/cta.php:234 modules/icon/icon.php:14 modules/icon/icon.php:35
+msgid "Icon"
+msgstr "아이콘"
+
+#: modules/button/button.php:81 modules/contact-form/contact-form.php:213
+#: modules/cta/cta.php:239
+msgid "Icon Position"
+msgstr "아이콘 위치"
+
+#: modules/button/button.php:84 modules/callout/callout.php:513
+#: modules/contact-form/contact-form.php:216
+#: modules/content-slider/content-slider.php:672 modules/cta/cta.php:242
+msgid "Before Text"
+msgstr "텍스트 앞에"
+
+#: modules/button/button.php:85 modules/callout/callout.php:514
+#: modules/contact-form/contact-form.php:217
+#: modules/content-slider/content-slider.php:673 modules/cta/cta.php:243
+msgid "After Text"
+msgstr "텍스트 뒤에"
+
+#: modules/button/button.php:90 modules/callout/callout.php:519
+#: modules/contact-form/contact-form.php:222
+#: modules/content-slider/content-slider.php:678 modules/cta/cta.php:248
+msgid "Icon Visibility"
+msgstr "아이콘 가시성"
+
+#: modules/button/button.php:93 modules/callout/callout.php:522
+#: modules/contact-form/contact-form.php:225
+#: modules/content-slider/content-slider.php:681 modules/cta/cta.php:251
+msgid "Always Visible"
+msgstr "항상 표시"
+
+#: modules/button/button.php:94 modules/callout/callout.php:523
+#: modules/contact-form/contact-form.php:226
+#: modules/content-slider/content-slider.php:682 modules/cta/cta.php:252
+msgid "Fade In On Hover"
+msgstr "마우스로 가리킨 경우 페이드 인"
+
+#: modules/button/button.php:100 modules/button/button.php:104
+#: modules/callout/callout.php:451 modules/callout/callout.php:455
+#: modules/content-slider/content-slider.php:617
+#: modules/content-slider/content-slider.php:621
+#: modules/content-slider/content-slider.php:644 modules/cta/cta.php:262
+#: modules/icon/icon.php:40 modules/icon/icon.php:44
+msgid "Link"
+msgstr "링크"
+
+#: modules/button/button.php:105
+msgid "http://www.example.com"
+msgstr "http://www.example.com"
+
+#: modules/button/button.php:112 modules/callout/callout.php:463
+#: modules/content-slider/content-slider.php:626 modules/cta/cta.php:269
+#: modules/icon/icon.php:51
+msgid "Link Target"
+msgstr "링크 대상"
+
+#: modules/button/button.php:115 modules/callout/callout.php:466
+#: modules/content-slider/content-slider.php:629 modules/cta/cta.php:272
+#: modules/icon/icon.php:54
+msgid "Same Window"
+msgstr "같은 창"
+
+#: modules/button/button.php:116 modules/callout/callout.php:467
+#: modules/content-slider/content-slider.php:630 modules/cta/cta.php:273
+#: modules/icon/icon.php:55
+msgid "New Window"
+msgstr "새 창"
+
+#: modules/button/button.php:127 modules/button/button.php:165
+#: modules/button/button.php:169 modules/callout/callout.php:247
+#: modules/callout/callout.php:568 modules/contact-form/contact-form.php:271
+#: modules/content-slider/content-slider.php:469
+#: modules/content-slider/content-slider.php:719 modules/cta/cta.php:105
+#: modules/cta/cta.php:321 modules/icon/icon.php:76
+msgid "Style"
+msgstr "스타일"
+
+#: modules/button/button.php:130 modules/cta/cta.php:191
+#: modules/icon/icon.php:79
+msgid "Colors"
+msgstr "색상"
+
+#: modules/button/button.php:134 modules/callout/callout.php:410
+#: modules/callout/callout.php:533 modules/contact-form/contact-form.php:236
+#: modules/content-slider/content-slider.php:406
+#: modules/content-slider/content-slider.php:692 modules/cta/cta.php:201
+#: modules/cta/cta.php:286 modules/icon/icon.php:96
+msgid "Background Color"
+msgstr "기본 배경색"
+
+#: modules/button/button.php:140 modules/callout/callout.php:415
+#: modules/callout/callout.php:539 modules/contact-form/contact-form.php:242
+#: modules/content-slider/content-slider.php:698 modules/cta/cta.php:292
+#: modules/icon/icon.php:101
+msgid "Background Hover Color"
+msgstr "배경 가리킴 색"
+
+#: modules/button/button.php:149 modules/callout/callout.php:548
+#: modules/contact-form/contact-form.php:251
+#: modules/content-slider/content-slider.php:572
+#: modules/content-slider/content-slider.php:703
+#: modules/content-slider/content-slider.php:834 modules/cta/cta.php:195
+#: modules/cta/cta.php:301
+msgid "Text Color"
+msgstr "텍스트 색"
+
+#: modules/button/button.php:155 modules/callout/callout.php:554
+#: modules/contact-form/contact-form.php:257
+#: modules/content-slider/content-slider.php:709 modules/cta/cta.php:307
+msgid "Text Hover Color"
+msgstr "텍스트 가리킴 색"
+
+#: modules/button/button.php:172 modules/callout/callout.php:571
+#: modules/contact-form/contact-form.php:274
+#: modules/content-slider/content-slider.php:722 modules/cta/cta.php:324
+msgid "Flat"
+msgstr "평평"
+
+#: modules/button/button.php:173 modules/callout/callout.php:423
+#: modules/callout/callout.php:572 modules/contact-form/contact-form.php:275
+#: modules/content-slider/content-slider.php:723 modules/cta/cta.php:325
+#: modules/icon/icon.php:109
+msgid "Gradient"
+msgstr "그라데이션"
+
+#: modules/button/button.php:174 modules/callout/callout.php:573
+#: modules/contact-form/contact-form.php:276
+#: modules/content-slider/content-slider.php:724 modules/cta/cta.php:326
+msgid "Transparent"
+msgstr "투명색"
+
+#: modules/button/button.php:184 modules/callout/callout.php:583
+#: modules/contact-form/contact-form.php:286
+#: modules/content-slider/content-slider.php:734 modules/cta/cta.php:336
+msgid "Border Size"
+msgstr "테두리 크기"
+
+#: modules/button/button.php:193 modules/callout/callout.php:592
+#: modules/contact-form/contact-form.php:295
+#: modules/content-slider/content-slider.php:743 modules/cta/cta.php:207
+#: modules/cta/cta.php:345
+msgid "Background Opacity"
+msgstr "배경 불투명"
+
+#: modules/button/button.php:202 modules/callout/callout.php:601
+#: modules/contact-form/contact-form.php:304
+#: modules/content-slider/content-slider.php:752 modules/cta/cta.php:354
+msgid "Background Hover Opacity"
+msgstr "배경 가리킴 불투명"
+
+#: modules/button/button.php:211 modules/callout/callout.php:610
+#: modules/contact-form/contact-form.php:313
+#: modules/content-slider/content-slider.php:271
+#: modules/content-slider/content-slider.php:761 modules/cta/cta.php:363
+msgid "Transition"
+msgstr "전환"
+
+#: modules/button/button.php:214 modules/callout/callout.php:613
+#: modules/contact-form/contact-form.php:316
+#: modules/content-slider/content-slider.php:764 modules/cta/cta.php:366
+msgid "Disabled"
+msgstr "비활성"
+
+#: modules/button/button.php:215 modules/callout/callout.php:614
+#: modules/contact-form/contact-form.php:317
+#: modules/content-slider/content-slider.php:765 modules/cta/cta.php:367
+msgid "Enabled"
+msgstr "활성화"
+
+#: modules/button/button.php:221 modules/callout/callout.php:250
+#: modules/cta/cta.php:108 modules/icon/icon.php:119
+msgid "Structure"
+msgstr "구조"
+
+#: modules/button/button.php:225 modules/contact-form/contact-form.php:327
+#: modules/content-slider/content-slider.php:527
+msgid "Width"
+msgstr "넓이"
+
+#: modules/button/button.php:228 modules/callout/callout.php:627
+#: modules/contact-form/contact-form.php:330
+msgctxt "Width."
+msgid "Auto"
+msgstr "자동"
+
+#: modules/button/button.php:229 modules/callout/callout.php:628
+#: modules/contact-form/contact-form.php:331
+msgid "Full Width"
+msgstr "전체 너비"
+
+#: modules/button/button.php:230 modules/callout/callout.php:290
+#: modules/content-slider/content-slider.php:493 modules/cta/cta.php:172
+#: modules/icon/icon.php:150
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: modules/button/button.php:244
+msgid "Custom Width"
+msgstr "사용자 지정 너비"
+
+#: modules/button/button.php:252 modules/contact-form/contact-form.php:336
+#: modules/cta/cta.php:126 modules/icon/icon.php:131 modules/icon/icon.php:146
+msgid "Alignment"
+msgstr "정렬"
+
+#: modules/button/button.php:255 modules/callout/callout.php:257
+#: modules/contact-form/contact-form.php:340
+#: modules/content-slider/content-slider.php:521 modules/cta/cta.php:130
+#: modules/icon/icon.php:134 modules/icon/icon.php:164
+msgid "Center"
+msgstr "가운데"
+
+#: modules/button/button.php:256 modules/callout/callout.php:258
+#: modules/contact-form/contact-form.php:339
+#: modules/content-slider/content-slider.php:520 modules/cta/cta.php:129
+#: modules/icon/icon.php:135 modules/icon/icon.php:163
+msgid "Left"
+msgstr "왼쪽"
+
+#: modules/button/button.php:257 modules/callout/callout.php:259
+#: modules/contact-form/contact-form.php:341
+#: modules/content-slider/content-slider.php:522 modules/cta/cta.php:131
+#: modules/icon/icon.php:136 modules/icon/icon.php:165
+msgid "Right"
+msgstr "오른쪽"
+
+#: modules/button/button.php:262 modules/callout/callout.php:633
+#: modules/contact-form/contact-form.php:346
+#: modules/content-slider/content-slider.php:775 modules/cta/cta.php:377
+msgid "Font Size"
+msgstr "글꼴 크기"
+
+#: modules/button/button.php:270 modules/callout/callout.php:641
+#: modules/contact-form/contact-form.php:354
+#: modules/content-slider/content-slider.php:783 modules/cta/cta.php:385
+msgid "Padding"
+msgstr "안쪽 여백"
+
+#: modules/button/button.php:278 modules/callout/callout.php:649
+#: modules/contact-form/contact-form.php:362 modules/cta/cta.php:393
+msgid "Round Corners"
+msgstr "둥근 모서리"
+
+#: modules/callout/callout.php:14
+msgid "Callout"
+msgstr "설명선"
+
+#: modules/callout/callout.php:15
+msgid "A heading and snippet of text with an optional link, icon and image."
+msgstr "옵션 링크, 아이콘, 이미지 등이 있는 제목 및 텍스트 스니핏."
+
+#: modules/callout/callout.php:16 modules/contact-form/contact-form.php:16
+#: modules/content-slider/content-slider.php:16 modules/cta/cta.php:16
+#: modules/gallery/gallery.php:16 modules/icon/icon.php:16
+#: modules/map/map.php:16
+msgid "Advanced Modules"
+msgstr "고급 모듈"
+
+#: modules/callout/callout.php:221
+#: modules/content-slider/content-slider.php:456
+#: modules/content-slider/content-slider.php:472 modules/cta/cta.php:77
+msgid "Heading"
+msgstr "제목"
+
+#: modules/callout/callout.php:254
+msgid "Overall Alignment"
+msgstr "전체 정렬"
+
+#: modules/callout/callout.php:261
+msgid "The alignment that will apply to all elements within the callout."
+msgstr "설명선 내의 모든 요소에 적용되는 정렬."
+
+#: modules/callout/callout.php:269 modules/cta/cta.php:151
+msgid "Heading Structure"
+msgstr "제목 구조"
+
+#: modules/callout/callout.php:273
+#: modules/content-slider/content-slider.php:476 modules/cta/cta.php:155
+msgid "Heading Tag"
+msgstr "제목 태그"
+
+#: modules/callout/callout.php:286
+#: modules/content-slider/content-slider.php:489
+#: modules/content-slider/content-slider.php:503 modules/cta/cta.php:168
+msgid "Heading Size"
+msgstr "제목 크기"
+
+#: modules/callout/callout.php:289
+#: modules/content-slider/content-slider.php:492 modules/cta/cta.php:171
+#: modules/icon/icon.php:149
+msgid "Default"
+msgstr "기본"
+
+#: modules/callout/callout.php:300 modules/cta/cta.php:182
+msgid "Heading Custom Size"
+msgstr "제목 사용자 지정 크기"
+
+#: modules/callout/callout.php:311
+msgid "Image"
+msgstr "이미지"
+
+#: modules/callout/callout.php:318
+msgid "Image Type"
+msgstr "이미지 유형"
+
+#: modules/callout/callout.php:321
+msgctxt "Image type."
+msgid "None"
+msgstr "없음"
+
+#: modules/callout/callout.php:322 modules/callout/callout.php:338
+#: modules/callout/callout.php:342
+#: modules/content-slider/content-slider.php:378
+#: modules/content-slider/content-slider.php:447
+#: modules/content-slider/content-slider.php:825
+msgid "Photo"
+msgstr "사진"
+
+#: modules/callout/callout.php:346
+msgid "Crop"
+msgstr "자르기"
+
+#: modules/callout/callout.php:349
+msgctxt "Photo Crop."
+msgid "None"
+msgstr "없음"
+
+#: modules/callout/callout.php:350
+msgid "Landscape"
+msgstr "풍경"
+
+#: modules/callout/callout.php:351
+msgid "Panorama"
+msgstr "파노라마"
+
+#: modules/callout/callout.php:352
+msgid "Portrait"
+msgstr "세로 방향"
+
+#: modules/callout/callout.php:353
+msgid "Square"
+msgstr "정방형"
+
+#: modules/callout/callout.php:354
+msgid "Circle"
+msgstr "원"
+
+#: modules/callout/callout.php:359 modules/callout/callout.php:379
+#: modules/content-slider/content-slider.php:516
+msgid "Position"
+msgstr "위치"
+
+#: modules/callout/callout.php:362 modules/callout/callout.php:382
+msgid "Above Heading"
+msgstr "제목 위에"
+
+#: modules/callout/callout.php:363 modules/callout/callout.php:383
+msgid "Below Heading"
+msgstr "제목 아래"
+
+#: modules/callout/callout.php:364 modules/callout/callout.php:386
+msgid "Left of Text and Heading"
+msgstr "텍스트 및 제목 왼쪽"
+
+#: modules/callout/callout.php:365 modules/callout/callout.php:387
+msgid "Right of Text and Heading"
+msgstr "텍스트 및 제목 오른쪽"
+
+#: modules/callout/callout.php:384
+msgid "Left of Heading"
+msgstr "제목 왼쪽"
+
+#: modules/callout/callout.php:385
+msgid "Right of Heading"
+msgstr "제목 오른쪽"
+
+#: modules/callout/callout.php:393
+msgid "Icon Colors"
+msgstr "아이콘 색"
+
+#: modules/callout/callout.php:397
+#: modules/content-slider/content-slider.php:380 modules/icon/icon.php:83
+msgid "Color"
+msgstr "색상"
+
+#: modules/callout/callout.php:402 modules/icon/icon.php:88
+msgid "Hover Color"
+msgstr "가리킴 색"
+
+#: modules/callout/callout.php:426
+#: modules/content-slider/content-slider.php:243
+#: modules/content-slider/content-slider.php:265
+#: modules/content-slider/content-slider.php:291
+#: modules/content-slider/content-slider.php:300
+#: modules/content-slider/content-slider.php:309
+#: modules/content-slider/content-slider.php:581 modules/icon/icon.php:112
+msgid "No"
+msgstr "아니오"
+
+#: modules/callout/callout.php:427
+#: modules/content-slider/content-slider.php:244
+#: modules/content-slider/content-slider.php:266
+#: modules/content-slider/content-slider.php:292
+#: modules/content-slider/content-slider.php:301
+#: modules/content-slider/content-slider.php:310
+#: modules/content-slider/content-slider.php:582 modules/icon/icon.php:113
+msgid "Yes"
+msgstr "예"
+
+#: modules/callout/callout.php:433
+msgid "Icon Structure"
+msgstr "아이콘 구조"
+
+#: modules/callout/callout.php:437 modules/icon/icon.php:123
+msgid "Size"
+msgstr "크기"
+
+#: modules/callout/callout.php:448
+#: modules/content-slider/content-slider.php:614
+msgid "Call To Action"
+msgstr "콜투액션"
+
+#: modules/callout/callout.php:456
+msgid ""
+"The link applies to the entire module. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr "링크는 전체 모듈에 적용됩니다. 아래에 콜투액션 형식을 선택할 경우, 이 링크는 텍스트 또는 버튼에 대해서도 사용됩니다."
+
+#: modules/callout/callout.php:476
+#: modules/content-slider/content-slider.php:636 modules/cta/cta.php:14
+msgid "Call to Action"
+msgstr "콜투액션"
+
+#: modules/callout/callout.php:480
+#: modules/content-slider/content-slider.php:374
+#: modules/content-slider/content-slider.php:421
+#: modules/content-slider/content-slider.php:640
+#: modules/content-slider/content-slider.php:809
+msgid "Type"
+msgstr "형식"
+
+#: modules/callout/callout.php:483
+#: modules/content-slider/content-slider.php:643
+msgctxt "Call to action."
+msgid "None"
+msgstr "없음"
+
+#: modules/callout/callout.php:501
+msgid "Read More"
+msgstr "자세한 정보"
+
+#: modules/callout/callout.php:505 modules/contact-form/contact-form.php:208
+#: modules/content-slider/content-slider.php:664
+msgid "Button Icon"
+msgstr "버튼 아이콘"
+
+#: modules/callout/callout.php:510
+#: modules/content-slider/content-slider.php:669
+msgid "Button Icon Position"
+msgstr "버튼 아이콘 위치"
+
+#: modules/callout/callout.php:529 modules/contact-form/contact-form.php:232
+#: modules/content-slider/content-slider.php:688 modules/cta/cta.php:282
+msgid "Button Colors"
+msgstr "버튼 색"
+
+#: modules/callout/callout.php:564 modules/contact-form/contact-form.php:267
+#: modules/content-slider/content-slider.php:715 modules/cta/cta.php:317
+msgid "Button Style"
+msgstr "서튼 스타일"
+
+#: modules/callout/callout.php:620 modules/contact-form/contact-form.php:323
+#: modules/content-slider/content-slider.php:771 modules/cta/cta.php:373
+msgid "Button Structure"
+msgstr "버튼 구조"
+
+#: modules/callout/callout.php:624
+msgid "Button Width"
+msgstr "버튼 너비"
+
+#: modules/contact-form/contact-form.php:14
+msgid "Contact Form"
+msgstr "연락 형식"
+
+#: modules/contact-form/contact-form.php:15
+msgid "A very simple contact form."
+msgstr "매우 단순한 연락처 폼"
+
+#: modules/contact-form/contact-form.php:36
+msgid "Contact Form Submission"
+msgstr "연락처 폼 제출"
+
+#: modules/contact-form/contact-form.php:69
+msgid "Message"
+msgstr "메시지"
+
+#: modules/contact-form/contact-form.php:105
+msgid "Send To Email"
+msgstr "이메일 보내기"
+
+#: modules/contact-form/contact-form.php:107
+msgid "example@mail.com"
+msgstr "example@mail.com"
+
+#: modules/contact-form/contact-form.php:108
+msgid "The contact form will send to this e-mail. Defaults to the admin email."
+msgstr "연락처 폼은 이 이메일을 보냅니다. 기본값은 관리자(admin) 이메일로 설정됩니다."
+
+#: modules/contact-form/contact-form.php:115
+msgid "Name Field"
+msgstr "이름란"
+
+#: modules/contact-form/contact-form.php:118
+#: modules/contact-form/contact-form.php:127
+#: modules/contact-form/contact-form.php:136
+#: modules/contact-form/contact-form.php:145
+msgid "Show"
+msgstr "보이기"
+
+#: modules/contact-form/contact-form.php:119
+#: modules/contact-form/contact-form.php:128
+#: modules/contact-form/contact-form.php:137
+#: modules/contact-form/contact-form.php:146
+msgid "Hide"
+msgstr "숨기기"
+
+#: modules/contact-form/contact-form.php:124
+msgid "Subject Field"
+msgstr "제목란"
+
+#: modules/contact-form/contact-form.php:133
+msgid "Email Field"
+msgstr "이메일란"
+
+#: modules/contact-form/contact-form.php:142
+msgid "Phone Field"
+msgstr "전화란"
+
+#: modules/contact-form/contact-form.php:152
+msgid "Success"
+msgstr "성공"
+
+#: modules/contact-form/contact-form.php:156
+msgid "Success Action"
+msgstr "성공 액션"
+
+#: modules/contact-form/contact-form.php:158
+msgid "None"
+msgstr "없음"
+
+#: modules/contact-form/contact-form.php:159
+msgid "Show Message"
+msgstr "메시지 표시"
+
+#: modules/contact-form/contact-form.php:160
+msgid "Redirect"
+msgstr "리디렉션"
+
+#: modules/contact-form/contact-form.php:179
+msgid "Thanks for your message! We’ll be in touch soon."
+msgstr "메시지를 보내 주셔서 감사합니다! 곧 연락 드리겠습니다."
+
+#: modules/contact-form/contact-form.php:186
+msgid "Success URL"
+msgstr "URL 성공!"
+
+#: modules/contact-form/contact-form.php:203
+msgid "Button Text"
+msgstr "버튼 텍스트"
+
+#: modules/contact-form/contact-form.php:204
+msgid "Send"
+msgstr "보내기"
+
+#: modules/contact-form/includes/frontend.php:5
+msgctxt "Contact form field label."
+msgid "Name"
+msgstr "이름"
+
+#: modules/contact-form/includes/frontend.php:6
+msgid "Please enter your name."
+msgstr "이름을 입력하십시오."
+
+#: modules/contact-form/includes/frontend.php:7
+msgid "Your name"
+msgstr "사용자 이름"
+
+#: modules/contact-form/includes/frontend.php:13
+#: modules/contact-form/includes/frontend.php:15
+msgid "Subject"
+msgstr "제목"
+
+#: modules/contact-form/includes/frontend.php:14
+msgid "Please enter a subject."
+msgstr "제목을 입력하십시오."
+
+#: modules/contact-form/includes/frontend.php:21
+msgid "Email"
+msgstr "이메일"
+
+#: modules/contact-form/includes/frontend.php:22
+msgid "Please enter a valid email."
+msgstr "올바른 이메일을 입력하십시오."
+
+#: modules/contact-form/includes/frontend.php:23
+msgid "Your email"
+msgstr "이메일"
+
+#: modules/contact-form/includes/frontend.php:29
+msgid "Phone"
+msgstr "전화번호"
+
+#: modules/contact-form/includes/frontend.php:30
+msgid "Please enter a valid phone number."
+msgstr "올바른 전화 번호를 입력하십시오."
+
+#: modules/contact-form/includes/frontend.php:31
+msgid "Your phone"
+msgstr "전화"
+
+#: modules/contact-form/includes/frontend.php:36
+msgid "Your Message"
+msgstr "메시지"
+
+#: modules/contact-form/includes/frontend.php:37
+msgid "Please enter a message."
+msgstr "메시지를 입력하십시오."
+
+#: modules/contact-form/includes/frontend.php:38
+msgid "Your message"
+msgstr "메시지"
+
+#: modules/contact-form/includes/frontend.php:70
+msgid "Message Sent!"
+msgstr "메시지 전송됨!"
+
+#: modules/contact-form/includes/frontend.php:73
+msgid "Message failed. Please try again."
+msgstr "메시지 전송 실패. 다시 시도해 주십시오."
+
+#: modules/content-slider/content-slider.php:14
+msgid "Content Slider"
+msgstr "컨텐트 슬라이더"
+
+#: modules/content-slider/content-slider.php:15
+msgid "Displays multiple slides with an optional heading and call to action."
+msgstr "옵션 제목 콜투액션이 있는 다수의 슬라이드를 표시합니다."
+
+#: modules/content-slider/content-slider.php:231 modules/map/map.php:42
+msgid "Height"
+msgstr "높이"
+
+#: modules/content-slider/content-slider.php:236
+msgid ""
+"This setting is the minimum height of the content slider. Content will "
+"expand the height automatically."
+msgstr "이 설정은 컨텐트 슬라이더의 최소 높이입니다. 컨텐트는 높이를 자동으로 확장합니다."
+
+#: modules/content-slider/content-slider.php:240
+msgid "Auto Play"
+msgstr "자동 재생"
+
+#: modules/content-slider/content-slider.php:254
+msgid "Delay"
+msgstr "지연"
+
+#: modules/content-slider/content-slider.php:258
+#: modules/content-slider/content-slider.php:284
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "초"
+
+#: modules/content-slider/content-slider.php:262
+msgid "Loop"
+msgstr "반복재생"
+
+#: modules/content-slider/content-slider.php:274
+msgctxt "Transition type."
+msgid "Slide"
+msgstr "슬라이드"
+
+#: modules/content-slider/content-slider.php:275
+msgid "Fade"
+msgstr "페이드"
+
+#: modules/content-slider/content-slider.php:280
+msgid "Transition Speed"
+msgstr "전환 속도"
+
+#: modules/content-slider/content-slider.php:288
+msgid "Show Play/Pause"
+msgstr "재생/멈춤 표시"
+
+#: modules/content-slider/content-slider.php:297
+msgid "Show Arrows"
+msgstr "화살표 표시"
+
+#: modules/content-slider/content-slider.php:306
+msgid "Show Dots"
+msgstr "점 표시"
+
+#: modules/content-slider/content-slider.php:316
+msgid "Advanced"
+msgstr "고급"
+
+#: modules/content-slider/content-slider.php:320
+msgid "Max Content Width"
+msgstr "최대 컨텐트 너비"
+
+#: modules/content-slider/content-slider.php:325
+msgid "The max width that the content area will be within your slides."
+msgstr "슬라이드 내에서 컨텐트 영역의 최대 너비입니다."
+
+#: modules/content-slider/content-slider.php:332
+msgid "Slides"
+msgstr "슬라이드"
+
+#: modules/content-slider/content-slider.php:339
+msgid "Slide"
+msgstr "슬라이드"
+
+#: modules/content-slider/content-slider.php:354
+msgid "Slide Settings"
+msgstr "슬라이드 설정"
+
+#: modules/content-slider/content-slider.php:364
+msgid "Slide Label"
+msgstr "슬라이드 라벨"
+
+#: modules/content-slider/content-slider.php:365
+msgid ""
+"A label to identify this slide on the Slides tab of the Content Slider "
+"settings."
+msgstr "컨텐트 슬라이더 설정의 슬라이드 탭에서 이 슬라이드를 식별하기 위한 라벨입니다."
+
+#: modules/content-slider/content-slider.php:370
+msgid "Background Layout"
+msgstr "배경 레이아웃"
+
+#: modules/content-slider/content-slider.php:376
+msgid "This setting is for the entire background of your slide."
+msgstr "이 설정은 슬라이드의 전체 배경에 사용됩니다."
+
+#: modules/content-slider/content-slider.php:379
+msgid "Video"
+msgstr "비디오"
+
+#: modules/content-slider/content-slider.php:381
+msgctxt "Background type."
+msgid "None"
+msgstr "없음"
+
+#: modules/content-slider/content-slider.php:402
+msgid "Background Photo"
+msgstr "배경 사진"
+
+#: modules/content-slider/content-slider.php:411
+msgid "Background Video Code"
+msgstr "배경 비디오 코드"
+
+#: modules/content-slider/content-slider.php:417
+msgid "Content Layout"
+msgstr "컨텐트 레이아웃"
+
+#: modules/content-slider/content-slider.php:423
+msgid ""
+"This allows you to add content over or in addition to the background "
+"selection above. The location of the content layout can be selected in the "
+"style tab."
+msgstr ""
+"이것을 사용하여 배경 선택 내용에 또는 위에 컨텐트를 추가할 수 있습니다. 컨텐트 레이아웃의 위치는 스타일 탭에서 선택할 수 있습니다."
+
+#: modules/content-slider/content-slider.php:426
+msgid "Text &amp; Photo"
+msgstr "텍스트 및 사진"
+
+#: modules/content-slider/content-slider.php:427
+msgid "Text &amp; Video"
+msgstr "텍스트 및 비디오"
+
+#: modules/content-slider/content-slider.php:428
+msgctxt "Content type."
+msgid "None"
+msgstr "없음"
+
+#: modules/content-slider/content-slider.php:451
+msgid "Video Embed Code"
+msgstr "비디오 Embed 태그"
+
+#: modules/content-slider/content-slider.php:512
+msgid "Text Position"
+msgstr "텍스트 위치"
+
+#: modules/content-slider/content-slider.php:518
+msgid ""
+"The position will move the content layout selections left, right or center "
+"over the background of the slide."
+msgstr "위치는 컨텐트 레이아웃 선택 내용을 슬라이드 배경 위에서 왼쪽, 오른쪽 또는 가운데로 이동합니다."
+
+#: modules/content-slider/content-slider.php:535
+msgid "Top Margin"
+msgstr "위쪽 여백"
+
+#: modules/content-slider/content-slider.php:543
+msgid "Bottom Margin"
+msgstr "아래쪽 여백"
+
+#: modules/content-slider/content-slider.php:551
+msgid "Left Margin"
+msgstr "왼쪽 여백"
+
+#: modules/content-slider/content-slider.php:559
+msgid "Right Margin"
+msgstr "오른쪽 여백"
+
+#: modules/content-slider/content-slider.php:568
+msgid "Text Colors"
+msgstr "텍스트 색"
+
+#: modules/content-slider/content-slider.php:578
+msgid "Text Shadow"
+msgstr "텍스트 그림자"
+
+#: modules/content-slider/content-slider.php:587
+#: modules/content-slider/content-slider.php:840
+msgid "Text Background Color"
+msgstr "텍스트 배경 색"
+
+#: modules/content-slider/content-slider.php:588
+msgid ""
+"The color applies to the overlay behind text over the background selections."
+msgstr "색은 배경 선택 내용 위에 있는 텍스트 뒤의 오버레이에 적용됩니다."
+
+#: modules/content-slider/content-slider.php:593
+msgid "Text Background Opacity"
+msgstr "텍스트 배경 불투명"
+
+#: modules/content-slider/content-slider.php:601
+msgid "Text Background Height"
+msgstr "텍스트 배경 높이"
+
+#: modules/content-slider/content-slider.php:603
+msgid ""
+"Auto will allow the overlay to fit however long the text content is. 100% "
+"will fit the overlay to the top and bottom of the slide."
+msgstr ""
+"자동은 오버레이가 텍스트 컨텐트 길이에 알맞게 조정되도록 합니다. 100%는 오버레이가 슬라이드의 위쪽과 아래쪽에 알맞게 조정되도록 합니다."
+
+#: modules/content-slider/content-slider.php:605
+msgctxt "Background height."
+msgid "Auto"
+msgstr "자동"
+
+#: modules/content-slider/content-slider.php:622
+msgid ""
+"The link applies to the entire slide. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr "링크는 전체 슬라이드에 적용됩니다. 아래에 콜투액션 형식을 선택할 경우, 이 링크는 텍스트 또는 버튼에 대해서도 사용됩니다."
+
+#: modules/content-slider/content-slider.php:791
+msgid "Border Radius"
+msgstr "테두리 반지름"
+
+#: modules/content-slider/content-slider.php:802
+msgctxt "Module settings form tab. Display on mobile devices."
+msgid "Mobile"
+msgstr "모바일"
+
+#: modules/content-slider/content-slider.php:805
+msgid "Mobile Photo"
+msgstr "휴대폰 사진"
+
+#: modules/content-slider/content-slider.php:811
+msgid ""
+"You can choose a different photo that the slide will change to on mobile "
+"devices or no photo if desired."
+msgstr "휴대용 기기에서 슬라이드가 변경하는 사진을 선택할 수 있습니다. 원하면 사진이 없어도 됩니다."
+
+#: modules/content-slider/content-slider.php:813
+msgid "Use Main Photo"
+msgstr "기본 사진 사용"
+
+#: modules/content-slider/content-slider.php:814
+msgid "Choose Another Photo"
+msgstr "다른 사진을 선택하십시오"
+
+#: modules/content-slider/content-slider.php:815
+msgid "No Photo"
+msgstr "사진 없음"
+
+#: modules/content-slider/content-slider.php:830
+msgid "Mobile Text Colors"
+msgstr "휴대용 텍스트 색"
+
+#: modules/cta/cta.php:15
+msgid "Display a heading, subheading and a button."
+msgstr "제목글, 부제목글 및 버튼을 표시합니다."
+
+#: modules/cta/cta.php:78
+msgid "Ready to find out more?"
+msgstr "더 자세히 알아볼 준비가 되었나요?"
+
+#: modules/cta/cta.php:94
+msgid "Drop us a line today for a free quote!"
+msgstr "무료 견적을 받으려면 오늘 메일 주세요!"
+
+#: modules/cta/cta.php:112 modules/gallery/gallery.php:228
+msgid "Layout"
+msgstr "레이아웃"
+
+#: modules/cta/cta.php:115
+msgid "Inline"
+msgstr "인라인"
+
+#: modules/cta/cta.php:116
+msgid "Stacked"
+msgstr "쌓기"
+
+#: modules/cta/cta.php:136
+msgid "Spacing"
+msgstr "간격"
+
+#: modules/cta/cta.php:258
+msgid "Button Link"
+msgstr "버튼 링크"
+
+#: modules/gallery/gallery.php:14
+msgid "Gallery"
+msgstr "갤러리"
+
+#: modules/gallery/gallery.php:15
+msgid "Display multiple photos in a gallery view."
+msgstr "갤러리 뷰에 다수의 사진을 표시합니다."
+
+#: modules/gallery/gallery.php:231
+msgid "Collage"
+msgstr "콜라주"
+
+#: modules/gallery/gallery.php:232
+msgctxt "Gallery layout: thumbnails."
+msgid "Thumbs"
+msgstr "위치 조정"
+
+#: modules/gallery/gallery.php:242
+msgid "Source"
+msgstr "소스"
+
+#: modules/gallery/gallery.php:245
+msgid "Media Library"
+msgstr "미디어 라이브러리"
+
+#: modules/gallery/gallery.php:248
+msgid ""
+"Pull images from the WordPress media library or a gallery on your SmugMug "
+"site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be "
+"accessed by using the get a link function in your SmugMug gallery."
+msgstr ""
+"SmugMug에서 RSS 피드 URL을 삽입하여 워드프레스 미디어 라이브러리 또는 귀하의 SmugMug 사이트의 갤러리에서 이미지를 "
+"가져옵니다. RSS 피드 URL은 SmugMug 갤러리에서 링크 가져오기 기능을 사용하여 액세스할 수 있습니다."
+
+#: modules/gallery/gallery.php:260
+msgid "Photos"
+msgstr "사진"
+
+#: modules/gallery/gallery.php:264
+msgid "Feed URL"
+msgstr "피드 URL"
+
+#: modules/gallery/gallery.php:268
+msgid "Photo Size"
+msgstr "사진 크기"
+
+#: modules/gallery/gallery.php:271
+msgctxt "Photo size."
+msgid "Small"
+msgstr "작음"
+
+#: modules/gallery/gallery.php:272
+msgctxt "Photo size."
+msgid "Medium"
+msgstr "중간"
+
+#: modules/gallery/gallery.php:273
+msgctxt "Photo size."
+msgid "Large"
+msgstr "큼"
+
+#: modules/gallery/gallery.php:278
+msgid "Photo Spacing"
+msgstr "사진 간격"
+
+#: modules/gallery/gallery.php:286
+msgid "Show Captions"
+msgstr "캡션 표시"
+
+#: modules/gallery/gallery.php:289
+msgid "Never"
+msgstr "없음"
+
+#: modules/gallery/gallery.php:290
+msgid "On Hover"
+msgstr "마우스로 가리킨 경우 표시"
+
+#: modules/gallery/gallery.php:291
+msgid "Below Photo"
+msgstr "아래 사진"
+
+#: modules/gallery/gallery.php:293
+msgid ""
+"The caption pulls from whatever text you put in the caption area in the "
+"media manager for each image. The caption is also pulled directly from "
+"SmugMug if you have captions set in your gallery."
+msgstr ""
+"각 그림에 대한 미디어 관리자의 캡션 영역에 입력한 텍스트에서 캡션을 가져옵니다. 또한 갤러리에 캡션을 설정한 경우 SmugMug에서 "
+"캡션을 직접 가져옵니다."
+
+#: modules/gallery/gallery.php:297
+msgid "Click Action"
+msgstr "클릭 액션"
+
+#: modules/gallery/gallery.php:300
+msgctxt "Click action."
+msgid "None"
+msgstr "없음"
+
+#: modules/gallery/gallery.php:301
+msgid "Lightbox"
+msgstr "라이트박스"
+
+#: modules/gallery/gallery.php:302
+msgid "Photo Link"
+msgstr "사진 링크"
+
+#: modules/icon/icon.php:15
+msgid "Display an icon and optional title."
+msgstr "아이콘과 옵션 제목을 표시합니다."
+
+#: modules/icon/icon.php:142
+msgid "Mobile Structure"
+msgstr "휴대용 구조"
+
+#: modules/icon/icon.php:160
+msgid "Custom Alignment"
+msgstr "사용자 지정 정렬"
+
+#: modules/map/map.php:14
+msgid "Map"
+msgstr "지도"
+
+#: modules/map/map.php:15
+msgid "Display a Google map."
+msgstr "Google 지도 표시."
+
+#: modules/map/map.php:34
+msgid "Address"
+msgstr "주소"
+
+#: modules/map/map.php:35
+msgid "1865 Winchester Blvd #202 Campbell, CA 95008"
+msgstr "1865 Winchester Blvd #202 Campbell, CA 95008"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.wpbeaverbuilder.com"
+msgstr "http://www.wpbeaverbuilder.com"
+
+#. Description of the plugin/theme
+msgid "Additional functionality for Beaver Builder lite."
+msgstr "Beaver Builder Lite의 추가 기능"
+
+#. Author of the plugin/theme
+msgid "The Beaver Builder Team"
+msgstr "Beaver 빌더 팀"

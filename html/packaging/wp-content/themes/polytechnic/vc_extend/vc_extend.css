@@ -1,0 +1,282 @@
+/* =========== #HOVER GRID VIDEO - SUPPORTS VIDEO AS PRIMARY/LARGE IMAGE REPLACEMENT WITH THIS ASPECT RATIO  */
+#page #section-content .hover-grid .wpb_video_widget.vc_video-aspect-ratio-43 {
+    margin-bottom: 1.4rem;
+}
+#page #section-content .hover-grid .wpb_video_widget.vc_video-aspect-ratio-43 .wpb_video_wrapper {
+  padding-top: 67.25%;
+}
+
+
+/* =========== #SINGLE IMAGE HOVER START  */
+.hover-image {
+  z-index: 1;
+}
+/*   PADDING FOR GRID   */
+#page .wpb_row.vc_row-fluid.hover-grid, .hover-grid .wpb_row.vc_row-fluid {
+  margin-bottom: 0.7rem !important;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+}
+.hover-grid .wpb_column {
+    padding: 0 8px;
+}
+#page .hover-grid .vc_column-inner {
+  padding: 0;
+}
+/*   PADDING FOR MODULES   */
+#page .hover-grid .wpb_content_element.hover-image,
+#page .hover-grid .wpb_content_element.wpb_gallery {
+  margin-bottom: 0.7rem !important;    /* 1.4 or 0.7rem if using hover-image class for hover image*/
+  margin-top: 0rem !important;
+  }
+/**
+ * This hack targets the Webkit browser engine
+ * which includes Safari and Chrome.
+ */
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+    /* Safari and Chrome, if Chrome rule needed */
+    #page .hover-grid .wpb_content_element.hover-image {
+    margin-bottom: 0 !important;
+    padding-bottom: 9px !important;
+    }
+ 
+    /* Safari 5+ ONLY */
+    ::i-block-chrome, #page .hover-grid .wpb_content_element.hover-image {
+    margin-bottom: 0 !important;
+    padding-bottom: 15px !important;
+    }
+}
+      
+  .hover-grid .wpb_column.column_container {
+    padding-left: 0.7rem !important;
+    padding-right: 0.7rem !important;
+  }
+
+  /*#page .wpb_content_element.hover-image, #page .wpb_content_element.wpb_gallery {
+  margin-bottom: 0.7rem !important;
+  margin-top: 0rem !important;
+}
+.wpb_column.column_container {
+  padding-left: .7rem!important;
+  padding-right: .7rem !important;
+}
+  #page .wpb_content_element.hover-image, #page .wpb_content_element.wpb_gallery {
+      margin-bottom: 1.5rem;
+      margin-top: -1rem;
+    }
+*/
+
+/*   CONTENT STYLING  */
+
+.hover-grid .content-inner h3 {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-family: "Source Sans Pro",sans-serif !important;
+}
+.hover-grid .content-inner > h4 {
+    color: #ffffff;
+    font-size: 1.6rem;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.4rem;
+    margin: 0.2rem 0 1.4rem;
+    text-transform: capitalize;
+}
+.hover-grid .content-inner a {color: white !important;}
+
+.hover-grid .module-content .custom-pack-icon{margin-left: -3px;}
+
+.hover-image .module-content {
+    backface-visibility: hidden;
+    height: 40px;
+    left: 0;
+    opacity: 1;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: absolute;
+    width: 101%;
+    bottom: -1px;
+    text-align: left;
+}
+.hover-image .content-inner p {
+  margin-bottom: 1.4rem !important;
+}
+.hover-image .content-inner .icon-content {
+  color: #FFFFFF;
+  font-style: italic;
+  font-weight: 600 !important;
+  padding-left: 2px;
+}
+.hover-image .su-lightbox a {
+  color: #FFFFFF;
+}
+
+.hover-grid .entry-content img {
+  border-radius: 0px;
+}
+
+.hover-image .module-content .content-inner {
+  color: #FFFFFF;
+  line-height: 2rem;
+  padding: 10px 13px;
+}
+  .hover-image .module-content .content-inner p {
+  color: #FFFFFF;
+}
+#page #secondary .hover-image .content-inner > hr, #page .hover-image .content-inner > hr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  margin: 1rem 0 !important;
+}
+
+.hover-grid .icon > i {
+    display: inline-block;
+    font-size: 20px;
+    line-height: 1;
+    position: relative;
+    top: 5px;
+}
+
+#page .widget_text .content-inner * {
+  color: #ffffff;
+}
+
+
+/*   SET DEFAULTS: Primary Container  */
+.hover-image .module-inner {
+  overflow: hidden !important;
+  position: relative;
+  display: inline-block;
+}
+/* .hover-image .module-inner {
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+} */
+
+
+/*   SET DEFAULTS: Content  */
+.hover-image .module-content {
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.hover-image .module-content {
+	  backface-visibility: hidden;
+	  height: 0%;
+	  left: 0;
+	  opacity: 1;
+	  overflow-x: hidden;
+	  overflow-y: hidden;
+	  position: absolute;
+	  width: 100%;
+	  bottom: 0; /*-1%*/
+    z-index: 999;
+}
+
+/*   SET DEFAULTS: Background;  */
+.hover-image .module-background {
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    transition:all 1s ease;
+}
+.hover-image .module-background {
+    backface-visibility: hidden;
+    height: 0%;
+    left: 0;
+    opacity: 1;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: absolute;
+    width: 100%;
+    bottom: 0; /*-1%*/
+    z-index: 2;
+}
+
+/*   SET TRANSITION TYPE */
+/*  - Content - Hover Transition 1: Slide Up 
+.hover-image .module-inner:hover .module-content, 
+.hover-image .module-inner:hover .module-background {
+	height: 100% !important;
+}-  */
+
+
+
+/* MEDIA QUERIES */
+
+/* #Large Screens */
+@media only screen and (min-width: 1250px) {
+
+  #page .hover-image .content-inner h4 {font-size: 1.6rem;}
+  #page .hover-image .content-inner > p {font-size: 1.4rem;}
+
+}
+
+/*  #Small Desktop */
+@media only screen and (max-width: 1100px) {
+
+  #page .hover-image .content-inner h4 {font-size: 1.4rem;}
+  #page .hover-image .content-inner > p {font-size: 1.4rem;}
+
+}
+
+/*  #Extra Small Desktop */
+@media only screen and (max-width: 950px) {
+
+  #page .hover-image .content-inner h4 {font-size: 1.2rem;}
+  #page .hover-image .content-inner > p {font-size: 1.4rem;}
+
+}
+
+
+/* #Tablet (Portrait) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+  .hover-image .module-content .content-inner {
+      line-height: 2rem;
+      padding: 3px 7px;
+  }
+  .hover-grid .content-inner > h4 {
+      color: #ffffff;
+      font-size: 1.2rem;
+      font-weight: 300;
+      letter-spacing: 0;
+      line-height: 1.4rem;
+      margin: 0.2rem 0 1rem;
+      text-transform: capitalize;
+  }
+  #page .hover-image .content-inner > p {
+    font-size: 1.4rem;
+    margin-bottom: .5rem !important;
+  }
+}
+
+
+/*  #Tablet Viewport */
+@media only screen and (max-width: 767px) {
+
+  #page .hover-image .content-inner h4 {font-size: 1.6rem;}
+  #page .hover-image .content-inner > p {font-size: 1.4rem;}
+
+}
+
+/* #Mobile Viewport Large */
+@media only screen and (max-width: 500px) {
+
+  #page .hover-image .content-inner > p {font-size: 1.6rem;}
+
+}
+
+/* #Mobile Viewport Reg */
+@media only screen and (max-width: 400px) {
+
+  #page .hover-image .content-inner h4 {font-size: 1.6rem;}
+  #page .hover-image .content-inner > p {font-size: 1.4rem;}
+
+}
+
+/* #Mobile Viewport Small */
+@media only screen and (max-width: 350px) {
+
+  #page .hover-image .content-inner h4 {font-size: 1.6rem;}
+  #page .hover-image .content-inner > p {font-size: 1.4rem;}
+
+}

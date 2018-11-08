@@ -1,0 +1,14 @@
+div.swfobject_center {
+  text-align: center;
+}
+div.swfobject_center div.jj_swf_object_container_wrapper{
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+}
+ul.ul_jj_swfobject,
+li.li_jj_swfobject {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}

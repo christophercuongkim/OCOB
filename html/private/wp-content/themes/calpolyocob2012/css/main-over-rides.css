@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document - over rides for standard css */
+
+/*general stuff*/
+h1, #mainLeft h1 a, #mainLeftFull h1 a, #mainColFull h1 a {
+	margin-bottom:0px;	
+}
+
+.clearleft{
+	max-width: inherit;
+}
+
+.quickFix{
+	line-height: inherit;
+}
+
+h2, h2 a:link, h2 a:visited, #mainLeft h2 a:link, #mainLeft h2 a:visited, #mainLeftFull h2 a:link, #mainLeftFull h2 a:visited, #mainColFull h2 a:link, #mainColFull h2 a:visited {
+border-bottom: none;
+font-size: 20px;
+color: #2e562c;
+font-family: "Calibri", Arial, Helvetica, sans-serif;
+font-weight: bold;
+margin: 5px 0 5px;
+padding-top: 10px;
+}
+/*end general stuff*/
+
+/*header stuff*/
+div#header div#headerContent div#deptName h3.h3_header_subtitle {
+color: #6a6a6a;
+font-style: italic;
+font-family: "Times New Roman",Times,serif;
+font-weight: normal;
+margin: 0;
+padding: 0;
+text-decoration: none;
+font-size:24px;
+}
+
+/*end header stuff*/
+
+
+
+/*homepage fixes*/
+/*end home page slider fix for clickable slides*/
+div.heroBlock.heroBlockActive {
+position: absolute;
+width: 100%;
+height:100%;
+left: 0;
+display: inline-block;
+z-index: 999;
+}
+/*end home page slider fixes*/
+
+div.home_mainbody_text_container {
+	padding:10px 10px 0px 10px;
+	display:inline-block;
+	width:auto;
+}
+
+div.home_mainbody_text {
+	display:inline-block;
+	width:auto;
+}
+
+/*end homepage fixes*/
+
+/*Side menu fixes*/
+div#rightCol ul.sub-menu {
+	width:100%;	
+}
+
+div#rightCol ul.sub-menu li ul.sub-menu {
+	width:171px;	
+}
+
+div#rightCol ul.sub-menu li ul.sub-menu:hover {
+	width:169px;	
+}
+
+/*End Side menu fixes*/
+/* Bootstrap Fixes */
+h1, h2, h3{
+	line-height: inherit;
+}
+
+li{
+	line-height: normal
+}
+
+p a, #mainLeft p a, #mainLeftFull p a, #mainColFull p a{
+	border: none;
+}
+
+p a:hover, #mainLeft p a:hover, #mainLeftFull p a:hover, #mainColFull p a:hover{
+	border: none;
+}
+/*End Bootstrap Fixes*/

@@ -1,0 +1,1184 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Beaver Builder Booster\n"
+"POT-Creation-Date: 2016-09-06 14:53-0500\n"
+"PO-Revision-Date: 2016-09-06 14:53-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bb-booster.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bb-booster.php:92
+msgid "The Beaver Builder Booster plugin is not compatible with your host."
+msgstr "Il plug-in Beaver Builder Booster non è compatibile con questo host."
+
+#: classes/class-fl-builder-booster-customizer.php:56
+msgid "Use an easy drag-and-drop builder to edit content on this page."
+msgstr "Usa un facile strumento di trascinamento della selezione per modificare il contenuto di questa pagina."
+
+#: classes/class-fl-builder-booster-customizer.php:57
+msgid "Launch Page Builder"
+msgstr "Avvia Page Builder"
+
+#: classes/class-fl-builder-booster-pointer.php:62
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: classes/class-fl-builder-booster-pointer.php:64
+#, php-format
+msgctxt "%s is the singular post type name (e.g. page)"
+msgid ""
+"Click here to edit content on this %s using an easy drag-and-drop builder."
+msgstr ""
+"Fai clic qui per modificare il contenuto di questa %s usando un facile "
+"strumento di trascinamento della selezione."
+
+#. Plugin Name of the plugin/theme
+#: classes/class-fl-builder-booster-updater.php:23
+msgid "Beaver Builder Booster"
+msgstr "Booster di Beaver Builder"
+
+#: modules/button/button.php:14 modules/callout/callout.php:485
+#: modules/contact-form/contact-form.php:196
+#: modules/content-slider/content-slider.php:645 modules/cta/cta.php:218
+msgid "Button"
+msgstr "Pulsante"
+
+#: modules/button/button.php:15
+msgid "A simple call to action button."
+msgstr "Un semplice pulsante di invito all’azione."
+
+#: modules/button/button.php:16
+msgid "Basic Modules"
+msgstr "Moduli base"
+
+#: modules/button/button.php:60 modules/callout/callout.php:214
+#: modules/contact-form/contact-form.php:98
+#: modules/content-slider/content-slider.php:224
+#: modules/content-slider/content-slider.php:357 modules/cta/cta.php:70
+#: modules/gallery/gallery.php:221 modules/icon/icon.php:28
+#: modules/map/map.php:27
+msgid "General"
+msgstr "Generale"
+
+#: modules/button/button.php:67 modules/callout/callout.php:230
+#: modules/callout/callout.php:484 modules/callout/callout.php:500
+#: modules/content-slider/content-slider.php:425
+#: modules/content-slider/content-slider.php:660 modules/cta/cta.php:87
+#: modules/cta/cta.php:225
+msgid "Text"
+msgstr "Testo"
+
+#: modules/button/button.php:68 modules/cta/cta.php:226
+msgid "Click Here"
+msgstr "Fai clic qui"
+
+#: modules/button/button.php:76 modules/callout/callout.php:323
+#: modules/callout/callout.php:371 modules/callout/callout.php:375
+#: modules/cta/cta.php:234 modules/icon/icon.php:14 modules/icon/icon.php:35
+msgid "Icon"
+msgstr "Icona"
+
+#: modules/button/button.php:81 modules/contact-form/contact-form.php:213
+#: modules/cta/cta.php:239
+msgid "Icon Position"
+msgstr "Posizione icona"
+
+#: modules/button/button.php:84 modules/callout/callout.php:513
+#: modules/contact-form/contact-form.php:216
+#: modules/content-slider/content-slider.php:672 modules/cta/cta.php:242
+msgid "Before Text"
+msgstr "Testo precedente"
+
+#: modules/button/button.php:85 modules/callout/callout.php:514
+#: modules/contact-form/contact-form.php:217
+#: modules/content-slider/content-slider.php:673 modules/cta/cta.php:243
+msgid "After Text"
+msgstr "Testo successivo"
+
+#: modules/button/button.php:90 modules/callout/callout.php:519
+#: modules/contact-form/contact-form.php:222
+#: modules/content-slider/content-slider.php:678 modules/cta/cta.php:248
+msgid "Icon Visibility"
+msgstr "Visibilità icona"
+
+#: modules/button/button.php:93 modules/callout/callout.php:522
+#: modules/contact-form/contact-form.php:225
+#: modules/content-slider/content-slider.php:681 modules/cta/cta.php:251
+msgid "Always Visible"
+msgstr "Sempre visibile"
+
+#: modules/button/button.php:94 modules/callout/callout.php:523
+#: modules/contact-form/contact-form.php:226
+#: modules/content-slider/content-slider.php:682 modules/cta/cta.php:252
+msgid "Fade In On Hover"
+msgstr "Dissolvenza in entrata al passaggio del mouse"
+
+#: modules/button/button.php:100 modules/button/button.php:104
+#: modules/callout/callout.php:451 modules/callout/callout.php:455
+#: modules/content-slider/content-slider.php:617
+#: modules/content-slider/content-slider.php:621
+#: modules/content-slider/content-slider.php:644 modules/cta/cta.php:262
+#: modules/icon/icon.php:40 modules/icon/icon.php:44
+msgid "Link"
+msgstr "Link"
+
+#: modules/button/button.php:105
+msgid "http://www.example.com"
+msgstr "http://www.example.com"
+
+#: modules/button/button.php:112 modules/callout/callout.php:463
+#: modules/content-slider/content-slider.php:626 modules/cta/cta.php:269
+#: modules/icon/icon.php:51
+msgid "Link Target"
+msgstr "Destinazione del collegamento"
+
+#: modules/button/button.php:115 modules/callout/callout.php:466
+#: modules/content-slider/content-slider.php:629 modules/cta/cta.php:272
+#: modules/icon/icon.php:54
+msgid "Same Window"
+msgstr "Stessa finestra"
+
+#: modules/button/button.php:116 modules/callout/callout.php:467
+#: modules/content-slider/content-slider.php:630 modules/cta/cta.php:273
+#: modules/icon/icon.php:55
+msgid "New Window"
+msgstr "Nuova finestra"
+
+#: modules/button/button.php:127 modules/button/button.php:165
+#: modules/button/button.php:169 modules/callout/callout.php:247
+#: modules/callout/callout.php:568 modules/contact-form/contact-form.php:271
+#: modules/content-slider/content-slider.php:469
+#: modules/content-slider/content-slider.php:719 modules/cta/cta.php:105
+#: modules/cta/cta.php:321 modules/icon/icon.php:76
+msgid "Style"
+msgstr "Stile"
+
+#: modules/button/button.php:130 modules/cta/cta.php:191
+#: modules/icon/icon.php:79
+msgid "Colors"
+msgstr "Colori"
+
+#: modules/button/button.php:134 modules/callout/callout.php:410
+#: modules/callout/callout.php:533 modules/contact-form/contact-form.php:236
+#: modules/content-slider/content-slider.php:406
+#: modules/content-slider/content-slider.php:692 modules/cta/cta.php:201
+#: modules/cta/cta.php:286 modules/icon/icon.php:96
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: modules/button/button.php:140 modules/callout/callout.php:415
+#: modules/callout/callout.php:539 modules/contact-form/contact-form.php:242
+#: modules/content-slider/content-slider.php:698 modules/cta/cta.php:292
+#: modules/icon/icon.php:101
+msgid "Background Hover Color"
+msgstr "Colore sfondo al passaggio del mouse"
+
+#: modules/button/button.php:149 modules/callout/callout.php:548
+#: modules/contact-form/contact-form.php:251
+#: modules/content-slider/content-slider.php:572
+#: modules/content-slider/content-slider.php:703
+#: modules/content-slider/content-slider.php:834 modules/cta/cta.php:195
+#: modules/cta/cta.php:301
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: modules/button/button.php:155 modules/callout/callout.php:554
+#: modules/contact-form/contact-form.php:257
+#: modules/content-slider/content-slider.php:709 modules/cta/cta.php:307
+msgid "Text Hover Color"
+msgstr "Colore testo al passaggio del mouse"
+
+#: modules/button/button.php:172 modules/callout/callout.php:571
+#: modules/contact-form/contact-form.php:274
+#: modules/content-slider/content-slider.php:722 modules/cta/cta.php:324
+msgid "Flat"
+msgstr "Semplice"
+
+#: modules/button/button.php:173 modules/callout/callout.php:423
+#: modules/callout/callout.php:572 modules/contact-form/contact-form.php:275
+#: modules/content-slider/content-slider.php:723 modules/cta/cta.php:325
+#: modules/icon/icon.php:109
+msgid "Gradient"
+msgstr "Sfumature"
+
+#: modules/button/button.php:174 modules/callout/callout.php:573
+#: modules/contact-form/contact-form.php:276
+#: modules/content-slider/content-slider.php:724 modules/cta/cta.php:326
+msgid "Transparent"
+msgstr "Trasparente"
+
+#: modules/button/button.php:184 modules/callout/callout.php:583
+#: modules/contact-form/contact-form.php:286
+#: modules/content-slider/content-slider.php:734 modules/cta/cta.php:336
+msgid "Border Size"
+msgstr "Dimensione bordo"
+
+#: modules/button/button.php:193 modules/callout/callout.php:592
+#: modules/contact-form/contact-form.php:295
+#: modules/content-slider/content-slider.php:743 modules/cta/cta.php:207
+#: modules/cta/cta.php:345
+msgid "Background Opacity"
+msgstr "Opacità sfondo"
+
+#: modules/button/button.php:202 modules/callout/callout.php:601
+#: modules/contact-form/contact-form.php:304
+#: modules/content-slider/content-slider.php:752 modules/cta/cta.php:354
+msgid "Background Hover Opacity"
+msgstr "Opacità sfondo al passaggio del mouse"
+
+#: modules/button/button.php:211 modules/callout/callout.php:610
+#: modules/contact-form/contact-form.php:313
+#: modules/content-slider/content-slider.php:271
+#: modules/content-slider/content-slider.php:761 modules/cta/cta.php:363
+msgid "Transition"
+msgstr "Transizione"
+
+#: modules/button/button.php:214 modules/callout/callout.php:613
+#: modules/contact-form/contact-form.php:316
+#: modules/content-slider/content-slider.php:764 modules/cta/cta.php:366
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: modules/button/button.php:215 modules/callout/callout.php:614
+#: modules/contact-form/contact-form.php:317
+#: modules/content-slider/content-slider.php:765 modules/cta/cta.php:367
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: modules/button/button.php:221 modules/callout/callout.php:250
+#: modules/cta/cta.php:108 modules/icon/icon.php:119
+msgid "Structure"
+msgstr "Struttura"
+
+#: modules/button/button.php:225 modules/contact-form/contact-form.php:327
+#: modules/content-slider/content-slider.php:527
+msgid "Width"
+msgstr "Larghezza"
+
+#: modules/button/button.php:228 modules/callout/callout.php:627
+#: modules/contact-form/contact-form.php:330
+msgctxt "Width."
+msgid "Auto"
+msgstr "Auto"
+
+#: modules/button/button.php:229 modules/callout/callout.php:628
+#: modules/contact-form/contact-form.php:331
+msgid "Full Width"
+msgstr "Larghezza piena"
+
+#: modules/button/button.php:230 modules/callout/callout.php:290
+#: modules/content-slider/content-slider.php:493 modules/cta/cta.php:172
+#: modules/icon/icon.php:150
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: modules/button/button.php:244
+msgid "Custom Width"
+msgstr "Larghezza personalizzata"
+
+#: modules/button/button.php:252 modules/contact-form/contact-form.php:336
+#: modules/cta/cta.php:126 modules/icon/icon.php:131 modules/icon/icon.php:146
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: modules/button/button.php:255 modules/callout/callout.php:257
+#: modules/contact-form/contact-form.php:340
+#: modules/content-slider/content-slider.php:521 modules/cta/cta.php:130
+#: modules/icon/icon.php:134 modules/icon/icon.php:164
+msgid "Center"
+msgstr "Centro"
+
+#: modules/button/button.php:256 modules/callout/callout.php:258
+#: modules/contact-form/contact-form.php:339
+#: modules/content-slider/content-slider.php:520 modules/cta/cta.php:129
+#: modules/icon/icon.php:135 modules/icon/icon.php:163
+msgid "Left"
+msgstr "Sinistra"
+
+#: modules/button/button.php:257 modules/callout/callout.php:259
+#: modules/contact-form/contact-form.php:341
+#: modules/content-slider/content-slider.php:522 modules/cta/cta.php:131
+#: modules/icon/icon.php:136 modules/icon/icon.php:165
+msgid "Right"
+msgstr "Destra"
+
+#: modules/button/button.php:262 modules/callout/callout.php:633
+#: modules/contact-form/contact-form.php:346
+#: modules/content-slider/content-slider.php:775 modules/cta/cta.php:377
+msgid "Font Size"
+msgstr "Dimensione carattere"
+
+#: modules/button/button.php:270 modules/callout/callout.php:641
+#: modules/contact-form/contact-form.php:354
+#: modules/content-slider/content-slider.php:783 modules/cta/cta.php:385
+msgid "Padding"
+msgstr "Padding"
+
+#: modules/button/button.php:278 modules/callout/callout.php:649
+#: modules/contact-form/contact-form.php:362 modules/cta/cta.php:393
+msgid "Round Corners"
+msgstr "Angoli arrotondati"
+
+#: modules/callout/callout.php:14
+msgid "Callout"
+msgstr "Callout"
+
+#: modules/callout/callout.php:15
+msgid "A heading and snippet of text with an optional link, icon and image."
+msgstr "Un’intestazione e uno snippet di testo con un link, un’icona e un’immagine opzionali."
+
+#: modules/callout/callout.php:16 modules/contact-form/contact-form.php:16
+#: modules/content-slider/content-slider.php:16 modules/cta/cta.php:16
+#: modules/gallery/gallery.php:16 modules/icon/icon.php:16
+#: modules/map/map.php:16
+msgid "Advanced Modules"
+msgstr "Moduli avanzati"
+
+#: modules/callout/callout.php:221
+#: modules/content-slider/content-slider.php:456
+#: modules/content-slider/content-slider.php:472 modules/cta/cta.php:77
+msgid "Heading"
+msgstr "Intestazione"
+
+#: modules/callout/callout.php:254
+msgid "Overall Alignment"
+msgstr "Allineamento generale"
+
+#: modules/callout/callout.php:261
+msgid "The alignment that will apply to all elements within the callout."
+msgstr "L’allineamento che verrà applicato a tutti gli elementi all’interno del callout."
+
+#: modules/callout/callout.php:269 modules/cta/cta.php:151
+msgid "Heading Structure"
+msgstr "Struttura intestazione"
+
+#: modules/callout/callout.php:273
+#: modules/content-slider/content-slider.php:476 modules/cta/cta.php:155
+msgid "Heading Tag"
+msgstr "Tag intestazione"
+
+#: modules/callout/callout.php:286
+#: modules/content-slider/content-slider.php:489
+#: modules/content-slider/content-slider.php:503 modules/cta/cta.php:168
+msgid "Heading Size"
+msgstr "Dimensione intestazione"
+
+#: modules/callout/callout.php:289
+#: modules/content-slider/content-slider.php:492 modules/cta/cta.php:171
+#: modules/icon/icon.php:149
+msgid "Default"
+msgstr "Default"
+
+#: modules/callout/callout.php:300 modules/cta/cta.php:182
+msgid "Heading Custom Size"
+msgstr "Dimensione personalizzata intestazione"
+
+#: modules/callout/callout.php:311
+msgid "Image"
+msgstr "Immagine"
+
+#: modules/callout/callout.php:318
+msgid "Image Type"
+msgstr "Tipo immagine"
+
+#: modules/callout/callout.php:321
+msgctxt "Image type."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/callout/callout.php:322 modules/callout/callout.php:338
+#: modules/callout/callout.php:342
+#: modules/content-slider/content-slider.php:378
+#: modules/content-slider/content-slider.php:447
+#: modules/content-slider/content-slider.php:825
+msgid "Photo"
+msgstr "Foto"
+
+#: modules/callout/callout.php:346
+msgid "Crop"
+msgstr "Ritaglio"
+
+#: modules/callout/callout.php:349
+msgctxt "Photo Crop."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/callout/callout.php:350
+msgid "Landscape"
+msgstr "Paesaggio"
+
+#: modules/callout/callout.php:351
+msgid "Panorama"
+msgstr "Panorama"
+
+#: modules/callout/callout.php:352
+msgid "Portrait"
+msgstr "Ritratto"
+
+#: modules/callout/callout.php:353
+msgid "Square"
+msgstr "Quadrato"
+
+#: modules/callout/callout.php:354
+msgid "Circle"
+msgstr "Cerchio"
+
+#: modules/callout/callout.php:359 modules/callout/callout.php:379
+#: modules/content-slider/content-slider.php:516
+msgid "Position"
+msgstr "Posizione"
+
+#: modules/callout/callout.php:362 modules/callout/callout.php:382
+msgid "Above Heading"
+msgstr "Sopra l’intestazione"
+
+#: modules/callout/callout.php:363 modules/callout/callout.php:383
+msgid "Below Heading"
+msgstr "Sotto l’intestazione"
+
+#: modules/callout/callout.php:364 modules/callout/callout.php:386
+msgid "Left of Text and Heading"
+msgstr "A sinistra del testo e dell’intestazione"
+
+#: modules/callout/callout.php:365 modules/callout/callout.php:387
+msgid "Right of Text and Heading"
+msgstr "A destra del testo e dell’intestazione"
+
+#: modules/callout/callout.php:384
+msgid "Left of Heading"
+msgstr "A sinistra dell’intestazione"
+
+#: modules/callout/callout.php:385
+msgid "Right of Heading"
+msgstr "A destra dell’intestazione"
+
+#: modules/callout/callout.php:393
+msgid "Icon Colors"
+msgstr "Colori icona"
+
+#: modules/callout/callout.php:397
+#: modules/content-slider/content-slider.php:380 modules/icon/icon.php:83
+msgid "Color"
+msgstr "Colore"
+
+#: modules/callout/callout.php:402 modules/icon/icon.php:88
+msgid "Hover Color"
+msgstr "Colore al passaggio del mouse"
+
+#: modules/callout/callout.php:426
+#: modules/content-slider/content-slider.php:243
+#: modules/content-slider/content-slider.php:265
+#: modules/content-slider/content-slider.php:291
+#: modules/content-slider/content-slider.php:300
+#: modules/content-slider/content-slider.php:309
+#: modules/content-slider/content-slider.php:581 modules/icon/icon.php:112
+msgid "No"
+msgstr "No"
+
+#: modules/callout/callout.php:427
+#: modules/content-slider/content-slider.php:244
+#: modules/content-slider/content-slider.php:266
+#: modules/content-slider/content-slider.php:292
+#: modules/content-slider/content-slider.php:301
+#: modules/content-slider/content-slider.php:310
+#: modules/content-slider/content-slider.php:582 modules/icon/icon.php:113
+msgid "Yes"
+msgstr "Si"
+
+#: modules/callout/callout.php:433
+msgid "Icon Structure"
+msgstr "Struttura icona"
+
+#: modules/callout/callout.php:437 modules/icon/icon.php:123
+msgid "Size"
+msgstr "Dimensione"
+
+#: modules/callout/callout.php:448
+#: modules/content-slider/content-slider.php:614
+msgid "Call To Action"
+msgstr "Invito all'azione"
+
+#: modules/callout/callout.php:456
+msgid ""
+"The link applies to the entire module. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr ""
+"Il link viene applicato a tutto il modulo. Se si sceglie un tipo di invito "
+"all’azione qui sotto, questo link verrà utilizzato anche per il testo o il pulsante."
+
+#: modules/callout/callout.php:476
+#: modules/content-slider/content-slider.php:636 modules/cta/cta.php:14
+msgid "Call to Action"
+msgstr "Invito all'azione"
+
+#: modules/callout/callout.php:480
+#: modules/content-slider/content-slider.php:374
+#: modules/content-slider/content-slider.php:421
+#: modules/content-slider/content-slider.php:640
+#: modules/content-slider/content-slider.php:809
+msgid "Type"
+msgstr "Tipo"
+
+#: modules/callout/callout.php:483
+#: modules/content-slider/content-slider.php:643
+msgctxt "Call to action."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/callout/callout.php:501
+msgid "Read More"
+msgstr "Per saperne di più"
+
+#: modules/callout/callout.php:505 modules/contact-form/contact-form.php:208
+#: modules/content-slider/content-slider.php:664
+msgid "Button Icon"
+msgstr "Icona pulsante"
+
+#: modules/callout/callout.php:510
+#: modules/content-slider/content-slider.php:669
+msgid "Button Icon Position"
+msgstr "Posizione icona pulsante"
+
+#: modules/callout/callout.php:529 modules/contact-form/contact-form.php:232
+#: modules/content-slider/content-slider.php:688 modules/cta/cta.php:282
+msgid "Button Colors"
+msgstr "Colori pulsante"
+
+#: modules/callout/callout.php:564 modules/contact-form/contact-form.php:267
+#: modules/content-slider/content-slider.php:715 modules/cta/cta.php:317
+msgid "Button Style"
+msgstr "Stile pulsante"
+
+#: modules/callout/callout.php:620 modules/contact-form/contact-form.php:323
+#: modules/content-slider/content-slider.php:771 modules/cta/cta.php:373
+msgid "Button Structure"
+msgstr "Struttura pulsante"
+
+#: modules/callout/callout.php:624
+msgid "Button Width"
+msgstr "Larghezza pulsante"
+
+#: modules/contact-form/contact-form.php:14
+msgid "Contact Form"
+msgstr "Modulo di contatto"
+
+#: modules/contact-form/contact-form.php:15
+msgid "A very simple contact form."
+msgstr "Un modulo di contatto molto semplice."
+
+#: modules/contact-form/contact-form.php:36
+msgid "Contact Form Submission"
+msgstr "Invio modulo di contatto"
+
+#: modules/contact-form/contact-form.php:69
+msgid "Message"
+msgstr "Messaggio"
+
+#: modules/contact-form/contact-form.php:105
+msgid "Send To Email"
+msgstr "Invia a email"
+
+#: modules/contact-form/contact-form.php:107
+msgid "example@mail.com"
+msgstr "esempio@mail.com"
+
+#: modules/contact-form/contact-form.php:108
+msgid "The contact form will send to this e-mail. Defaults to the admin email."
+msgstr "Il modulo di contatto verrà inviato a questo indirizzo email. Per impostazione predefinita, viene utilizzato l’indirizzo email dell’amministratore."
+
+#: modules/contact-form/contact-form.php:115
+msgid "Name Field"
+msgstr "Campo nome"
+
+#: modules/contact-form/contact-form.php:118
+#: modules/contact-form/contact-form.php:127
+#: modules/contact-form/contact-form.php:136
+#: modules/contact-form/contact-form.php:145
+msgid "Show"
+msgstr "Mostra"
+
+#: modules/contact-form/contact-form.php:119
+#: modules/contact-form/contact-form.php:128
+#: modules/contact-form/contact-form.php:137
+#: modules/contact-form/contact-form.php:146
+msgid "Hide"
+msgstr "Nascondi"
+
+#: modules/contact-form/contact-form.php:124
+msgid "Subject Field"
+msgstr "Campo oggetto"
+
+#: modules/contact-form/contact-form.php:133
+msgid "Email Field"
+msgstr "Campo email"
+
+#: modules/contact-form/contact-form.php:142
+msgid "Phone Field"
+msgstr "Campo telefono"
+
+#: modules/contact-form/contact-form.php:152
+msgid "Success"
+msgstr "Operazione riuscita"
+
+#: modules/contact-form/contact-form.php:156
+msgid "Success Action"
+msgstr "Azione corretta"
+
+#: modules/contact-form/contact-form.php:158
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/contact-form/contact-form.php:159
+msgid "Show Message"
+msgstr "Mostra messaggio"
+
+#: modules/contact-form/contact-form.php:160
+msgid "Redirect"
+msgstr "Reindirizza"
+
+#: modules/contact-form/contact-form.php:179
+msgid "Thanks for your message! We’ll be in touch soon."
+msgstr "Grazie per il messaggio. Ti contatteremo presto."
+
+#: modules/contact-form/contact-form.php:186
+msgid "Success URL"
+msgstr "URL corretto"
+
+#: modules/contact-form/contact-form.php:203
+msgid "Button Text"
+msgstr "Testo pulsante"
+
+#: modules/contact-form/contact-form.php:204
+msgid "Send"
+msgstr "Invia"
+
+#: modules/contact-form/includes/frontend.php:5
+msgctxt "Contact form field label."
+msgid "Name"
+msgstr "Nome"
+
+#: modules/contact-form/includes/frontend.php:6
+msgid "Please enter your name."
+msgstr "Inserisci il tuo nome."
+
+#: modules/contact-form/includes/frontend.php:7
+msgid "Your name"
+msgstr "Nome"
+
+#: modules/contact-form/includes/frontend.php:13
+#: modules/contact-form/includes/frontend.php:15
+msgid "Subject"
+msgstr "Oggetto"
+
+#: modules/contact-form/includes/frontend.php:14
+msgid "Please enter a subject."
+msgstr "Inserisci un oggetto"
+
+#: modules/contact-form/includes/frontend.php:21
+msgid "Email"
+msgstr "Email"
+
+#: modules/contact-form/includes/frontend.php:22
+msgid "Please enter a valid email."
+msgstr "Inserisci un indirizzo email valido."
+
+#: modules/contact-form/includes/frontend.php:23
+msgid "Your email"
+msgstr "La tua email"
+
+#: modules/contact-form/includes/frontend.php:29
+msgid "Phone"
+msgstr "Telefono"
+
+#: modules/contact-form/includes/frontend.php:30
+msgid "Please enter a valid phone number."
+msgstr "Immettere un numero di telefono valido."
+
+#: modules/contact-form/includes/frontend.php:31
+msgid "Your phone"
+msgstr "Telefono"
+
+#: modules/contact-form/includes/frontend.php:36
+msgid "Your Message"
+msgstr "Messaggio"
+
+#: modules/contact-form/includes/frontend.php:37
+msgid "Please enter a message."
+msgstr "Inserisci un messaggio."
+
+#: modules/contact-form/includes/frontend.php:38
+msgid "Your message"
+msgstr "Messaggio"
+
+#: modules/contact-form/includes/frontend.php:70
+msgid "Message Sent!"
+msgstr "Messaggio inviato!"
+
+#: modules/contact-form/includes/frontend.php:73
+msgid "Message failed. Please try again."
+msgstr "Messaggio non inviato. Riprova."
+
+#: modules/content-slider/content-slider.php:14
+msgid "Content Slider"
+msgstr "Content slider"
+
+#: modules/content-slider/content-slider.php:15
+msgid "Displays multiple slides with an optional heading and call to action."
+msgstr "Visualizza più diapositive con un’intestazione e un invito all’azione opzionali."
+
+#: modules/content-slider/content-slider.php:231 modules/map/map.php:42
+msgid "Height"
+msgstr "Altezza"
+
+#: modules/content-slider/content-slider.php:236
+msgid ""
+"This setting is the minimum height of the content slider. Content will "
+"expand the height automatically."
+msgstr ""
+"Questa impostazione corrisponde all’altezza minima del content slider. I "
+"contenuti espanderanno l’altezza automaticamente."
+
+#: modules/content-slider/content-slider.php:240
+msgid "Auto Play"
+msgstr "Avvio automatico"
+
+#: modules/content-slider/content-slider.php:254
+msgid "Delay"
+msgstr "Ritardo"
+
+#: modules/content-slider/content-slider.php:258
+#: modules/content-slider/content-slider.php:284
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "secondi"
+
+#: modules/content-slider/content-slider.php:262
+msgid "Loop"
+msgstr "Ripeti"
+
+#: modules/content-slider/content-slider.php:274
+msgctxt "Transition type."
+msgid "Slide"
+msgstr "Scorri"
+
+#: modules/content-slider/content-slider.php:275
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: modules/content-slider/content-slider.php:280
+msgid "Transition Speed"
+msgstr "Velocità di transizione"
+
+#: modules/content-slider/content-slider.php:288
+msgid "Show Play/Pause"
+msgstr "Mostra Esegui/Metti in pausa"
+
+#: modules/content-slider/content-slider.php:297
+msgid "Show Arrows"
+msgstr "Mostra frecce"
+
+#: modules/content-slider/content-slider.php:306
+msgid "Show Dots"
+msgstr "Mostra puntini"
+
+#: modules/content-slider/content-slider.php:316
+msgid "Advanced"
+msgstr "Avanzato"
+
+#: modules/content-slider/content-slider.php:320
+msgid "Max Content Width"
+msgstr "Larghezza contenuti massima"
+
+#: modules/content-slider/content-slider.php:325
+msgid "The max width that the content area will be within your slides."
+msgstr "La larghezza massima dell’area dei contenuti all’interno delle tue diapositive."
+
+#: modules/content-slider/content-slider.php:332
+msgid "Slides"
+msgstr "Diapositive"
+
+#: modules/content-slider/content-slider.php:339
+msgid "Slide"
+msgstr "Scorri"
+
+#: modules/content-slider/content-slider.php:354
+msgid "Slide Settings"
+msgstr "Impostazioni diapositiva"
+
+#: modules/content-slider/content-slider.php:364
+msgid "Slide Label"
+msgstr "Etichetta diapositiva"
+
+#: modules/content-slider/content-slider.php:365
+msgid ""
+"A label to identify this slide on the Slides tab of the Content Slider "
+"settings."
+msgstr ""
+"Un’etichetta per identificare questa diapositiva nella scheda Diapositive "
+"delle impostazioni Content slider."
+
+#: modules/content-slider/content-slider.php:370
+msgid "Background Layout"
+msgstr "Layout sfondo"
+
+#: modules/content-slider/content-slider.php:376
+msgid "This setting is for the entire background of your slide."
+msgstr "Questa impostazione interessa tutto lo sfondo della diapositiva."
+
+#: modules/content-slider/content-slider.php:379
+msgid "Video"
+msgstr "Video"
+
+#: modules/content-slider/content-slider.php:381
+msgctxt "Background type."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/content-slider/content-slider.php:402
+msgid "Background Photo"
+msgstr "Foto di sfondo"
+
+#: modules/content-slider/content-slider.php:411
+msgid "Background Video Code"
+msgstr "Codice video sfondo"
+
+#: modules/content-slider/content-slider.php:417
+msgid "Content Layout"
+msgstr "Layout contenuti"
+
+#: modules/content-slider/content-slider.php:423
+msgid ""
+"This allows you to add content over or in addition to the background "
+"selection above. The location of the content layout can be selected in the "
+"style tab."
+msgstr ""
+"Consente di inserire o aggiungere contenuti nella selezione dello sfondo "
+"riportata sopra. La posizione del layout dei contenuti può essere selezionata "
+"nella scheda dello stile."
+
+#: modules/content-slider/content-slider.php:426
+msgid "Text &amp; Photo"
+msgstr "Testo e foto"
+
+#: modules/content-slider/content-slider.php:427
+msgid "Text &amp; Video"
+msgstr "Testo e video"
+
+#: modules/content-slider/content-slider.php:428
+msgctxt "Content type."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/content-slider/content-slider.php:451
+msgid "Video Embed Code"
+msgstr "Codice di embed del video"
+
+#: modules/content-slider/content-slider.php:512
+msgid "Text Position"
+msgstr "Posizione testo"
+
+#: modules/content-slider/content-slider.php:518
+msgid ""
+"The position will move the content layout selections left, right or center "
+"over the background of the slide."
+msgstr ""
+"La posizione sposterà le selezioni del layout dei contenuti a sinistra, a "
+"destra o al centro sullo sfondo della diapositiva."
+
+#: modules/content-slider/content-slider.php:535
+msgid "Top Margin"
+msgstr "Margine superiore"
+
+#: modules/content-slider/content-slider.php:543
+msgid "Bottom Margin"
+msgstr "Margine inferiore"
+
+#: modules/content-slider/content-slider.php:551
+msgid "Left Margin"
+msgstr "Margine sinistro"
+
+#: modules/content-slider/content-slider.php:559
+msgid "Right Margin"
+msgstr "Margine destro"
+
+#: modules/content-slider/content-slider.php:568
+msgid "Text Colors"
+msgstr "Colori testo"
+
+#: modules/content-slider/content-slider.php:578
+msgid "Text Shadow"
+msgstr "Ombra testo"
+
+#: modules/content-slider/content-slider.php:587
+#: modules/content-slider/content-slider.php:840
+msgid "Text Background Color"
+msgstr "Colore sfondo testo"
+
+#: modules/content-slider/content-slider.php:588
+msgid ""
+"The color applies to the overlay behind text over the background selections."
+msgstr ""
+"Il colore viene applicato all’overlay dietro il testo sulle selezioni dello sfondo."
+
+#: modules/content-slider/content-slider.php:593
+msgid "Text Background Opacity"
+msgstr "Opacità sfondo testo"
+
+#: modules/content-slider/content-slider.php:601
+msgid "Text Background Height"
+msgstr "Altezza sfondo testo"
+
+#: modules/content-slider/content-slider.php:603
+msgid ""
+"Auto will allow the overlay to fit however long the text content is. 100% "
+"will fit the overlay to the top and bottom of the slide."
+msgstr ""
+"L’impostazione automatica consentirà all’overlay di adattarsi alla lunghezza "
+"dei contenuti. Il 100% si adatterà all’overlay nella parte superiore e "
+"inferiore della diapositiva."
+
+#: modules/content-slider/content-slider.php:605
+msgctxt "Background height."
+msgid "Auto"
+msgstr "Auto"
+
+#: modules/content-slider/content-slider.php:622
+msgid ""
+"The link applies to the entire slide. If choosing a call to action type "
+"below, this link will also be used for the text or button."
+msgstr ""
+"Il link viene applicato a tutta la diapositiva. Se si sceglie un tipo di "
+"invito all’azione qui sotto, questo link verrà utilizzato anche per il testo "
+"o il pulsante."
+
+#: modules/content-slider/content-slider.php:791
+msgid "Border Radius"
+msgstr "Raggio da applicare agli angoli del bordo"
+
+#: modules/content-slider/content-slider.php:802
+msgctxt "Module settings form tab. Display on mobile devices."
+msgid "Mobile"
+msgstr "Cellulare"
+
+#: modules/content-slider/content-slider.php:805
+msgid "Mobile Photo"
+msgstr "Foto dispositivi mobili"
+
+#: modules/content-slider/content-slider.php:811
+msgid ""
+"You can choose a different photo that the slide will change to on mobile "
+"devices or no photo if desired."
+msgstr ""
+"Puoi scegliere una foto diversa con cui modificare la diapositiva sui "
+"dispositivi mobili o nessuna foto, se lo desideri."
+
+#: modules/content-slider/content-slider.php:813
+msgid "Use Main Photo"
+msgstr "Usa foto principale"
+
+#: modules/content-slider/content-slider.php:814
+msgid "Choose Another Photo"
+msgstr "Scegli un’altra foto"
+
+#: modules/content-slider/content-slider.php:815
+msgid "No Photo"
+msgstr "Nessuna foto"
+
+#: modules/content-slider/content-slider.php:830
+msgid "Mobile Text Colors"
+msgstr "Colori testo dispositivo mobile"
+
+#: modules/cta/cta.php:15
+msgid "Display a heading, subheading and a button."
+msgstr "Visualizza un’intestazione, un’intestazione secondaria e un pulsante."
+
+#: modules/cta/cta.php:78
+msgid "Ready to find out more?"
+msgstr "Pronto per altre informazioni?"
+
+#: modules/cta/cta.php:94
+msgid "Drop us a line today for a free quote!"
+msgstr "Contattaci oggi stesso per un preventivo gratuito."
+
+#: modules/cta/cta.php:112 modules/gallery/gallery.php:228
+msgid "Layout"
+msgstr "Layout"
+
+#: modules/cta/cta.php:115
+msgid "Inline"
+msgstr "Inline"
+
+#: modules/cta/cta.php:116
+msgid "Stacked"
+msgstr "Impilato"
+
+#: modules/cta/cta.php:136
+msgid "Spacing"
+msgstr "Spaziatura"
+
+#: modules/cta/cta.php:258
+msgid "Button Link"
+msgstr "Link pulsante"
+
+#: modules/gallery/gallery.php:14
+msgid "Gallery"
+msgstr "Gallery"
+
+#: modules/gallery/gallery.php:15
+msgid "Display multiple photos in a gallery view."
+msgstr "Mostra più foto in una visualizzazione galleria."
+
+#: modules/gallery/gallery.php:231
+msgid "Collage"
+msgstr "Collage"
+
+#: modules/gallery/gallery.php:232
+msgctxt "Gallery layout: thumbnails."
+msgid "Thumbs"
+msgstr "Pollici"
+
+#: modules/gallery/gallery.php:242
+msgid "Source"
+msgstr "Sorgente"
+
+#: modules/gallery/gallery.php:245
+msgid "Media Library"
+msgstr "Libreria multimediale"
+
+#: modules/gallery/gallery.php:248
+msgid ""
+"Pull images from the WordPress media library or a gallery on your SmugMug "
+"site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be "
+"accessed by using the get a link function in your SmugMug gallery."
+msgstr ""
+"Estrae immagini dalla libreria multimedia di WordPress o una galleria sul tuo "
+"sito SmugMug inserendo la URL del feed RSS di SmugMug. L'URL del feed RSS è "
+"accessibile tramite un collegamento nella tua galleria SmugMug."
+
+#: modules/gallery/gallery.php:260
+msgid "Photos"
+msgstr "Foto"
+
+#: modules/gallery/gallery.php:264
+msgid "Feed URL"
+msgstr "URL del feed"
+
+#: modules/gallery/gallery.php:268
+msgid "Photo Size"
+msgstr "Formato foto"
+
+#: modules/gallery/gallery.php:271
+msgctxt "Photo size."
+msgid "Small"
+msgstr "Piccolo"
+
+#: modules/gallery/gallery.php:272
+msgctxt "Photo size."
+msgid "Medium"
+msgstr "Media"
+
+#: modules/gallery/gallery.php:273
+msgctxt "Photo size."
+msgid "Large"
+msgstr "Grande"
+
+#: modules/gallery/gallery.php:278
+msgid "Photo Spacing"
+msgstr "Spaziatura foto"
+
+#: modules/gallery/gallery.php:286
+msgid "Show Captions"
+msgstr "Mostra didascalie"
+
+#: modules/gallery/gallery.php:289
+msgid "Never"
+msgstr "Mai"
+
+#: modules/gallery/gallery.php:290
+msgid "On Hover"
+msgstr "Al passaggio del mouse"
+
+#: modules/gallery/gallery.php:291
+msgid "Below Photo"
+msgstr "Sotto la foto"
+
+#: modules/gallery/gallery.php:293
+msgid ""
+"The caption pulls from whatever text you put in the caption area in the "
+"media manager for each image. The caption is also pulled directly from "
+"SmugMug if you have captions set in your gallery."
+msgstr ""
+"La didascalia viene estratta dal testo che inserisci nell’area delle "
+"didascalie del gestore multimediale per ogni immagine. Inoltre la didascalia "
+"viene estratta direttamente da SmugMug, se hai didascalie impostate nella galleria."
+
+#: modules/gallery/gallery.php:297
+msgid "Click Action"
+msgstr "Azione clic"
+
+#: modules/gallery/gallery.php:300
+msgctxt "Click action."
+msgid "None"
+msgstr "Nessuno"
+
+#: modules/gallery/gallery.php:301
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: modules/gallery/gallery.php:302
+msgid "Photo Link"
+msgstr "Link foto"
+
+#: modules/icon/icon.php:15
+msgid "Display an icon and optional title."
+msgstr "Visualizza un’icona e un titolo opzionale."
+
+#: modules/icon/icon.php:142
+msgid "Mobile Structure"
+msgstr "Struttura dispositivo mobile"
+
+#: modules/icon/icon.php:160
+msgid "Custom Alignment"
+msgstr "Allineamento personalizzato"
+
+#: modules/map/map.php:14
+msgid "Map"
+msgstr "Mappa"
+
+#: modules/map/map.php:15
+msgid "Display a Google map."
+msgstr "Mostra una mappa Google."
+
+#: modules/map/map.php:34
+msgid "Address"
+msgstr "Indirizzo"
+
+#: modules/map/map.php:35
+msgid "1865 Winchester Blvd #202 Campbell, CA 95008"
+msgstr "1865 Winchester Blvd #202 Campbell, CA 95008"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.wpbeaverbuilder.com"
+msgstr "http://www.wpbeaverbuilder.com"
+
+#. Description of the plugin/theme
+msgid "Additional functionality for Beaver Builder lite."
+msgstr "Funzionalità aggiuntive per la versione di base di Beaver Builder."
+
+#. Author of the plugin/theme
+msgid "The Beaver Builder Team"
+msgstr "Il team di Beaver Builder"

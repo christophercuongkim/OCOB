@@ -1,0 +1,12 @@
+1502.671 (1) Opened log file at time: Fri, 09 Feb 2018 22:16:37 +0000 on https://packaging.calpoly.edu/
+1502.679 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob.calpoly.edu 3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 42.5M | 43.3M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+1502.688 (1) Free space on disk containing Updraft's temporary directory: 66199.9 MB
+1502.696 (1) It looks like WordPress's scheduler has started multiple instances of this resumption
+1502.713 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1518214595.9, time_now=1518214597, diff=1, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+1502.721 (1) Rescheduling resumption 2: moving to 645 seconds from now (1518215242)
+1502.738 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 645 + 0 = 645
+2883.223 (2) Opened log file at time: Fri, 09 Feb 2018 22:39:37 +0000 on https://packaging.calpoly.edu/
+2883.231 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.4.16 (apache2handler, Linux cob.calpoly.edu 3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017 x86_64) MySQL: 5.5.56 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 33.1M | 33.8M) multisite: Y openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: N LANG: C ZipArchive::addFile: Y
+2883.239 (2) Free space on disk containing Updraft's temporary directory: 66196 MB
+2883.255 (2) Backup run: resumption=2, nonce=3b621d1f338f, begun at=1518213094 (2883s ago), job type=backup, previous check-in=0s
+2883.264 (2) Terminate: This backup job is already finished (1).

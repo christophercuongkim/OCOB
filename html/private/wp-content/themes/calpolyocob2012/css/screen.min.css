@@ -1,0 +1,1752 @@
+@charset "UTF-8";
+/* CSS Document (charset statement must appear first)*/
+
+/*========================================================================
+Cal Poly Template Custom Web Stylesheet - screen.css for screen display
+
+To maintain fidelity with Cal Poly's Drupal theme, try to avoid making custom 
+styles for your website.
+
+Add custom CSS styles here if you absolutely must make style additions for your web site.
+=========================================================================*/
+body{
+	height: auto !important;
+	/*border-bottom: none;*/
+}
+/*
+#bottom_bar {
+	position: fixed;
+	bottom: 0;
+	left: 0; right: 0;
+	height: 5px;	
+	background: rgb(41,85,26);
+	z-index: -1;
+}*/
+
+h1 {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+strong{
+	font-weight:bold;
+}
+
+em{
+	font-style:italic;
+}
+
+ul, ol{
+	/* font-family: 'Times New Roman';*/
+	/* list-style:outside; */
+}
+
+#mainLeft ol, #mainLeftFull ol, #mainColFull ol {
+	font-family: 'Times New Roman';
+	list-style: decimal outside;
+}
+
+#mainLeft ul, #mainLeftFull ul, #mainColFull ul {
+	font-family: 'Times New Roman';
+	list-style: disc outside;
+}
+
+#mainLeft div.articleEntry img {
+	display: inline-block;
+	height: 125px;
+	width: auto;
+}
+
+#rightCol img {
+	box-shadow: 0px 0px 0px;
+	-moz-box-shadow: 0px 0px 0px;
+	-webkit-box-shadow: 0px 0px 0px;
+	border: 0;
+}
+
+.articleTitle:first {
+	margin-top: -10px;
+}
+
+.caption {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 10pt;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 16pt;
+}
+
+.newsTitle {
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: normal;
+	line-height: 16pt;
+	background-image: none;
+	color: black;
+}
+
+h2 a:link, h2 a:visited, h2 a:link a:link {
+	color: black;
+}
+
+.light {
+	font-weight: 100;
+}
+
+.heavy {
+	font-weight: 800;
+}
+
+h1.news {
+	font-size: 14pt;
+}
+
+h2.news {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+	line-height: 16pt;
+	color: black;
+}
+
+.newsEntry img {
+	display: none;
+}
+
+.newsEntry img:first {
+	display: block;
+}
+
+/*
+#cplogo {
+	width:200px !important;
+}
+*/
+li{
+	margin-left:2em;
+}
+.widget ul.padded-menu li{
+	padding:6px 8px;
+}
+.widget li h3 a,
+.widget li h3 a:hover{
+	/*text-transform: none;*/
+	font-size:11px;
+}
+ul li{
+	margin-left:0em;
+}
+.widget  ul#fixedheight {
+	height:180px;
+	overflow:hidden;
+}
+.menu-footer-nav-container{
+	font-size:1.2em;
+}
+.menu-footer-nav li{
+padding-top:10px !important;
+padding-bottom:10px !important;
+}
+.menu-footer-nav-container ul li a
+{
+	display:inline-block;
+}
+/*From here to the END Mitchell added delete if something is horribly broken*/
+.menu-co_footernav-container{
+	
+	padding-top: 0px !important;
+	padding-bottom:10px !important;
+	font-size:1.2em;
+}
+.menu-co_footernav-container li:hover{
+	background-color:#CCC;
+}
+.menu-co_footernav-container ul#fixedheight{
+	height:180px;
+	overflow:hidden;
+}
+.menu-co_footernav-container li h3 a:hover{
+	font-size:11px;
+}
+.menu-co_footernav-container ul li a{
+	display:inline-block;
+}
+/*END*/
+
+#quicklinks,
+#quicklinksdropdown
+{
+	width:auto !important;
+}
+.menu-footer-nav-container ul li:hover{
+	background-color:#CCC;
+}
+
+.aaMenu {
+	padding: 0;
+	margin: 0;
+}
+
+#mainColFull p {
+	width:100%;
+}
+
+/*******************************************/
+
+/*========================================================================
+Cal Poly Template Custom Web Stylesheet
+
+Add custom styles for your web site here.
+=========================================================================*/
+
+/*stuff from superfish*/
+/*** ESSENTIAL STYLES ***/
+.sf-menu, .sf-menu * {
+	margin:			0;
+	padding:		0;
+	list-style:		none;
+	font-size: 11px;
+
+}
+.sf-menu {
+	line-height:	1.0;
+		color: #000000;
+}
+.sf-menu ul {
+	position:		absolute;
+	top:			-999em;
+	width:			204px; /* left offset of submenus need to match (see below) */
+}
+.sf-menu ul li {
+	width:			100%;
+}
+.sf-menu li:hover {
+	visibility:		inherit; /* fixes IE7 'sticky bug' */
+}
+.sf-menu li {
+	float:			left;
+	position:		relative;
+	font-size: 75%;
+	color: #444;	
+}
+.sf-menu a {
+	display:		block;
+	position:		relative;
+}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	left:			0;
+	top:			29px; /* 40px; /* match top ul list item height */
+	z-index:		100;
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	top:			-999em;
+	font-size: 11px;
+}
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:			204px; /* match ul width */
+	top:			0px;
+	font-size: 11px;
+}
+ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li ul {
+	top:			-999em;
+}
+ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover ul {
+	left:			204px; /* match ul width */
+	top:			0px;
+}
+
+/** CUSTOM STYLE */
+
+.sf-menu{
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	
+}
+
+ul#menu li a:hover, ul#menu li.current-cat a ul#sub-nav li a:hover {
+	/* background: url(../img/bg-menu-hover-gold.png) repeat-x left top; */
+	background: url(../img/bg-menu-hover-gold2.png) repeat-x left top;
+}
+
+ul li a:hover, ul li.current-cat a {
+	background: none;
+}
+
+.sf-menu a , ul#menu li a{
+	height: 29px;/* 40px; */
+	line-height: 30px;/* 40px; */
+	padding: 0 18px;/* 20px;*/
+	text-decoration:underline;
+
+}
+
+/*Border
+.sf-menu li ul {
+	border: 1px solid #000;
+	border-top: none;
+}
+.sf-menu li li ul, .sf-menu li li li ul {
+	border: 1px solid #000;
+	border-top: none;
+}*/
+
+
+
+.sf-menu a, .sf-menu a:hover, .sf-menu a:visited  { /* visited pseudo selector so IE6 applies text colour*/
+	color:#000;
+}
+.sf-menu li li {
+	background:	#EEEEEE;		/* #2a2a2a; */
+	border-bottom: 1px solid #FFF;
+	border-top: 1px solid #bbbbbb;
+	border-left: 1px solid #FFFFFF;
+}
+.sf-menu li li li {
+	background: #EEEEEE;		/* #2a2a2a; */
+	}
+.sf-menu li:hover, .sf-menu li.sfHover,
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+	outline:		0;
+}
+.sf-menu li li a, .sf-menu li li a:hover {
+	height: auto;
+	line-height: 1.0;
+	padding: 10px 18px;/* 20px; */
+	background: #EEEEEE; /*#2a2a2a;*/
+
+}
+.sf-menu li li:hover, .sf-menu li li.sfHover,
+.sf-menu li li a:focus, .sf-menu li li a:hover, .sf-menu li li a:active {
+	color:#000;
+	outline:		0;
+	
+	
+}
+
+.sf-menu  li a:focus, .sf-menu  li a:hover, .sf-menu  li a:active {
+	background: #EEEEEE;/*#2a2a2a!important;*/
+}
+
+/*** ESSENTIAL STYLES ***/
+.sub-sf-menu, .sub-sf-menu * {
+	margin:			0;
+	padding:		0;
+	list-style:		none;
+}
+.sub-sf-menu {
+	line-height:	1.0;
+}
+.sub-sf-menu ul {
+	position:		absolute;
+	top:			-999em;
+	width:			204px; /* left offset of submenus need to match (see below) */
+}
+.sub-sf-menu ul li {
+	width:			100%;
+}
+.sub-sf-menu li:hover {
+	visibility:		inherit; /* fixes IE7 'sticky bug' */
+}
+.sub-sf-menu li {
+	float:			left;
+	position:		relative;
+}
+.sub-sf-menu a {
+	display:		block;
+	position:		relative;
+}
+.sub-sf-menu li:hover ul,
+.sub-sf-menu li.sfHover ul {
+	left:			0;
+	top:			29px; /* 40px; /* match top ul list item height */
+	z-index:		100;
+}
+ul.sub-sf-menu li:hover li ul,
+ul.sub-sf-menu li.sfHover li ul {
+	top:			-999em;
+}
+ul.sub-sf-menu li li:hover ul,
+ul.sub-sf-menu li li.sfHover ul {
+	left:			204px; /* match ul width */
+	top:			0px;
+}
+ul.sub-sf-menu li li:hover li ul,
+ul.sub-sf-menu li li.sfHover li ul {
+	top:			-999em;
+}
+ul.sub-sf-menu li li li:hover ul,
+ul.sub-sf-menu li li li.sfHover ul {
+	left:			204px; /* match ul width */
+	top:			0px;
+}
+
+/**	Article Entry Fix (.articleEntry) **/
+#mainLeft .articleEntry div, #mainLeftFull .articleEntry div {
+	float: none;
+	width: 100%; /* Fix where article entries were only 64% width*/
+}
+
+/** CUSTOM STYLE */
+
+.sub-sf-menu{
+	position: relative;
+	bottom: 0px;
+	left: 0px;
+	top: 8px;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul li a {
+	padding: 0px;
+}
+ul#sub-nav li a:hover, ul#sub-nav li.current-cat a ul#sub-nav li a:hover {
+	/* For WebKit (Safari, Google Chrome etc) */
+	background: -webkit-gradient(linear, left top, left bottom, from(#ddd), to(#fff));
+	/* For Mozilla/Gecko (Firefox etc) */
+	background: -moz-linear-gradient(top, #ddd, #fff);
+	/* For Internet Explorer 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDDDDDD, endColorstr=#FFFFFFFF);
+	/* For Internet Explorer 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDDDDDD, endColorstr=#FFFFFFFF)";
+
+}
+ul#sub-nav li li a:hover, ul#sub-nav li li.current-cat a ul#sub-nav li li a:hover {
+	background: #999999;
+
+}
+ul#menu li a:hover, ul#menu li.current-cat a ul#sub-nav li a:hover {
+	/* background: url(../img/bg-menu-hover-gold.png) repeat-x left top; */
+	
+	background: url(../img/bg-menu-hover-gold2.png) repeat-x left top;
+	
+}
+
+ul li a:hover, ul li.current-cat a {
+	background: none;
+}
+
+.sub-sf-menu a , ul#menu li a{
+	height: 29px;/* 40px; */
+	line-height: 29px;/* 40px; */
+	padding: 0 18px;/* 20px;*/
+	text-decoration:none;
+}
+.sub-sf-menu li ul {
+	border: 1px solid #EEEEEE;
+	border-top: none;
+}
+.sub-sf-menu li li ul, .sub-sf-menu li li li ul {
+	border: 1px solid #EEEEEE;
+	border-top: none;
+}
+
+.sub-sf-menu a, .sub-sf-menu a:hover, .sub-sf-menu a:visited  { /* visited pseudo selector so IE6 applies text colour*/
+	color:			#000;
+}
+.sub-sf-menu li li {
+	background:	#EEEEEE;		/* #2a2a2a; */
+}
+.sub-sf-menu li li li {
+	background: #EEEEEE;		/* #2a2a2a; */
+}
+.sub-sf-menu li:hover, .sub-sf-menu li.sfHover,
+.sub-sf-menu a:focus, .sub-sf-menu a:hover, .sub-sf-menu a:active {
+	outline:		0;
+}
+.sub-sf-menu li li a, .sub-sf-menu li li a:hover {
+	height: auto;
+	line-height: 1.0;
+	padding: 10px 18px;/* 20px; */
+	background: #EEEEEE; /*#2a2a2a;*/
+
+}
+.sub-sf-menu li li:hover, .sub-sf-menu li li.sfHover,
+.sub-sf-menu li li a:focus, .sub-sf-menu li li a:hover, .sub-sf-menu li li a:active {
+	color:#666;
+	outline:		0;
+}
+
+.sub-sf-menu  li a:focus, .sub-sf-menu  li a:hover, .sub-sf-menu  li a:active {
+	background: #EEEEEE;/*#2a2a2a!important;*/
+}
+
+/* ##################################
+IS concentration
+################################## */
+
+.ISconcentration {
+background: url("../img/bg_gradient.jpg") no-repeat;
+padding: 36px 0px 36px 0px;
+width: 748px;
+position: relative;
+}
+
+.ISconcentration td {
+padding: 0;
+}
+
+.stats-number {
+color: #545454;
+float:left;
+font-size:54px;
+font-weight:bold;
+padding:0 5px 0 0;
+}
+.stats-text {
+float:left;
+font-size:14px;
+width:150px;
+
+}
+
+.stats-text b{
+color:#186515;
+}
+.wrap {
+overflow:auto;
+}
+.IS-careers {
+float:left;
+width: 250px;
+}
+
+.quote {
+padding: 15px 0 150px 0;
+float:left;
+width: 550px;
+background: url(../img/bg_quote.png) no-repeat;
+height:350px;
+}
+
+.quote-is {
+padding: 15px 0 100px 0;
+float:left;
+width: 550px;
+background: url(../img/bg_quote.png) no-repeat;
+height: 250px;
+}
+
+.IS-careers ul {
+list-style-type: none;
+line-height: 200%;
+margin: 0;
+padding: 0 0 25px 0;
+
+}
+
+#IS-employers {
+height: 118px;
+overflow:auto;
+}
+
+#IS-employers ul, #IS-employers li{
+margin:0;
+padding:0;
+list-style:none;
+}
+
+#IS-employers {
+margin: 55px 0 0 -30px;
+
+}
+
+#IS-employers, #IS-employers li{
+width:780px;
+height:118px;
+overflow:hidden;
+}
+
+.IS-employers img{
+
+}
+
+#slider ul, #slider li{
+margin:0;
+padding:0;
+list-style:none;
+}
+
+#slider {
+margin: 25px 20px 0;
+}
+
+#slider, #slider li{
+width:450px;
+height:285px;
+overflow:hidden;
+margin-top:40px;
+
+}
+
+#slider-is ul, #slider-is li{
+margin:0;
+padding:0;
+list-style:none;
+}
+
+#slider-is {
+margin: 25px 20px 0;
+}
+
+#slider-is, #slider-is li{
+width:450px;
+height:185px;
+overflow:hidden;
+margin-top:58px;
+}
+
+#prevBtn, #nextBtn{
+overflow: auto;
+}
+
+#prevBtn a{
+margin:0;
+}
+
+#nextBtn a{
+}
+
+#rightBtn{
+bottom:500px;
+margin:0 0 0 35px;
+position:absolute;
+right:40px;
+}
+#leftBtn{
+bottom:500px;
+left:10px;
+position:absolute;
+}
+
+.alignleft {
+	float: left;
+	margin: 0 20px 20px 0;
+}
+#nextBtn a, #prevBtn a{
+color:#186515;
+}
+
+/** WORDPRESS CSS 
+
+.aligncenter,
+div.aligncenter {
+display: block;
+margin: 0 auto;
+}
+
+.aligncenter {
+margin-bottom: 20px!important;
+}
+
+.alignleft {
+float: left;
+margin: 0 20px 20px 0;
+}
+
+.alignright {
+float: right;
+margin: 0 0 20px 20px;
+max-width: 382px;
+
+}
+
+.alignright-finance {
+float: right;
+margin: 0 0 20px 20px;
+max-width: 582px;
+
+}
+
+.wp-caption {
+margin-bottom: 20px;
+padding-top: 4px;
+border: 1px solid #c5c5c5;
+text-align: center;
+background-color: #d5d5d5;
+}
+
+.wp-caption img {
+float: none;
+margin: 0px;
+padding: 0px;
+border: none;
+}
+
+.wp-caption p.wp-caption-text {
+padding: 0px;
+margin: 0px;
+}
+*/
+/** WIDGETS CSS */
+
+#calendar_wrap table {
+width: 100%;
+}
+
+#calendar_wrap td {
+text-align: center;
+}
+
+#wp-calendar caption {
+margin: 0 0 10px 0;
+padding: 2px;
+background: #c5c5c5;/*#3a3a3a;*/
+}
+.blackborder {
+border: 1px solid black;
+}
+.round_corner {
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+padding: 10px;
+}
+
+
+/* ##################################
+Vertical Navigation
+################################## */
+.glossymenu{
+margin: 0;
+padding: 0;
+width: 150px; /*width of menu*/
+font-size: 11px
+
+/*border: 1px solid #333333;
+border-bottom-width: 0;*/
+}
+
+.glossymenu a.menuitem{
+background-color: #DDD;
+color: #000;
+display: block;
+position: relative; /*To help in the anchoring of the ".statusicon" icon image*/
+width: auto;
+padding: 4px 0;
+padding-left: 20px;
+text-decoration: none;
+border-top: 1px solid #FFF;
+border-bottom: 1px solid #AAA;
+}
+
+.glossymenu a.menuitem:visited, .glossymenu .menuitem:active{
+color: #000;
+}
+
+.glossymenu a.menuitem .statusicon{ /*CSS for icon image that gets dynamically added to headers*/
+position: absolute;
+top: 5px;
+right: 5px;
+border: none;
+color: #000;
+
+}
+
+.glossymenu a.menuitem:hover{
+/* For WebKit (Safari, Google Chrome etc) */
+background: -webkit-gradient(linear, left top, left bottom, from(#ddd), to(#FFF));
+/* For Mozilla/Gecko (Firefox etc) */
+background: -moz-linear-gradient(top, #ddd, #FFF);
+/* For Internet Explorer 5.5 - 7 */
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDDDDDD, endColorstr=#FFFFFFFF);*/
+/* For Internet Explorer 8 */
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDDDDDD, endColorstr=#FFFFFFFF)";
+}
+
+.glossymenu div.submenu{ /*DIV that contains each sub menu*/
+background: white;
+}
+
+.glossymenu div.submenu ul{ /*UL of each sub menu*/
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.glossymenu div.submenu ul li{
+background-color: #EEE;
+border: 1px solid #999;
+border-right: 1px solid #eee;
+border-bottom: 1px solid #eee;
+padding: 0;
+color: #000;
+list-style: none;
+}
+
+.glossymenu div.submenu ul li a{
+display: block;
+font-size: 13px;
+color: black;
+text-decoration: none;
+padding: 2px 0 0 25px;
+list-style: none;
+}
+
+.glossymenu div.submenu ul li a:hover{
+background: #999;
+color: #FFF;
+}
+
+/* ##################################
+Expanding Text (and collapseomatic plugin custom styles)
+################################## */
+
+.plusminus {
+max-width: 400px;
+background: url(/wp-content/themes/calpoly/images/collapsed.gif) no-repeat scroll #FFFFFF;
+margin-bottom: 0px !important;
+padding: 0px !important;
+padding-left: 5px !important;
+padding-top: 5px !important;
+height: 30px;
+}
+
+.ddet_title {
+background: #F4F4F4;
+border: 1px solid #DDDDDD;
+}
+
+.ddet_div {
+margin: 8px 0 0 12px;
+padding: 8px;
+background: #F4F4F4;
+border: 1px solid #DDDDDD;
+}
+
+.expandingstuff li{	
+	/*margin-bottom: 0px !important; 
+	padding-bottom: 0px !important;
+	border-style:dotted; 
+	border-width: thin;*/
+}
+
+.expandingstuff li h3{
+	/*margin-bottom: 0px !important; 
+	padding-bottom: 0px !important; */
+	text-decoration: underline;
+}
+
+#content-slider {
+width: 650px;
+overflow: hidden;
+height: 300px;
+}
+
+#content-slider-inside {
+list-style: none;
+height: 320px; // these 3 lines
+overflow: scroll; // help Opera
+overflow-y: hidden; // behave
+}
+
+#content-slider-inside li {
+width: 650px;
+height: 300px;
+}
+
+/*
+	List Expander 
+*/
+
+.listexpander{width:100%;}
+.listexpander, .listexpander ul, .listexpander li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.listexpander ul{
+	/*
+	Uncomment this if you want to initially hide the child lists. 
+	If you do, Javascript disabled and CSS enabled browsers will not be able to use this list.
+	display:none;
+	*/ 
+}
+.listexpander li{
+	line-height:200%;
+	margin-top:10px;
+	cursor:default;
+	text-indent:20px;
+	font-weight:500;
+	width:100%;
+}
+
+.listexpander li.collapsed, .listexpander li.expanded{cursor:pointer;} 
+
+/* first level */
+
+.listexpander li, .listexpander li.collapsed{background:#fff url(http://www.cob.calpoly.edu/wp-content/themes/calpoly/images/collapsed.gif) no-repeat 5px .4em;} 
+.listexpander li.expanded{background:#fff url(http://www.cob.calpoly.edu/wp-content/themes/calpoly/images/expanded.gif) no-repeat 5px .4em;}
+
+/* second level */
+
+.listexpander li ul, .listexpander li li{background:#fff;font-weight:normal; font-size:.9em; color:#555;}
+.listexpander li li.collapsed{background:#fff url(http://www.cob.calpoly.edu/wp-content/themes/calpoly/images/collapsed.gif) no-repeat 5px .4em;} 
+.listexpander li li.expanded{background:#fff url(http://www.cob.calpoly.edu/wp-content/themes/calpoly/images/expanded.gif) no-repeat 5px .4em;}
+
+/* third level */
+
+.listexpander li li ul, .listexpander li li li{background:#fff;}
+.listexpander li li li.collapsed{background:#fff url(http://www.cob.calpoly.edu/wp-content/themes/calpoly/images/collapsed.gif) no-repeat 5px .4em;} 
+.listexpander li li li.expanded{background:#fff url(http://www.cob.calpoly.edu/wp-content/themes/calpoly/images/expanded.gif) no-repeat 5px .4em;}
+
+/* fourth level */
+
+.listexpander li li li li{text-indent:0;margin-left:30px;width:auto;}
+
+/* etc. */
+
+/* buttons */
+
+p.listexpander{
+	height:1.5em;
+	margin:1em 0;
+}
+p.listexpander a{
+	float:left;
+	height:1.5em;
+	line-height:1.5em;
+	padding:0 10px;
+	border:1px solid #eee;
+	margin-right:5px;
+	cursor:pointer;
+}
+p.listexpander a:hover{
+	background:#f8f8f8;
+}
+
+/* float fix */
+.listexpander li:after{
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+.listexpander li{
+	display: inline-block;
+}
+/* Hides from IE-mac \*/
+* html .listexpander li{
+	height: 1%;
+}
+.listexpander li{
+	display: block;
+}
+/* End hide from IE-mac */
+/* end float fix */
+
+.extended {width:400px;}
+
+
+/* ##################################
+Video Backgrounds
+################################## */
+
+.holiday {
+	display: block;
+	width: 727px;
+height: 513px;
+	background-image:url(http://www.cob.calpoly.edu/wp-content/uploads/media/images/frame_cap_beach_white-text.png)
+}
+
+.holidayVid {
+	width: 640px;
+    height: 360px;
+	padding-top:65px;
+	padding-left:66px;
+}
+
+.holiday-center-vid {
+	padding-top:65px;
+	padding-left:66px;
+}
+/* ##################################
+ADVISING HOMEPAGE CSS
+################################## */
+.missionstatement-block {
+	float: right;
+	width: 20%;
+	background-color: rgb(238, 232, 170);
+	border-radius: 15px;
+	-moz-border-radius:15px; /* firefox 3.6 and below */
+	padding: 10px;
+	margin-right: 5px;
+	margin-top: 10px;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+}
+
+.missionstatement-block p {
+	/*margin: 0 !important;*/
+	line-height: 120% !important;
+	margin:0;
+}
+
+.contactinfo-block {
+	border-radius: 15px;
+	-moz-border-radius:15px; /* firefox 3.6 and below */
+	/*background-image: url("../images/color_contact_green.gif"); */
+	background-color: rgb(214, 222, 190);
+	/*background-color: #A1B39C;*/
+	float: right;
+	width: 20%;
+	padding: 10px;
+	margin-top: 10px;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+}
+
+.contactinfo-block p {
+	/*margin: 0 !important;*/
+	line-height: 120% !important;
+}
+
+.areasofspeciality-block {
+	float: left;
+	width: 50%;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+.icons-block {
+	/*float: right;*/
+	width: 50%;
+	float: left;
+}
+
+.icons-block table {
+	border: none !important;
+	border-width: 0px !important;
+}
+
+.icons-block table tr {
+	border: none !important;
+	border-width: 0px !important;
+}
+.icons-block table tr td {
+	border: none !important;
+	border-width: 0px !important;
+	padding: 0px !important;
+}
+
+.icon-in-block {
+	float:left;
+}
+
+
+
+.navlist {
+	
+}
+
+.navlist li
+{
+display: inline;
+list-style-type: none;
+/*padding-right: 20px;*/
+}
+
+.calendar-block {
+	margin-top: 20px;
+	padding-right: -15px;
+	padding: 5px;
+	
+	float: right;
+	clear: right;
+	width: 45%;
+	border: solid;
+	border-width: thin;
+	border-radius: 15px;
+	-moz-border-radius:15px; /* firefox 3.6 and below */
+}
+
+/* ##################################
+DATEPICKER CSS
+################################## */
+
+.datepicker {
+	position: absolute;
+	border: 2px solid #1C3262;
+	font-size: 11px;
+	width: 194px;
+	padding: 3px;
+	height: 221px;
+	background: #fff;
+	line-height: normal;
+}
+
+/* header
+********************************************************/
+.datepicker .header {
+	position: relative;
+	background: #1C3262;
+	height: 21px;
+	padding-top: 4px;
+	margin-bottom: 3px;
+}
+
+.datepicker .header .title {
+	text-align: center;
+	padding-top: 1px;
+	margin: 0px 42px 0 20px;
+}
+
+.datepicker .header .titleText {
+	color: #fff;
+	font-weight: bold;
+}
+.datepicker .header .next,
+.datepicker .header .previous,
+.datepicker .header .closeButton {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	background: #fff;
+	text-align: center;
+	color: #666;
+	top: 5px;
+	cursor: pointer;
+}
+.datepicker .header .previous {
+	left: 5px;
+}
+.datepicker .header .next {
+	right: 28px;
+}
+.datepicker .header .closeButton {
+	right: 5px;
+}
+
+/* body
+********************************************************/
+.datepicker .body {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 194px;
+	border-right: 2px solid #fff;
+	height: 193px;
+	overflow: hidden;
+}
+
+/* time
+********************************************************/
+.datepicker .time {
+	width: 100%;
+	height: 100%;
+	background: #eee;
+}
+
+.datepicker .time .hour,
+.datepicker .time .separator,
+.datepicker .time .minutes {
+	border: 1px solid #ccc;
+	background: #fff;
+	width: 50px;
+	font-size: 32px;
+	position: absolute;
+	top: 50px;
+	text-align: center;
+	padding: 2px;
+}
+
+.datepicker .time .hour {
+	left: 30px;
+}
+.datepicker .time .separator {
+	background: transparent;
+	border: 0px;
+	width: 10px;
+	left: 91px;
+}
+
+.datepicker .time .minutes {
+	left: 110px;
+}
+.datepicker .time .ok {
+	position: absolute;
+	top: 105px;
+	width: 136px;
+	left: 30px;
+	font-size: 20px;
+}
+
+/* days-grid
+********************************************************/
+.datepicker .days .day {
+	float: left;
+	background: #ccc;
+	cursor: pointer;
+	text-align: center;
+	padding-top: 4px;
+	width: 25px;
+	overflow: hidden;
+	height: 21px;
+	margin: 0 3px 3px 0;
+}
+
+.datepicker .days .day0 {
+	margin-right: 0;
+}
+
+.datepicker .days .week5 .day {
+	margin-bottom: 0;
+}
+
+/* days-colors
+********************************************************/
+.datepicker .days .title {
+	background: #5D6E95;
+	font-weight: bold;
+	color: #fff;
+	cursor: default;
+}
+
+.datepicker .days .otherMonth {
+	background: #eee;
+	color: #aaa;
+}
+
+/* months
+********************************************************/
+.datepicker .months .month {
+	float: left;
+	background: #eee;
+	cursor: pointer;
+	text-align: center;
+	overflow: hidden;
+	width: 62px;
+	height: 31px;
+	padding-top: 15px;
+	margin: 0 3px 3px 0;
+}
+
+.datepicker .months .month3,
+.datepicker .months .month6,
+.datepicker .months .month9,
+.datepicker .months .month12 {
+	margin-right: 0;
+	width: 64px;
+}
+
+.datepicker .months .month10,
+.datepicker .months .month11,
+.datepicker .months .month12 {
+	margin-bottom: 0;
+}
+
+/* years
+********************************************************/
+.datepicker .years .year {
+	float: left;
+	background: #eee;
+	cursor: pointer;
+	text-align: center;
+	padding-top: 11px;
+	width: 46px;
+	overflow: hidden;
+	height: 25px;
+	margin: 0 3px 3px 0;
+}
+
+.datepicker .years .year3,
+.datepicker .years .year7,
+.datepicker .years .year11,
+.datepicker .years .year15,
+.datepicker .years .year19 {
+	margin-right: 0;
+	width: 47px;
+}
+
+.datepicker .years .year16,
+.datepicker .years .year17,
+.datepicker .years .year18,
+.datepicker .years .year19 {
+	margin-bottom: 0;
+	height: 26px;
+}
+
+/* global
+********************************************************/
+.datepicker .selected {
+	background: #8C929F !important;
+	color: #fff !important;
+}
+
+.datepicker .unavailable {
+	background: #edd !important;
+	color: #b88 !important;
+	cursor: default !important;
+}
+
+.datepicker .days .week .day:hover,
+.datepicker .months .month:hover,
+.datepicker .years .year:hover {
+	background: #5D6E95 !important;
+	color: #fff !important;
+}
+
+
+
+/* ##################################
+MISC PAGE CSS
+################################## */
+#marketing_maintable, #marketing_maintable tr, #marketing_maintable tr td{border:none !important;}
+
+p.jf-headings{
+	font-variant: small-caps;
+	font-weight:bold;	
+}
+p.jf-subheadings{
+	font-weight:bold;	
+}
+/* Tiny tips for Rodney Mock Page */
+a.tinytips span {display:none; padding:5px 6px; margin-left:8px; max-width:25%; font-size:14px;}
+a.tinytips:hover span{display:inline; position:absolute; border: 6px solid #e2e2e2; -moz-border-radius: 5px; -webkit-border-radius: 5px; background: #ffffff; color: #020202;}
+
+
+#content ul.quicklinks li #topnews{
+	background-color: #186515 !important;	
+}
+#content ul.quicklinks li #topnews a{
+	color:#FFF;	
+}
+#content ul.quicklinks li #topnews a:hover{
+	color:#333;	
+}
+
+div.share_links img{
+	float:left;
+	margin:5px;	
+	padding:5px;
+}
+div.share_links a{
+}
+p.college{
+	clear:both;
+}
+
+/* ##################################
+MENTOR CONNECTION CSS
+################################## */
+.green-block {
+	width: 90%;
+	background-color: rgb(214, 222, 190);
+	border-radius: 15px;
+	-moz-border-radius:15px; /* firefox 3.6 and below */
+	padding: 10px;
+	margin: 10px 0px 10px 0px;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+}
+
+.green-block p {
+	/*margin: 0 !important;*/
+	line-height: 120% !important;
+	margin:0;
+}
+
+.green-block-special{
+	width: 90%;
+	background-color: rgb(214, 222, 190);
+	border-radius: 15px;
+	-moz-border-radius:15px; /* firefox 3.6 and below */
+	padding: 10px;
+	margin: 10px 0px 10px 0px;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+}
+
+.green-block-special p{
+	height: 0 !important;
+	line-height: 0% !important;
+	margin-bottom: 0px !important;
+}
+
+.gold-block {
+	width: 90%;
+	background-color: rgb(238, 232, 170);
+	border-radius: 15px;
+	-moz-border-radius:15px; /* firefox 3.6 and below */
+	padding: 10px;
+	margin: 10px 0px 10px 0px;
+	-moz-box-shadow: 5px 5px 5px #888;
+	-webkit-box-shadow: 5px 5px 5px #888;
+	box-shadow: 5px 5px 5px #888;
+}
+
+.gold-block p {
+	/*margin: 0 !important;*/
+	line-height: 120% !important;
+	margin:0;
+}
+
+.bottomfix {
+	padding-bottom: 10px !important;
+	margin-bottom: 0px !important;
+}
+
+.Kilroy {
+	
+background: url("http://upload.wikimedia.org/wikipedia/commons/8/8f/Kilroy_was_here.png") no-repeat ;
+position: static;
+height:280px;
+width:280px;
+}
+
+/*
+Custom CSS
+*/
+
+/* New Site Navigation Ideas */
+.top img {
+	padding: 13px;
+	padding-top: 0px;
+	float:left;
+}
+.grey {
+	color: #999999;
+}
+.brown {
+	color: #85776F;
+}
+
+p.subH1 {
+	font-size: 22px;
+	color: #7d7d7d;
+	font-family: "Minion Pro", "Times New Roman", Times, serif;
+}
+
+p.subH1 a {
+	color: #555;
+	line-height: 100%;
+	border-bottom: 1px dotted #555;
+	font-size: 22px;
+	font-family: "Minion Pro", "Times New Roman", Times, serif;
+}
+
+p.subH1 a:hover {
+	border-bottom: none;
+	color:#6f6345;
+}
+
+#contentNav h2 {
+	font-family:  Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	font-size: 10pt;
+	font-style: normal;
+	line-height: 130%;
+}
+
+#contentNav p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 10pt;
+	font-style: normal;
+	line-height: 12pt;
+}
+
+#contentNav a:link {
+	text-decoration: none;
+	font-size: inherit;
+}
+
+.layoutTable img {
+	vertical-align: bottom;
+}
+
+.layoutTable h2 {
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+img:link {
+	text-decoration: none;
+}
+
+.videoBlock {
+	padding: 0 15px 10px 15px;
+}
+
+	ol.first {list-style: upper-roman;}
+/*	ol ol.second {list-style: upper-alpha;}
+	ol ol ol.third {list-style: lower-greek;}*/
+
+/* Social */
+	#sidebarsocial {
+		display: block;
+		float: left;
+
+	}
+	
+/* ##################################
+IS concentration
+################################## */
+
+.ISconcentration {
+background: url("img/bg_gradient.jpg") no-repeat;
+padding: 36px 0px 36px 36px;
+width: auto;
+position: relative;
+}
+
+.ISconcentration td {
+padding: 0;
+}
+
+.stats-number {
+color: #545454;
+float:left;
+font-size:54px;
+font-weight:bold;
+padding:0 5px 0 0;
+}
+.stats-text {
+float:left;
+font-size:14px;
+width:150px;
+
+}
+
+.stats-text b{
+color:#186515;
+}
+.wrap {
+overflow:auto;
+}
+.IS-careers {
+float:left;
+width: 250px;
+}
+
+.quote {
+padding: 15px 0 150px 0;
+float:left;
+width: 550px;
+background: url(img/bg_quote.png) no-repeat;
+height:350px;
+}
+
+.IS-careers ul {
+list-style-type: none;
+line-height: 200%;
+margin: 0;
+padding: 0 0 25px 0;
+
+}
+
+#IS-employers {
+height: 118px;
+overflow:auto;
+}
+
+#IS-employers ul, #IS-employers li{
+margin:0;
+padding:0;
+list-style:none;
+}
+
+#IS-employers {
+margin: 25px 0px 0;
+}
+
+#IS-employers, #IS-employers li{
+width:800px;
+height:118px;
+overflow:hidden;
+}
+
+.IS-employers img{
+
+}
+
+#slider ul, #slider li{
+margin:0;
+padding:0;
+list-style:none;
+}
+#slider {
+margin: 25px 20px 0;
+}
+
+#slider, #slider li{
+width:450px;
+height:285px;
+overflow:hidden;
+margin-top:20px;
+}
+
+#prevBtn, #nextBtn{
+overflow: auto;
+}
+
+#prevBtn a{
+margin:0;
+}
+
+#nextBtn a{
+}
+
+#rightBtn{
+bottom:469px;
+margin:0 0 0 35px;
+position:absolute;
+right:0;
+}
+#leftBtn{
+bottom:469px;
+left:19px;
+position:absolute;
+}
+
+
+#nextBtn a, #prevBtn a{
+color:#186515;
+}
+
+.alert {
+	color: red;
+	text-decoration: underline;
+}
+
+.LogoBox img {
+	padding: 8px;
+	margin: 8px;
+}
+
+/* Make H2 Elements work under Images*/
+.noTop {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.noTop img {
+	padding: 0;
+	margin: 0;
+}
+
+.collapseomatic:hover {
+	text-decoration: none;
+
+}
+
+.collapseomatic_content {
+	line-height: 125%;
+}
+
+/**
+Inline form elements
+*/
+.inline_box{
+	float:left; 
+	display:block; 
+	margin-right:20px;
+}
+
+/*************  Search Size Fix ************/
+/* Search div width */
+#search{
+	width: 120px;
+}
+
+form #q{
+	width:80px;
+}
+
+.wpcf7-response-output{
+	font-size:18px;
+	color: red;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;	
+}
+.alignright{
+	float:right;
+	padding:5px;	
+}
+/*************** Widget Styling **************/
+.widget li.img img{
+	max-width:176px;
+	max-height:100px;
+}
+
+
+/*************  IS Photo Gallery ************/
+/* Styleing for IS Photo Gallery page */
+
+/* Just for the example. Fee free to delete these three lines */
+
+
+/* Style the thumbnails */
+.pika-thumbs{ padding: 0 16px; height: 75px; }
+	.pika-thumbs li{ width: 144px; height:74px; margin: 10px 0 0 17px; padding: 0; overflow: hidden;
+		float: left; list-style-type: none;padding: 3px; margin: 0 5px; background: #fafafa; border: 1px solid #e5e5e5; cursor: pointer;}
+	.pika-thumbs li .clip {position:relative;height:100%;text-align: center; vertical-align: middle; overflow: hidden;}
+	
+/* The stage is the wrapper. The image fills 100% the height of the stage */
+.pika-stage, .pika-textnav {width: 500px;}
+.pika-stage {position: relative; background: #fafafa; border: 1px solid #e5e5e5; padding: 10px 10px 40px 10px; text-align:center; height:250px;}
+.pika-stage img{height:100%;}
+.pika-stage .caption {position: absolute; background: #000; background: rgba(0,0,0,0.75);  border: 1px solid #141414; font-size: 11px; 
+			color: #fafafa; padding: 10px; text-align: right; bottom: 50px; right: 10px;}
+	.pika-stage .caption p {padding: 0; margin: 0; line-height: 14px;}
+
+/* Ths play, pause, prev and next buttons */
+.pika-imgnav a {position: absolute; text-indent: -5000px; display: block;z-index:3;}
+	.pika-imgnav a.previous {background: url(prev.png) no-repeat left 45%; height: 100%; width: 50px; top: 10px; left: 10px;cursor:pointer;}
+	.pika-imgnav a.next {background: url(next.png) no-repeat right 45%; height: 100%; width: 50px; top: 10px; right: 10px;cursor:pointer;}
+	.pika-imgnav a.play {background: url(play.png) no-repeat 0% 50%; height: 100px; width: 44px;top:0;left:50%;display: none;cursor:pointer;}
+	.pika-imgnav a.pause {background: url(pause.png) no-repeat 0% 50%; height: 100px; width: 44px;top:0;left:50%;display:none;cursor:pointer;}
+
+/* The previous and next textual buttons */
+.pika-textnav {overflow: hidden; margin: 10px 0 0 0;bottom:10px; position:absolute;}
+.pika-textnav a {font-size: 12px; text-decoration: none; color: #333; padding: 4px;}
+	.pika-textnav a.previous {float: left; width: auto; display: block;}
+	.pika-textnav a.next {float: right; width: auto; display: block;}
+
+/*for the tool tips*/
+.pika-tooltip{font-size:12px;position:absolute;color:white;padding:3px; background-color: rgba(0,0,0,0.7);border:3px solid black;}
+.pika-counter{position: absolute;bottom: 45px;left:15px;color:white;background:rgba(0,0,0,0.7);font-size:11px;padding:3px;-moz-border-radius: 5px;border-radius:5px;}
+
+/* If using user thumbnails there's a pause well the new large image loads. This is the loader for that */		
+.pika-loader{ background:url(loading.gif) 3px 3px no-repeat #000; background-color:rgba(0,0,0,0.9); color:white; width:60px; font-size:11px; padding:5px 3px; 
+	text-align:right; position:absolute; top:15px; right:15px; }
+
+/* Tabs Styles */
+ul.tabs {
+    list-style: none;
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+}
+ul.tabs li {display: inline-block;}
+ul.tabs a {
+    display: block;
+    position: relative;
+    top: 1px;
+    padding: 5px 10px;
+    border: 1px solid transparent;
+    text-decoration: none;
+}
+ul.tabs a.active {
+    border-color: #ccc;
+    border-bottom-color: #fff;
+}
+section.tab {
+    display: none;
+    margin-bottom: 15px;
+    padding: 15px 0;
+}
+section.tab.active {display: block;}

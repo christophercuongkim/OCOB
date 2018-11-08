@@ -1,0 +1,50 @@
+/*
+Theme Name: ocobaol
+Theme URI: 
+
+Version: 1.0.0.0
+Description: Our AOL theme changed to have a left navigation tree structure.
+
+Tags:
+
+Author: Cal Poly OCOB
+Author URI: 
+
+*************************************************************************************
+
+This theme is released under GPL (http://www.opensource.org/licenses/gpl-3.0.html)
+
+"There is no present like time."
+*/
+
+body  {
+	direction:rtl;
+	unicode-bidi: embed;
+	}
+
+/* dropdown menu positioning */
+.menu ul li:hover ul li:hover ul,
+.menu ul li:hover ul li:hover ul li:hover ul,
+.menu ul li:hover ul li:hover ul li:hover ul li:hover ul,
+.menu ul li:hover ul li:hover ul li:hover ul li:hover ul li:hover ul 
+{ left:-152px; width:150px; }
+
+/* comments */
+.comment-heading a { float:left; }
+
+.comment-meta .avatar { float:right; margin:0px 0px 10px 10px; }
+.comment-quote-link { right:95%; }
+
+#commentform .avatar-user { float:right; margin:0px 0px 10px 10px; }
+#commentform .avatar-commenter { float:left; margin:0px 10px 0px 0px; }
+
+#commentform p input { margin-left:10px; margin-right:0px; }
+
+/* widget arrow */
+.widget li { padding:5px 20px 5px 0px; background-position:right 10px; }
+
+/* widget recent comments avatar */
+.widget_fpcomments .avatar { float:right; margin:0px 0px 0px 10px; }
+
+/* widget twitter */
+.widget_fptwitter ol li { padding-right:0px; }

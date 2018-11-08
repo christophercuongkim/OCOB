@@ -1,0 +1,367 @@
+/*  
+Theme Name: Black n White
+Theme URI: http://zacklive.com/new-black-and-white-wordpress-theme/300/
+Description: A black and white WordPress Theme, simple and elegant design, widget ready with right sidebar. Fixed the sidebar bug. With control panel, you can set your own RSS feed and header logo. Wordpress 2.7 compatible, Supporting threaded (nested) comments, sticky-post and comment pages.
+Version: 2.0.1
+Author: Zack
+Author URI: http://zacklive.com/
+Tags: black, white, two-columns, fixed-width, threaded-comments, sticky-post
+Chang Log: 
+14/Aug/2009: Control panel added.
+21/Jul/2009: Upgrade to WordPress 2.8 (Supporting threaded (nested) comments, sticky-post and comment pages)
+06/Nov/2008: Fixed the little bug of sidebar in single page.
+
+   This theme, including the CSS, XHTML and design, is released under the
+   GPL: http://www.opensource.org/licenses/gpl-license.php
+
+*/
+body, h1, h2, h3, h4, h5, h6, blockquote, p, form{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	font-family: Georgia, Arial, helvetica, Sans-serif;
+	font-size: 12px;
+	text-align: center;
+	vertical-align: top;
+	background: #111111;
+	color: #000;
+}
+
+h1{
+	font-family: Georgia, Arial, Sans-serif;
+	font-size: 23px;
+	color: #F8F8F8;
+}
+
+h1 a{
+	color: #F8F8F8;
+}
+
+h1 a:hover{
+	text-decoration: none;
+	color: #F8F8F8;
+}
+
+a:link, a:visited{
+	text-decoration: none;
+	color: #F8F8F8;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: #336699;
+}
+
+p{
+	padding: 10px 0 0 0;
+}
+
+#wrapper{
+	margin: 0 auto 0 auto;
+	width: 990px;
+	text-align: left;
+}
+
+#header{
+	float: left;
+	width: 980px;
+	height: 80px;
+	color: #F8F8F8;
+}
+
+#logo{
+	float: left;
+}
+
+#htitle{
+	float: left;
+	margin: 27px 10px 0 10px;
+}
+
+#desc{
+	float: left;
+	color: #777;
+	margin: 35px 10px 0 10px;
+}
+
+#navmenu{
+	float: right;
+	margin: 27px 0 0 0;
+}
+
+#navmenu ul{
+	list-style-type: none;
+	list-style-image: none;
+}
+
+#navmenu ul li{
+	display: inline;
+	padding: 0 0 0 20px;
+}
+
+#navmenu ul li a {
+	text-decoration: none;
+	color: F8F8F8;
+}
+
+#navmenu ul li a:hover {
+	color: 9999AA;
+}
+
+#container{
+	float: left;
+	width: 700px;
+	margin: 0 15px 0 0;
+}
+
+#postcon{
+	margin: 10px 0;
+	background: #F8F8F8;
+}
+
+.post{
+	padding: 10px 20px;
+}
+
+.post a{
+	color: #336699;
+}
+
+.post a:hover{
+	color: #666;
+	text-decoration: underline;
+}
+
+.post h2{
+	font-family: Georgia, Sans-serif. Arial;
+	font-size: 22px;
+}
+
+.post h2 a{
+	color: #333;
+}
+
+.entry{
+	line-height: 18px;
+}
+
+.postmetadata{
+	border-top: 1px solid #EEE;
+	padding: 2px 0 2px 20px;
+	color: #AAA;
+	background: url(images/time.png) left center no-repeat;
+}
+
+.metabox{
+	float: left;
+	width: 99%;
+	line-height: 20px;
+	margin: 15px 0;
+	padding: 5px 0 5px 5px;
+	background: #EEE;
+}
+
+.navigation{
+	clear: left;
+	padding: 10px 10px;
+	background: #333;
+	color: #F8F8F8;
+	width: 680px;
+	height: 15px;
+}
+
+.floatleft{
+	float: left;
+}
+
+.floatright{
+	float: right;
+}
+
+table#wp-calendar{
+	width: 100%;
+}
+
+.commentlink{
+	padding: 2px 0 2px 20px;
+	background: url('images/comment.png') left center no-repeat;
+	margin-left: 10px;
+}
+
+.editcomment{
+	padding: 2px 0 2px 20px;
+	background: url('images/pencil.png') left center no-repeat;
+	margin-left: 10px;
+}
+
+.catlink{
+	padding: 2px 0 2px 20px;
+	background: url('images/cat.png') left center no-repeat;
+}
+
+.taglink{
+	display: block;
+	padding: 2px 0 2px 20px;
+	background: url('images/tag.png') left center no-repeat;
+}
+/*Sidebar
+-----------------------------------------------------*/
+.sidebar{
+	float: left;
+	width: 269px;
+	display: inline;
+	color: #F8F8F8;
+	background: #333;
+}
+
+.sidebar ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0 10px 0 10px;
+}
+
+.sidebar ul li{
+	padding: 10px 0 10px 0;
+}
+
+.sidebar ul li h2{
+	font-family: Georgia, Sans-serif;
+	font-size: 15px;
+	padding: 0 0 5px 0;
+	border-bottom: 1px solid #666;
+}
+
+.sidebar ul ul li{
+	padding: 0;
+	line-height: 24px;
+}
+
+/*Tags
+-----------------------------------------------------*/
+.tags,
+#tag_cloud {
+	margin: 0 0 15px;
+}
+.tags {
+  text-align: center;
+}
+.tags a,
+#tag_cloud a {
+	color: #AAA;
+	margin: 0 2px;
+}
+
+.cle{
+	clear: both;
+}
+
+/*Footer
+-----------------------------------------------------*/
+#footer{
+	clear: both;
+	float: left;
+	text-align: center;
+	width: 990px;
+	line-height: 20px;
+	margin: 15px 0;
+	padding: 5px 0 5px 20px;
+	color: #AAA;
+}
+
+/*Comments
+-----------------------------------------------------*/
+.odd{
+	background: #EEE;
+}
+
+.even{
+	background: #FFF;
+}
+
+.comments-template{
+	margin: 10px 0 0 0;
+	border-top: 1px solid #ccc;
+}
+
+.comments-template ul{
+	margin: 0;
+	padding: 0 0 15px;
+	list-style: none;
+}
+
+.comments-template ul li{
+	line-height: 18px;
+	padding: 10px 0 10px 10px;
+}
+
+.comments-template h2, .comments-template h3{
+	font-family: Georgia, Sans-serif;
+	font-size: 16px;
+}
+
+.commentmetadata{
+	font-size: 12px;
+}
+
+.comments-template p.nocomments{
+	padding: 0;
+}
+
+.comments-template textarea{
+	font-family: Arial, Helvetica, Georgia, Sans-serif;
+	font-size: 12px;
+}
+
+.aligncenter,
+div.aligncenter {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.alignleft {
+   float: left;
+}
+
+.alignright {
+   float: right;
+}
+
+.wp-caption {
+   border: 1px solid #ddd;
+   text-align: center;
+   background-color: #f3f3f3;
+   padding-top: 4px;
+   margin: 10px;
+   /* optional rounded corners for browsers that support it */
+   -moz-border-radius: 3px;
+   -khtml-border-radius: 3px;
+   -webkit-border-radius: 3px;
+   border-radius: 3px;
+}
+
+.wp-caption img {
+   margin: 0;
+   padding: 0;
+   border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+   font-size: 11px;
+   line-height: 17px;
+   padding: 0 4px 5px;
+   margin: 0;
+}
+
+/*Avatar
+-----------------------------------------------------*/
+.commentlist li .avatar {
+float: right;
+border: 1px solid #EEE;
+padding: 2px;
+margin: 0 10px;
+background: #fff;
+}

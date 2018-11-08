@@ -1,0 +1,16 @@
+These are the release notes for the Create Page extension.
+	
+Extension page on mediawiki.org: https://www.mediawiki.org/wiki/Extension:Create_Page
+
+
+=== Version 0.2 ===
+(2013-07-07)
+
+* Added 4th parameter to add intial text to the created page.
+* Use of wfMessage rather then wfMsg.
+* Explicit references to globals in entry point file.
+
+=== Version 0.1 ===
+(2012-02-04)
+
+Initial release.

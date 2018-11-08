@@ -1,0 +1,528 @@
+/* ========== - UPDATE LOG : Polytechnic - ==========*/
+
+Version 1.3.7
+03/04/18
+- UPDATED: Plugin - WPBakery Visual Composer 5.4.5
+- UPDATED: Plugin - Revolution Slider 5.4.7.1
+- FIXED: Pagination for Searchform.php (missing query string in OG search url)
+- FIXED: Email for Author.php - Updated from native function to $curauth->user_email
+
+Version 1.3.6
+08/12/17
+- UPDATED: Plugin - WPBakery Visual Composer 5.2
+- UPDATED: Plugin - Revolution Slider 5.4.5.1
+- UPDATED: element-sticky-header.php, element-secondary-navigation.php, and theme-register-menus.php
+    - REMOVED: Mythology_Walker class
+- ADDED: Author sidebar styles updated. 
+- UPDATED: theme-4-plugins.css styles for The Events Calendar update.
+
+Version 1.3.5
+03/12/17
+- UPDATED: WPBakery Visual Composer 5.1
+- UPDATED: Revolution Slider 5.4.1
+- Fixed: SSL for GoogleFonts
+
+Version 1.3.4
+01/14/17
+- UPDATED: WPBakery Visual Composer 5.0.1
+- UPDATED: Revolution Slider 5.3.1.5
+- UPDATED: Polytechnic Courses 2.0
+- REMOVED: Mythology_Walker for QTranslateX Support
+- UPDATED: Author.php for translation of <p></p> string
+- UPDATED: .pot file
+- UPDATED: Style for sticky header menu items (with children)
+
+Version 1.3.3
+09/08/2016
+- UPDATED: WPBakery Visual Composer 4.12.1
+- UPDATED: Revolution Slider 5.2.6
+- UPDATED: Ajaxy Search Form registered via included zip
+- UPDATED: Translation
+    - Tophat Account/WooCommerce Links
+    - Post in loop (the_content(Read More...))
+    - Template-Course-Catalog.php - _x to __
+    - Author Sidebar now includes 's
+- UPDATED: WooCommerce Support
+    - FIXED: Page Layout options
+- UPDATED: Course Catalog template
+    - ADDED: Sensei support
+- UPDATED: Polytechnic Courses 1.9
+    - ADDED: Sensei support
+- UPDATED: ot-meta-boxes
+    - ADDED: Sensei support
+- UPDATED: Documentation 0.7
+
+Version 1.3.2
+07/12/2016
+- UPDATED: Template Blog
+    - UPDATED: Now uses WP_Query
+    - ADDED: Conditional for pagination when is_front_page()
+    - FIXED: Pagination when assigned to Static Front Page (Settings > Reading)
+- ADDED: RTL Support
+	- ADDED: RTL Stylesheet
+	- ADDED: Option to turn on RTL Stylesheet
+- UPDATED: hAtom microformats
+	- NOTES: 
+		- CHECK/TEST: https://search.google.com/structured-data/testing-tool
+		- CHECK/TEST HELP: https://developers.google.com/search/docs/guides/prototype
+		- RESEARCH: Aggregate from articles and user feedback (Thanks @Tim)
+	- UPDATED: hAtom microformat for author across the theme
+	    - UPDATED: vcard & fn
+	- UPDATED: hAtom microformat for date across the theme
+	- ADDED: Additional recommended markup to meet standards for microformats
+    - ADDED: To post, post loop, default page, faculty page, post grid page, blog page, etc.)
+- UPDATED: Now supports new Responsive Menu plugin (v.3.0)
+	- ADDED: Base styles to support the new markup/styles added by the plugin
+	- ADDED: Starter skin for the menu (included in WP Polytechnic/Resources/Demo-Data/Demo-Menu-Skin.json). This allows users to use their panel to customize this further.
+	- NOTE: This has become a "Freemium" plugin, which allows you to extend it by purchasing a "Pro" license. This is not necessary unless you want access to some of their more advanced functions. Again, this is not necessary. 
+	- Further, with so many pre-existing users, I felt it appropriate to support this update v. moving away from it. I am still considering other options, but this is a necessary step to maintain existing sites that using this functionality.
+    - UPDATED: Modified styles for notifications on the backend, red to gray (red is a bit misleading).
+- UPDATED: Hover Image Module, module-content font-weight for @media-queries fallback updated
+- UPDATED: Child Theme - v.2.0
+- ADDED: Support for Main/Large hover-image replacement with video (4:3) in hover-grid
+- UPDATED: Support for Dynamic To Top
+    - ADDED: Option/Toggle to manage theme styles (Appearance > Theme Options > Sticky Header Options > Use Theme Styles for Dynamic To Top)
+        - NOTES: Toggling the option off will remove theme styles for this element, and the Appearance > To Top panel will take precedent. Default is on, and will pull styles from the theme.Reason - This is for users who want to modify this element further using the native/included options. These option are limited, though, which is why the theme has custom styles for this.
+- UPDATED: Documentation to v.0.6
+    - UPDATED: Responsive Menu steps for importing the Responsive-Menu-Skin
+    - UPDATED: Responsive Menu notes for setting up and customizing
+    - UPDATED: Dynamic To Top section with notes on new option
+- UPDATED: Faculty Grid Template & Options
+    - ADDED: All users of all roles selection option (Manual User Selection v. Manual Faculty User Selection)
+    - ADDED: Query and output for new option key/value set
+    - ADDED: Toogle ON/Off to turn user email into a mailto link
+- UPDATED: Theme Options > Faculty Options 
+    - UPDATED: Sectioned into tabs
+    - ADDED: Toogle ON/Off to turn user email into a mailto link for Author page
+    - ADDED: Toogle ON/Off to turn user email into a mailto link for Sidebar instances
+- UPDATED: the_time() has been updated to the_modified_date()
+- UPDATED: Styles for WooCommerce page title
+
+Version 1.3.1
+06/08/2016
+- UPDATED: WPBakery Visual Composer 4.12
+- UPDATED: Revolution Slider 5.2.5.3
+- ADDED: Image Hover - Tablet(Portrait) options for start & end height
+- FIXED: Image Hover - Tablet(Portrait) display
+
+Version 1.3.0
+05/24/2016
+- UPDATED: Responsive Menu icon
+- UPDATED: Conditional that checks if title is set to off - now includes search results in conditional to maintain consistency
+- FIXED: Resonsive Menu "Open State" for browsers not opening on first/second click (ie. Chrome, Edge, etc.)
+
+Version 1.2.9
+04/28/2016
+- UPDATED: WPBakery Visual Composer 4.11.2.1
+- UPDATED: Revolution Slider 5.2.5
+
+Version 1.2.8
+04/14/2016
+- UPDATED: WPBakery Visual Composer 4.11.2
+- UPDATED: Revolution Slider 5.2.4.1
+
+Version 1.2.7
+04/05/2016
+- UPDATED: Revolution Slider 5.2.4
+- FIXED: Grayscale header image
+- FIXED: Hover Image module custom start/stop hover height options (Thanks @tcward)
+- FIXED: Footer 1 column senario (removed added padding)
+
+Version 1.2.6
+03/21/2016
+- UPDATED: WPBakery Visual Composer 4.11.1
+- UPDATED: Revolution Slider 5.2.3.5
+- FIXED: Faculty Grid page template manual user selection (user link/image) (Thanks @NirmalRaman)
+- FIXED: Theme Options
+    - Skin Builder: 
+        - FIXED: Primary & Secondary Color Z-Index (Thanks @Boukjee)
+        - FIXED: Sub Menu Highlight Border (Thanks @benjaminbis)
+FEATURE REQUEST(S)
+- ADDED: Title attribute for Social Links. Gives tooltip on hover (Thanks @chaddng)
+- ADDED: Theme Options > Post Options > Show the Featured Image (Thanks @advanceitmn)
+- ADDED: Hover Image > Alt Tag (Thanks #netterm)
+
+Version 1.2.5
+03/1/2016
+- UPDATED: WPBakery Visual Composer 4.10
+	- UPDATED: Pageable Content module styles
+- UPDATED: Styles
+    - UPDATED: Tophat Elements for Safari (Thanks @chaddng)
+    - UPDATED: List styles for Essential Grid Plugin
+    - UPDATED: List styles for Shortcodes Ultimate Plugin
+- ADDED: ADMIN STYLES FOR OPTIONTREE TABS
+- FEATURE REQUEST(S): 
+	- ADDED: Faculty Grid page template now includes an option to build manually (with user selection)
+	- ADDED: Faculty Grid page template still supports filter by course category
+    - ADDED: Image Link option for Hover Image module
+    - ADDED: Course Featured Image Options On/Off
+    - ADDED: Course Featured Image Custom Width
+    - ADDED: Course Featured Image Custom Height
+    - ADDED: Course Description On/Off
+    - ADDED: Course Listing - Link Number On/Off
+    - ADDED: Course Listing - Link Name On/Off
+    - ADDED: Course Listing - Link User On/Off
+    - ADDED: Visual Composer Quick Styles Controls (Theme Options > Skin Builder)
+        - ADDED: VC Tab BG Color
+        - ADDED: VC Tab:Hover BG Color
+        - ADDED: VC Tab:Active BG Color
+        - ADDED: VC Tab Panel BG Color
+        - ADDED: VC Tab Panel Border Color
+    - ADDED: Course Output Panel
+        - ADDED: Change Course "Course Name"?
+        - ADDED: Change Course "Course Number"?
+        - ADDED: Change Course "Course ID"?
+        - ADDED: Change Course "Course Time"?
+        - ADDED: Change Course "Instructor"?
+        - ADDED: Change Course "Room Number"?
+        - ADDED: Change Course "Course Days"?
+        - ADDED: Change Course "Prerequisite(s)"?
+        - ADDED: Change Course "Component(s)"?
+        - ADDED: Change Course "Credit(s)"?
+        - ADDED: Change Course "Location"?
+        - ADDED: Change Course "Notes"?
+            - UPDATED: Author Course listings
+            - UPDATED: Course Catalog page template
+            - UPDATED: Single Course instance
+            - UPDATED: Polytechnic Courses plugin v.1.7
+
+Version 1.2.4
+01/11/2016
+- UPDATED: WPBakery Visual Composer 4.9.1
+- UPDATED: Revolution Slider 5.1.6
+- UPDATED: VC 4.9.1 Support
+    - Course styles
+- UPDATED: Removed vc_set_as_theme
+- UPDATED: Theme Documentation v.0.5
+- UPDATED: Easy Theme & Plugin Upgrades plugin removed from Recommended Plugin list
+- ADDED: Credits and Prerequisites to Course-Catalog & List & Search
+
+Version 1.2.3
+12/18/2015
+- UPDATED: WPBakery Visual Composer 4.9
+	- ADDED: VC 4.9 support
+		- wpb_map() to vc_map()
+		- Hover Image module and hover-grid styles
+		- Custom parallax bg + content
+- UPDATED: Revolution Slider 5.1.5
+	- ADDED: Rev_Slider 5.1.5 support
+		- first-child + cover-header styles updated
+- FIXED: Ken Burns Affect for Revolution Slider
+- UPDATED: Theme Styles for new version(s) of The Events Calendar plugin
+	- Tophat Dropdown area widget usage
+	- Content widget usage
+	- Two column list template
+- UPDATED: Primary & Sticky Menu Z-Index
+- UPDATED: Demo-Content.xml for users with media issues
+	- reflects new vc builds/modules
+- ADDED: New "Revolution Slider Home Page" demo_slider.zip
+- UPDATED: Marketing
+	- 80x80.png
+	- Theme Preview 
+
+Version 1.2.2
+12/01/2015
+- UPDATED: WPBakery Visual Composer 4.8.1
+- UPDATED: Revolution Slider 5.1.4
+- UDPATED: Buy VC nag removed (not needed)
+- FIXED: Faculty Contact Form option
+- UPDATED: Styles-Polytechnic plugin to version 1.4
+
+Version 1.2.1
+11/02/2015
+- FIXED: Undefined function cascade for menu doc.helper plugin check
+
+Version 1.2.0
+11/01/2015
+- UPDATED: WPBakery Visual Composer 4.8.0.1
+    - UPDATED: Separator styles for consistency
+- UPDATED: Revolution Slider 5.1
+- UPDATED: Mythology Core 1.1.8
+    - UPDATED: Load Text Domain function updated to check both original and standard locations
+- UPDATED: Doc Helper for setting menus updated
+- UPDATED: The Events Calendar - width for single events in month view updated
+- UPDATED: Descriptions for option sets
+- UPDATED: Languages pot file
+- FIXED: Sticky Header menu option
+- FIXED: Revolution Slider v. Mega Menu dropdown z-index
+- FIXED: "Search Courses" for translation(s)
+
+Version 1.1.9
+10/18/2015
+- UPDATED: Demo-Content.xml - Uses latest VC module versions
+- UPDATED: Styles for new VC markup
+- FIXED: Menu dropdown v. hover-image z-index
+- UPDATED: Styles-Polytechnic plugin to version 1.3
+- UPDATED: Polytechnic-Courses plugin to version 1.6
+
+Version 1.1.8
+10/08/2015
+- FIXED - XSS Vulnerabilities:
+    - UPDATED: WPBakery Visual Composer 4.7.4
+- UPDATED: Revolution Slider 5.0.9
+
+Version 1.1.7
+09/22/15
+- UPDATED: Tophat Dropdown Trigger and Pre Footer Blurb options now allow for HTML content. Note, these are now using htmlspecialchars() and htmlspecialchars_decode() to neutralize HTML. 
+- UPDATED: Sub Footer Left and Sub Footer Right text areas updated with the htmlspecialchars() and htmlspecialchars_decode() to neutralize HTML.
+- UPDATED: Rev_Slider header overlap z-index support (structure 181, plugins 42 & 944)
+- UPDATED: New VC Tab styles for courses
+- UPDATED: The Events Calendar Pro widget(s) styles
+
+Version 1.1.6
+09/20/15
+- FIXED: Conditional using is_plugin_active fixed
+
+Version 1.1.5
+09/18/15
+- UPDATED: Mythology Core 1.1.7
+    - UPDATED: WPBakery Visual Composer 4.7.1.1
+    - UPDATED: Revolution Slider 5.0.8.5
+- UPDATED: All included plugins are now "Recommended" and not "Required". This opens the theme up to users who want additional control. 
+    - Note: you can still access all included plugins via Appearance > Install Plugins panel and the standard Plugins panel. 
+- UPDATED: Documenation file to v.0.4
+- ADDED: New Doc.Helper files (These will serve to assist in the admin area)
+    - ADDED: Responsive menu doc helpers for updated/new assignment
+- UPDATED: Responsive menu styles
+- FIXED: Custom social icon options, fixes the loop so you can generate as many custom icons as you like (element-getsocial.php)
+- FIXED: Archive.php pagination and query
+- FIXED: Capitalization for localization
+- UPDATED: Mobile table(s) bottom margin and native scroll
+- ADDED: Mobile div "Touch to Scroll Content Below" added for is_handheld for table description (author.php and template-course-catalog.php)
+- UPDATED: Support for Visual Composer FrontEnd Editor - module controls (new and old tab controls)
+- UPDATED: Styles for The Events Calendar & The Events Calendar Pro
+- UPDATED: Styles for Section-Super-Header
+- UPDATED: Tab styles for new VC markup
+- UPDATED: Tour styles for new VC markup
+- UPDATED: Accordion styles for new VC markup
+
+Version 1.1.4
+08/01/2015
+- UPDATED: Theme helperclass jquery 'parallax-vertical' updated + better support for VC parallax
+- UPDATED: Visual Composer Admin Helper Functions for Backend Editor - Adjusts linkage and styles
+
+Version 1.1.3
+07/23/2015
+- UPDATED: Mythology Core 1.1.6
+    - UPDATED: WPBakery Visual Composer 4.6.2
+- UPDATED: Support for Visual Composer FrontEnd Editor - module controls
+- ADDED: Visual Composer Admin Helper Functions - Backend Editor
+    - NOTES: These functions are focused on helping users get a better visual of their row background image/color(s) in the page editor. This was added to help/fix when the text within a row is the same color as default bg (ie. white on white). We found this to be super helpful, so we wanted to roll it out to you guys.
+        - ADDED: Get bg-color from row controls - add bg-color to the row
+        - ADDED: Get bg-img from row controls - add bg-img to the row
+        - ADDED: If custom bgcolor or bgimage, make og bg and text bg transparent
+- ADDED: Custom Hover Image module icon - backend recognition, and VC map
+- ADDED: Ordering options added to Course Catalog template
+    - ADDED: Order_By - Can now order by Course ID, Course Number, Course Name, Author, Course Room Number, Course Days, and Course Time
+    - ADDED: Order - Can now order by ASC and DESC for all included order_by parameter values
+- FIXED: Social > Skype option updated from esc_url to esc_attr to fix the href strip
+- UPDATED: Demo-Content.XML reflects the text color updates (span) used in latest VC version. Only Courses affected
+
+Version 1.1.2
+06/30/2015
+- UPDATED: Mythology Core 1.1.5
+    - UPDATED: WPBakery Visual Composer 4.5.3
+- UPDATED: Mega menu sub-menu children styles for parent hover state (ot-user-styles.php)
+- UPDATED: Author.php course list post_per_page to "-1" (aka all)
+- ADDED: Now Supporting Custom Layouts for Courses
+    - ADDED: Course > Course Layout Options - image radio buttons (this will override the fallback set in Theme Options > Layout Options for each page, if set)
+    - ADDED: This added feature also adds support for the Custom Sidebars plugin for Courses
+- FIXED: Appearance > Theme Options > "Show the Post Meta?" option fixed (content-single.php 149)
+- ADDED: Fallback for VC Separators on Mobile (media-queries.css 269)
+
+
+Version 1.1.1
+06/15/2015
+- UPDATED: PrettyPhoto js script to 3.1.6 - prettyPhoto XSS fix
+- UPDATED: Mythology Core 1.1.4
+    - UPDATED: WPBakery Visual Composer 4.5.2
+- UPDATED: Faculty-Grid template name v. email columns
+- UPDATED: Custom user profile photo enqueue (functions folder 51-52)
+- UPDATED: new conditionals set in mythology-key.jS and register-scripts.php for isotope
+- UPDATED: Layout variables text-domain updated to mythology (theme-layout-variables.php)
+- UPDATED: Plugin support - get_custom_field conditioned (mythology-core-functions.php)
+- ADDED: Feature Request - Contact Form option for Author pages (Beta)
+- ADDED: Feature Request - Translation Support (Beta)
+    - ADDED: Feature Request - WPML Translation Support! (Beta) We are working closely with WPML to officially support their plugin
+        - wpml-config.xml (Beta)
+    - ADDED: Translation support for Theme Options panel (ot-theme-options.php)
+    - ADDED: Translation support for Page, Page Template, and Post options (ot-meta-boxes.php)
+    - ADDED: Translation support for theme-files (directory > languages, polytechnic.pot, and (Beta) es_ES.po and es_ES.mo translation files)
+- UPDATED: Polytechnic Courses plugin to v.1.5
+    - ADDED: Feature Request - Translation Support! (Beta)
+        - ADDED: Translation support for plugin files (directory > languages, polytechnic-courses.pot, and (Beta) polytechnic-courses-es_ES.po and polytechnic-courses-es_ES.mo translation files)
+        - ADDED: Feature Request - WPML Translation Support! (Beta) We are working closely with WPML to officially support their plugin
+            - wpml-config.xml (Beta)
+    - ADDED: Comments support
+- NOTES: Beta additions are supported, but we want to be clear that these might include some additional steps or limitations at this time. If you have any questions or issues, please provide any feedback at our dedicated support forum: https://themeisland.ticksy.com/
+
+
+Version 1.1.0
+05/15/2015
+- FIXED: Markup and fallback styles for Tophat Search option
+
+Version 1.0.9
+05/12/2015
+- FIXED - Theme Options > Skin Builder - Tophat BG option
+- FIXED: polytechnic-styles plugin - Tophat Section expanded and patched
+- ADDED: polytechnic-styles plugin - Tophat Dropdown Section now included
+- UPDAETD: Demo-Content.xml
+- UPDATED: Optiontree-loader.php updated
+- UPDATED: OptionTree import panel(s) - candy-admin-simple.css
+- UPDATED: Event widget .duration adjustment
+- UPDATED: Mythology Core 1.1.3
+    - UPDATED: WPBakery Visual Composer 4.5.1
+    - UPDATED: Revolution Slider 4.6.93
+    - UPDATED: OptionTree 2.5.5
+
+Version 1.0.8
+04/28/2015
+- ADDED: Pagination for Course Catalog page template (template-course-catalog.php and mythology-functions.php)
+- ADDED: Fallback menu list item styles for sticky menu
+- ADDED: Feature Request - Tophat Login Links option (On/Off) - even when WooCommerce is active
+- ADDED: Feature Request - Tophat Search option (On/Off) - uses ajaxy if active
+- ADDED: Feature Request - Tophat Custom Text/HTML option
+- UPDATED: Resouces > Widgets.wie 
+- UPDATED: Resouces > Demo-Content.xml 
+- UPDATED: Hover-grid cross browser support - vc_extend css lines 16-32 added
+- UPDATED: Styles for rpwe menu widgets updated to use widget image sizes
+- UPDATED: Recommended plugin source(s) updated to use "latest-stable"
+- UPDATED: Small style tweeks to maintain consistency
+- FIXED - XSS Vulnerability:
+    - UPDATED: Mythology Core 1.1.2: 
+        - WPBakery Visual Composer 4.5
+        - Revolution Slider 4.6.9
+        - OptionTree 2.5.4
+        - TGM-Plugin-Activation 2.4.1
+        - Plugin-loader.php sources updated from http to https
+        - Plugin-loader.php sources updated to use "latest-stable"
+
+Version 1.0.7
+03/11/2015
+- UPDATED: Polytechnic-courses plugin updated to 1.3 - includes translation support
+- ADDED: Polytechnic-courses plugin text domain declaration
+- FIXED: Padding for featured image when Meta section is off
+- FIXED: Content-fullwidth template (used in Blog template and Single)
+- FIXED: Post Options > Show Post Footer, when off now turn all sub-options off
+- ADDED: Post Options > Post Comments On/Off
+- ADDED: New scrolling table function for overflow content on mobile devices for course catalog page template (http://polytechnic.themeisland.net/colleges-schools/course-catalog/)
+- FIXED: Remove hardcoded link in plugins.css
+- FIXED: Sub-footer on/off toggle
+- UPDATED: Conditionals added/updated for Footer Options (show_footer)
+
+Version 1.0.6
+02/26/2015
+- UPDATED: Functions OptionTree Loader - WPML support - this fixes the ot-meta-boxes.php error WPML users were seeing.
+- UPDATED: OptionTree 2.5.0
+- UPDATED: NiceScroll 3.6.0
+- UPDATED: Polytechnic-courses plugin updated to 1.1
+- UPDATED: Table data titles internationalized in polytechnic-courses plugin
+- UPDATED: Styles-polytechnic plugin updated
+- FIXED: Appearance > Customize > Header Menu Options
+- FIXED: Scrolling on touch devices
+- FIXED: Breadcrumbs for custom page tempaltes
+- FIXED: List styles for Sensei Quizes
+- ADDED: Base list styles for bbPress
+- FIXED: Dropdown menu v. Tribe events z-index issue
+- FIXED: Sticky header menu list spacing for non-mega-menu
+- UPDATED: Events Calendar styles for mobile devices
+
+Version 1.0.5
+02/05/2015
+- UPDATED: WPBakery Visual Composer - Version 4.3.5 - 4.4.2
+- UPDATED: OptionTree - Version 2.4.3 - 2.4.6
+- FIXED: Display of menu list item hover and sub-mega-menu.
+- ADDED: Default Styles for WooCommerce & The Events Calendar Tickets
+- ADDED: Menu Hover Color option in Skin Builder
+- ADDED: Sub Menu Highlight Color option in Skin Builder
+- ADDED: Sub Menu BG Color option in Skin Builder
+- ADDED: Sub Menu BG Image option in Skin Builder
+- ADDED: Header BG Grayscale On/Off toggle in Skin Builder
+- ADDED: Header BG Color Opacity numeric slider in Skin Builder
+
+Version 1.0.4
+01/15/2015
+- FIXED: Display of Faculty Directory for Safari and mobile users
+- FIXED: Author page course query now supports usernames with underscores
+- FIXED: Now supporting The Events Calendar 3.9 - this fixes the new events saving issue
+- UPDATED: Mythology-core/optiontree files updated to 2.4.6
+- UPDATED: Documentation now covers hover grid, helper class, and demo-homepage.xml file (12.2.1)
+- UPDATED: Small tweaks to styles for author sidebar
+
+Version 1.0.3
+01/05/2015
+- FIXED: Custom faculty profile image uploader
+- FIXED: Blog template v. sidbar when posts have meta turned off
+- FIXED: Revolution Slider added back into plugin installation prompt
+- UPDATED: WPBakery Visual Composer - Version 4.3.4 - 4.3.5
+- UPDATED: Theme-plugin.css stylesheet update for Sensei login
+- UPDATED: Mythology-key updated for Sensei sidebar
+- UPDATED: Styles for Visual Composer Teaser Grid/Post Grid module
+
+Version 1.0.2
+12/22/2014
+- FIXED: Android device scrolling
+- FIXED: Sticky header on desktop viewport sizes
+- FIXED: Course & faculty meta widths/spacing/borders
+- FIXED: Widgets.WIE footer widgets updated for new Custom Menu Wizard version
+- FIXED: Responsive Menu plugin now included in prompt
+- ADDED: Option toggles (On/Off) for Faculty Meta
+- ADDED: Option toggles (On/Off) for Faculty Sidebar
+- ADDED: Faculty meta alignment/adjustment for overflow & removal
+- ADDED: Responsive Mode Toggle (On/Off)
+- ADDED: Check function for handheld devices
+- FIXED: Dropdown Header removed on handheld devices
+
+Version 1.0.1
+12.15.2014
+- Mythology Core Updated - VERSION 1.1.1 (By ThemeIsland)
+    - Plugin Update: WPBakery Visual Composer - Version 4.3.3 - 4.3.4
+    - Plugin Update: WP Revolution Slider - Version 4.6.0 - 4.6.5
+- Documentation Updated
+- Removed blank author description fallback
+- FIXED: Generation of vc_custom_ now isolated to rows
+- FIXED: Jquery no conflict for skeleton-key.js
+- FIXED: Custom CSS and Custom Script panels in Theme Options
+- FIXED: Remove Required/Forced Activation of Non-Essential Plugins
+- ADDED: Option toggle (On/Off) for NiceScroll custom scrolling.
+- ADDED: Option toggles (On/Off) for Course Meta
+- ADDED: Option toggles (On/Off) for Course Listings
+- ADDED: Course meta alignment/adjustment for overflow & removal
+
+VERSION 1.0.0
+11.27.2014
+- First Release
+
+
+
+
+Backlog
+ - content-single.php support for alt images
+ todo - 
+ Confirmeed - Single
+ when called on a search/archive, when called on a blog
+ Sermon, other page images, (ie. content-xxxxx.php)
+ ot-user-styles.php  line 240, fixed secondary_color for stickyheader 
+
+
+
+
+
+/* ========== - Feature Requests - ==========*/
+
+** Have a feature request? Let us know! We'll list it here and consider it during each update process. 
+
+/* ========== - Road Map - ==========*/
+
+** Road Map - These items are strongly being considered and/or being worked on. 
+
+    - Customizable options for Menu
+    - Customizable options for Mega Menu
+
+ ADDED - Mega Menu - Alternative to the standard WordPress menu for Primary Menu. This mega menu offers a flyout/mega toggle and dedicated "drag and drop" configure panel for mega menu items. 
+ ADDED - Sensi Learning - Alternative to Polytechnic Courses for advanced users.
+
+ /* ========== - Support/Contact - ==========*/
+
+ ** If you have any issues at all, please let us know! We are here to help!
+ Support Forum: http://themeisland.ticksy.com/

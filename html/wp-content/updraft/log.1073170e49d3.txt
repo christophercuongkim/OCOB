@@ -1,0 +1,471 @@
+68765.576 (1) Opened log file at time: Tue, 08 Aug 2017 15:28:43 +0000 on https://newscully.cob.calpoly.edu/
+68765.584 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.4M | 36.5M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+68765.592 (1) Free space on disk containing Updraft's temporary directory: 56701.2 MB
+68765.626 (1) Backup run: resumption=1, nonce=1073170e49d3, begun at=1502137357 (68766s ago), job type=backup, previous check-in=544s
+68765.634 (1) Long time past since expected resumption time: approx expected=1502138501.8, now=1502206123.2, diff=67621.4
+68765.642 (1) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+68765.659 (1) Scheduling a resumption (2) after 600 seconds (1502206723) in case this run gets aborted
+68765.682 (1) Checking if we have a zip executable available
+68765.684 (1) Creation of backups of directories: already finished
+68765.693 (1) Saving backup status to database (elements: 15)
+68765.709 (1) Database dump (WordPress DB): Creation was completed already
+68765.729 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+68765.735 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+68765.751 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.760 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.768 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.776 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.785 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.793 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.801 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.810 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+68765.818 (1) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+68765.826 (1) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/var/www/www.cob.calpoly.edu/html/wp-content/updraft/backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz)
+68765.843 (1) Recording as successfully uploaded: backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz (8302804ce2e2e181dcba077175ec1e02)
+68765.885 (1) Saving backup history. Total backup size: Unknown
+68765.902 (1) Requesting upload of the files that have not yet been successfully uploaded (11)
+68765.918 (1) Cloud backup selection (1/1): googledrive (last)
+68765.930 (1) Beginning dispatch of backup to remote (googledrive)
+68765.935 (1) Google Drive: this account is not authorised
+68765.952 (1) An error condition has occurred for the first time during this job
+68766.019 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+68766.028 (1) Number of backup sets in history: 7; groups (db): 1
+68766.035 (1) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+68766.044 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.052 (1) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+68766.060 (1) This backup set is the backup set just made, so will not be deleted.
+68766.069 (1) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+68766.085 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.094 (1) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+68766.102 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.110 (1) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+68766.119 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.127 (1) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+68766.135 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.160 (1) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+68766.169 (1) Number of backup sets in history: 7; groups (files): 1
+68766.177 (1) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+68766.194 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.202 (1) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+68766.219 (1) This backup set is the backup set just made, so will not be deleted.
+68766.227 (1) This backup set is the backup set just made, so will not be deleted.
+68766.227 (1) This backup set is the backup set just made, so will not be deleted.
+68766.227 (1) This backup set is the backup set just made, so will not be deleted.
+68766.228 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.235 (1) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+68766.252 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.261 (1) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+68766.277 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.286 (1) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+68766.294 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.302 (1) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+68766.311 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+68766.319 (1) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+68766.327 (1) This backup set remains non-empty (f=1/d=0); will retain in history
+68766.336 (1) Retain: saving new backup history (sets now: 7) and finishing retain operation
+68766.352 (1) Resume backup (1073170e49d3, 1): finish run
+68766.369 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+68766.386 (1) No email will/can be sent - the user has not configured an email address.
+68766.394 (1) The backup has not finished; a resumption is scheduled
+69366.019 (2) Opened log file at time: Tue, 08 Aug 2017 15:38:43 +0000 on https://newscully.cob.calpoly.edu/
+69366.027 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36.3M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+69366.035 (2) Free space on disk containing Updraft's temporary directory: 56701.2 MB
+69366.078 (2) Backup run: resumption=2, nonce=1073170e49d3, begun at=1502137357 (69366s ago), job type=backup
+69366.103 (2) Scheduling a resumption (3) after 600 seconds (1502207323) in case this run gets aborted
+69366.142 (2) Checking if we have a zip executable available
+69366.144 (2) Creation of backups of directories: already finished
+69366.153 (2) Saving backup status to database (elements: 15)
+69366.170 (2) Database dump (WordPress DB): Creation was completed already
+69366.188 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+69366.195 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+69366.203 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.211 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.220 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.228 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.236 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.245 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.253 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.261 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+69366.270 (2) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+69366.278 (2) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: This file has already been successfully uploaded
+69366.286 (2) Saving backup history. Total backup size: Unknown
+69366.303 (2) Requesting upload of the files that have not yet been successfully uploaded (11)
+69366.320 (2) Cloud backup selection (1/1): googledrive (last)
+69366.331 (2) Beginning dispatch of backup to remote (googledrive)
+69366.337 (2) Google Drive: this account is not authorised
+69366.345 (2) An error condition has occurred for the first time during this job
+69366.362 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+69366.371 (2) Number of backup sets in history: 7; groups (db): 1
+69366.378 (2) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+69366.387 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.395 (2) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+69366.403 (2) This backup set is the backup set just made, so will not be deleted.
+69366.412 (2) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+69366.420 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.445 (2) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+69366.453 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.462 (2) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+69366.470 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.479 (2) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+69366.487 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.504 (2) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+69366.512 (2) Number of backup sets in history: 7; groups (files): 1
+69366.520 (2) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+69366.529 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.537 (2) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+69366.545 (2) This backup set is the backup set just made, so will not be deleted.
+69366.553 (2) This backup set is the backup set just made, so will not be deleted.
+69366.554 (2) This backup set is the backup set just made, so will not be deleted.
+69366.554 (2) This backup set is the backup set just made, so will not be deleted.
+69366.554 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.562 (2) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+69366.570 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.579 (2) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+69366.587 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.595 (2) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+69366.604 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.612 (2) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+69366.620 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+69366.629 (2) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+69366.637 (2) This backup set remains non-empty (f=1/d=0); will retain in history
+69366.645 (2) Retain: saving new backup history (sets now: 7) and finishing retain operation
+69366.662 (2) Resume backup (1073170e49d3, 2): finish run
+69366.687 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+69366.721 (2) No email will/can be sent - the user has not configured an email address.
+69366.738 (2) The backup has not finished; a resumption is scheduled
+69998.625 (3) Opened log file at time: Tue, 08 Aug 2017 15:49:16 +0000 on https://newscully.cob.calpoly.edu/
+69998.632 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36.3M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+69998.649 (3) Free space on disk containing Updraft's temporary directory: 56701.1 MB
+69998.666 (3) Backup run: resumption=3, nonce=1073170e49d3, begun at=1502137357 (69999s ago), job type=backup
+69998.682 (3) Scheduling a resumption (4) after 600 seconds (1502207956) in case this run gets aborted
+69998.710 (3) Checking if we have a zip executable available
+69998.716 (3) Creation of backups of directories: already finished
+69998.724 (3) Saving backup status to database (elements: 15)
+69998.750 (3) Database dump (WordPress DB): Creation was completed already
+69998.769 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+69998.774 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+69998.783 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.791 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.808 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.816 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.824 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.833 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.841 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.849 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+69998.858 (3) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+69998.866 (3) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: This file has already been successfully uploaded
+69998.874 (3) Saving backup history. Total backup size: Unknown
+69998.891 (3) Requesting upload of the files that have not yet been successfully uploaded (11)
+69998.908 (3) Cloud backup selection (1/1): googledrive (last)
+69998.920 (3) Beginning dispatch of backup to remote (googledrive)
+69998.925 (3) Google Drive: this account is not authorised
+69998.942 (3) An error condition has occurred for the first time during this job
+69998.958 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+69998.967 (3) Number of backup sets in history: 7; groups (db): 1
+69998.975 (3) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+69998.983 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69998.991 (3) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+69999.008 (3) This backup set is the backup set just made, so will not be deleted.
+69999.016 (3) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+69999.025 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.033 (3) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+69999.041 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.050 (3) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+69999.058 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.075 (3) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+69999.083 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.091 (3) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+69999.100 (3) Number of backup sets in history: 7; groups (files): 1
+69999.108 (3) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+69999.117 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.125 (3) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+69999.142 (3) This backup set is the backup set just made, so will not be deleted.
+69999.150 (3) This backup set is the backup set just made, so will not be deleted.
+69999.150 (3) This backup set is the backup set just made, so will not be deleted.
+69999.150 (3) This backup set is the backup set just made, so will not be deleted.
+69999.151 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.158 (3) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+69999.167 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.175 (3) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+69999.183 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.192 (3) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+69999.208 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.216 (3) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+69999.225 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+69999.233 (3) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+69999.242 (3) This backup set remains non-empty (f=1/d=0); will retain in history
+69999.250 (3) Retain: saving new backup history (sets now: 7) and finishing retain operation
+69999.275 (3) Resume backup (1073170e49d3, 3): finish run
+69999.292 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+69999.308 (3) No email will/can be sent - the user has not configured an email address.
+69999.317 (3) The backup has not finished; a resumption is scheduled
+71355.647 (4) Opened log file at time: Tue, 08 Aug 2017 16:11:53 +0000 on https://newscully.cob.calpoly.edu/
+71355.655 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36.5M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+71355.671 (4) Free space on disk containing Updraft's temporary directory: 56700.9 MB
+71355.688 (4) Backup run: resumption=4, nonce=1073170e49d3, begun at=1502137357 (71356s ago), job type=backup
+71355.696 (4) Long time past since expected resumption time: approx expected=1502207956.3, now=1502208713.3, diff=757
+71355.705 (4) [Warning] Your website is visited infrequently and UpdraftPlus is not getting the resources it hoped for; please read this page: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+71355.721 (4) Scheduling a resumption (5) after 600 seconds (1502209313) in case this run gets aborted
+71355.758 (4) Checking if we have a zip executable available
+71355.763 (4) Creation of backups of directories: already finished
+71355.771 (4) Saving backup status to database (elements: 15)
+71355.788 (4) Database dump (WordPress DB): Creation was completed already
+71355.808 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+71355.813 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+71355.822 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.830 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.838 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.847 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.855 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.863 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.872 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.880 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+71355.888 (4) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+71355.897 (4) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: This file has already been successfully uploaded
+71355.905 (4) Saving backup history. Total backup size: Unknown
+71355.922 (4) Requesting upload of the files that have not yet been successfully uploaded (11)
+71355.947 (4) Cloud backup selection (1/1): googledrive (last)
+71355.958 (4) Beginning dispatch of backup to remote (googledrive)
+71355.964 (4) Google Drive: this account is not authorised
+71355.972 (4) An error condition has occurred for the first time during this job
+71355.989 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+71355.998 (4) Number of backup sets in history: 7; groups (db): 1
+71356.005 (4) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+71356.014 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.022 (4) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+71356.030 (4) This backup set is the backup set just made, so will not be deleted.
+71356.039 (4) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+71356.047 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.055 (4) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+71356.064 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.072 (4) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+71356.080 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.097 (4) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+71356.105 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.114 (4) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+71356.122 (4) Number of backup sets in history: 7; groups (files): 1
+71356.130 (4) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+71356.139 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.147 (4) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+71356.155 (4) This backup set is the backup set just made, so will not be deleted.
+71356.164 (4) This backup set is the backup set just made, so will not be deleted.
+71356.164 (4) This backup set is the backup set just made, so will not be deleted.
+71356.164 (4) This backup set is the backup set just made, so will not be deleted.
+71356.165 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.172 (4) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+71356.180 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.189 (4) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+71356.197 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.205 (4) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+71356.214 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.222 (4) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+71356.230 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+71356.239 (4) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+71356.247 (4) This backup set remains non-empty (f=1/d=0); will retain in history
+71356.255 (4) Retain: saving new backup history (sets now: 7) and finishing retain operation
+71356.272 (4) Resume backup (1073170e49d3, 4): finish run
+71356.289 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+71356.306 (4) No email will/can be sent - the user has not configured an email address.
+71356.314 (4) The backup has not finished; a resumption is scheduled
+72049.510 (5) Opened log file at time: Tue, 08 Aug 2017 16:23:27 +0000 on https://newscully.cob.calpoly.edu/
+72049.518 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36.3M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+72049.526 (5) Free space on disk containing Updraft's temporary directory: 56700.8 MB
+72049.543 (5) Backup run: resumption=5, nonce=1073170e49d3, begun at=1502137357 (72050s ago), job type=backup
+72049.560 (5) Scheduling a resumption (6) after 600 seconds (1502210007) in case this run gets aborted
+72049.583 (5) Checking if we have a zip executable available
+72049.593 (5) Creation of backups of directories: already finished
+72049.602 (5) Saving backup status to database (elements: 15)
+72049.618 (5) Database dump (WordPress DB): Creation was completed already
+72049.646 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+72049.652 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+72049.660 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.669 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.677 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.685 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.694 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.702 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.710 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.719 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+72049.727 (5) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+72049.735 (5) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: This file has already been successfully uploaded
+72049.744 (5) Saving backup history. Total backup size: Unknown
+72049.761 (5) Requesting upload of the files that have not yet been successfully uploaded (11)
+72049.786 (5) Cloud backup selection (1/1): googledrive (last)
+72049.796 (5) Beginning dispatch of backup to remote (googledrive)
+72049.811 (5) Google Drive: this account is not authorised
+72049.819 (5) An error condition has occurred for the first time during this job
+72049.844 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+72049.853 (5) Number of backup sets in history: 7; groups (db): 1
+72049.861 (5) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+72049.869 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72049.877 (5) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+72049.886 (5) This backup set is the backup set just made, so will not be deleted.
+72049.894 (5) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+72049.902 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72049.911 (5) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+72049.919 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72049.927 (5) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+72049.936 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72049.944 (5) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+72049.953 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72049.961 (5) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+72049.969 (5) Number of backup sets in history: 7; groups (files): 1
+72049.977 (5) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+72049.986 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72049.994 (5) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+72050.002 (5) This backup set is the backup set just made, so will not be deleted.
+72050.011 (5) This backup set is the backup set just made, so will not be deleted.
+72050.011 (5) This backup set is the backup set just made, so will not be deleted.
+72050.011 (5) This backup set is the backup set just made, so will not be deleted.
+72050.012 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72050.019 (5) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+72050.027 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72050.036 (5) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+72050.044 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72050.053 (5) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+72050.061 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72050.069 (5) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+72050.078 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+72050.086 (5) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+72050.094 (5) This backup set remains non-empty (f=1/d=0); will retain in history
+72050.103 (5) Retain: saving new backup history (sets now: 7) and finishing retain operation
+72050.119 (5) Resume backup (1073170e49d3, 5): finish run
+72050.136 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+72050.161 (5) No email will/can be sent - the user has not configured an email address.
+72050.178 (5) The backup has not finished; a resumption is scheduled
+72731.368 (6) Opened log file at time: Tue, 08 Aug 2017 16:34:49 +0000 on https://newscully.cob.calpoly.edu/
+72731.375 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36.3M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+72731.392 (6) Free space on disk containing Updraft's temporary directory: 56700.7 MB
+72731.409 (6) Backup run: resumption=6, nonce=1073170e49d3, begun at=1502137357 (72732s ago), job type=backup
+72731.425 (6) Scheduling a resumption (7) after 600 seconds (1502210689) in case this run gets aborted
+72731.449 (6) Checking if we have a zip executable available
+72731.459 (6) Creation of backups of directories: already finished
+72731.467 (6) Saving backup status to database (elements: 15)
+72731.492 (6) Database dump (WordPress DB): Creation was completed already
+72731.512 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+72731.517 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+72731.526 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.534 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.542 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.551 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.559 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.567 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.576 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.584 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+72731.592 (6) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+72731.601 (6) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: This file has already been successfully uploaded
+72731.609 (6) Saving backup history. Total backup size: Unknown
+72731.626 (6) Requesting upload of the files that have not yet been successfully uploaded (11)
+72731.651 (6) Cloud backup selection (1/1): googledrive (last)
+72731.663 (6) Beginning dispatch of backup to remote (googledrive)
+72731.668 (6) Google Drive: this account is not authorised
+72731.676 (6) An error condition has occurred for the first time during this job
+72731.701 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+72731.710 (6) Number of backup sets in history: 7; groups (db): 1
+72731.718 (6) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+72731.726 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.734 (6) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+72731.743 (6) This backup set is the backup set just made, so will not be deleted.
+72731.751 (6) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+72731.759 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.768 (6) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+72731.776 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.784 (6) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+72731.793 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.801 (6) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+72731.809 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.818 (6) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+72731.826 (6) Number of backup sets in history: 7; groups (files): 1
+72731.834 (6) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+72731.843 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.851 (6) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+72731.859 (6) This backup set is the backup set just made, so will not be deleted.
+72731.868 (6) This backup set is the backup set just made, so will not be deleted.
+72731.868 (6) This backup set is the backup set just made, so will not be deleted.
+72731.868 (6) This backup set is the backup set just made, so will not be deleted.
+72731.868 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.876 (6) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+72731.884 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.893 (6) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+72731.901 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.909 (6) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+72731.918 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.926 (6) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+72731.935 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+72731.943 (6) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+72731.951 (6) This backup set remains non-empty (f=1/d=0); will retain in history
+72731.959 (6) Retain: saving new backup history (sets now: 7) and finishing retain operation
+72731.976 (6) Resume backup (1073170e49d3, 6): finish run
+72731.993 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+72732.027 (6) No email will/can be sent - the user has not configured an email address.
+72732.035 (6) The backup has not finished; a resumption is scheduled
+73559.613 (7) Opened log file at time: Tue, 08 Aug 2017 16:48:37 +0000 on https://newscully.cob.calpoly.edu/
+73559.621 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36.3M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+73559.629 (7) Free space on disk containing Updraft's temporary directory: 56700.7 MB
+73559.646 (7) Backup run: resumption=7, nonce=1073170e49d3, begun at=1502137357 (73560s ago), job type=backup
+73559.662 (7) Scheduling a resumption (8) after 600 seconds (1502211517) in case this run gets aborted
+73559.686 (7) Checking if we have a zip executable available
+73559.696 (7) Creation of backups of directories: already finished
+73559.704 (7) Saving backup status to database (elements: 15)
+73559.721 (7) Database dump (WordPress DB): Creation was completed already
+73559.740 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+73559.746 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+73559.754 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.763 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.771 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads3.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.779 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads4.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.788 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads5.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.796 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads6.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.804 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads7.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.813 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-uploads8.zip: uploads: This file has not yet been successfully uploaded: will queue
+73559.821 (7) backup_2017-08-07-2022_Grad_Business_1e1bafef2013-others.zip: others: This file has not yet been successfully uploaded: will queue
+73559.829 (7) backup_2017-08-07-2022_Grad_Business_1073170e49d3-db.gz: db: This file has already been successfully uploaded
+73559.838 (7) Saving backup history. Total backup size: Unknown
+73559.855 (7) Requesting upload of the files that have not yet been successfully uploaded (11)
+73559.871 (7) Cloud backup selection (1/1): googledrive (last)
+73559.882 (7) Beginning dispatch of backup to remote (googledrive)
+73559.888 (7) Google Drive: this account is not authorised
+73559.896 (7) An error condition has occurred for the first time during this job
+73559.913 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=14, retain_db=14
+73559.922 (7) Number of backup sets in history: 7; groups (db): 1
+73559.930 (7) Examining (for databases) backup set with group_id=0, nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+73559.938 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73559.955 (7) Examining (for databases) backup set with group_id=0, nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+73559.963 (7) This backup set is the backup set just made, so will not be deleted.
+73559.971 (7) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+73559.980 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73559.988 (7) Examining (for databases) backup set with group_id=0, nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+73559.996 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.005 (7) Examining (for databases) backup set with group_id=0, nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+73560.013 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.021 (7) Examining (for databases) backup set with group_id=0, nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+73560.030 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.038 (7) Examining (for databases) backup set with group_id=0, nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+73560.046 (7) Number of backup sets in history: 7; groups (files): 1
+73560.055 (7) Examining (for files) backup set with nonce=05e4cada0362, datestamp=1502142459 (Aug 07 2017 21:47:39)
+73560.063 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.071 (7) Examining (for files) backup set with nonce=1073170e49d3, datestamp=1502137357 (Aug 07 2017 20:22:37)
+73560.080 (7) This backup set is the backup set just made, so will not be deleted.
+73560.088 (7) This backup set is the backup set just made, so will not be deleted.
+73560.089 (7) This backup set is the backup set just made, so will not be deleted.
+73560.089 (7) This backup set is the backup set just made, so will not be deleted.
+73560.089 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.097 (7) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535798 (Jul 31 2017 21:16:38)
+73560.105 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.113 (7) Examining (for files) backup set with nonce=a99f5b704ddf, datestamp=1501535069 (Jul 31 2017 21:04:29)
+73560.122 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.130 (7) Examining (for files) backup set with nonce=de774e6b77ff, datestamp=1501272608 (Jul 28 2017 20:10:08)
+73560.138 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.147 (7) Examining (for files) backup set with nonce=c343970fe4b1, datestamp=1501017152 (Jul 25 2017 21:12:32)
+73560.155 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+73560.163 (7) Examining (for files) backup set with nonce=15671a214a47, datestamp=1495462560 (May 22 2017 14:16:00)
+73560.172 (7) This backup set remains non-empty (f=1/d=0); will retain in history
+73560.180 (7) Retain: saving new backup history (sets now: 7) and finishing retain operation
+73560.197 (7) Resume backup (1073170e49d3, 7): finish run
+73560.213 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+73560.230 (7) No email will/can be sent - the user has not configured an email address.
+73560.247 (7) The backup has not finished; a resumption is scheduled
+357606.204 (8) Opened log file at time: Fri, 11 Aug 2017 23:42:43 +0000 on https://newscully.cob.calpoly.edu/
+357606.208 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.5 WP: 4.8.1 PHP: 5.4.16 (apache2handler, Linux newscully.cob.calpoly.edu 3.10.0-514.21.1.el7.x86_64 #1 SMP Thu May 25 17:04:51 UTC 2017 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 35.1M | 36M) multisite: Y openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+357606.216 (8) Free space on disk containing Updraft's temporary directory: 56691.6 MB
+357606.224 (8) This backup task (1073170e49d3) is either complete or began over 2 days ago: ending (1502494963.8487, 1502137357) (existing jobdata keys: resume_interval, job_type, jobstatus, backup_time, job_time_ms, service, split_every, maxzipbatch, job_file_entities, option_cache, uploaded_lastreset, one_shot, followsups_allowed, backup_database, backup_files, runs_started, current_resumption, binzip, filecreating_substatus, files_enumerated_at, run_times, useful_checkin, sha1-plugins0, sha256-plugins0, sha1-themes0, sha256-themes0, sha1-uploads0, sha256-uploads0, sha1-uploads1, sha256-uploads1, sha1-uploads2, sha256-uploads2, sha1-uploads3, sha256-uploads3, sha1-uploads4, sha256-uploads4, sha1-uploads5, sha256-uploads5, sha1-uploads6, sha256-uploads6, sha1-uploads7, sha256-uploads7, sha1-others0, sha256-others0, backup_files_array, binsqldump, dbcreating_substatus, warnings, sha1-db0, sha256-db0, uploading_substatus, prune, uploaded_-8302804ce2e2e181dcba077175ec1e02, uploaded_8302804ce2e2e181dcba077175ec1e02)
