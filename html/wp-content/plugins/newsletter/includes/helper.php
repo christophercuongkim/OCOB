@@ -16,6 +16,7 @@ function tnp_post_thumbnail_src($post, $size = 'thumbnail', $alternative = '') {
         $src = tnp_media_resize($media_id, $size);
         if (is_wp_error($src)) {
             Newsletter::instance()->logger->error($src);
+            return $alternative;
         } else {
             return $src;
         }
@@ -57,8 +58,22 @@ function tnp_post_date($post, $format = null) {
     return mysql2date($format, $post->post_date);
 }
 
+/**
+ * Tries to create a resized version of a media uploaded to the media library. 
+ * Returns an empty string if the media does not exists or generally if the attached file
+ * cannot be found. If the resize fails for whatever reason, fall backs to the
+ * standard image source returned by WP which is usually not exactly the 
+ * requested size.
+ * 
+ * @param int $media_id
+ * @param array $size
+ * @return string
+ */
 function tnp_media_resize($media_id, $size) {
+    if (empty($media_id)) return '';
     $relative_file = get_post_meta($media_id, '_wp_attached_file', true);
+    if (empty($relative_file)) return '';
+    
     $width = $size[0];
     $height = $size[1];
     $crop = false;
@@ -79,12 +94,15 @@ function tnp_media_resize($media_id, $size) {
         $r = wp_mkdir_p(WP_CONTENT_DIR . '/newsletter/thumbnails/' . $pathinfo['dirname']);
         
         if (!$r) {
-           return $uploads['baseurl'] . '/' . $relative_file; 
+            $src = wp_get_attachment_image_src($media_id, $size);
+            return $src[0];
         }
         
         $editor = wp_get_image_editor($absolute_file);
         if (is_wp_error($editor)) {
-            return $editor;
+            $src = wp_get_attachment_image_src($media_id, $size);
+            return $src[0];
+            //return $editor;
             //return $uploads['baseurl'] . '/' . $relative_file;
         }
 
@@ -92,12 +110,15 @@ function tnp_media_resize($media_id, $size) {
         $resized = $editor->resize($width, $height, $crop);
 
         if (is_wp_error($resized)) {
-            return $uploads['baseurl'] . '/' . $relative_file;
+            $src = wp_get_attachment_image_src($media_id, $size);
+            return $src[0];
         }
 
         $saved = $editor->save($absolute_thumb);
         if (is_wp_error($saved)) {
-            return $saved;
+            $src = wp_get_attachment_image_src($media_id, $size);
+            return $src[0];
+            //return $saved;
             //return $uploads['baseurl'] . '/' . $relative_file;
         }
     }

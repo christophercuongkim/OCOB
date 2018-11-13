@@ -13,17 +13,7 @@ wp_enqueue_style('tnpc-style', plugins_url('/tnp-composer/_css/newsletter-builde
 //wp_enqueue_style('tnpc-newsletter-style', plugins_url('/tnp-composer/css/newsletter.css', __FILE__));
 wp_enqueue_style('tnpc-newsletter-style', home_url('/') . '?na=emails-composer-css');
 
-wp_enqueue_style('tnpc-cm-style1', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/codemirror.css');
-wp_enqueue_style('tnpc-cm-style2', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/show-hint.css');
-
-wp_enqueue_script('tnpc-cm-1', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/codemirror.js');
-wp_enqueue_script('tnpc-cm-2', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/mode/xml/xml.js');
-wp_enqueue_script('tnpc-cm-3', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/mode/css/css.js');
-wp_enqueue_script('tnpc-cm-4', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/mode/javascript/javascript.js');
-wp_enqueue_script('tnpc-cm-5', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/mode/htmlmixed/htmlmixed.js');
-wp_enqueue_script('tnpc-cm-6', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/show-hint.js');
-wp_enqueue_script('tnpc-cm-7', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/xml-hint.js');
-wp_enqueue_script('tnpc-cm-8', 'https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/html-hint.js');
+include NEWSLETTER_INCLUDES_DIR . '/codemirror.php';
 
 if (($controls->is_action('save') || $controls->is_action('preview')) && !isset($_GET['id'])) {
 

@@ -114,17 +114,14 @@ if (!empty($return_path)) {
 }
 
 ?>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/codemirror.css" type="text/css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/show-hint.css">
+
+<?php include NEWSLETTER_INCLUDES_DIR . '/codemirror.php'; ?>
 <style>
     .CodeMirror {
         border: 1px solid #ddd;
     }
 </style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/codemirror.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/mode/css/css.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/show-hint.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.37.0/addon/hint/css-hint.js"></script>
+
 <script>
     jQuery(function () {
         var editor = CodeMirror.fromTextArea(document.getElementById("options-css"), {

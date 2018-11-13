@@ -1,4 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/4.7.13/tinymce.min.js"></script>
+<script src="<?php echo plugins_url('newsletter') ?>/vendor/tinymce/tinymce.min.js"></script>
 <script type="text/javascript">
 
     // https://www.tinymce.com/docs/advanced/editor-control-identifiers/#toolbarcontrols

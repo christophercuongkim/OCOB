@@ -2,14 +2,14 @@
 Tags: newsletter,email,subscription,mass mail,list build,email marketing,direct mailing,automation,automated,mailing list
 Requires at least: 3.4.0
 Tested up to: 4.9.8
-Stable tag: 5.7.5
+Stable tag: 5.7.7
 Contributors: satollo,webagile,michael-travan
 
 Add a real newsletter system to your blog. For free. With unlimited newsletters and subscribers.
 
 == Description ==
 
-Newsletter is a **real newsletter system** for your WordPress blog: perfect for list building, you can easily create,
+Newsletter is a **real newsletter and email marketing system** for your WordPress blog: perfect for list building, you can easily create,
 send and track e-mails, headache-free. It just works out of box!
 
 = Find Us =
@@ -116,6 +116,14 @@ Thank you, The Newsletter Team
 3. The Reports extension
 
 == Changelog ==
+
+= 5.7.7 =
+
+* TinyMCE library fix
+
+= 5.7.6 =
+
+* Included third party's js libraries
 
 = 5.7.5 =
 

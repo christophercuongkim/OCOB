@@ -3,7 +3,7 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,600);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 @import url(css/dropdown.css);
-@import url(//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css);
+@import url(vendor/jquery-ui/jquery-ui.min.css);
 
 /* Bootstrap like */
 
